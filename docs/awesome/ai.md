@@ -1,5 +1,11 @@
 # AI
 
+## 汇总
+
+- [moge](https://moge.ai/zh) 实时收录全球最新AI工具
+- [](https://watcha.cn) AI 产品的大众点评
+- [魔搭社区](https://modelscope.cn/home)
+
 ## 通用
 
 - [gemini](https://gemini.google.com) 谷歌出品
@@ -41,4 +47,9 @@
 ### 其他
 
 - [openclaw](https://github.com/openclaw/openclaw) 你专属的个人 AI 助手
+- [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
+
+## 产品
+
+- [蚂蚁阿福](https://chat.antafu.com)
