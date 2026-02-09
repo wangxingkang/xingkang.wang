@@ -3,7 +3,7 @@
 ## 汇总
 
 - [moge](https://moge.ai/zh) 实时收录全球最新AI工具
-- [](https://watcha.cn) AI 产品的大众点评
+- [watcha](https://watcha.cn) AI 产品的大众点评
 - [魔搭社区](https://modelscope.cn/home)
 
 ## 通用
@@ -11,6 +11,7 @@
 - [gemini](https://gemini.google.com) 谷歌出品
 - [doubao](https://www.doubao.com) 字节出品
 - [qianwen](https://www.qianwen.com) 阿里出品
+- [kimi](https://www.kimi.com)
 
 ## 编程
 
