@@ -1,22 +1,47 @@
 {
   "name": "xingkang.wang",
+  "type": "module",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
+  "packageManager": "pnpm@10.28.1",
   "scripts": {
     "build": "rspress build",
     "dev": "rspress dev",
-    "preview": "rspress preview"
+    "preview": "rspress preview",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix",
+    "prepare": "simple-git-hooks",
+    "preinstall": "npx only-allow pnpm"
   },
   "dependencies": {
     "@rspress/core": "^2.0.1"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^7.3.0",
+    "@commitlint/cli": "^20.4.1",
+    "@commitlint/config-conventional": "^20.4.1",
+    "@commitlint/types": "^20.4.0",
+    "@eslint-react/eslint-plugin": "^2.12.2",
     "@types/node": "^22.8.1",
     "@types/react": "^19.2.10",
     "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.2",
+    "eslint-plugin-format": "^1.4.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.26",
+    "lint-staged": "^16.2.7",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "simple-git-hooks": "^2.13.1"
   },
-  "packageManager": "pnpm@10.28.1+sha512.7d7dbbca9e99447b7c3bf7a73286afaaf6be99251eb9498baefa7d406892f67b879adb3a1d7e687fc4ccc1a388c7175fbaae567a26ab44d1067b54fcb0d6a316"
+  "simple-git-hooks": {
+    "commit-msg": "npx --no -- commitlint --edit $1",
+    "pre-commit": "npx lint-staged",
+    "preserveUnused": [
+      "commit-msg"
+    ]
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
 }
