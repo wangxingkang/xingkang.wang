@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>React - My Site</title>
+<script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const isDark = !saved || saved === 'auto' ? preferDark : saved === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
+<link href="/xingkang.wang/static/css/styles.40f18e9c.css" rel="stylesheet">
+<script defer src="/xingkang.wang/static/js/styles.6f842ee2.js"></script>
+<script defer src="/xingkang.wang/static/js/lib-react.7637cfbb.js"></script>
+<script defer src="/xingkang.wang/static/js/lib-router.9691cb6d.js"></script>
+<script defer src="/xingkang.wang/static/js/482.d9480678.js"></script>
+<script defer src="/xingkang.wang/static/js/index.0311e6f8.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Rspress v2.0.2">
+<link rel="icon" href="/xingkang.wang/rspress-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="React - My Site"></head>
+
+  <body>
+    <div id="__rspress_root"><link rel="preload" as="image" href="/xingkang.wang/rspress-light-logo.png"/><link rel="preload" as="image" href="/xingkang.wang/rspress-dark-logo.png"/><header class="rp-nav"><div class="rp-nav__left"><div class="rp-nav__title"><a href="/xingkang.wang/" class="rp-nav__title__link rp-link"><div class="rp-nav__title__logo"><img src="/xingkang.wang/rspress-light-logo.png" alt="logo" id="logo" class="rspress-logo rp-nav__title__logo-image rp-nav__title__logo-image--light"/><img src="/xingkang.wang/rspress-dark-logo.png" alt="logo" id="logo" class="rspress-logo rp-nav__title__logo-image rp-nav__title__logo-image--dark"/></div></a></div></div><div class="rp-nav__right"><button class="rp-search-button"><div class="rp-search-button__content"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21" class="rp-search-button__icon"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg><span class="rp-search-button__word">Search</span></div><div class="rp-search-button__hotkey" style="opacity:0"><span></span><span>K</span></div></button><div class="rp-search-button--mobile"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg></div><ul class="rp-nav-menu rp-nav-menu--right"><li class="rp-nav-menu__item"><a href="/xingkang.wang/guide/" class="rp-nav-menu__item__container rp-link">Guide</a></li><li class="rp-nav-menu__item rp-nav-menu__item--active"><a href="/xingkang.wang/awesome/react" class="rp-nav-menu__item__container rp-link">精选资源</a></li><li class="rp-nav-menu__item"><a href="https://rspress.rs/api/index.html" target="_blank" rel="noopener noreferrer" class="rp-nav-menu__item__container rp-link">API</a></li></ul><div class="rp-nav__others"><div class="rp-nav-menu__divider"></div><div class="rp-switch-appearance"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" class="rp-switch-appearance__icon rp-switch-appearance__icon--sun"><path fill="currentColor" d="m7.001 15.848-1.226 1.226a.58.58 0 0 0 0 .818.58.58 0 0 0 .818 0l1.226-1.226a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0m-.352-8.735a.584.584 0 0 0 .825-.825L6.237 5.051a.584.584 0 0 0-.825.825zM5.011 11.07h-1.75a.584.584 0 0 0 0 1.167h1.75c.324 0 .584-.26.584-.583a.585.585 0 0 0-.584-.584m7.003-5.835c.324 0 .584-.26.584-.584V2.9a.58.58 0 0 0-.584-.584.58.58 0 0 0-.583.583V4.65c0 .323.262.584.583.584m5.616 1.621 1.226-1.225a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0l-1.226 1.225a.58.58 0 0 0 0 .818.576.576 0 0 0 .818 0m3.138 4.214h-1.75a.58.58 0 0 0-.584.584c0 .324.26.584.583.584h1.751a.584.584 0 1 0 0-1.167m-3.389 5.124a.584.584 0 0 0-.825.825l1.238 1.238a.584.584 0 0 0 .825-.826zm-5.365-9.795a5.256 5.256 0 0 0-5.257 5.258 5.256 5.256 0 0 0 5.257 5.257 5.256 5.256 0 0 0 5.257-5.257 5.256 5.256 0 0 0-5.257-5.258m0 11.675a.58.58 0 0 0-.583.583v1.751a.582.582 0 1 0 1.167 0v-1.75a.584.584 0 0 0-.584-.584"></path></svg><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" viewBox="0 0 19 19" class="rp-switch-appearance__icon rp-switch-appearance__icon--moon"><path fill="currentColor" d="M9.166 0a9.2 9.2 0 0 1 1.857.188.834.834 0 0 1 .042 1.623 4.47 4.47 0 1 0 5.457 5.457l.048-.135a.834.834 0 0 1 1.575.177q.186.902.188 1.856A9.168 9.168 0 1 1 9.166 0"></path></svg></div><div class="rp-social-links"><a href="https://github.com/web-infra-dev/rspress" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__sm"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg></button><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__md"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"><div class="rp-nav-menu__others-mobile__container"><div class="rp-nav-hamburger__md__hover-group"><div class="rp-nav-screen-appearance"><div class="rp-nav-screen-appearance__left">Theme</div><div class="rp-nav-screen-appearance__right"></div></div><div class="rp-nav-screen-divider"></div><div class="rp-social-links"><a href="https://github.com/web-infra-dev/rspress" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div></div></ul></button></div></header><div class="rp-doc-layout__menu"><div class="rp-sidebar-menu"><button type="button" class="rp-sidebar-menu__left"><svg width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M4 6h24v2H4zm0 18h24v2H4zm0-12h24v2H4zm0 6h24v2H4z"></path></svg><span>Menu</span></button><button type="button" class="rp-sidebar-menu__right"><span>ON THIS PAGE</span><svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg><svg width="1em" height="1em" viewBox="0 0 32 32" style="transform:rotate(0deg);transition:transform 0.2s ease-out"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg></button></div></div><div class="rp-doc-layout__container"><aside class="rp-doc-layout__sidebar rp-scrollbar"><a href="/xingkang.wang/awesome/react" class="rp-sidebar-item rp-sidebar-item--active rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span>React</span></div><div class="rp-sidebar-item__right"></div></a></aside><div class="rp-doc-layout__doc"><main class="rp-doc-layout__doc-container"><div class="rp-doc rspress-doc"><!--$--><h1 class="rp-toc-include" id="react"><a href="#react" class="rp-header-anchor rp-link" aria-hidden="true">#</a>React<!-- --> </h1>
+<h2 class="rp-toc-include" id="官方资源"><a href="#官方资源" class="rp-header-anchor rp-link" aria-hidden="true">#</a>官方资源</h2>
+<ul>
+<li><a href="https://zh-hans.react.dev" target="_blank" rel="noopener noreferrer" class="rp-link">官网</a></li>
+<li><a href="https://github.com/facebook/react" target="_blank" rel="noopener noreferrer" class="rp-link">react</a> react 仓库</li>
+</ul>
+<h2 class="rp-toc-include" id="路由"><a href="#路由" class="rp-header-anchor rp-link" aria-hidden="true">#</a>路由</h2>
+<ul>
+<li><a href="https://tanstack.com/router/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-router</a> 🤖 客户端优先、支持服务端的完全类型安全路由</li>
+<li><a href="https://github.com/remix-run/react-router" target="_blank" rel="noopener noreferrer" class="rp-link">react-router</a> React 声明式路由</li>
+</ul>
+<h2 class="rp-toc-include" id="多语言"><a href="#多语言" class="rp-header-anchor rp-link" aria-hidden="true">#</a>多语言</h2>
+<ul>
+<li><a href="https://github.com/lingui/js-lingui" target="_blank" rel="noopener noreferrer" class="rp-link">js-lingui</a> 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案</li>
+<li><a href="https://github.com/i18next/react-i18next" target="_blank" rel="noopener noreferrer" class="rp-link">react-i18next</a> 为 React 精心打造的国际化方案，基于 i18next 国际化生态构建</li>
+<li><a href="https://github.com/formatjs/formatjs" target="_blank" rel="noopener noreferrer" class="rp-link">react-intl</a></li>
+</ul>
+<h2 class="rp-toc-include" id="框架"><a href="#框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>框架</h2>
+<ul>
+<li><a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" class="rp-link">nextjs</a> 面向 Web 的 React 框架</li>
+<li><a href="https://umijs.org" target="_blank" rel="noopener noreferrer" class="rp-link">umi</a> 企业级前端开发框架 - 蚂蚁金服出品</li>
+<li><a href="https://modernjs.dev/zh/index.html" target="_blank" rel="noopener noreferrer" class="rp-link">modernjs</a> 一款基于 React 和 Rsbuild 的渐进式 Web 框架 - 字节出品</li>
+</ul>
+<h2 class="rp-toc-include" id="状态管理"><a href="#状态管理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>状态管理</h2>
+<ul>
+<li><a href="https://github.com/pmndrs/zustand" target="_blank" rel="noopener noreferrer" class="rp-link">zustand</a> 🐻 React 状态管理的核心基础套件</li>
+<li><a href="https://github.com/pmndrs/jotai" target="_blank" rel="noopener noreferrer" class="rp-link">jotai</a> 👻 轻量简洁、灵活易用的 React 状态管理</li>
+<li><a href="https://github.com/pmndrs/valtio" target="_blank" rel="noopener noreferrer" class="rp-link">valtio</a> 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用</li>
+</ul>
+<h2 class="rp-toc-include" id="动画"><a href="#动画" class="rp-header-anchor rp-link" aria-hidden="true">#</a>动画</h2>
+<ul>
+<li><a href="https://github.com/motiondivision/motion" target="_blank" rel="noopener noreferrer" class="rp-link">motion</a> 一款适用于 React 与 JavaScript 的现代动画库</li>
+<li><a href="https://github.com/pmndrs/react-spring" target="_blank" rel="noopener noreferrer" class="rp-link">react-spring</a> ✌️ 一款基于弹簧物理模型的 React 动画库</li>
+<li><a href="https://github.com/airbnb/lottie-web" target="_blank" rel="noopener noreferrer" class="rp-link">lottie-web</a> 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台</li>
+</ul>
+<h2 class="rp-toc-include" id="hooks"><a href="#hooks" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Hooks</h2>
+<ul>
+<li><a href="https://ahooks.js.org/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">ahooks</a> 一套高质量可靠的 React Hooks 库</li>
+<li><a href="https://github.com/xnimorz/use-debounce" target="_blank" rel="noopener noreferrer" class="rp-link">use-debounce</a> 防抖</li>
+<li><a href="https://github.com/JohannesKlauss/react-hotkeys-hook" target="_blank" rel="noopener noreferrer" class="rp-link">react-hotkeys-hook</a> 键盘快捷键</li>
+<li><a href="https://github.com/ZeeCoder/use-resize-observer" target="_blank" rel="noopener noreferrer" class="rp-link">use-resize-observer</a> 用于测量元素尺寸、基于 ResizeObserver 的 React Hook</li>
+</ul>
+<h2 class="rp-toc-include" id="组件库"><a href="#组件库" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件库</h2>
+<ul>
+<li><a href="https://github.com/DavidHDev/react-bits" target="_blank" rel="noopener noreferrer" class="rp-link">react-bits</a> 一款开源的 React 组件合集</li>
+<li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 一套企业级 UI 设计语言和 React 组件库</li>
+<li><a href="https://x.ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">@ant-design/x</a> AI 界面解决方案</li>
+<li><a href="https://semi.design/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">semi</a> 字节出品</li>
+<li><a href="https://github.com/shadcn-ui/ui" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-ui</a> 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放</li>
+<li><a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noopener noreferrer" class="rp-link">material-ui</a> 套全面落地谷歌 Material Design 设计规范的 React 组件库</li>
+<li><a href="https://github.com/mantinedev/mantine" target="_blank" rel="noopener noreferrer" class="rp-link">mantine</a> 功能完备的 React 组件库</li>
+<li><a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank" rel="noopener noreferrer" class="rp-link">react-bootstrap</a> 基于 React 构建的 Bootstrap 组件库</li>
+<li><a href="https://github.com/semantic-org/semantic-ui" target="_blank" rel="noopener noreferrer" class="rp-link">semantic-ui</a> 基于自然语言实用原理构建的 UI 组件框架</li>
+<li><a href="https://github.com/chakra-ui/chakra-ui" target="_blank" rel="noopener noreferrer" class="rp-link">chakra-ui</a> 一套可快速构建 SaaS 产品的组件体系</li>
+</ul>
+<h2 class="rp-toc-include" id="组件"><a href="#组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件</h2>
+<h3 class="rp-toc-include" id="ai-组件"><a href="#ai-组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>AI 组件</h3>
+<ul>
+<li><a href="https://github.com/vercel-labs/json-render" target="_blank" rel="noopener noreferrer" class="rp-link">@json-render/react</a> AI → JSON → UI</li>
+</ul>
+<h3 class="rp-toc-include" id="画板"><a href="#画板" class="rp-header-anchor rp-link" aria-hidden="true">#</a>画板</h3>
+<ul>
+<li><a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer" class="rp-link">tldraw</a> 非常优秀的白板无限画布 SDK</li>
+<li><a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreferrer" class="rp-link">excalidraw</a> 一款可手绘风格草图、类白板效果的虚拟白板工具</li>
+<li><a href="https://github.com/plait-board/drawnix" target="_blank" rel="noopener noreferrer" class="rp-link">drawnix</a> 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等</li>
+</ul>
+<h3 class="rp-toc-include" id="可视化"><a href="#可视化" class="rp-header-anchor rp-link" aria-hidden="true">#</a>可视化</h3>
+<ul>
+<li><a href="https://github.com/hustcc/echarts-for-react" target="_blank" rel="noopener noreferrer" class="rp-link">echarts-for-react</a> 一个简单的 Apache echarts 的 React 封装</li>
+<li><a href="https://github.com/recharts/recharts" target="_blank" rel="noopener noreferrer" class="rp-link">recharts</a> 使用 React 和 D3 重新定义图表库</li>
+<li><a href="https://github.com/xyflow/xyflow" target="_blank" rel="noopener noreferrer" class="rp-link">xyflow</a> 构建基于 Node 的用户界面</li>
+</ul>
+<h3 class="rp-toc-include" id="布局"><a href="#布局" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局</h3>
+<ul>
+<li><a href="https://github.com/bokuweb/react-rnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-rnd</a> 🖱 一款面向 React 的可调整大小且可拖拽组件</li>
+<li><a href="https://github.com/codecks-io/react-sticky-box" target="_blank" rel="noopener noreferrer" class="rp-link">react-sticky-box</a> 支持各类尺寸内容的粘性容器组件</li>
+<li><a href="https://github.com/bvaughn/react-resizable-panels" target="_blank" rel="noopener noreferrer" class="rp-link">react-resizable-panels</a> React 可调整大小面板组/布局组件</li>
+</ul>
+<h3 class="rp-toc-include" id="数据录入"><a href="#数据录入" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据录入</h3>
+<ul>
+<li><a href="https://github.com/ealush/emoji-picker-react" target="_blank" rel="noopener noreferrer" class="rp-link">emoji-picker-react</a> 最受欢迎的 React 表情选择器</li>
+<li><a href="https://github.com/gpbl/react-day-picker" target="_blank" rel="noopener noreferrer" class="rp-link">react-day-picker</a> 一款可定制的 React 日期选择器组件</li>
+<li><a href="https://github.com/react-dropzone/react-dropzone" target="_blank" rel="noopener noreferrer" class="rp-link">react-dropzone</a> 基于 React.js 实现的轻量 HTML5 拖放上传区域</li>
+<li><a href="https://github.com/ybrusentsov/react-international-phone" target="_blank" rel="noopener noreferrer" class="rp-link">react-international-phone</a> 国际电话输入组件</li>
+<li><a href="https://github.com/guilhermerodz/input-otp" target="_blank" rel="noopener noreferrer" class="rp-link">input-otp</a> 一个用于输入一次性密码(OTP)的 React 组件</li>
+</ul>
+<h3 class="rp-toc-include" id="数据展示"><a href="#数据展示" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据展示</h3>
+<ul>
+<li><a href="https://github.com/justin-chu/react-fast-marquee" target="_blank" rel="noopener noreferrer" class="rp-link">react-fast-marquee</a> 跑马灯</li>
+<li><a href="https://github.com/elrumordelaluz/reactour" target="_blank" rel="noopener noreferrer" class="rp-link">reactour</a> React 指引组件</li>
+<li><a href="https://github.com/brimdata/react-arborist" target="_blank" rel="noopener noreferrer" class="rp-link">react-arborist</a> 适用于 React 的一站式树形视图组件</li>
+<li><a href="https://github.com/react-syntax-highlighter/react-syntax-highlighter" target="_blank" rel="noopener noreferrer" class="rp-link">react-syntax-highlighter</a> 基于 PrismJS 或 HighlightJS 抽象语法树（AST）、使用内联样式实现的 React 语法高亮组件</li>
+<li><a href="https://github.com/s-yadav/react-number-format" target="_blank" rel="noopener noreferrer" class="rp-link">react-number-format</a> 数字格式化组件（支持输入框）</li>
+<li><a href="https://github.com/benhowell/react-grid-gallery" target="_blank" rel="noopener noreferrer" class="rp-link">react-grid-gallery</a> 自适应对齐图片画廊组件</li>
+<li><a href="https://github.com/davidjerleke/embla-carousel" target="_blank" rel="noopener noreferrer" class="rp-link">embla-carousel</a> 一款轻量型轮播图库，具备丝滑动效与精准滑动体验</li>
+</ul>
+<h3 class="rp-toc-include" id="反馈"><a href="#反馈" class="rp-header-anchor rp-link" aria-hidden="true">#</a>反馈</h3>
+<ul>
+<li><a href="https://github.com/timolins/react-hot-toast" target="_blank" rel="noopener noreferrer" class="rp-link">react-hot-toast</a> 超赞的 React 通知组件 🔥</li>
+<li><a href="https://github.com/emilkowalski/sonner" target="_blank" rel="noopener noreferrer" class="rp-link">sonner</a> 一个具有独特风格的 React 提示组件</li>
+</ul>
+<h3 class="rp-toc-include" id="文件相关"><a href="#文件相关" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文件相关</h3>
+<ul>
+<li><a href="https://github.com/wojtekmaj/react-pdf" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf</a> 在 React 应用中展示 PDF 文件，就像展示图片一样简单</li>
+<li><a href="https://github.com/remarkjs/react-markdown" target="_blank" rel="noopener noreferrer" class="rp-link">react-markdown</a> React Markdown 组件</li>
+<li><a href="https://github.com/mdx-editor/editor" target="_blank" rel="noopener noreferrer" class="rp-link">mdx-editor</a> 一个用于 Markdown 的富文本编辑器 React 组件</li>
+</ul>
+<h3 class="rp-toc-include" id="富文本"><a href="#富文本" class="rp-header-anchor rp-link" aria-hidden="true">#</a>富文本</h3>
+<ul>
+<li><a href="https://platejs.org" target="_blank" rel="noopener noreferrer" class="rp-link">platejs</a> 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器</li>
+<li><a href="https://github.com/facebook/lexical" target="_blank" rel="noopener noreferrer" class="rp-link">lexical</a> 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现</li>
+<li><a href="https://github.com/VaguelySerious/react-quill" target="_blank" rel="noopener noreferrer" class="rp-link">react-quill</a> 一款适用于 React 的 Quill 组件</li>
+</ul>
+<h3 class="rp-toc-include" id="拖拽"><a href="#拖拽" class="rp-header-anchor rp-link" aria-hidden="true">#</a>拖拽</h3>
+<ul>
+<li><a href="https://github.com/react-grid-layout/react-draggable" target="_blank" rel="noopener noreferrer" class="rp-link">react-draggable</a> React 可拖拽组件</li>
+<li><a href="https://github.com/clauderic/dnd-kit" target="_blank" rel="noopener noreferrer" class="rp-link">dnd-kit</a> 专为 React 打造的现代化、轻量级、高性能、无障碍且可扩展的拖放工具包</li>
+</ul>
+<h3 class="rp-toc-include" id="图标"><a href="#图标" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图标</h3>
+<ul>
+<li><a href="https://lucide.dev/guide/packages/lucide-react" target="_blank" rel="noopener noreferrer" class="rp-link">lucide-react</a></li>
+</ul>
+<h3 class="rp-toc-include" id="其他"><a href="#其他" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h3>
+<ul>
+<li><a href="https://github.com/dip/cmdk" target="_blank" rel="noopener noreferrer" class="rp-link">cmdk</a> 高性能、无预设样式的 React 命令菜单组件</li>
+<li><a href="https://github.com/pmndrs/use-gesture" target="_blank" rel="noopener noreferrer" class="rp-link">@use-gesture/react</a> 鼠标/触摸手势的基本实用工具</li>
+<li><a href="https://github.com/ryanseddon/react-frame-component" target="_blank" rel="noopener noreferrer" class="rp-link">react-frame-component</a> 将你的 React 应用渲染到 iframe 中</li>
+<li><a href="https://github.com/yocontra/react-responsive" target="_blank" rel="noopener noreferrer" class="rp-link">react-responsive</a> React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景</li>
+<li><a href="https://github.com/TanStack/virtual" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-virtual</a> 虚拟列表</li>
+<li><a href="https://github.com/MomenSherif/react-oauth" target="_blank" rel="noopener noreferrer" class="rp-link">react-oauth</a> 谷歌登录</li>
+<li><a href="https://github.com/nkbt/react-copy-to-clipboard" target="_blank" rel="noopener noreferrer" class="rp-link">react-copy-to-clipboard</a> 拷贝</li>
+<li><a href="https://github.com/bvaughn/react-error-boundary" target="_blank" rel="noopener noreferrer" class="rp-link">react-error-boundary</a> 简洁可复用的 React 错误边界组件</li>
+<li><a href="https://github.com/focus-trap/focus-trap-react" target="_blank" rel="noopener noreferrer" class="rp-link">focus-trap-react</a> 一个用于捕获焦点的 React 组件</li>
+<li><a href="https://github.com/uiwjs/react-codemirror" target="_blank" rel="noopener noreferrer" class="rp-link">react-codemirror</a> 适用于 React 的 CodeMirror 6 组件
+<ul>
+<li><a href="https://github.com/uiwjs/react-codemirror/tree/master/merge" target="_blank" rel="noopener noreferrer" class="rp-link">react-codemirror-merge</a> 适用于 React 的 CodeMirror 合并视图组件</li>
+</ul>
+</li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form" target="_blank" rel="noopener noreferrer" class="rp-link">react-jsonschema-form</a>
+<ul>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/core</a> 核心包</li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/antd</a> <a href="https://ant-design.antgroup.com/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/daisyui" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/daisyui</a> <a href="https://daisyui.com" target="_blank" rel="noopener noreferrer" class="rp-link">daisyui</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/chakra-ui" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/chakra-ui</a> <a href="https://www.chakra-ui.com" target="_blank" rel="noopener noreferrer" class="rp-link">chakra-ui</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/mantine" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/mantine</a> <a href="https://mantine.dev" target="_blank" rel="noopener noreferrer" class="rp-link">mantine</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/mui" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/mui</a> <a href="https://mui.com" target="_blank" rel="noopener noreferrer" class="rp-link">mui</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/react-bootstrap" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/react-bootstrap</a> <a href="https://react-bootstrap.github.io" target="_blank" rel="noopener noreferrer" class="rp-link">react-bootstrap</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/semantic-ui" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/semantic-ui</a> <a href="https://semantic-ui.com" target="_blank" rel="noopener noreferrer" class="rp-link">semantic-ui</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/shadcn" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/shadcn</a> <a href="https://ui.shadcn.com" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn</a></li>
+<li><a href="https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/fluentui-rc" target="_blank" rel="noopener noreferrer" class="rp-link">@rjsf/fluentui-rc</a> <a href="https://developer.microsoft.com/en-us/fluentui#/" target="_blank" rel="noopener noreferrer" class="rp-link">fluentui</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="rp-toc-include" id="开发模版"><a href="#开发模版" class="rp-header-anchor rp-link" aria-hidden="true">#</a>开发模版</h2>
+<ul>
+<li><a href="https://github.com/d3george/slash-admin" target="_blank" rel="noopener noreferrer" class="rp-link">slash-admin</a> 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！</li>
+<li><a href="https://github.com/sankeyangshu/lemon-mobile-react" target="_blank" rel="noopener noreferrer" class="rp-link">lemon-mobile-react</a> 一个基于 React 生态系统的移动 web 应用模板</li>
+</ul>
+<h2 class="rp-toc-include" id="其他-1"><a href="#其他-1" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h2>
+<ul>
+<li><a href="https://github.com/wzhudev/redi" target="_blank" rel="noopener noreferrer" class="rp-link">redi</a> 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能</li>
+<li><a href="https://github.com/jnsahaj/tweakcn" target="_blank" rel="noopener noreferrer" class="rp-link">tweakcn</a> 面向 shadcn/ui 组件的视觉化无代码主题编辑器</li>
+</ul><!--/$--></div><footer class="rp-doc-footer"><div class="rp-doc-footer__edit"></div><div class="rp-doc-footer__divider"></div><div class="rp-prev-next-page"><div class="rp-prev-next-page__placeholder"></div><div class="rp-prev-next-page__placeholder"></div></div></footer></main></div><aside class="rp-doc-layout__outline rp-scrollbar"><div class="rp-outline"><div class="rp-outline__title">ON THIS PAGE<svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg></div><nav class="rp-outline__toc rp-scrollbar"><a href="#官方资源" class="rp-toc-item rp-link" title="官方资源" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">官方资源</span></a><a href="#路由" class="rp-toc-item rp-link" title="路由" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">路由</span></a><a href="#多语言" class="rp-toc-item rp-link" title="多语言" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">多语言</span></a><a href="#框架" class="rp-toc-item rp-link" title="框架" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">框架</span></a><a href="#状态管理" class="rp-toc-item rp-link" title="状态管理" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">状态管理</span></a><a href="#动画" class="rp-toc-item rp-link" title="动画" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">动画</span></a><a href="#hooks" class="rp-toc-item rp-link" title="Hooks" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">Hooks</span></a><a href="#组件库" class="rp-toc-item rp-link" title="组件库" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件库</span></a><a href="#组件" class="rp-toc-item rp-link" title="组件" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件</span></a><a href="#ai-组件" class="rp-toc-item rp-link" title="AI 组件" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">AI 组件</span></a><a href="#画板" class="rp-toc-item rp-link" title="画板" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">画板</span></a><a href="#可视化" class="rp-toc-item rp-link" title="可视化" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">可视化</span></a><a href="#布局" class="rp-toc-item rp-link" title="布局" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">布局</span></a><a href="#数据录入" class="rp-toc-item rp-link" title="数据录入" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据录入</span></a><a href="#数据展示" class="rp-toc-item rp-link" title="数据展示" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据展示</span></a><a href="#反馈" class="rp-toc-item rp-link" title="反馈" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">反馈</span></a><a href="#文件相关" class="rp-toc-item rp-link" title="文件相关" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文件相关</span></a><a href="#富文本" class="rp-toc-item rp-link" title="富文本" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">富文本</span></a><a href="#拖拽" class="rp-toc-item rp-link" title="拖拽" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">拖拽</span></a><a href="#图标" class="rp-toc-item rp-link" title="图标" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">图标</span></a><a href="#其他" class="rp-toc-item rp-link" title="其他" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">其他</span></a><a href="#开发模版" class="rp-toc-item rp-link" title="开发模版" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">开发模版</span></a><a href="#其他-1" class="rp-toc-item rp-link" title="其他" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">其他</span></a></nav><div class="rp-outline__divider"></div><div class="rp-outline__bottom"><button class="rp-outline__scroll-to-top"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.99967 14.6667C11.6816 14.6667 14.6663 11.6819 14.6663 8.00001C14.6663 4.31811 11.6816 1.33334 7.99967 1.33334C4.31777 1.33334 1.33301 4.31811 1.33301 8.00001C1.33301 11.6819 4.31777 14.6667 7.99967 14.6667Z" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333"></path><path d="M7.99967 14.6667C11.6816 14.6667 14.6663 11.6819 14.6663 8.00001C14.6663 4.31811 11.6816 1.33334 7.99967 1.33334C4.31777 1.33334 1.33301 4.31811 1.33301 8.00001C1.33301 11.6819 4.31777 14.6667 7.99967 14.6667Z" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333" stroke-linejoin="round"></path><path d="M11 9L8 6L5 9" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg><span>Back to top</span></button></div></div></aside></div></div>
+    <div id="__rspress_modal_container"></div>
+  </body>
+</html>
