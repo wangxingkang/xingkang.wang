@@ -60,6 +60,12 @@
 
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 
+### 画板
+
+- [tldraw](https://github.com/tldraw/tldraw) 非常优秀的白板无限画布 SDK
+- [excalidraw](https://github.com/excalidraw/excalidraw) 一款可手绘风格草图、类白板效果的虚拟白板工具
+- [drawnix](https://github.com/plait-board/drawnix) 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等
+
 ### 可视化
 
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
