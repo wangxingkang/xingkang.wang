@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JavaScript - My Site</title>
+<script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const isDark = !saved || saved === 'auto' ? preferDark : saved === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
+<link href="/static/css/styles.40f18e9c.css" rel="stylesheet">
+<script defer src="/static/js/styles.6f842ee2.js"></script>
+<script defer src="/static/js/lib-react.7637cfbb.js"></script>
+<script defer src="/static/js/lib-router.9691cb6d.js"></script>
+<script defer src="/static/js/482.d9480678.js"></script>
+<script defer src="/static/js/index.a5ca01e0.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Rspress v2.0.2">
+<link rel="icon" href="/rspress-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="JavaScript - My Site"></head>
+
+  <body>
+    <div id="__rspress_root"><link rel="preload" as="image" href="/rspress-light-logo.png"/><link rel="preload" as="image" href="/rspress-dark-logo.png"/><header class="rp-nav"><div class="rp-nav__left"><div class="rp-nav__title"><a href="/" class="rp-nav__title__link rp-link"><div class="rp-nav__title__logo"><img src="/rspress-light-logo.png" alt="logo" id="logo" class="rspress-logo rp-nav__title__logo-image rp-nav__title__logo-image--light"/><img src="/rspress-dark-logo.png" alt="logo" id="logo" class="rspress-logo rp-nav__title__logo-image rp-nav__title__logo-image--dark"/></div></a></div></div><div class="rp-nav__right"><button class="rp-search-button"><div class="rp-search-button__content"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21" class="rp-search-button__icon"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg><span class="rp-search-button__word">Search</span></div><div class="rp-search-button__hotkey" style="opacity:0"><span></span><span>K</span></div></button><div class="rp-search-button--mobile"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg></div><ul class="rp-nav-menu rp-nav-menu--right"><li class="rp-nav-menu__item"><a href="/guide/" class="rp-nav-menu__item__container rp-link">Guide</a></li><li class="rp-nav-menu__item rp-nav-menu__item--active"><a href="/awesome/react" class="rp-nav-menu__item__container rp-link">精选资源</a></li><li class="rp-nav-menu__item"><a href="https://rspress.rs/api/index.html" target="_blank" rel="noopener noreferrer" class="rp-nav-menu__item__container rp-link">API</a></li></ul><div class="rp-nav__others"><div class="rp-nav-menu__divider"></div><div class="rp-switch-appearance"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" class="rp-switch-appearance__icon rp-switch-appearance__icon--sun"><path fill="currentColor" d="m7.001 15.848-1.226 1.226a.58.58 0 0 0 0 .818.58.58 0 0 0 .818 0l1.226-1.226a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0m-.352-8.735a.584.584 0 0 0 .825-.825L6.237 5.051a.584.584 0 0 0-.825.825zM5.011 11.07h-1.75a.584.584 0 0 0 0 1.167h1.75c.324 0 .584-.26.584-.583a.585.585 0 0 0-.584-.584m7.003-5.835c.324 0 .584-.26.584-.584V2.9a.58.58 0 0 0-.584-.584.58.58 0 0 0-.583.583V4.65c0 .323.262.584.583.584m5.616 1.621 1.226-1.225a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0l-1.226 1.225a.58.58 0 0 0 0 .818.576.576 0 0 0 .818 0m3.138 4.214h-1.75a.58.58 0 0 0-.584.584c0 .324.26.584.583.584h1.751a.584.584 0 1 0 0-1.167m-3.389 5.124a.584.584 0 0 0-.825.825l1.238 1.238a.584.584 0 0 0 .825-.826zm-5.365-9.795a5.256 5.256 0 0 0-5.257 5.258 5.256 5.256 0 0 0 5.257 5.257 5.256 5.256 0 0 0 5.257-5.257 5.256 5.256 0 0 0-5.257-5.258m0 11.675a.58.58 0 0 0-.583.583v1.751a.582.582 0 1 0 1.167 0v-1.75a.584.584 0 0 0-.584-.584"></path></svg><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" viewBox="0 0 19 19" class="rp-switch-appearance__icon rp-switch-appearance__icon--moon"><path fill="currentColor" d="M9.166 0a9.2 9.2 0 0 1 1.857.188.834.834 0 0 1 .042 1.623 4.47 4.47 0 1 0 5.457 5.457l.048-.135a.834.834 0 0 1 1.575.177q.186.902.188 1.856A9.168 9.168 0 1 1 9.166 0"></path></svg></div><div class="rp-social-links"><a href="https://github.com/web-infra-dev/rspress" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__sm"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg></button><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__md"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"><div class="rp-nav-menu__others-mobile__container"><div class="rp-nav-hamburger__md__hover-group"><div class="rp-nav-screen-appearance"><div class="rp-nav-screen-appearance__left">Theme</div><div class="rp-nav-screen-appearance__right"></div></div><div class="rp-nav-screen-divider"></div><div class="rp-social-links"><a href="https://github.com/web-infra-dev/rspress" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div></div></ul></button></div></header><div class="rp-doc-layout__menu"><div class="rp-sidebar-menu"><button type="button" class="rp-sidebar-menu__left"><svg width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M4 6h24v2H4zm0 18h24v2H4zm0-12h24v2H4zm0 6h24v2H4z"></path></svg><span>Menu</span></button><button type="button" class="rp-sidebar-menu__right"><span>ON THIS PAGE</span><svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg><svg width="1em" height="1em" viewBox="0 0 32 32" style="transform:rotate(0deg);transition:transform 0.2s ease-out"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg></button></div></div><div class="rp-doc-layout__container"><aside class="rp-doc-layout__sidebar rp-scrollbar"><a href="/awesome/react" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span>React</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/vue" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span>Vue</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/javascript" class="rp-sidebar-item rp-sidebar-item--active rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span>JavaScript</span></div><div class="rp-sidebar-item__right"></div></a></aside><div class="rp-doc-layout__doc"><main class="rp-doc-layout__doc-container"><div class="rp-doc rspress-doc"><!--$--><h1 class="rp-toc-include" id="javascript"><a href="#javascript" class="rp-header-anchor rp-link" aria-hidden="true">#</a>JavaScript<!-- --> </h1>
+<h2 class="rp-toc-include" id="动画"><a href="#动画" class="rp-header-anchor rp-link" aria-hidden="true">#</a>动画</h2>
+<ul>
+<li><a href="https://github.com/greensock/GSAP" target="_blank" rel="noopener noreferrer" class="rp-link">gsap</a> 面向现代 Web 的 JavaScript 动画库</li>
+<li><a href="https://github.com/juliangarnier/anime" target="_blank" rel="noopener noreferrer" class="rp-link">anime</a> JavaScript 动画引擎</li>
+<li><a href="https://github.com/rive-app/rive-wasm" target="_blank" rel="noopener noreferrer" class="rp-link">@rive-app/canvas</a> 适用于 <a href="https://rive.app" target="_blank" rel="noopener noreferrer" class="rp-link">Rive</a> 的 Wasm/JS 运行时环境</li>
+</ul>
+<h2 class="rp-toc-include" id="数据可视化"><a href="#数据可视化" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据可视化</h2>
+<ul>
+<li><a href="https://echarts.apache.org/zh/index.html" target="_blank" rel="noopener noreferrer" class="rp-link">echarts</a> 一个基于 JavaScript 的开源可视化图表库</li>
+<li><a href="https://visactor.io/vchart" target="_blank" rel="noopener noreferrer" class="rp-link">vchart</a> 字节团队出品的图表库</li>
+<li><a href="https://github.com/visjs/vis-timeline" target="_blank" rel="noopener noreferrer" class="rp-link">vis-timeline</a> 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置</li>
+<li><a href="https://g2.antv.antgroup.com/" target="_blank" rel="noopener noreferrer" class="rp-link">G2</a> 蚂蚁金服团队出品的图表库</li>
+<li><a href="https://github.com/fabricjs/fabric.js" target="_blank" rel="noopener noreferrer" class="rp-link">fabric</a> JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）</li>
+<li><a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener noreferrer" class="rp-link">cytoscape</a> 用于可视化与分析的图论（网络）库</li>
+<li><a href="https://github.com/mermaid-js/mermaid" target="_blank" rel="noopener noreferrer" class="rp-link">mermaid</a> 以类 Markdown 的文本方式生成流程图、时序图等各类图表</li>
+</ul>
+<h2 class="rp-toc-include" id="图标"><a href="#图标" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图标</h2>
+<ul>
+<li><a href="https://lucide.dev/guide/packages/lucide" target="_blank" rel="noopener noreferrer" class="rp-link">lucide</a></li>
+</ul>
+<h2 class="rp-toc-include" id="工具库"><a href="#工具库" class="rp-header-anchor rp-link" aria-hidden="true">#</a>工具库</h2>
+<h3 class="rp-toc-include" id="综合"><a href="#综合" class="rp-header-anchor rp-link" aria-hidden="true">#</a>综合</h3>
+<ul>
+<li><a href="https://es-toolkit.dev/zh_hans/" target="_blank" rel="noopener noreferrer" class="rp-link">es-toolkit</a> 最先进的JavaScript工具库</li>
+<li><a href="https://github.com/lodash/lodash" target="_blank" rel="noopener noreferrer" class="rp-link">lodash</a> 一致性、模块化、高性能的 JavaScript 实用工具库</li>
+</ul>
+<h3 class="rp-toc-include" id="网络请求"><a href="#网络请求" class="rp-header-anchor rp-link" aria-hidden="true">#</a>网络请求</h3>
+<ul>
+<li><a href="https://axios-http.com/zh/" target="_blank" rel="noopener noreferrer" class="rp-link">axios</a> 基于 promise 的网络请求库
+<ul>
+<li><a href="https://github.com/openapistack/openapi-client-axios" target="_blank" rel="noopener noreferrer" class="rp-link">openapi-client-axios</a> 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库</li>
+</ul>
+</li>
+</ul>
+<h3 class="rp-toc-include" id="发布订阅"><a href="#发布订阅" class="rp-header-anchor rp-link" aria-hidden="true">#</a>发布订阅</h3>
+<ul>
+<li><a href="https://github.com/developit/mitt" target="_blank" rel="noopener noreferrer" class="rp-link">mitt</a> 🥊 仅 200 字节的超轻量函数式事件发射器/发布-订阅(pubsub)工具</li>
+</ul>
+<h3 class="rp-toc-include" id="计算"><a href="#计算" class="rp-header-anchor rp-link" aria-hidden="true">#</a>计算</h3>
+<ul>
+<li><a href="https://github.com/josdejong/mathjs" target="_blank" rel="noopener noreferrer" class="rp-link">mathjs</a> 一款适用于 JavaScript 和 Node.js 的功能丰富的数学库</li>
+<li><a href="https://github.com/MikeMcl/bignumber.js" target="_blank" rel="noopener noreferrer" class="rp-link">bignumber</a> 一款用于任意精度十进制与非十进制算术运算的 JavaScript 库</li>
+<li><a href="https://github.com/MikeMcl/big.js" target="_blank" rel="noopener noreferrer" class="rp-link">big.js</a> 一款轻量、高速的用于任意精度十进制算术运算的 JavaScript 库</li>
+</ul>
+<h3 class="rp-toc-include" id="字符串"><a href="#字符串" class="rp-header-anchor rp-link" aria-hidden="true">#</a>字符串</h3>
+<ul>
+<li><a href="https://github.com/ai/nanoid" target="_blank" rel="noopener noreferrer" class="rp-link">nanoid</a> 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器</li>
+<li><a href="https://github.com/lukeed/clsx" target="_blank" rel="noopener noreferrer" class="rp-link">clsx</a> 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串</li>
+<li><a href="https://github.com/ljharb/qs" target="_blank" rel="noopener noreferrer" class="rp-link">qs</a> 一款支持嵌套功能的查询字符串解析器与序列化器</li>
+<li><a href="https://github.com/blakeembrey/change-case" target="_blank" rel="noopener noreferrer" class="rp-link">change-case</a> 实现字符串在小驼峰式、大驼峰式、首字母大写式、下划线式等命名格式间的转换</li>
+<li><a href="https://github.com/sindresorhus/normalize-url" target="_blank" rel="noopener noreferrer" class="rp-link">normalize-url</a> 规范化 URL</li>
+</ul>
+<h3 class="rp-toc-include" id="文件相关"><a href="#文件相关" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文件相关</h3>
+<ul>
+<li><a href="https://github.com/VolodymyrBaydalka/docxjs" target="_blank" rel="noopener noreferrer" class="rp-link">docxjs</a> Docx 渲染库</li>
+<li><a href="https://github.com/parallax/jsPDF" target="_blank" rel="noopener noreferrer" class="rp-link">jspdf</a> 面向所有人的客户端 JavaScript PDF 生成方案</li>
+<li><a href="https://github.com/eligrey/FileSaver.js" target="_blank" rel="noopener noreferrer" class="rp-link">file-saver</a> 一款 HTML5 saveAs() FileSaver 实现方案</li>
+<li><a href="https://github.com/Stuk/jszip" target="_blank" rel="noopener noreferrer" class="rp-link">jszip</a> 借助 JavaScript 创建、读取和编辑 ZIP 文件</li>
+<li><a href="https://github.com/imagemin/imagemin" target="_blank" rel="noopener noreferrer" class="rp-link">imagemin</a> 图像压缩</li>
+</ul>
+<h3 class="rp-toc-include" id="数据校验"><a href="#数据校验" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据校验</h3>
+<ul>
+<li><a href="https://github.com/colinhacks/zod" target="_blank" rel="noopener noreferrer" class="rp-link">zod</a> TypeScript 优先的模式校验工具：具备静态类型推导能力</li>
+</ul>
+<h3 class="rp-toc-include" id="数据生成"><a href="#数据生成" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据生成</h3>
+<ul>
+<li><a href="https://github.com/chancejs/chancejs" target="_blank" rel="noopener noreferrer" class="rp-link">chancejs</a> 适用于 JavaScript 的随机数据生成辅助库</li>
+</ul>
+<h3 class="rp-toc-include" id="dom"><a href="#dom" class="rp-header-anchor rp-link" aria-hidden="true">#</a>DOM</h3>
+<ul>
+<li><a href="https://github.com/focus-trap/focus-trap" target="_blank" rel="noopener noreferrer" class="rp-link">focus-trap</a> 将焦点锁定在 DOM 节点内</li>
+<li><a href="https://github.com/focus-trap/tabbable" target="_blank" rel="noopener noreferrer" class="rp-link">tabbable</a> 查找 DOM 节点中属于 Tab 导航序列的后代节点</li>
+<li><a href="https://github.com/mwilliamson/mammoth.js" target="_blank" rel="noopener noreferrer" class="rp-link">mammoth</a> 将 Word 文档（.docx 文件）转换为 HTML</li>
+</ul>
+<h3 class="rp-toc-include" id="时间处理"><a href="#时间处理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>时间处理</h3>
+<ul>
+<li><a href="https://day.js.org/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">dayjs</a></li>
+<li><a href="https://github.com/date-fns/date-fns" target="_blank" rel="noopener noreferrer" class="rp-link">date-fns</a></li>
+<li><a href="https://github.com/moment/luxon" target="_blank" rel="noopener noreferrer" class="rp-link">luxon</a></li>
+</ul>
+<h3 class="rp-toc-include" id="富文本"><a href="#富文本" class="rp-header-anchor rp-link" aria-hidden="true">#</a>富文本</h3>
+<ul>
+<li><a href="https://github.com/tinymce/tinymce" target="_blank" rel="noopener noreferrer" class="rp-link">tinymce</a></li>
+<li><a href="https://github.com/fastmail/Squire" target="_blank" rel="noopener noreferrer" class="rp-link">Squire</a></li>
+<li><a href="https://github.com/ianstormtaylor/slate" target="_blank" rel="noopener noreferrer" class="rp-link">slate</a> 一个完全可定制的富文本编辑器构建框架</li>
+<li><a href="https://github.com/slab/quill" target="_blank" rel="noopener noreferrer" class="rp-link">quill</a></li>
+<li><a href="https://github.com/opentiny/tiny-editor/" target="_blank" rel="noopener noreferrer" class="rp-link">tiny-editor</a></li>
+<li><a href="https://github.com/xdan/jodit" target="_blank" rel="noopener noreferrer" class="rp-link">jodit</a></li>
+<li><a href="https://github.com/wangeditor-next/wangEditor-next" target="_blank" rel="noopener noreferrer" class="rp-link">wangEditor-next</a></li>
+<li><a href="https://github.com/wangeditor-team/wangEditor" target="_blank" rel="noopener noreferrer" class="rp-link">wangEditor</a></li>
+<li><a href="https://prosemirror.net/" target="_blank" rel="noopener noreferrer" class="rp-link">prosemirror</a> ProseMirror 所见即所得含义编辑器</li>
+<li><a href="https://github.com/remarkjs/remark" target="_blank" rel="noopener noreferrer" class="rp-link">remark</a> 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
+<ul>
+<li><a href="https://github.com/remarkjs/remark-math" target="_blank" rel="noopener noreferrer" class="rp-link">remark-math</a></li>
+<li><a href="https://github.com/remarkjs/remark-math" target="_blank" rel="noopener noreferrer" class="rp-link">rehype-katex</a> 支持数学公式的 remark 与 rehype 插件</li>
+<li><a href="https://github.com/remarkjs/remark-breaks" target="_blank" rel="noopener noreferrer" class="rp-link">remark-breaks</a> 无需空格即可添加换行支持的插件</li>
+<li><a href="https://github.com/rehypejs/rehype-raw" target="_blank" rel="noopener noreferrer" class="rp-link">rehype-raw</a> 用于重新解析语法树的插件</li>
+<li><a href="https://github.com/remarkjs/remark-gfm" target="_blank" rel="noopener noreferrer" class="rp-link">remark-gfm</a> 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）</li>
+<li><a href="https://github.com/rehypejs/rehype-highlight" target="_blank" rel="noopener noreferrer" class="rp-link">rehype-highlight</a> 代码块高亮插件</li>
+</ul>
+</li>
+</ul>
+<h3 class="rp-toc-include" id="存储"><a href="#存储" class="rp-header-anchor rp-link" aria-hidden="true">#</a>存储</h3>
+<ul>
+<li><a href="https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie" target="_blank" rel="noopener noreferrer" class="rp-link">universal-cookie</a> JavaScript 通用 cookie</li>
+<li><a href="https://github.com/gruns/ImmortalDB" target="_blank" rel="noopener noreferrer" class="rp-link">ImmortalDB</a> 一款面向浏览器端的高性能高可靠键值存储库</li>
+<li><a href="https://github.com/jakearchibald/idb-keyval" target="_blank" rel="noopener noreferrer" class="rp-link">idb-keyval</a> 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建</li>
+<li><a href="https://github.com/localForage/localForage" target="_blank" rel="noopener noreferrer" class="rp-link">localForage</a> 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。</li>
+</ul>
+<h3 class="rp-toc-include" id="安全"><a href="#安全" class="rp-header-anchor rp-link" aria-hidden="true">#</a>安全</h3>
+<ul>
+<li><a href="https://github.com/cure53/DOMPurify" target="_blank" rel="noopener noreferrer" class="rp-link">dompurify</a> 一款纯基于 DOM 实现、极致轻速、超高容错性的 XSS 安全净化工具</li>
+<li><a href="https://github.com/brix/crypto-js" target="_blank" rel="noopener noreferrer" class="rp-link">crypto-js</a> 加解密</li>
+</ul>
+<h3 class="rp-toc-include" id="html-to-image"><a href="#html-to-image" class="rp-header-anchor rp-link" aria-hidden="true">#</a>html to image</h3>
+<ul>
+<li><a href="https://github.com/zumerlab/snapdom" target="_blank" rel="noopener noreferrer" class="rp-link">@zumer/snapdom</a> DOM 捕获引擎 —— 快速精准的 HTML 转换工具</li>
+<li><a href="https://github.com/bubkoo/html-to-image" target="_blank" rel="noopener noreferrer" class="rp-link">html-to-image</a> ✂️ 借助 HTML5 Canvas 与 SVG 技术，从 DOM 节点生成图片文件</li>
+<li><a href="https://github.com/qq15725/modern-screenshot" target="_blank" rel="noopener noreferrer" class="rp-link">modern-screenshot</a> 使用 HTML5 canvas 和 SVG 从 DOM 节点快速生成图像</li>
+<li><a href="https://github.com/niklasvh/html2canvas" target="_blank" rel="noopener noreferrer" class="rp-link">html2canvas</a> 基于 JavaScript 实现的截图工具</li>
+</ul>
+<h3 class="rp-toc-include" id="颜色"><a href="#颜色" class="rp-header-anchor rp-link" aria-hidden="true">#</a>颜色</h3>
+<ul>
+<li><a href="https://github.com/Evercoder/culori" target="_blank" rel="noopener noreferrer" class="rp-link">culori</a> 一款功能全面的 JavaScript 颜色处理工具库</li>
+</ul>
+<h3 class="rp-toc-include" id="其他"><a href="#其他" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h3>
+<ul>
+<li><a href="https://github.com/Aaronius/penpal" target="_blank" rel="noopener noreferrer" class="rp-link">penpal</a> Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。</li>
+<li><a href="https://github.com/fb55/entities" target="_blank" rel="noopener noreferrer" class="rp-link">entities</a> 轻松高效地编解码 HTML 和 XML 实体字符</li>
+<li><a href="https://github.com/wzhudev/redi" target="_blank" rel="noopener noreferrer" class="rp-link">redi</a> 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能</li>
+<li><a href="https://github.com/krisk/fuse" target="_blank" rel="noopener noreferrer" class="rp-link">fuse.js</a> 模糊搜索</li>
+<li><a href="https://github.com/squirrelchat/smol-toml" target="_blank" rel="noopener noreferrer" class="rp-link">smol-toml</a> 一款轻量、高速且符合 TOML 1.0.0 规范的解析器与序列化器</li>
+<li><a href="https://github.com/GoogleChrome/web-vitals" target="_blank" rel="noopener noreferrer" class="rp-link">web-vitals</a> 保障网站健康的核心指标</li>
+<li><a href="https://github.com/auto-plugin/autohue.js" target="_blank" rel="noopener noreferrer" class="rp-link">autohue.js</a> 一个自动提取图片主题色让图片和背景融为一体的工具</li>
+<li><a href="https://github.com/fingerprintjs/fingerprintjs" target="_blank" rel="noopener noreferrer" class="rp-link">fingerprintjs</a> 最先进的开源浏览器指纹库</li>
+<li><a href="https://github.com/PrismJS/prism" target="_blank" rel="noopener noreferrer" class="rp-link">prism</a> 语法高亮</li>
+<li><a href="https://github.com/wooorm/refractor" target="_blank" rel="noopener noreferrer" class="rp-link">refractor</a> 基于 Prism 打造的轻量、稳定、优雅的虚拟语法高亮工具</li>
+<li><a href="https://github.com/syntax-tree/hastscript" target="_blank" rel="noopener noreferrer" class="rp-link">hastscript</a> 用于创建 hast 语法树的实用工具</li>
+<li><a href="https://github.com/syntax-tree/hast-util-to-html" target="_blank" rel="noopener noreferrer" class="rp-link">hast-util-to-html</a> 一款将 hast 序列化为 HTML 的实用工具</li>
+<li><a href="https://github.com/syntax-tree/mdast-util-to-hast" target="_blank" rel="noopener noreferrer" class="rp-link">mdast-util-to-hast</a> 用于将 mdast 转换为 hast 的实用工具</li>
+<li><a href="https://github.com/syntax-tree/mdast-util-to-markdown" target="_blank" rel="noopener noreferrer" class="rp-link">mdast-util-to-markdown</a> 用于序列化 Markdown 文本的 mdast 实用工具</li>
+<li><a href="https://github.com/wooorm/property-information" target="_blank" rel="noopener noreferrer" class="rp-link">property-information</a> Web 平台各类属性与特性的参考说明</li>
+<li><a href="https://github.com/inikulin/parse5" target="_blank" rel="noopener noreferrer" class="rp-link">parse5</a> 适用于 Node.js 的 HTML 解析 / 序列化工具集，完全遵循 WHATWG HTML 实时标准（亦称 HTML5）规范</li>
+<li><a href="https://github.com/micromark/micromark" target="_blank" rel="noopener noreferrer" class="rp-link">micromark</a> 轻量、安全、高性能的通用 Markdown 解析器，兼容 CommonMark 标准（可选兼容 GFM、MDX 语法）</li>
+<li><a href="https://github.com/KaTeX/KaTeX" target="_blank" rel="noopener noreferrer" class="rp-link">KaTeX</a> 面向 Web 端的高性能数学公式排版工具</li>
+<li><a href="https://github.com/reactivex/rxjs" target="_blank" rel="noopener noreferrer" class="rp-link">rxjs</a> 一款面向 JavaScript 的响应式编程类库</li>
+<li><a href="https://github.com/paazmaya/shuji" target="_blank" rel="noopener noreferrer" class="rp-link">shuji</a> 从源映射文件逆向还原 JavaScript 与 CSS 源代码</li>
+<li><a href="https://github.com/hello-pangea/dnd" target="_blank" rel="noopener noreferrer" class="rp-link">@hello-pangea/dnd</a> 基于 React 打造的美观且无障碍的列表拖拽组件</li>
+<li><a href="https://github.com/remusao/tldts" target="_blank" rel="noopener noreferrer" class="rp-link">tldts</a> 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库</li>
+<li><a href="https://github.com/flightcontrolhq/superjson" target="_blank" rel="noopener noreferrer" class="rp-link">superjson</a> 将 JavaScript 表达式安全序列化为 JSON 超集格式，该格式支持日期（Date）、大整数（BigInt）等类型</li>
+<li><a href="https://github.com/shikijs/shiki" target="_blank" rel="noopener noreferrer" class="rp-link">shiki</a> 一款颜值出众且功能强大的语法高亮工具</li>
+<li><a href="https://github.com/isaacs/node-lru-cache" target="_blank" rel="noopener noreferrer" class="rp-link">lru-cache</a> 一款会自动删除最近最少使用项的高性能缓存工具</li>
+<li><a href="https://github.com/nextapps-de/flexsearch" target="_blank" rel="noopener noreferrer" class="rp-link">flexsearch</a> 面向浏览器与 Node.js 的新一代全文检索工具库</li>
+<li><a href="https://github.com/zen-fs/dom" target="_blank" rel="noopener noreferrer" class="rp-link">@zenfs/dom</a> ZenFS 的 DOM 端适配层</li>
+<li><a href="https://github.com/vercel/ai" target="_blank" rel="noopener noreferrer" class="rp-link">ai</a> 面向 TypeScript 的 AI 开发工具集</li>
+<li><a href="https://github.com/trpc/trpc" target="_blank" rel="noopener noreferrer" class="rp-link">trpc</a> 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。</li>
+<li><a href="https://formilyjs.org/zh-CN" target="_blank" rel="noopener noreferrer" class="rp-link">formilyjs</a> 阿里巴巴统一前端表单解决方案</li>
+<li><a href="https://github.com/bombshell-dev/clack" target="_blank" rel="noopener noreferrer" class="rp-link">clack</a> 轻松打造高颜值命令行应用</li>
+</ul>
+<h2 class="rp-toc-include" id="组件"><a href="#组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件</h2>
+<h3 class="rp-toc-include" id="可视化"><a href="#可视化" class="rp-header-anchor rp-link" aria-hidden="true">#</a>可视化</h3>
+<ul>
+<li><a href="https://github.com/wanglin2/mind-map" target="_blank" rel="noopener noreferrer" class="rp-link">simple-mind-map</a> 一个强大的思维导图</li>
+</ul>
+<h3 class="rp-toc-include" id="数据录入"><a href="#数据录入" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据录入</h3>
+<ul>
+<li><a href="https://github.com/transloadit/uppy" target="_blank" rel="noopener noreferrer" class="rp-link">uppy</a> 面向网页浏览器的新一代开源文件上传组件 🐶</li>
+<li><a href="https://github.com/szimek/signature_pad" target="_blank" rel="noopener noreferrer" class="rp-link">signature_pad</a> 基于 HTML5 Canvas 实现的流畅签名绘制功能</li>
+<li><a href="https://github.com/SortableJS/Sortable" target="_blank" rel="noopener noreferrer" class="rp-link">Sortable</a> 适用于现代浏览器及触控设备的可重新排序拖拽列表组件</li>
+</ul>
+<h3 class="rp-toc-include" id="数据展示"><a href="#数据展示" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据展示</h3>
+<ul>
+<li><a href="https://github.com/nolimits4web/Swiper" target="_blank" rel="noopener noreferrer" class="rp-link">Swiper</a> 搭载硬件加速过渡动效的新一代移动端触摸滑动组件</li>
+<li><a href="https://github.com/barvian/number-flow" target="_blank" rel="noopener noreferrer" class="rp-link">number-flow</a> 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。</li>
+<li><a href="https://github.com/sachinchoolur/lightGallery" target="_blank" rel="noopener noreferrer" class="rp-link">lightGallery</a> 一款可自定义、模块化、响应式的灯箱画廊插件</li>
+</ul>
+<h3 class="rp-toc-include" id="文件相关-1"><a href="#文件相关-1" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文件相关</h3>
+<ul>
+<li><a href="https://github.com/embedpdf/embed-pdf-viewer" target="_blank" rel="noopener noreferrer" class="rp-link">embed-pdf-viewer</a> 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器</li>
+<li><a href="http://github.com/mozilla/pdf.js" target="_blank" rel="noopener noreferrer" class="rp-link">pdf.js</a> PDF 查看器</li>
+</ul>
+<h3 class="rp-toc-include" id="音视频"><a href="#音视频" class="rp-header-anchor rp-link" aria-hidden="true">#</a>音视频</h3>
+<ul>
+<li><a href="https://github.com/goldfire/howler.js" target="_blank" rel="noopener noreferrer" class="rp-link">howler</a> 面向现代 Web 开发的 JavaScript 音频类库</li>
+<li><a href="https://github.com/bytedance/xgplayer" target="_blank" rel="noopener noreferrer" class="rp-link">xgplayer</a> 字节出品的播放器</li>
+<li><a href="https://github.com/sampotts/plyr" target="_blank" rel="noopener noreferrer" class="rp-link">plyr</a> 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器</li>
+<li><a href="https://github.com/Vanilagy/mediabunny" target="_blank" rel="noopener noreferrer" class="rp-link">mediabunny</a> 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件</li>
+<li><a href="https://github.com/WebAV-Tech/WebAV" target="_blank" rel="noopener noreferrer" class="rp-link">WebAV</a> 基于 WebCodecs 构建的网页视频编辑 SDK</li>
+</ul>
+<h3 class="rp-toc-include" id="拖拽"><a href="#拖拽" class="rp-header-anchor rp-link" aria-hidden="true">#</a>拖拽</h3>
+<ul>
+<li><a href="https://github.com/atlassian/pragmatic-drag-and-drop" target="_blank" rel="noopener noreferrer" class="rp-link">pragmatic-drag-and-drop</a> 适配任意技术栈的高速拖放功能</li>
+</ul>
+<h3 class="rp-toc-include" id="其他-1"><a href="#其他-1" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h3>
+<ul>
+<li><a href="https://github.com/xtermjs/xterm.js" target="_blank" rel="noopener noreferrer" class="rp-link">xterm.js</a> 一款面向网页端的终端工具</li>
+<li><a href="https://github.com/PostHog/posthog-js" target="_blank" rel="noopener noreferrer" class="rp-link">posthog-js</a> 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能</li>
+<li><a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank" rel="noopener noreferrer" class="rp-link">PhotoSwipe</a></li>
+<li><a href="https://github.com/stripe/stripe-js" target="_blank" rel="noopener noreferrer" class="rp-link">stripe-js</a></li>
+<li><a href="https://github.com/supabase/supabase-js" target="_blank" rel="noopener noreferrer" class="rp-link">supabase-js</a> 一款面向 Supabase 的同构 JavaScript 客户端</li>
+<li><a href="https://github.com/alvarotrigo/fullpage.js" target="_blank" rel="noopener noreferrer" class="rp-link">fullpage</a> 快速、便捷地创建全屏页面</li>
+</ul>
+<h2 class="rp-toc-include" id="其他-2"><a href="#其他-2" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h2>
+<ul>
+<li><a href="https://github.com/juggle/resize-observer" target="_blank" rel="noopener noreferrer" class="rp-link">@juggle/resize-observer</a> 为 ResizeObserver API 提供兼容性补丁</li>
+<li><a href="https://github.com/Sjj1024/PakePlus" target="_blank" rel="noopener noreferrer" class="rp-link">PakePlus</a> 打包网页/Vue/React项目为桌面/手机应用</li>
+</ul><!--/$--></div><footer class="rp-doc-footer"><div class="rp-doc-footer__edit"></div><div class="rp-doc-footer__divider"></div><div class="rp-prev-next-page"><a href="/awesome/vue" class="rp-prev-next-page__item rp-prev-next-page__prev rp-link"><span class="rp-prev-next-page__item__desc">Previous page</span><span class="rp-prev-next-page__item__title"><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-prev-next-page__icon rp-prev-next-page__rotate_180"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg><span>Vue</span></span></a><div class="rp-prev-next-page__placeholder"></div></div></footer></main></div><aside class="rp-doc-layout__outline rp-scrollbar"><div class="rp-outline"><div class="rp-outline__title">ON THIS PAGE<svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg></div><nav class="rp-outline__toc rp-scrollbar"><a href="#动画" class="rp-toc-item rp-link" title="动画" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">动画</span></a><a href="#数据可视化" class="rp-toc-item rp-link" title="数据可视化" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据可视化</span></a><a href="#图标" class="rp-toc-item rp-link" title="图标" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">图标</span></a><a href="#工具库" class="rp-toc-item rp-link" title="工具库" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">工具库</span></a><a href="#综合" class="rp-toc-item rp-link" title="综合" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">综合</span></a><a href="#网络请求" class="rp-toc-item rp-link" title="网络请求" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">网络请求</span></a><a href="#发布订阅" class="rp-toc-item rp-link" title="发布订阅" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">发布订阅</span></a><a href="#计算" class="rp-toc-item rp-link" title="计算" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">计算</span></a><a href="#字符串" class="rp-toc-item rp-link" title="字符串" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">字符串</span></a><a href="#文件相关" class="rp-toc-item rp-link" title="文件相关" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文件相关</span></a><a href="#数据校验" class="rp-toc-item rp-link" title="数据校验" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据校验</span></a><a href="#数据生成" class="rp-toc-item rp-link" title="数据生成" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据生成</span></a><a href="#dom" class="rp-toc-item rp-link" title="DOM" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">DOM</span></a><a href="#时间处理" class="rp-toc-item rp-link" title="时间处理" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">时间处理</span></a><a href="#富文本" class="rp-toc-item rp-link" title="富文本" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">富文本</span></a><a href="#存储" class="rp-toc-item rp-link" title="存储" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">存储</span></a><a href="#安全" class="rp-toc-item rp-link" title="安全" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">安全</span></a><a href="#html-to-image" class="rp-toc-item rp-link" title="html to image" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">html to image</span></a><a href="#颜色" class="rp-toc-item rp-link" title="颜色" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">颜色</span></a><a href="#其他" class="rp-toc-item rp-link" title="其他" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">其他</span></a><a href="#组件" class="rp-toc-item rp-link" title="组件" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件</span></a><a href="#可视化" class="rp-toc-item rp-link" title="可视化" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">可视化</span></a><a href="#数据录入" class="rp-toc-item rp-link" title="数据录入" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据录入</span></a><a href="#数据展示" class="rp-toc-item rp-link" title="数据展示" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据展示</span></a><a href="#文件相关-1" class="rp-toc-item rp-link" title="文件相关" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文件相关</span></a><a href="#音视频" class="rp-toc-item rp-link" title="音视频" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">音视频</span></a><a href="#拖拽" class="rp-toc-item rp-link" title="拖拽" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">拖拽</span></a><a href="#其他-1" class="rp-toc-item rp-link" title="其他" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">其他</span></a><a href="#其他-2" class="rp-toc-item rp-link" title="其他" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">其他</span></a></nav><div class="rp-outline__divider"></div><div class="rp-outline__bottom"><button class="rp-outline__scroll-to-top"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.99967 14.6667C11.6816 14.6667 14.6663 11.6819 14.6663 8.00001C14.6663 4.31811 11.6816 1.33334 7.99967 1.33334C4.31777 1.33334 1.33301 4.31811 1.33301 8.00001C1.33301 11.6819 4.31777 14.6667 7.99967 14.6667Z" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333"></path><path d="M7.99967 14.6667C11.6816 14.6667 14.6663 11.6819 14.6663 8.00001C14.6663 4.31811 11.6816 1.33334 7.99967 1.33334C4.31777 1.33334 1.33301 4.31811 1.33301 8.00001C1.33301 11.6819 4.31777 14.6667 7.99967 14.6667Z" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333" stroke-linejoin="round"></path><path d="M11 9L8 6L5 9" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg><span>Back to top</span></button></div></div></aside></div></div>
+    <div id="__rspress_modal_container"></div>
+  </body>
+</html>
