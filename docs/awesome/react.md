@@ -5,6 +5,17 @@
 - [官网](https://zh-hans.react.dev)
 - [react](https://github.com/facebook/react) react 仓库
 
+## 路由
+
+- [@tanstack/react-router](https://tanstack.com/router/latest) 🤖 客户端优先、支持服务端的完全类型安全路由
+- [react-router](https://github.com/remix-run/react-router) React 声明式路由
+
+## 多语言
+
+- [js-lingui](https://github.com/lingui/js-lingui) 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案
+- [react-i18next](https://github.com/i18next/react-i18next) 为 React 精心打造的国际化方案，基于 i18next 国际化生态构建
+- [react-intl](https://github.com/formatjs/formatjs) 
+
 ## 框架
 
 - [nextjs](https://nextjs.org) 面向 Web 的 React 框架
@@ -60,6 +71,7 @@
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
+
 ### 数据录入
 
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
@@ -89,10 +101,20 @@
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
 - [mdx-editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
 
+### 富文本
+
+- [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
+- [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
+
 ### 拖拽
 
 - [react-draggable](https://github.com/react-grid-layout/react-draggable) React 可拖拽组件
 - [dnd-kit](https://github.com/clauderic/dnd-kit) 专为 React 打造的现代化、轻量级、高性能、无障碍且可扩展的拖放工具包
+
+### 图标
+
+- [lucide-react](https://lucide.dev/guide/packages/lucide-react)
 
 ### 其他
 
@@ -118,3 +140,13 @@
   - [@rjsf/semantic-ui](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/semantic-ui) [semantic-ui](https://semantic-ui.com)
   - [@rjsf/shadcn](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/shadcn) [shadcn](https://ui.shadcn.com)
   - [@rjsf/fluentui-rc](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/fluentui-rc) [fluentui](https://developer.microsoft.com/en-us/fluentui#/)
+
+## 开发模版
+
+- [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
+- [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
+
+## 其他
+
+- [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
+- [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
