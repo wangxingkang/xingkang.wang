@@ -78,6 +78,10 @@
 - [date-fns](https://github.com/date-fns/date-fns)
 - [luxon](https://github.com/moment/luxon)
 
+### Markdown
+
+- [cherry-markdown](https://github.com/Tencent/cherry-markdown) Markdown 编辑器
+
 ### 富文本
 
 - [tinymce](https://github.com/tinymce/tinymce)
@@ -197,7 +201,6 @@
 - [stripe-js](https://github.com/stripe/stripe-js)
 - [supabase-js](https://github.com/supabase/supabase-js) 一款面向 Supabase 的同构 JavaScript 客户端
 - [fullpage](https://github.com/alvarotrigo/fullpage.js) 快速、便捷地创建全屏页面
-
 
 ## 其他
 
