@@ -4,7 +4,7 @@ import { defineConfig } from '@rspress/core';
 export default defineConfig({
   base: '/',
   root: path.join(__dirname, 'docs'),
-  title: 'My Site',
+  title: '阿康的博客',
   icon: '/rspress-icon.png',
   logo: {
     light: '/rspress-light-logo.png',
@@ -18,7 +18,7 @@ export default defineConfig({
       {
         icon: 'github',
         mode: 'link',
-        content: 'https://github.com/web-infra-dev/rspress',
+        content: 'https://github.com/wangxingkang/xingkang.wang',
       },
     ],
   },
