@@ -14,7 +14,7 @@
 
 - [js-lingui](https://github.com/lingui/js-lingui) 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案
 - [react-i18next](https://github.com/i18next/react-i18next) 为 React 精心打造的国际化方案，基于 i18next 国际化生态构建
-- [react-intl](https://github.com/formatjs/formatjs) 
+- [react-intl](https://github.com/formatjs/formatjs)
 
 ## 框架
 
@@ -27,6 +27,7 @@
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
+- [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
 
 ## 动画
 
@@ -111,6 +112,7 @@
 
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
 - [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
 
 ### 拖拽

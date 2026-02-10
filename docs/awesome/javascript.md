@@ -84,6 +84,7 @@
 
 ### 富文本
 
+- [tiptap](https://github.com/ueberdosis/tiptap) 专为 Web 开发者打造的无渲染富文本编辑器框架
 - [tinymce](https://github.com/tinymce/tinymce)
 - [Squire](https://github.com/fastmail/Squire)
 - [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的富文本编辑器构建框架
