@@ -127,6 +127,7 @@
 
 ### 其他
 
+- [prism-code-editor](https://github.com/jonpyt/prism-code-editor) 一款基于 Prism 打造的轻量级、可扩展的 Web 端代码编辑器组件
 - [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
 - [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
 - [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
