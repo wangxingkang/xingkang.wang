@@ -23,11 +23,11 @@
 
 ## 开发模版
 
-[wot starter](https://starter.wot-ui.cn)
-[unibest](https://codercup.github.io/unibest-docs)
-[vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
-[uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
-[uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)
+- [wot starter](https://starter.wot-ui.cn)
+- [unibest](https://codercup.github.io/unibest-docs)
+- [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
+- [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
+- [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)
 
 ## 其他
 
