@@ -11,14 +11,22 @@ url: /guide/libraries.md
 - [es-toolkit](https://es-toolkit.dev/zh_hans) 工具库
 - [qs](https://github.com/ljharb/qs) 查询字符串解析与序列化工具
 - 安全
-  - [DOMPurify](https://github.com/cure53/DOMPurify) XSS
+  - [dompurify](https://github.com/cure53/DOMPurify) XSS
   - [crypto-js](https://github.com/brix/crypto-js) 加解密
 
 ## React
 
+- [react](https://zh-hans.react.dev)
+- [@tanstack/react-router](https://tanstack.com/router/latest) 路由
+- [zustand](https://github.com/pmndrs/zustand) 状态管理
 - [antd](https://ant.design/index-cn) 组件库
 
 ## Vue
+
+- 全家桶
+  - [vue](https://cn.vuejs.org)
+  - [vue-router](https://router.vuejs.org/zh/) 路由
+  - [pinia](https://pinia.vuejs.org/zh/) 状态管理
 
 
 
