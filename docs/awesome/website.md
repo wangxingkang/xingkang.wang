@@ -9,6 +9,7 @@
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [张鑫旭](https://www.zhangxinxu.com)
+- [不如摸鱼去](https://blog.wot-ui.cn)
 
 ## 图片处理
 
