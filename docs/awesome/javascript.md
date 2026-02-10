@@ -127,6 +127,7 @@
 
 ### 其他
 
+- [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
 - [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
 - [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
