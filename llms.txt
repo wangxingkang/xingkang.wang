@@ -2,9 +2,9 @@
 
 > 阿康酱
 
-## Guide
+## 指南
 
-- [Markdown & MDX](/guide/index.md): Rspress supports not only Markdown but also MDX, a powerful way to develop content.
+- [常用库](/guide/libraries.md)
 
 ## 精选资源
 
