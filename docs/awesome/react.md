@@ -10,7 +10,7 @@
 - [@tanstack/react-router](https://tanstack.com/router/latest) 🤖 客户端优先、支持服务端的完全类型安全路由
 - [react-router](https://github.com/remix-run/react-router) React 声明式路由
 
-### AI
+## AI
 
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
@@ -46,6 +46,7 @@
 ## Hooks
 
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
+- [@mantine/hooks](https://mantine.dev/hooks/package)
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
@@ -139,6 +140,7 @@
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
 - [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
 - [react-oauth](https://github.com/MomenSherif/react-oauth) 谷歌登录
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
