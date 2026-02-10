@@ -6,8 +6,8 @@ hero:
   tagline: React、RN、Vue、Uni
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: 指南
+      link: /guide/libraries
     - theme: alt
       text: GitHub
       link: https://github.com/wangxingkang
@@ -18,6 +18,7 @@ features:
   - title: 精选资源
     details: 汇聚全网优质开发资源，从入门到进阶，从工具到方法论，帮你节省筛选时间，聚焦核心能力提升
     icon: 🔥
+    link: /awesome/ai
   - title: Support for MDX content writing
     details: MDX is a powerful way to write content, allowing you to use React components in Markdown.
     icon: 📦
