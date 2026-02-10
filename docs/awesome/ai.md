@@ -8,10 +8,11 @@
 
 ## 通用
 
-- [gemini](https://gemini.google.com) 谷歌出品
+- [gemini](https://gemini.google.com) Google 出品
 - [doubao](https://www.doubao.com) 字节出品
 - [qianwen](https://www.qianwen.com) 阿里出品
 - [kimi](https://www.kimi.com)
+- [chatgpt](https://chatgpt.com) OpenAI 出品
 
 ## 编程
 
@@ -26,6 +27,16 @@
 
 - [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
 - [codex](https://github.com/openai/codex) openai 出品
+
+## Skill
+
+- [skills](https://skills.sh)
+- [skillsmp](https://skillsmp.com) skill 集合
+- [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
+- [superpowers](https://github.com/obra/superpowers) Skill精选，从脑暴、写需求文档、开发、测试全包含
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
+- [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
+- [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
 
 ## 开源库
 
@@ -53,4 +64,10 @@
 
 ## 产品
 
+- [扣子空间](https://www.coze.cn)
+- [Manus](https://manus.im)
+- [天工](https://www.tiangong.cn)
 - [蚂蚁阿福](https://chat.antafu.com)
+- [uxbot](https://www.uxbot.cn) 生成网站与App的视觉设计、交互原型及前端代码
+- [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
+- [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器

@@ -5,6 +5,7 @@
   "private": true,
   "packageManager": "pnpm@10.28.1",
   "scripts": {
+    "start": "rspress dev",
     "build": "rspress build",
     "dev": "rspress dev",
     "preview": "rspress preview",
