@@ -4,15 +4,16 @@ import { defineConfig } from '@rspress/core';
 export default defineConfig({
   base: '/',
   root: path.join(__dirname, 'docs'),
-  title: '阿康的博客',
+  title: '阿康的个人站',
+  description: '阿康的个人站',
+  lang: 'zh',
   icon: '/rspress-icon.png',
-  logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
-  },
+  logoHref: 'https://xingkang.wang',
+  logoText: '阿康的个人站',
   route: {
     cleanUrls: true,
   },
+  llms: true,
   themeConfig: {
     socialLinks: [
       {
@@ -21,5 +22,11 @@ export default defineConfig({
         content: 'https://github.com/wangxingkang/xingkang.wang',
       },
     ],
+    editLink: {
+      docRepoBaseUrl:
+        'https://github.com/wangxingkang/xingkang.wang/tree/main/docs',
+    },
+    enableContentAnimation: true,
+    enableScrollToTop: true,
   },
 });
