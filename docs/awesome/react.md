@@ -10,6 +10,14 @@
 - [@tanstack/react-router](https://tanstack.com/router/latest) 🤖 客户端优先、支持服务端的完全类型安全路由
 - [react-router](https://github.com/remix-run/react-router) React 声明式路由
 
+### AI
+
+- [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
+- [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
+- [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
+- [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
+- [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+
 ## 多语言
 
 - [js-lingui](https://github.com/lingui/js-lingui) 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案
@@ -46,8 +54,7 @@
 
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
-- [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
-- [semi](https://semi.design/zh-CN/) 字节出品
+- [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
 - [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
 - [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
@@ -55,23 +62,24 @@
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
 
+## 数据可视化
+
+### 图表
+
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
+- [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
+
+### 其他
+
+- [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
+
 ## 组件
-
-### AI 组件
-
-- [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 
 ### 画板
 
 - [tldraw](https://github.com/tldraw/tldraw) 非常优秀的白板无限画布 SDK
 - [excalidraw](https://github.com/excalidraw/excalidraw) 一款可手绘风格草图、类白板效果的虚拟白板工具
 - [drawnix](https://github.com/plait-board/drawnix) 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等
-
-### 可视化
-
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
-- [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
-- [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 
 ### 布局
 
