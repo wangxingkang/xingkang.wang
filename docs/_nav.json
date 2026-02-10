@@ -8,9 +8,5 @@
     "text": "精选资源",
     "link": "/awesome/react",
     "activeMatch": "/awesome/"
-  },
-  {
-    "text": "API",
-    "link": "https://rspress.rs/api/index.html"
   }
 ]

@@ -4,12 +4,13 @@ import { defineConfig } from '@rspress/core';
 export default defineConfig({
   base: '/',
   root: path.join(__dirname, 'docs'),
-  title: '阿康的个人站',
-  description: '阿康的个人站',
+  title: '阿康酱',
+  description: '阿康酱',
   lang: 'zh',
   icon: '/rspress-icon.png',
-  logoHref: 'https://xingkang.wang',
-  logoText: '阿康的个人站',
+  logo: '/rspress-icon.png',
+  logoHref: '/',
+  logoText: '阿康酱',
   route: {
     cleanUrls: true,
   },
