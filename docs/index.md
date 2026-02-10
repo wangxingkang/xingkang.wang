@@ -16,7 +16,7 @@ hero:
     alt: Logo
 features:
   - title: 精选资源
-    details: 收录精品资源
+    details: 汇聚全网优质开发资源，从入门到进阶，从工具到方法论，帮你节省筛选时间，聚焦核心能力提升
     icon: 🔥
   - title: Support for MDX content writing
     details: MDX is a powerful way to write content, allowing you to use React components in Markdown.
