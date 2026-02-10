@@ -770,6 +770,14 @@ url: /awesome/website.md
 
 
 ---
+url: /blog/index.md
+---
+
+# 博客
+
+
+
+---
 url: /index.md
 ---
 
