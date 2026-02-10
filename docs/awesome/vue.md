@@ -7,6 +7,14 @@
 - [pinia](https://pinia.vuejs.org/zh/) 状态管理
 - [router](https://router.vuejs.org/zh/) 路由
 
+## AI
+
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
+- [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
+- [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
+- [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
+- [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
+
 ## 多语言
 
 - [vue-i18n](https://github.com/intlify/vue-i18n) Vue3 版 Vue I18n
@@ -23,20 +31,12 @@
 ## 组件库
 
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
-- [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
-- [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
-- [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库
 - [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
 - [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
 - [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
-- [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
 
 ## 组件
-
-### AI 组件
-
-- [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
 
 ## 可视化
 
