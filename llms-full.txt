@@ -1,0 +1,984 @@
+---
+url: /guide/index.md
+---
+
+# Markdown & MDX
+
+Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a powerful way to develop content.
+
+## Markdown
+
+MDX is a superset of Markdown, which means you can write Markdown files as usual. For example:
+
+```md
+# Hello world
+```
+
+## Use component
+
+When you want to use React components in Markdown files, you should name your files with `.mdx` extension. For example:
+
+```mdx
+// docs/index.mdx
+import { CustomComponent } from './custom';
+
+# Hello world
+
+<CustomComponent />
+```
+
+## Front matter
+
+You can add Front Matter at the beginning of your Markdown file, which is a YAML-formatted object that defines some metadata. For example:
+
+```yaml
+---
+title: Hello world
+---
+```
+
+> Note: By default, Rspress uses h1 headings as html headings.
+
+You can also access properties defined in Front Matter in the body, for example:
+
+```markdown
+---
+title: Hello world
+---
+
+# {frontmatter.title}
+```
+
+The previously defined properties will be passed to the component as `frontmatter` properties. So the final output will be:
+
+```html
+<h1>Hello world</h1>
+```
+
+## Custom container
+
+You can use the `:::` syntax to create custom containers and support custom titles. For example:
+
+**Input:**
+
+```markdown
+:::tip
+This is a `block` of type `tip`
+:::
+
+:::info
+This is a `block` of type `info`
+:::
+
+:::warning
+This is a `block` of type `warning`
+:::
+
+:::danger
+This is a `block` of type `danger`
+:::
+
+::: details
+This is a `block` of type `details`
+:::
+
+:::tip Custom Title
+This is a `block` of `Custom Title`
+:::
+
+:::tip{title="Custom Title"}
+This is a `block` of `Custom Title`
+:::
+```
+
+**Output:**
+
+:::tip
+This is a `block` of type `tip`
+:::
+
+:::info
+This is a `block` of type `info`
+:::
+
+:::warning
+This is a `block` of type `warning`
+:::
+
+:::danger
+This is a `block` of type `danger`
+:::
+
+::: details
+This is a `block` of type `details`
+:::
+
+:::tip Custom Title
+This is a `block` of `Custom Title`
+:::
+
+:::tip\{title="Custom Title"}
+This is a `block` of `Custom Title`
+:::
+
+## Code block
+
+### Basic usage
+
+You can use the \`\`\` syntax to create code blocks and support custom titles. For example:
+
+**Input:**
+
+````md
+```js
+console.log('Hello World');
+```
+
+```js title="hello.js"
+console.log('Hello World');
+```
+````
+
+**Output:**
+
+```js
+console.log('Hello World');
+```
+
+```js title="hello.js"
+console.log('Hello World');
+```
+
+### Show line numbers
+
+If you want to display line numbers, you can enable the `showLineNumbers` option in the config file:
+
+```ts title="rspress.config.ts"
+export default {
+  // ...
+  markdown: {
+    showLineNumbers: true,
+  },
+};
+```
+
+### Wrap code
+
+If you want to wrap long code line by default, you can enable the `defaultWrapCode` option in the config file:
+
+```ts title="rspress.config.ts"
+export default {
+  // ...
+  markdown: {
+    defaultWrapCode: true,
+  },
+};
+```
+
+### Line highlighting
+
+You can also apply line highlighting and code block title at the same time, for example:
+
+**Input:**
+
+````md
+```js title="hello.js"
+console.log('Hello World'); // [\!code highlight]
+
+// [\!code highlight:3]
+const a = 1;
+
+console.log(a);
+
+const b = 2;
+
+console.log(b);
+```
+````
+
+:::warning
+The backslash (`\`) in `[\!code highlight]` is for Markdown escaping to display the raw syntax. Do not include it when using this notation in your actual code.
+:::
+
+**Output:**
+
+```js title="hello.js"
+console.log('Hello World'); // [!code highlight]
+
+// [!code highlight:3]
+const a = 1;
+
+console.log(a);
+
+const b = 2;
+
+console.log(b);
+```
+
+## Rustify MDX compiler
+
+You can enable Rustify MDX compiler by following config:
+
+
+
+---
+url: /awesome/ai.md
+---
+
+# AI
+
+## 汇总
+
+- [moge](https://moge.ai/zh) 实时收录全球最新AI工具
+- [watcha](https://watcha.cn) AI 产品的大众点评
+- [魔搭社区](https://modelscope.cn/home)
+
+## 通用
+
+- [gemini](https://gemini.google.com) Google 出品
+- [doubao](https://www.doubao.com) 字节出品
+- [qianwen](https://www.qianwen.com) 阿里出品
+- [kimi](https://www.kimi.com)
+- [chatgpt](https://chatgpt.com) OpenAI 出品
+
+## 编程
+
+### IDE
+
+- [cursor](https://cursor.com/cn)
+- [trae](https://www.trae.ai) 字节出品(国际版)
+- [trae cn](https://www.trae.cn) 字节出品(国内版)
+- [codebuddy](https://www.codebuddy.ai) 腾讯出品
+
+### cli
+
+- [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
+- [codex](https://github.com/openai/codex) openai 出品
+
+## Skill
+
+- [skills](https://skills.sh)
+- [skillsmp](https://skillsmp.com) skill 集合
+- [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
+- [superpowers](https://github.com/obra/superpowers) Skill精选，从脑暴、写需求文档、开发、测试全包含
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
+- [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
+- [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
+
+## 开源库
+
+### 测试
+
+- [shannon](https://github.com/KeygraphHQ/shannon) 全自动自主型 AI 黑客，可在你的 Web 应用中挖掘真实漏洞利用代码。Shannon 在无提示、可访问源码的 XBOW 基准测试中，实现了 96.15% 的成功率。
+
+### Code
+
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
+
+### 图片
+
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
+
+### 视频
+
+- [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
+
+### 其他
+
+- [openclaw](https://github.com/openclaw/openclaw) 你专属的个人 AI 助手
+- [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
+
+## 产品
+
+- [扣子空间](https://www.coze.cn)
+- [Manus](https://manus.im)
+- [天工](https://www.tiangong.cn)
+- [蚂蚁阿福](https://chat.antafu.com)
+- [uxbot](https://www.uxbot.cn) 生成网站与App的视觉设计、交互原型及前端代码
+- [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
+- [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+
+
+
+---
+url: /awesome/engineering.md
+---
+
+# 工程化
+
+## Vite
+
+## 官方资源
+
+- [官网](https://cn.vite.dev)
+- [vite](https://github.com/vitejs/vite) vite 仓库
+
+## Rspack
+
+- [官网](https://rspack.rs/zh/)
+- [rspack](https://github.com/web-infra-dev/rspack) rspack 仓库
+
+## Webpack
+
+
+
+---
+url: /awesome/github.md
+---
+
+# GitHub
+
+## 工具
+
+- [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
+- [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
+
+
+
+---
+url: /awesome/go.md
+---
+
+# GO
+
+## 官方资源
+
+- [官网](https://golang.google.cn)
+
+
+
+---
+url: /awesome/javascript.md
+---
+
+# JavaScript
+
+## 动画
+
+- [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
+- [anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
+- [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
+
+## 数据可视化
+
+- [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
+- [vchart](https://visactor.io/vchart) 字节团队出品的图表库
+- [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
+- [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
+- [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
+- [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
+- [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
+
+## 图标
+
+- [lucide](https://lucide.dev/guide/packages/lucide)
+
+## 工具库
+
+### 综合
+
+- [es-toolkit](https://es-toolkit.dev/zh_hans/) 最先进的JavaScript工具库
+- [lodash](https://github.com/lodash/lodash) 一致性、模块化、高性能的 JavaScript 实用工具库
+
+### 网络请求
+
+- [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
+  - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
+
+### 发布订阅
+
+- [mitt](https://github.com/developit/mitt) 🥊 仅 200 字节的超轻量函数式事件发射器/发布-订阅(pubsub)工具
+
+### 计算
+
+- [mathjs](https://github.com/josdejong/mathjs) 一款适用于 JavaScript 和 Node.js 的功能丰富的数学库
+- [bignumber](https://github.com/MikeMcl/bignumber.js) 一款用于任意精度十进制与非十进制算术运算的 JavaScript 库
+- [big.js](https://github.com/MikeMcl/big.js) 一款轻量、高速的用于任意精度十进制算术运算的 JavaScript 库
+
+### 字符串
+
+- [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
+- [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
+- [qs](https://github.com/ljharb/qs) 一款支持嵌套功能的查询字符串解析器与序列化器
+- [change-case](https://github.com/blakeembrey/change-case) 实现字符串在小驼峰式、大驼峰式、首字母大写式、下划线式等命名格式间的转换
+- [normalize-url](https://github.com/sindresorhus/normalize-url) 规范化 URL
+
+### 文件相关
+
+- [docxjs](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
+- [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
+- [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
+- [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
+- [imagemin](https://github.com/imagemin/imagemin) 图像压缩
+
+### 数据校验
+
+- [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
+
+### 数据生成
+
+- [chancejs](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机数据生成辅助库
+
+### DOM
+
+- [focus-trap](https://github.com/focus-trap/focus-trap) 将焦点锁定在 DOM 节点内
+- [tabbable](https://github.com/focus-trap/tabbable) 查找 DOM 节点中属于 Tab 导航序列的后代节点
+- [mammoth](https://github.com/mwilliamson/mammoth.js) 将 Word 文档（.docx 文件）转换为 HTML
+
+### 时间处理
+
+- [dayjs](https://day.js.org/zh-CN/)
+- [date-fns](https://github.com/date-fns/date-fns)
+- [luxon](https://github.com/moment/luxon)
+
+### Markdown
+
+- [cherry-markdown](https://github.com/Tencent/cherry-markdown) Markdown 编辑器
+
+### 富文本
+
+- [tiptap](https://github.com/ueberdosis/tiptap) 专为 Web 开发者打造的无渲染富文本编辑器框架
+- [tinymce](https://github.com/tinymce/tinymce)
+- [Squire](https://github.com/fastmail/Squire)
+- [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的富文本编辑器构建框架
+- [quill](https://github.com/slab/quill)
+- [tiny-editor](https://github.com/opentiny/tiny-editor/)
+- [jodit](https://github.com/xdan/jodit)
+- [wangEditor-next](https://github.com/wangeditor-next/wangEditor-next)
+- [wangEditor](https://github.com/wangeditor-team/wangEditor)
+- [prosemirror](https://prosemirror.net/) ProseMirror 所见即所得含义编辑器
+- [remark](https://github.com/remarkjs/remark) 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
+  - [remark-math](https://github.com/remarkjs/remark-math)
+  - [rehype-katex](https://github.com/remarkjs/remark-math) 支持数学公式的 remark 与 rehype 插件
+  - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
+  - [rehype-raw](https://github.com/rehypejs/rehype-raw) 用于重新解析语法树的插件
+  - [remark-gfm](https://github.com/remarkjs/remark-gfm) 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）
+  - [rehype-highlight](https://github.com/rehypejs/rehype-highlight) 代码块高亮插件
+
+### 存储
+
+- [universal-cookie](https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie) JavaScript 通用 cookie
+- [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
+- [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建
+- [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
+
+### 安全
+
+- [dompurify](https://github.com/cure53/DOMPurify) 一款纯基于 DOM 实现、极致轻速、超高容错性的 XSS 安全净化工具
+- [crypto-js](https://github.com/brix/crypto-js) 加解密
+
+### html to image
+
+- [@zumer/snapdom](https://github.com/zumerlab/snapdom) DOM 捕获引擎 —— 快速精准的 HTML 转换工具
+- [html-to-image](https://github.com/bubkoo/html-to-image) ✂️ 借助 HTML5 Canvas 与 SVG 技术，从 DOM 节点生成图片文件
+- [modern-screenshot](https://github.com/qq15725/modern-screenshot) 使用 HTML5 canvas 和 SVG 从 DOM 节点快速生成图像
+- [html2canvas](https://github.com/niklasvh/html2canvas) 基于 JavaScript 实现的截图工具
+
+### 颜色
+
+- [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
+
+### 其他
+
+- [prism-code-editor](https://github.com/jonpyt/prism-code-editor) 一款基于 Prism 打造的轻量级、可扩展的 Web 端代码编辑器组件
+- [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
+- [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
+- [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
+- [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
+- [fuse.js](https://github.com/krisk/fuse) 模糊搜索
+- [smol-toml](https://github.com/squirrelchat/smol-toml) 一款轻量、高速且符合 TOML 1.0.0 规范的解析器与序列化器
+- [web-vitals](https://github.com/GoogleChrome/web-vitals) 保障网站健康的核心指标
+- [autohue.js](https://github.com/auto-plugin/autohue.js) 一个自动提取图片主题色让图片和背景融为一体的工具
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) 最先进的开源浏览器指纹库
+- [prism](https://github.com/PrismJS/prism) 语法高亮
+- [refractor](https://github.com/wooorm/refractor) 基于 Prism 打造的轻量、稳定、优雅的虚拟语法高亮工具
+- [hastscript](https://github.com/syntax-tree/hastscript) 用于创建 hast 语法树的实用工具
+- [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) 一款将 hast 序列化为 HTML 的实用工具
+- [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) 用于将 mdast 转换为 hast 的实用工具
+- [mdast-util-to-markdown](https://github.com/syntax-tree/mdast-util-to-markdown) 用于序列化 Markdown 文本的 mdast 实用工具
+- [property-information](https://github.com/wooorm/property-information) Web 平台各类属性与特性的参考说明
+- [parse5](https://github.com/inikulin/parse5) 适用于 Node.js 的 HTML 解析 / 序列化工具集，完全遵循 WHATWG HTML 实时标准（亦称 HTML5）规范
+- [micromark](https://github.com/micromark/micromark) 轻量、安全、高性能的通用 Markdown 解析器，兼容 CommonMark 标准（可选兼容 GFM、MDX 语法）
+- [KaTeX](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
+- [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
+- [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
+- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
+- [tldts](https://github.com/remusao/tldts) 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库
+- [superjson](https://github.com/flightcontrolhq/superjson) 将 JavaScript 表达式安全序列化为 JSON 超集格式，该格式支持日期（Date）、大整数（BigInt）等类型
+- [shiki](https://github.com/shikijs/shiki) 一款颜值出众且功能强大的语法高亮工具
+- [lru-cache](https://github.com/isaacs/node-lru-cache) 一款会自动删除最近最少使用项的高性能缓存工具
+- [flexsearch](https://github.com/nextapps-de/flexsearch) 面向浏览器与 Node.js 的新一代全文检索工具库
+- [@zenfs/dom](https://github.com/zen-fs/dom) ZenFS 的 DOM 端适配层
+- [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+- [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
+- [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
+- [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
+
+## 组件
+
+### 可视化
+
+- [simple-mind-map](https://github.com/wanglin2/mind-map) 一个强大的思维导图
+
+### 数据录入
+
+- [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
+- [signature\_pad](https://github.com/szimek/signature_pad) 基于 HTML5 Canvas 实现的流畅签名绘制功能
+- [Sortable](https://github.com/SortableJS/Sortable) 适用于现代浏览器及触控设备的可重新排序拖拽列表组件
+
+### 数据展示
+
+- [Swiper](https://github.com/nolimits4web/Swiper) 搭载硬件加速过渡动效的新一代移动端触摸滑动组件
+- [number-flow](https://github.com/barvian/number-flow) 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) 一款可自定义、模块化、响应式的灯箱画廊插件
+
+### 文件相关
+
+- [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器
+- [pdf.js](http://github.com/mozilla/pdf.js) PDF 查看器
+
+### 音视频
+
+- [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+- [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
+- [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
+- [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
+- [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
+
+### 拖拽
+
+- [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
+
+### 其他
+
+- [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
+- [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
+- [stripe-js](https://github.com/stripe/stripe-js)
+- [supabase-js](https://github.com/supabase/supabase-js) 一款面向 Supabase 的同构 JavaScript 客户端
+- [fullpage](https://github.com/alvarotrigo/fullpage.js) 快速、便捷地创建全屏页面
+
+## 其他
+
+- [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
+- [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
+
+
+
+---
+url: /awesome/node.md
+---
+
+# Node
+
+## 官方资源
+
+- [官网](https://nodejs.org/zh-cn)
+
+
+
+---
+url: /awesome/python.md
+---
+
+# Python
+
+## 官方资源
+
+- [官网](https://www.python.org)
+
+
+
+---
+url: /awesome/react-native.md
+---
+
+# React Native
+
+## 官方资源
+
+- [官网](https://reactnative.dev)
+- [react-native](https://github.com/facebook/react-native) react-native 仓库
+
+
+
+---
+url: /awesome/react.md
+---
+
+# React
+
+## 官方资源
+
+- [官网](https://zh-hans.react.dev)
+- [react](https://github.com/facebook/react) react 仓库
+
+## 路由
+
+- [@tanstack/react-router](https://tanstack.com/router/latest) 🤖 客户端优先、支持服务端的完全类型安全路由
+- [react-router](https://github.com/remix-run/react-router) React 声明式路由
+
+## AI
+
+- [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
+- [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
+- [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
+- [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
+- [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+
+## 多语言
+
+- [js-lingui](https://github.com/lingui/js-lingui) 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案
+- [react-i18next](https://github.com/i18next/react-i18next) 为 React 精心打造的国际化方案，基于 i18next 国际化生态构建
+- [react-intl](https://github.com/formatjs/formatjs)
+
+## 框架
+
+- [nextjs](https://nextjs.org) 面向 Web 的 React 框架
+- [umi](https://umijs.org) 企业级前端开发框架 - 蚂蚁金服出品
+- [modernjs](https://modernjs.dev/zh/index.html) 一款基于 React 和 Rsbuild 的渐进式 Web 框架 - 字节出品
+
+## 状态管理
+
+- [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
+- [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
+- [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
+- [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
+
+## 动画
+
+- [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
+- [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
+- [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
+
+## Hooks
+
+- [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
+- [@mantine/hooks](https://mantine.dev/hooks/package)
+- [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
+- [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
+- [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
+
+## 组件库
+
+- [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
+- [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
+- [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
+- [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
+- [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
+- [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
+- [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
+
+## 数据可视化
+
+### 图表
+
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
+- [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
+
+### 其他
+
+- [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
+
+## 组件
+
+### 画板
+
+- [tldraw](https://github.com/tldraw/tldraw) 非常优秀的白板无限画布 SDK
+- [excalidraw](https://github.com/excalidraw/excalidraw) 一款可手绘风格草图、类白板效果的虚拟白板工具
+- [drawnix](https://github.com/plait-board/drawnix) 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等
+
+### 布局
+
+- [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
+- [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
+- [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
+
+### 数据录入
+
+- [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
+- [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
+- [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
+- [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
+
+### 数据展示
+
+- [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯
+- [reactour](https://github.com/elrumordelaluz/reactour) React 指引组件
+- [react-arborist](https://github.com/brimdata/react-arborist) 适用于 React 的一站式树形视图组件
+- [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) 基于 PrismJS 或 HighlightJS 抽象语法树（AST）、使用内联样式实现的 React 语法高亮组件
+- [react-number-format](https://github.com/s-yadav/react-number-format) 数字格式化组件（支持输入框）
+- [react-grid-gallery](https://github.com/benhowell/react-grid-gallery) 自适应对齐图片画廊组件
+- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+
+### 反馈
+
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
+- [sonner](https://github.com/emilkowalski/sonner) 一个具有独特风格的 React 提示组件
+
+### 文件相关
+
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
+- [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
+- [mdx-editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
+
+### 富文本
+
+- [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
+- [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
+- [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
+
+### 拖拽
+
+- [react-draggable](https://github.com/react-grid-layout/react-draggable) React 可拖拽组件
+- [dnd-kit](https://github.com/clauderic/dnd-kit) 专为 React 打造的现代化、轻量级、高性能、无障碍且可扩展的拖放工具包
+
+### 图标
+
+- [lucide-react](https://lucide.dev/guide/packages/lucide-react)
+
+### 其他
+
+- [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
+- [@use-gesture/react](https://github.com/pmndrs/use-gesture) 鼠标/触摸手势的基本实用工具
+- [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
+- [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
+- [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
+- [react-oauth](https://github.com/MomenSherif/react-oauth) 谷歌登录
+- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
+- [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
+- [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+  - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
+- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+  - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
+  - [@rjsf/antd](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd) [antd](https://ant-design.antgroup.com/index-cn)
+  - [@rjsf/daisyui](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/daisyui) [daisyui](https://daisyui.com)
+  - [@rjsf/chakra-ui](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/chakra-ui) [chakra-ui](https://www.chakra-ui.com)
+  - [@rjsf/mantine](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/mantine) [mantine](https://mantine.dev)
+  - [@rjsf/mui](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/mui) [mui](https://mui.com)
+  - [@rjsf/react-bootstrap](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/react-bootstrap) [react-bootstrap](https://react-bootstrap.github.io)
+  - [@rjsf/semantic-ui](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/semantic-ui) [semantic-ui](https://semantic-ui.com)
+  - [@rjsf/shadcn](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/shadcn) [shadcn](https://ui.shadcn.com)
+  - [@rjsf/fluentui-rc](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/fluentui-rc) [fluentui](https://developer.microsoft.com/en-us/fluentui#/)
+
+## 开发模版
+
+- [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
+- [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
+
+## 其他
+
+- [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
+- [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
+
+
+
+---
+url: /awesome/rust.md
+---
+
+# Rust
+
+## 官方资源
+
+- [官网](https://rust-lang.org/zh-CN/)
+
+
+
+---
+url: /awesome/uni.md
+---
+
+# Uni
+
+## 官方资源
+
+- [官网](https://uniapp.dcloud.net.cn)
+- [react](https://github.com/facebook/react) react 仓库
+
+## 数据可视化
+
+- [uni-echarts](https://github.com/xiaohe0601/uni-echarts) 🪀 适用于 uni-app 的 Apache ECharts 组件（仅支持 Vue 3）
+
+## 组件库
+
+- [wot-ui](https://wot-ui.cn) 高颜值、轻量化的 uni-app 组件库
+- [uni-ui](https://github.com/dcloudio/uni-ui) 基于 uni-app 的、全端兼容的、高性能UI框架
+- [uview-plus](https://uview-plus.jiangruyi.com) 多平台快速开发的UI框架
+- [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) 京东风格的轻量级移动端组件库
+
+## 组件
+
+- [lucky-canvas](https://github.com/buuing/lucky-canvas) 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件
+- [z-paging](https://github.com/SmileZXLee/uni-z-paging) 下拉刷新、上拉加载
+
+## 开发模版
+
+- [wot starter](https://starter.wot-ui.cn)
+- [unibest](https://codercup.github.io/unibest-docs)
+- [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
+- [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
+- [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)
+
+## 其他
+
+- [uni-network](https://github.com/uni-helper/uni-network) 为 uni-app 打造的基于 Promise 的 HTTP 客户端
+- [uni-use](https://uni-helper.js.org/uni-use/guide/installation) uni-app 组合式工具集
+- [uni-ku-root](https://uni-ku.js.org/projects/root/introduction) 一个模拟 App.vue 原有能力的根组件插件
+- [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer) 🦾 Uniapp Vue3 版本的分包优化实现
+
+
+
+---
+url: /awesome/vue.md
+---
+
+# Vue
+
+## 官方资源
+
+- [官网](https://cn.vuejs.org/)
+- [vue](https://github.com/vuejs/core) vue 仓库
+- [pinia](https://pinia.vuejs.org/zh/) 状态管理
+- [router](https://router.vuejs.org/zh/) 路由
+
+## AI
+
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
+- [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
+- [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
+- [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
+- [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
+
+## 多语言
+
+- [vue-i18n](https://github.com/intlify/vue-i18n) Vue3 版 Vue I18n
+
+## 框架
+
+- [nuxt](https://github.com/nuxt/nuxt) 全栈 Vue 框架
+- [quasar](https://github.com/quasarframework/quasar) 以空前的速度构建高性能的 VueJS 用户界面
+
+## 动画
+
+- [motion-vue](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
+
+## 组件库
+
+- [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
+- [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库
+- [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
+- [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
+- [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
+
+## 可视化
+
+### 图表
+
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) Apache ECharts™ 的 Vue.js 组件
+
+### 3D
+
+- [Tresjs](https://github.com/Tresjs/tres)
+
+### 其他
+
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) 一个高度可定制的 Vue3 流程图组件
+- [baklavajs](https://github.com/newcat/baklavajs) 使用 Vue 在浏览器中构建图形/节点编辑器
+
+## 组件
+
+### 数据录入
+
+- [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) 一款适用于 Vue.js 2-3 版本的移动端友好型图片文件上传组件，支持图片预览、拖拽上传、EXIF 方向校正等丰富功能
+
+### 数据展示
+
+- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [hevue-img-preview](https://github.com/heyongsheng/hevue-img-preview) 图片预览
+
+### 反馈
+
+- [vue-sonner](https://github.com/xiaoluoboding/vue-sonner) 🔔 一个适用于 Vue 和 Nuxt 的、具有独特风格的 toast 组件
+
+### 文件相关
+
+- [vue-pdf](https://github.com/FranckFreiburger/vue-pdf)
+
+### 拖拽
+
+- [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) 一款支持 Vue 3 和 Vue 2 双版本的通用拖拽组件
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 一款基于 Sortable.js 开发的 Vue 拖拽组件
+
+### 图标
+
+- [lucide-vue-next](https://lucide.dev/guide/packages/lucide-vue-next)
+
+### 其他
+
+- [@tanstack/vue-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) 基于 fabric.js 的开源图片编辑器
+
+## 开发模版
+
+- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+- [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
+- [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
+
+
+
+---
+url: /awesome/website.md
+---
+
+# Website
+
+## 官方资源
+
+- [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
+- [caniuse](https://caniuse.com) 浏览器兼容性查询
+
+## 博客
+
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- [张鑫旭](https://www.zhangxinxu.com)
+- [不如摸鱼去](https://blog.wot-ui.cn)
+
+## 图片处理
+
+- [tinypng](https://tinypng.com) 压缩图片
+- [remove](https://www.remove.bg/zh) 去除背景
+- [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)
+
+
+
+---
+url: /index.md
+---
+
+# My Site
+
+A cool website!
+
+> This is the tagline
+
+[Quick Start](/guide/) | [GitHub](https://github.com/web-infra-dev/rspress)
+
+## Features
+
+- 🏃🏻‍♀️ **Blazing fast build speed**: The core compilation module is based on the Rust front-end toolchain, providing a more ultimate development experience.
+- 📦 **Support for MDX content writing**: MDX is a powerful way to write content, allowing you to use React components in Markdown.
+- 🎨 **Built-in full-text search**: Automatically generates a full-text search index for you during construction, providing out-of-the-box full-text search capabilities.
+- 🌍 **Simpler I18n solution**: With the built-in I18n solution, you can easily provide multi-language support for documents or components.
+- 🌈 **Static site generation**: In production, it automatically builds into static HTML files, which can be easily deployed anywhere.
+- 🔥 **Providing multiple custom capabilities**: Through its extension mechanism, you can easily extend theme UI and build process.
+
+
