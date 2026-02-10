@@ -8,5 +8,10 @@
     "text": "精选资源",
     "link": "/awesome/ai",
     "activeMatch": "/awesome/"
+  },
+  {
+    "text": "博客",
+    "link": "/blog/",
+    "activeMatch": "/blog/"
   }
 ]
