@@ -36,14 +36,22 @@
 - [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
 - [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
 
-## 组件
-
 ## 可视化
 
+### 图表
+
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) Apache ECharts™ 的 Vue.js 组件
+
+### 3D
+
+- [Tresjs](https://github.com/Tresjs/tres)
+
+### 其他
+
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) 一个高度可定制的 Vue3 流程图组件
 - [baklavajs](https://github.com/newcat/baklavajs) 使用 Vue 在浏览器中构建图形/节点编辑器
-- [Tresjs](https://github.com/Tresjs/tres)
+
+## 组件
 
 ### 数据录入
 
@@ -79,6 +87,6 @@
 ## 开发模版
 
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 - [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
 - [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
