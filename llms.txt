@@ -18,6 +18,7 @@
 - [React Native](/awesome/react-native.md)
 - [React](/awesome/react.md)
 - [Rust](/awesome/rust.md)
+- [Test](/awesome/test.md)
 - [Uni](/awesome/uni.md)
 - [Vue](/awesome/vue.md)
 - [Website](/awesome/website.md)
