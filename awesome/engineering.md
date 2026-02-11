@@ -7,6 +7,37 @@
 - [官网](https://cn.vite.dev)
 - [vite](https://github.com/vitejs/vite) vite 仓库
 
+## 插件
+
+### 官方插件
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc)
+- [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) 提供 Vue 3 单文件组件支持
+- [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) 提供 Vue 3 JSX 支持
+- [@vitejs/plugin-rsc](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-rsc) Vite 通过该插件支持 React [Server Components (RSC)](https://react.dev/reference/rsc/server-components)
+- [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) 为打包后的文件提供传统浏览器兼容性支持
+- [@vitejs/plugin-basic-ssl](http://github.com/vitejs/vite-plugin-basic-ssl) 基于自动生成的自签名证书实现基础的 HTTPS 配置
+
+### 兼容
+
+- [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) 将代码改造为支持在普通浏览器中，基于 Vite 实现顶层 `await` 特性
+
+### 其他
+
+- [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
+- [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
+- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
+- [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
+- [@module-federation/vite](https://github.com/module-federation/vite) 面向模块联邦的 Vite 插件
+- [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) 面向 Vite 的零配置 PWA 解决方案
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) 为 Vite、Webpack 和 Rollup 实现 API 的按需自动导入
+- [unplugin-info](https://github.com/yjl9903/unplugin-info) 将构建信息导出为虚拟模块
+- [vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) 一款用于处理 HTML 的 Vite 插件，该插件基于 lodash 模板开发
+- [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) 一款提供 TypeScript、ESLint、vue-tsc、Stylelint 等代码检查能力的 Vite 插件
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) Svelte 插件
+- [@plugin-web-update-notification/vite](https://github.com/GreatAuk/plugin-web-update-notification) 一款轻量级工具库，可检测网页内容更新并通知用户刷新页面
+
 ## Rspack
 
 - [官网](https://rspack.rs/zh/)
