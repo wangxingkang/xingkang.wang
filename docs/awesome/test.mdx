@@ -14,7 +14,7 @@
 - [官网](https://jestjs.io/zh-Hans/)
 - [jest](https://github.com/jestjs/jest) jest 仓库
 
-## rstest
+## Rstest
 
 ### 官方资源
 
