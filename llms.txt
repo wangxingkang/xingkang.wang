@@ -9,6 +9,7 @@
 ## 精选资源
 
 - [AI](/awesome/ai.md)
+- [Desktop](/awesome/desktop.md)
 - [工程化](/awesome/engineering.md)
 - [GitHub](/awesome/github.md)
 - [GO](/awesome/go.md)

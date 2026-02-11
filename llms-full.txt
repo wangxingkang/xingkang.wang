@@ -111,6 +111,21 @@ url: /awesome/ai.md
 
 
 ---
+url: /awesome/desktop.md
+---
+
+# Desktop
+
+## Electron
+
+### 官方资源
+
+- [官网](https://www.electronjs.org/zh/)
+- [electron](https://github.com/electron/electron) electron 仓库
+
+
+
+---
 url: /awesome/engineering.md
 ---
 
@@ -628,7 +643,7 @@ url: /awesome/test.md
 - [官网](https://jestjs.io/zh-Hans/)
 - [jest](https://github.com/jestjs/jest) jest 仓库
 
-## rstest
+## Rstest
 
 ### 官方资源
 
