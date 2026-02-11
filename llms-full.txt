@@ -168,6 +168,7 @@ url: /awesome/engineering.md
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) 一款提供 TypeScript、ESLint、vue-tsc、Stylelint 等代码检查能力的 Vite 插件
 - [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) Svelte 插件
 - [@plugin-web-update-notification/vite](https://github.com/GreatAuk/plugin-web-update-notification) 一款轻量级工具库，可检测网页内容更新并通知用户刷新页面
+- [vite-plugin-devtools-json](https://github.com/ChromeDevTools/vite-plugin-devtools-json) 在开发服务器中实时生成 `com.chrome.devtools.json` 文件
 
 ## Rspack
 
