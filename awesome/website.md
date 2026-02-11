@@ -1,9 +1,10 @@
 # Website
 
-## 官方资源
+## 开发
 
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
 - [caniuse](https://caniuse.com) 浏览器兼容性查询
+- [iconfont](https://www.iconfont.cn) IconFont
 
 ## 博客
 
@@ -16,3 +17,8 @@
 - [tinypng](https://tinypng.com) 压缩图片
 - [remove](https://www.remove.bg/zh) 去除背景
 - [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)
+
+## 学习
+
+- [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
+- [leetcode](https://leetcode.cn) 力扣

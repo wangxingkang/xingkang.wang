@@ -82,6 +82,7 @@ url: /awesome/ai.md
 
 ### Code
 
+- [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 
 ### 图片
@@ -841,10 +842,11 @@ url: /awesome/website.md
 
 # Website
 
-## 官方资源
+## 开发
 
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
 - [caniuse](https://caniuse.com) 浏览器兼容性查询
+- [iconfont](https://www.iconfont.cn) IconFont
 
 ## 博客
 
@@ -857,6 +859,11 @@ url: /awesome/website.md
 - [tinypng](https://tinypng.com) 压缩图片
 - [remove](https://www.remove.bg/zh) 去除背景
 - [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)
+
+## 学习
+
+- [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
+- [leetcode](https://leetcode.cn) 力扣
 
 
 
