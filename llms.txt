@@ -25,3 +25,4 @@
 ## 博客
 
 - [博客](/blog/index.md)
+- [移动端调试](/blog/mobile-debug.md)
