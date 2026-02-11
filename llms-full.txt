@@ -650,6 +650,13 @@ url: /awesome/test.md
 - [官网](https://rstest.rs/zh/)
 - [rstest](https://github.com/web-infra-dev/rstest) rstest 仓库
 
+## Playwright
+
+### 官方资源
+
+- [官网](https://playwright.dev)
+- [playwright](https://github.com/microsoft/playwright) playwright 仓库
+
 
 
 ---
