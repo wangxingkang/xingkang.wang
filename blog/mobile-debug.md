@@ -2,7 +2,7 @@
 
 ## VConsole
 
-###
+### 使用 npm
 
 1. 安装依赖
 
@@ -35,6 +35,15 @@ deno add npm:vconsole
 import VConsole from 'vconsole';
 
 new VConsole();
+```
+
+### 使用 CDN
+
+```html
+<script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+<script>
+  new window.VConsole();
+</script>
 ```
 
 ## Chrome Inspect
