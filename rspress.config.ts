@@ -13,6 +13,7 @@ export default defineConfig({
   logoText: '阿康酱',
   route: {
     cleanUrls: true,
+    exclude: ['components/**'],
   },
   llms: true,
   themeConfig: {
