@@ -41,6 +41,7 @@ url: /awesome/ai.md
 - [moge](https://moge.ai/zh) 实时收录全球最新AI工具
 - [watcha](https://watcha.cn) AI 产品的大众点评
 - [魔搭社区](https://modelscope.cn/home)
+- [kaggle](https://www.kaggle.com)
 
 ## 通用
 
@@ -97,6 +98,7 @@ url: /awesome/ai.md
 ### 其他
 
 - [openclaw](https://github.com/openclaw/openclaw) 你专属的个人 AI 助手
+- [picoclaw](https://github.com/sipeed/picoclaw) 超轻量级个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 
@@ -125,7 +127,13 @@ url: /awesome/desktop.md
 - [官网](https://www.electronjs.org/zh/)
 - [electron](https://github.com/electron/electron) electron 仓库
 
+### 开发模版
+
+- [electron-shadcn](https://github.com/LuanRoger/electron-shadcn) Electron Forge 结合 shadcn-ui（基于 Vite + TypeScript）
+
 ## Tauri
+
+> [awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
@@ -201,6 +209,7 @@ url: /awesome/github.md
 
 ## 工具
 
+- [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
 
@@ -676,6 +685,11 @@ url: /awesome/test.md
 - [官网](https://cn.vitest.dev)
 - [vitest](https://github.com/vitest-dev/vitest) vitest 仓库
 
+### 其他
+
+- [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
+- [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器
+
 ## Jest
 
 ### 官方资源
@@ -852,13 +866,20 @@ url: /awesome/website.md
 
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
 - [caniuse](https://caniuse.com) 浏览器兼容性查询
-- [iconfont](https://www.iconfont.cn) IconFont
+- [iconfont](https://www.iconfont.cn) IconFont(阿里出品)
+- [uiverse](https://uiverse.io) 全球最大的开源 UI 组件库
+- [regexper](https://regexper.com) 正则图形化
+- [editorconfig](https://editorconfig.org) EditorConfig
+- [ipaddress](https://www.ipaddress.com/website)
 
 ## 博客
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- [sorrycc](https://sorrycc.com)
 - [张鑫旭](https://www.zhangxinxu.com)
 - [不如摸鱼去](https://blog.wot-ui.cn)
+- [overreacted](https://overreacted.io)
+- [ishadeed](https://ishadeed.com)
 
 ## 图片处理
 
@@ -868,8 +889,15 @@ url: /awesome/website.md
 
 ## 学习
 
+- [30secondsofcode](https://www.30secondsofcode.org) 编程技术文章，助你提升开发技能
+- [Learn Git Branching](https://learngitbranching.js.org) Git 学习
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
+
+## 其他
+
+- [135editor](https://www.135editor.com) 公众号编辑器
+- [processon](https://www.processon.com) 思维导图
 
 
 
