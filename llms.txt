@@ -27,4 +27,4 @@
 ## 博客
 
 - [博客](/blog/index.md)
-- [移动端调试](/blog/mobile-debug.md)
+- [移动端调试](/blog/mobile-debug.md): 平时在 WEb 应用开发过程中, 可以使用 `console.log` 输出一些调试信息，但是在移动端，我们是看不到的
