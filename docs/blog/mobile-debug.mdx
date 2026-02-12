@@ -37,7 +37,7 @@ pageType: doc-wide
 #### 通过 ADB 进行无线调试 (可选)
 
 如果需要摆脱数据线，可以使用以下步骤：
-1. **启用端口转发**：
+1. **启用端口转发**
 
 在终端执行命令：
 ```bash
@@ -49,15 +49,15 @@ pageType: doc-wide
 
 3. **配置远程调试**
 
-- 访问 [chrome://inspect](chrome://inspect)
+- 访问 `chrome://inspect`
 - 点击 **Port forwarding** 下的 **Add rule**。
 - 输入设备 IP 和端口（例如 `192.168.1.100:9222`）。
 
 4. **开始调试**
 
-在设备上打开网页后，在计算机的 [chrome://inspect](chrome://inspect) 页面点击 **inspect**。
+在设备上打开网页后，在计算机的 `chrome://inspect` 页面点击 **inspect**。
 
-## 4. 注意事项
+### 注意事项
 
 - **ADB 工具**：确保计算机已安装 Android SDK Platform-Tools（含 `adb` 命令）。
 - **防火墙**：确保网络环境允许 9222 端口通信。
