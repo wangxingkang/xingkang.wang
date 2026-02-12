@@ -8,6 +8,7 @@
 
 ## 通用
 
+- [deepseek](https://chat.deepseek.com) 深度求索出品
 - [gemini](https://gemini.google.com) Google 出品
 - [doubao](https://www.doubao.com) 字节出品
 - [qianwen](https://www.qianwen.com) 阿里出品

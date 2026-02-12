@@ -44,6 +44,7 @@ url: /awesome/ai.md
 
 ## 通用
 
+- [deepseek](https://chat.deepseek.com) 深度求索出品
 - [gemini](https://gemini.google.com) Google 出品
 - [doubao](https://www.doubao.com) 字节出品
 - [qianwen](https://www.qianwen.com) 阿里出品
@@ -123,6 +124,11 @@ url: /awesome/desktop.md
 
 - [官网](https://www.electronjs.org/zh/)
 - [electron](https://github.com/electron/electron) electron 仓库
+
+## Tauri
+
+- [官网](https://tauri.app/zh-cn/)
+- [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
 
 
 
