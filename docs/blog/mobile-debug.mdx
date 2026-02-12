@@ -1,7 +1,7 @@
 ---
 date: 2026-02-11
 authors: ['wangxingkang']
-description: ''
+description: '平时在 WEb 应用开发过程中, 可以使用 `console.log` 输出一些调试信息，但是在移动端，我们是看不到的'
 sidebar: false
 pageType: doc-wide
 ---
@@ -10,6 +10,23 @@ pageType: doc-wide
 
 ## VConsole
 
+###
+
+1. 安装依赖
+
+import { PackageManagerTabs } from '@rspress/core/theme';
+
+<PackageManagerTabs command="install vconsole" />
+
+2. 引入
+
+在需要调试的页面引入 VConsole
+
+```js
+import VConsole from 'vconsole';
+
+new VConsole();
+```
 
 ## Chrome Inspect
 
