@@ -31,6 +31,7 @@
 
 - [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
   - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
+- [mande](https://github.com/posva/mande) 不到 700 字节的现代化 fetch 便捷封装库，内置智能可扩展的默认配置
 
 ### 发布订阅
 
@@ -213,5 +214,7 @@
 
 ## 其他
 
+- [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
+- [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
