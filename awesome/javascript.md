@@ -77,6 +77,7 @@
 - [dayjs](https://day.js.org/zh-CN/)
 - [date-fns](https://github.com/date-fns/date-fns)
 - [luxon](https://github.com/moment/luxon)
+- [ms](https://github.com/vercel/ms) 一款轻量的毫秒值转换工具
 
 ### Markdown
 
@@ -104,10 +105,14 @@
 
 ### 存储
 
+- [encrypt-storage](https://github.com/michelonsouza/encrypt-storage) EncryptStorage 为前端开发场景提供了更高一层的安全保障
+- [locally](https://github.com/ozantunca/locally) Locally 是一款 localStorage 管理器，支持为存储项设置超时时间以实现过期机制，并通过 LZW 算法压缩数据来节省存储空间
+- [localspace](https://github.com/unadlib/localspace) 一款可将 IndexedDB、localStorage 及其他存储方式的 API 统一为一套标准化接口的库
 - [universal-cookie](https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie) JavaScript 通用 cookie
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
 - [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
+- [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 
 ### 安全
 
@@ -160,6 +165,7 @@
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
+- [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输 📡 + 基于这些通道实现主节点选举（LeaderElection）
 
 ## 组件
 
