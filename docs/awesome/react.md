@@ -16,6 +16,7 @@
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
+- [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
 
 ## 多语言
