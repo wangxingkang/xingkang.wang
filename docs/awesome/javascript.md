@@ -1,5 +1,10 @@
 # JavaScript
 
+## AI
+
+- [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
+- [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+
 ## 动画
 
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
@@ -162,7 +167,6 @@
 - [lru-cache](https://github.com/isaacs/node-lru-cache) 一款会自动删除最近最少使用项的高性能缓存工具
 - [flexsearch](https://github.com/nextapps-de/flexsearch) 面向浏览器与 Node.js 的新一代全文检索工具库
 - [@zenfs/dom](https://github.com/zen-fs/dom) ZenFS 的 DOM 端适配层
-- [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
