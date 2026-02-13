@@ -70,13 +70,25 @@
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
 - [chatbox](https://github.com/chatboxai/chatbox) 强大的 AI 客户端
+- [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
 
 ## 产品
+
+### 智能体
 
 - [扣子空间](https://www.coze.cn)
 - [Manus](https://manus.im)
 - [天工](https://www.tiangong.cn)
-- [蚂蚁阿福](https://chat.antafu.com)
+
+### 编程
+
 - [uxbot](https://www.uxbot.cn) 生成网站与App的视觉设计、交互原型及前端代码
+
+### 图片
+
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+
+### 其他
+
+- [蚂蚁阿福](https://chat.antafu.com)

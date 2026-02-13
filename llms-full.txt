@@ -106,16 +106,28 @@ url: /awesome/ai.md
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
 - [chatbox](https://github.com/chatboxai/chatbox) 强大的 AI 客户端
+- [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
 
 ## 产品
+
+### 智能体
 
 - [扣子空间](https://www.coze.cn)
 - [Manus](https://manus.im)
 - [天工](https://www.tiangong.cn)
-- [蚂蚁阿福](https://chat.antafu.com)
+
+### 编程
+
 - [uxbot](https://www.uxbot.cn) 生成网站与App的视觉设计、交互原型及前端代码
+
+### 图片
+
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+
+### 其他
+
+- [蚂蚁阿福](https://chat.antafu.com)
 
 
 
@@ -237,6 +249,11 @@ url: /awesome/javascript.md
 ---
 
 # JavaScript
+
+## AI
+
+- [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
+- [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
 
 ## 动画
 
@@ -400,7 +417,6 @@ url: /awesome/javascript.md
 - [lru-cache](https://github.com/isaacs/node-lru-cache) 一款会自动删除最近最少使用项的高性能缓存工具
 - [flexsearch](https://github.com/nextapps-de/flexsearch) 面向浏览器与 Node.js 的新一代全文检索工具库
 - [@zenfs/dom](https://github.com/zen-fs/dom) ZenFS 的 DOM 端适配层
-- [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
