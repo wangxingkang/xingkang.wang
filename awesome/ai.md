@@ -15,6 +15,7 @@
 - [qianwen](https://www.qianwen.com) 阿里出品
 - [kimi](https://www.kimi.com)
 - [chatgpt](https://chatgpt.com) OpenAI 出品
+- [minimaxi](https://agent.minimaxi.com) MiniMax 出品
 
 ## 编程
 
@@ -53,7 +54,7 @@
 
 ### 图片
 
-- [jaaz](https://jaaz.app) 内容创作多模态智能体
+- [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
 
 ### 视频
@@ -86,6 +87,7 @@
 
 ### 图片
 
+- [jaaz](https://jaaz.app) 内容创作多模态智能体
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
 
