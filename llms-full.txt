@@ -339,6 +339,11 @@ url: /awesome/javascript.md
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 
+### 3D
+
+- [Babylon](https://github.com/BabylonJS/Babylon.js)
+- [three](https://github.com/mrdoob/three.js)
+
 ### 其他
 
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
@@ -711,6 +716,11 @@ url: /awesome/react.md
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
 
+### 3D
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
+- [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
+
 ### 其他
 
 - [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
@@ -1063,6 +1073,7 @@ url: /awesome/website.md
 - [regexper](https://regexper.com) 正则图形化
 - [editorconfig](https://editorconfig.org) EditorConfig
 - [ipaddress](https://www.ipaddress.com/website)
+- [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
 
 ## 博客
 

@@ -78,6 +78,11 @@
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
 
+### 3D
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
+- [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
+
 ### 其他
 
 - [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
