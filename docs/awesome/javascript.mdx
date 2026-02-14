@@ -20,6 +20,11 @@
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 
+### 3D
+
+- [Babylon](https://github.com/BabylonJS/Babylon.js)
+- [three](https://github.com/mrdoob/three.js)
+
 ### 其他
 
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
