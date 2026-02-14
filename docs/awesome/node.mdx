@@ -13,6 +13,8 @@
 
 ## 其他
 
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
+- [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
