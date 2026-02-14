@@ -220,6 +220,7 @@
 #### 音频
 
 - [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+- [recorder-core](https://github.com/xiangyuecn/Recorder) js 录音
 
 #### 其他
 

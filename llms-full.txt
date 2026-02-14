@@ -310,6 +310,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
 - [knip](https://github.com/webpro-nl/knip) ✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖与导出代码。上线前先清理干净！
 
 
@@ -571,6 +572,7 @@ url: /awesome/javascript.md
 #### 音频
 
 - [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+- [recorder-core](https://github.com/xiangyuecn/Recorder) js 录音
 
 #### 其他
 
@@ -625,7 +627,6 @@ url: /awesome/node.md
 - [adm-zip](https://github.com/cthackers/adm-zip) 一款基于 JavaScript 为 Node.js 实现的 ZIP 处理工具，支持用户在内存中或从磁盘读写的方式创建 / 解压 ZIP 文件
 - [minimatch](https://github.com/isaacs/minimatch) 一款基于 JavaScript 实现的 glob 匹配器
 - [node-portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
-- [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
 - [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
@@ -867,6 +868,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
