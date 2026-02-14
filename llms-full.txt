@@ -86,7 +86,6 @@ url: /awesome/ai.md
 
 ### Code
 
-- [lovable](https://lovable.dev)
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
@@ -118,7 +117,6 @@ url: /awesome/ai.md
 - [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
 - [RedInk](https://github.com/HisMax/RedInk) 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
 - [blinko](https://github.com/blinkospace/blinko) 一款开源、可自行托管的个人 AI 笔记工具
-- [fogsight](https://fogsight.ai) Fogsight 是一款由大语言模型驱动的 AI 智能体与动画引擎
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
 - [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
 
@@ -272,7 +270,6 @@ url: /awesome/engineering.md
 
 ### Electron
 
-- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron ⚡️ Vite
 - [electron-vite](https://github.com/alex8088/electron-vite) 新一代 Electron 开发构建工具，支持源代码保护
 
 ### 其他
@@ -487,8 +484,8 @@ url: /awesome/javascript.md
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
 - [prosemirror](https://prosemirror.net/) ProseMirror 所见即所得含义编辑器
 - [remark](https://github.com/remarkjs/remark) 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
-  - [remark-math](https://github.com/remarkjs/remark-math)
-  - [rehype-katex](https://github.com/remarkjs/remark-math) 支持数学公式的 remark 与 rehype 插件
+  - [remark-math](https://github.com/remarkjs/remark-math/tree/main/packages/remark-math)
+  - [rehype-katex](https://github.com/remarkjs/remark-math/tree/main/packages/rehype-katex) 支持数学公式的 remark 与 rehype 插件
   - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
   - [rehype-raw](https://github.com/rehypejs/rehype-raw) 用于重新解析语法树的插件
   - [remark-gfm](https://github.com/remarkjs/remark-gfm) 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）
@@ -1059,7 +1056,7 @@ url: /awesome/uni.md
 ## 官方资源
 
 - [官网](https://uniapp.dcloud.net.cn)
-- [react](https://github.com/facebook/react) react 仓库
+- [uni](https://github.com/dcloudio/uni-app) react 仓库
 
 ## 数据可视化
 
