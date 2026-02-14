@@ -23,8 +23,14 @@
 
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) 将代码改造为支持在普通浏览器中，基于 Vite 实现顶层 `await` 特性
 
+### Electron
+
+- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron ⚡️ Vite
+- [electron-vite](https://github.com/alex8088/electron-vite) 新一代 Electron 开发构建工具，支持源代码保护
+
 ### 其他
 
+- [@tailwindcss/vite](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-vite)
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
@@ -48,6 +54,12 @@
 
 - [官网](https://webpack.js.org)
 - [webpack](https://github.com/webpack/webpack) webpack 仓库
+
+## Babel
+
+### 插件
+
+- [babel-plugin-react-compiler](https://github.com/facebook/react/tree/HEAD/compiler/packages/babel-plugin-react-compiler) 适用于 React Compiler 的 Babel 插件
 
 ## 其他
 

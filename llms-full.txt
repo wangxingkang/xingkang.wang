@@ -173,6 +173,7 @@ url: /awesome/css.md
 ## Tailwind CSS
 
 - [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
+- [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 
 ## Reset
 
@@ -183,6 +184,10 @@ url: /awesome/css.md
 - [reseter.css](https://github.com/kkrishguptaa/reseter.css)
 - [reset.css](https://github.com/shannonmoeller/reset-css)
 - [modern-css-reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
+## Postcss
+
+- [autoprefixer](https://github.com/postcss/autoprefixer) 解析 CSS 并依据 Can I Use 数据为样式规则添加浏览器厂商前缀
 
 ## 工程化
 
@@ -211,6 +216,21 @@ url: /awesome/desktop.md
 ### 开发模版
 
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn) Electron Forge 结合 shadcn-ui（基于 Vite + TypeScript）
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+- [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
+
+### 开源项目
+
+- [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
+- [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
+- [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
+- [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+## 其他
+
+- [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
+- [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
+- [electron-builder](https://github.com/electron-userland/electron-builder) 一套一站式解决方案，可打包并构建出可直接分发的 Electron 应用，且开箱即支持自动更新功能
 
 ## Tauri
 
@@ -250,8 +270,14 @@ url: /awesome/engineering.md
 
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) 将代码改造为支持在普通浏览器中，基于 Vite 实现顶层 `await` 特性
 
+### Electron
+
+- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron ⚡️ Vite
+- [electron-vite](https://github.com/alex8088/electron-vite) 新一代 Electron 开发构建工具，支持源代码保护
+
 ### 其他
 
+- [@tailwindcss/vite](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-vite)
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
@@ -275,6 +301,12 @@ url: /awesome/engineering.md
 
 - [官网](https://webpack.js.org)
 - [webpack](https://github.com/webpack/webpack) webpack 仓库
+
+## Babel
+
+### 插件
+
+- [babel-plugin-react-compiler](https://github.com/facebook/react/tree/HEAD/compiler/packages/babel-plugin-react-compiler) 适用于 React Compiler 的 Babel 插件
 
 ## 其他
 
@@ -377,10 +409,15 @@ url: /awesome/javascript.md
 ### 字符串
 
 - [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
-- [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
 - [qs](https://github.com/ljharb/qs) 一款支持嵌套功能的查询字符串解析器与序列化器
 - [change-case](https://github.com/blakeembrey/change-case) 实现字符串在小驼峰式、大驼峰式、首字母大写式、下划线式等命名格式间的转换
 - [normalize-url](https://github.com/sindresorhus/normalize-url) 规范化 URL
+
+### 样式相关
+
+- [class-variance-authority](https://github.com/joe-bell/cva) 类变体管理器
+- [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
+- [tailwind-merge](https://github.com/dcastil/tailwind-merge) 合并 Tailwind CSS 类名，且不会产生样式冲突
 
 ### 文件相关
 
@@ -464,6 +501,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [diff2html](https://github.com/rtfpessoa/diff2html)
+- [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
+- [diff](https://github.com/kpdecker/jsdiff) 一款基于 JavaScript 实现的文本对比工具
 - [prism-code-editor](https://github.com/jonpyt/prism-code-editor) 一款基于 Prism 打造的轻量级、可扩展的 Web 端代码编辑器组件
 - [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
 - [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
@@ -581,11 +621,18 @@ url: /awesome/node.md
 
 ## 其他
 
+- [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
+- [adm-zip](https://github.com/cthackers/adm-zip) 一款基于 JavaScript 为 Node.js 实现的 ZIP 处理工具，支持用户在内存中或从磁盘读写的方式创建 / 解压 ZIP 文件
+- [minimatch](https://github.com/isaacs/minimatch) 一款基于 JavaScript 实现的 glob 匹配器
+- [node-portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
+- [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
+- [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
+- [node-tar](https://github.com/isaacs/node-tar) tar for node
 
 
 
@@ -783,9 +830,12 @@ url: /awesome/react.md
 ### 图标
 
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
+- [@hugeicons/react](https://github.com/hugeicons/react)
 
 ### 其他
 
+- [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
+- [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
 - [@use-gesture/react](https://github.com/pmndrs/use-gesture) 鼠标/触摸手势的基本实用工具
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
@@ -887,6 +937,9 @@ url: /awesome/test.md
 
 ### 其他
 
+- [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
+- [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
+- [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
 - [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器
 

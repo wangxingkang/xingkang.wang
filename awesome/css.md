@@ -15,6 +15,7 @@
 ## Tailwind CSS
 
 - [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
+- [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 
 ## Reset
 
@@ -25,6 +26,10 @@
 - [reseter.css](https://github.com/kkrishguptaa/reseter.css)
 - [reset.css](https://github.com/shannonmoeller/reset-css)
 - [modern-css-reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
+## Postcss
+
+- [autoprefixer](https://github.com/postcss/autoprefixer) 解析 CSS 并依据 Can I Use 数据为样式规则添加浏览器厂商前缀
 
 ## 工程化
 

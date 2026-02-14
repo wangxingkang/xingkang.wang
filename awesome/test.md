@@ -9,6 +9,9 @@
 
 ### 其他
 
+- [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
+- [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
+- [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
 - [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器
 
