@@ -32,6 +32,11 @@
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
 
+## 多语言
+
+- [i18next](https://github.com/i18next/i18next)
+  - [i18next-browser-languagedetector](https://github.com/i18next/i18next-browser-languageDetector) 适用于 i18next 的浏览器环境语言检测插件
+
 ## 工具库
 
 ### 综合
@@ -132,6 +137,7 @@
 - [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
+- [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 
 ### 安全
 
@@ -151,6 +157,7 @@
 
 ### 其他
 
+- [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态
 - [clipboard-copy](https://github.com/feross/clipboard-copy) 面向网页端的轻量级剪贴板复制工具
 - [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 通过 JavaScript 从浏览器端将内容复制到剪贴板
 - [clipboard](https://github.com/zenorocha/clipboard.js) ✂️ 现代化剪贴板复制工具，无需 Flash，仅 3KB 压缩体积

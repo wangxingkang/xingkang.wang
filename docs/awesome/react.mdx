@@ -52,6 +52,8 @@
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
+- [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
+  - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
 
 ## 动画
 
@@ -137,7 +139,8 @@
 
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
-- [mdx-editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
+- [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
+- [@mdxeditor/editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
 
 ### 富文本
 
@@ -163,6 +166,7 @@
 
 ### 其他
 
+- [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
