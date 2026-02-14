@@ -18,12 +18,20 @@
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
 
+### Hooks
+
+- [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) 一个轻量级的 React Hook，主要面向 AI 聊天类应用场景，用于实现消息列表平滑贴合底部的效果
+
 ### 组件
 
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+
+### 其他
+
+- [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
 ## 多语言
 
@@ -50,6 +58,7 @@
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
 - [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
 - [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
+- [@rive-app/react-webgl2](https://github.com/rive-app/rive-react)
 
 ## Hooks
 
@@ -140,6 +149,7 @@
 ### 音视频
 
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
+- [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 
 ### 拖拽
 
