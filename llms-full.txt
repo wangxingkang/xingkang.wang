@@ -427,6 +427,7 @@ url: /awesome/javascript.md
 - [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
 - [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
 - [imagemin](https://github.com/imagemin/imagemin) 图像压缩
+- [mime](https://github.com/broofa/mime) JavaScript 中的 MIME 类型
 
 ### 数据校验
 
@@ -502,6 +503,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [jose](https://github.com/panva/jose) 适用于 Node.js、浏览器、Cloudflare Workers、Deno、Bun 及其他 Web 互操作运行时的 JWA、JWS、JWE、JWT、JWK、JWKS 相关实现
 - [diff2html](https://github.com/rtfpessoa/diff2html)
 - [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
 - [diff](https://github.com/kpdecker/jsdiff) 一款基于 JavaScript 实现的文本对比工具
@@ -671,6 +673,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航
 
@@ -704,12 +707,20 @@ url: /awesome/react.md
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
 
+### Hooks
+
+- [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) 一个轻量级的 React Hook，主要面向 AI 聊天类应用场景，用于实现消息列表平滑贴合底部的效果
+
 ### 组件
 
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+
+### 其他
+
+- [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
 ## 多语言
 
@@ -736,6 +747,7 @@ url: /awesome/react.md
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
 - [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
 - [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
+- [@rive-app/react-webgl2](https://github.com/rive-app/rive-react)
 
 ## Hooks
 
@@ -826,6 +838,7 @@ url: /awesome/react.md
 ### 音视频
 
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
+- [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 
 ### 拖拽
 

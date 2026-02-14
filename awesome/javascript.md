@@ -75,6 +75,7 @@
 - [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
 - [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
 - [imagemin](https://github.com/imagemin/imagemin) 图像压缩
+- [mime](https://github.com/broofa/mime) JavaScript 中的 MIME 类型
 
 ### 数据校验
 
@@ -150,6 +151,7 @@
 
 ### 其他
 
+- [jose](https://github.com/panva/jose) 适用于 Node.js、浏览器、Cloudflare Workers、Deno、Bun 及其他 Web 互操作运行时的 JWA、JWS、JWE、JWT、JWK、JWKS 相关实现
 - [diff2html](https://github.com/rtfpessoa/diff2html)
 - [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
 - [diff](https://github.com/kpdecker/jsdiff) 一款基于 JavaScript 实现的文本对比工具
