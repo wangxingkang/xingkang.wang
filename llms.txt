@@ -9,6 +9,7 @@
 ## 精选资源
 
 - [AI](/awesome/ai.md)
+- [Css](/awesome/css.md)
 - [Desktop](/awesome/desktop.md)
 - [工程化](/awesome/engineering.md)
 - [GitHub](/awesome/github.md)
@@ -19,6 +20,8 @@
 - [React Native](/awesome/react-native.md)
 - [React](/awesome/react.md)
 - [Rust](/awesome/rust.md)
+- [Solid](/awesome/solid.md)
+- [Svelte](/awesome/svelte.md)
 - [Test](/awesome/test.md)
 - [Uni](/awesome/uni.md)
 - [Vue](/awesome/vue.md)

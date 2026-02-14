@@ -153,6 +153,49 @@ url: /awesome/ai.md
 
 
 ---
+url: /awesome/css.md
+---
+
+# Css
+
+## 工具
+
+### 预处理器
+
+- [less](https://github.com/less/less.js) 动态样式表语言
+- [sass](https://sass-lang.com/) Sass 是全球最成熟、稳定且功能强大的专业级 CSS 扩展语言
+
+### 原子化
+
+- [tailwindcss](https://tailwindcss.com/) 一款面向快速 UI 开发的实用优先 CSS 框架
+- [unocss](https://unocss.dev/) 一款即时按需原子化 CSS 引擎
+
+## Tailwind CSS
+
+- [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
+
+## Reset
+
+- [@unocss/reset](https://github.com/unocss/unocss/tree/main/packages-presets/reset)
+- [@csstools/normalize.css](https://github.com/csstools/normalize.css)
+- [normalize.css](https://github.com/necolas/normalize.css)
+- [sanitize.css](https://github.com/csstools/sanitize.css)
+- [reseter.css](https://github.com/kkrishguptaa/reseter.css)
+- [reset.css](https://github.com/shannonmoeller/reset-css)
+- [modern-css-reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
+## 工程化
+
+- [weapp-tailwindcss](https://tw.icebreaker.top/) 把 tailwindcss 原子化思想带入小程序开发
+- [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) 一款用于 Tailwind CSS 样式混淆的混淆器工具
+
+## 学习
+
+- [iCSS](https://github.com/chokcoco/iCSS) 不止于 CSS
+
+
+
+---
 url: /awesome/desktop.md
 ---
 
@@ -263,6 +306,11 @@ url: /awesome/go.md
 
 - [官网](https://golang.google.cn)
 
+## 其他
+
+- [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
+- [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
+
 
 
 ---
@@ -285,17 +333,18 @@ url: /awesome/javascript.md
 
 ## 数据可视化
 
+### 图表
+
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
-- [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
+
+### 其他
+
+- [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
-
-## 图标
-
-- [lucide](https://lucide.dev/guide/packages/lucide)
 
 ## 工具库
 
@@ -469,11 +518,23 @@ url: /awesome/javascript.md
 
 ### 音视频
 
-- [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+#### 视频
+
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
+
+#### 音频
+
+- [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+
+#### 其他
+
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
+
+## 图标
+
+- [lucide](https://lucide.dev/guide/packages/lucide)
 
 ### 拖拽
 
@@ -515,6 +576,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
+- [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
@@ -759,6 +822,43 @@ url: /awesome/rust.md
 ## 官方资源
 
 - [官网](https://rust-lang.org/zh-CN/)
+
+## 其他
+
+- [x-algorithm](https://github.com/xai-org/x-algorithm)
+
+
+
+---
+url: /awesome/solid.md
+---
+
+# Solid
+
+## 图标
+
+- [lucide-solid](https://lucide.dev/guide/packages/lucide-solid)
+
+## 组件
+
+- [@tanstack/solid-virtual](https://github.com/TanStack/virtual) 虚拟列表
+
+
+
+---
+url: /awesome/svelte.md
+---
+
+# Svelte
+
+## 图标
+
+- [lucide-svelte](https://lucide.dev/guide/packages/lucide-svelte)
+
+## 组件
+
+- [@tanstack/svelte-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 
 
 

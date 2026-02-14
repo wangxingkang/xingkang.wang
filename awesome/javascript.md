@@ -14,17 +14,18 @@
 
 ## 数据可视化
 
+### 图表
+
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
-- [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
+
+### 其他
+
+- [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
-
-## 图标
-
-- [lucide](https://lucide.dev/guide/packages/lucide)
 
 ## 工具库
 
@@ -198,11 +199,23 @@
 
 ### 音视频
 
-- [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+#### 视频
+
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
+
+#### 音频
+
+- [howler](https://github.com/goldfire/howler.js) 面向现代 Web 开发的 JavaScript 音频类库
+
+#### 其他
+
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
+
+## 图标
+
+- [lucide](https://lucide.dev/guide/packages/lucide)
 
 ### 拖拽
 
