@@ -4,6 +4,7 @@
 
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+- [a2ui](https://a2ui.org)
 
 ## 动画
 

@@ -16,6 +16,7 @@
 - [kimi](https://www.kimi.com)
 - [chatgpt](https://chatgpt.com) OpenAI 出品
 - [minimaxi](https://agent.minimaxi.com) MiniMax 出品
+- [z](https://chat.z.ai) 智谱出品
 
 ## 编程
 
@@ -49,17 +50,24 @@
 
 ### Code
 
+- [lovable](https://lovable.dev)
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
+- [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
+
+### UI
+
+- [withgoogle](https://stitch.withgoogle.com) AI 赋能，加速设计
 
 ### 图片
 
 - [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
 
-### 视频
+### 音视频
 
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
+- [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
 
 ### 其他
 
@@ -72,6 +80,11 @@
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
 - [chatbox](https://github.com/chatboxai/chatbox) 强大的 AI 客户端
 - [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
+- [RedInk](https://github.com/HisMax/RedInk) 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
+- [blinko](https://github.com/blinkospace/blinko) 一款开源、可自行托管的个人 AI 笔记工具
+- [fogsight](https://fogsight.ai) Fogsight 是一款由大语言模型驱动的 AI 智能体与动画引擎
+- [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
+- [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
 
 ## 产品
 
@@ -83,7 +96,9 @@
 
 ### 编程
 
+- [lovable](https://lovable.dev)
 - [uxbot](https://www.uxbot.cn) 生成网站与App的视觉设计、交互原型及前端代码
+- [v0](https://v0.app)
 
 ### 图片
 
@@ -94,3 +109,7 @@
 ### 其他
 
 - [蚂蚁阿福](https://chat.antafu.com)
+- [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
+- [meshy](https://www.meshy.ai) 创建3D模型
+- [flourish](https://flourish.studio) 图表、地图与交互式内容
+- [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
