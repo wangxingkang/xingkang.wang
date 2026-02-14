@@ -823,6 +823,10 @@ url: /awesome/react.md
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
 
+### 音视频
+
+- [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
+
 ### 拖拽
 
 - [react-draggable](https://github.com/react-grid-layout/react-draggable) React 可拖拽组件
