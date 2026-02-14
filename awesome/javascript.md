@@ -151,6 +151,10 @@
 
 ### 其他
 
+- [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
+- [debug](https://github.com/debug-js/debug) 一款轻量级 JavaScript 调试工具，仿照 Node.js 核心调试技术打造，同时支持 Node.js 和网页浏览器环境
+- [marked](https://github.com/markedjs/marked) 一款 Markdown 解析器与编译器，为极致性能而生
+- [turndown](https://github.com/mixmark-io/turndown) 🛏 一款基于 JavaScript 编写的 HTML 转 Markdown 转换器
 - [jose](https://github.com/panva/jose) 适用于 Node.js、浏览器、Cloudflare Workers、Deno、Bun 及其他 Web 互操作运行时的 JWA、JWS、JWE、JWT、JWK、JWKS 相关实现
 - [diff2html](https://github.com/rtfpessoa/diff2html)
 - [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
