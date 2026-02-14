@@ -115,8 +115,8 @@
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
 - [prosemirror](https://prosemirror.net/) ProseMirror 所见即所得含义编辑器
 - [remark](https://github.com/remarkjs/remark) 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
-  - [remark-math](https://github.com/remarkjs/remark-math)
-  - [rehype-katex](https://github.com/remarkjs/remark-math) 支持数学公式的 remark 与 rehype 插件
+  - [remark-math](https://github.com/remarkjs/remark-math/tree/main/packages/remark-math)
+  - [rehype-katex](https://github.com/remarkjs/remark-math/tree/main/packages/rehype-katex) 支持数学公式的 remark 与 rehype 插件
   - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
   - [rehype-raw](https://github.com/rehypejs/rehype-raw) 用于重新解析语法树的插件
   - [remark-gfm](https://github.com/remarkjs/remark-gfm) 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）

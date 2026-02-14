@@ -25,7 +25,6 @@
 
 ### Electron
 
-- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron ⚡️ Vite
 - [electron-vite](https://github.com/alex8088/electron-vite) 新一代 Electron 开发构建工具，支持源代码保护
 
 ### 其他

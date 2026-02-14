@@ -3,7 +3,7 @@
 ## 官方资源
 
 - [官网](https://uniapp.dcloud.net.cn)
-- [react](https://github.com/facebook/react) react 仓库
+- [uni](https://github.com/dcloudio/uni-app) react 仓库
 
 ## 数据可视化
 
