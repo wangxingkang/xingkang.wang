@@ -151,6 +151,9 @@
 
 ### 其他
 
+- [clipboard-copy](https://github.com/feross/clipboard-copy) 面向网页端的轻量级剪贴板复制工具
+- [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 通过 JavaScript 从浏览器端将内容复制到剪贴板
+- [clipboard](https://github.com/zenorocha/clipboard.js) ✂️ 现代化剪贴板复制工具，无需 Flash，仅 3KB 压缩体积
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [debug](https://github.com/debug-js/debug) 一款轻量级 JavaScript 调试工具，仿照 Node.js 核心调试技术打造，同时支持 Node.js 和网页浏览器环境
 - [marked](https://github.com/markedjs/marked) 一款 Markdown 解析器与编译器，为极致性能而生
