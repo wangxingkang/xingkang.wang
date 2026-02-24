@@ -61,3 +61,4 @@
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
 - [tar](https://github.com/isaacs/node-tar) tar for node
+- [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
