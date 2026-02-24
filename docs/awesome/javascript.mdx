@@ -157,6 +157,7 @@
 
 ### 其他
 
+- [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
 - [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态
 - [clipboard-copy](https://github.com/feross/clipboard-copy) 面向网页端的轻量级剪贴板复制工具
 - [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 通过 JavaScript 从浏览器端将内容复制到剪贴板

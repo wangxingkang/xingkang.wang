@@ -15,6 +15,7 @@
 - [react](https://zh-hans.react.dev)
 - [@tanstack/react-router](https://tanstack.com/router/latest) 路由
 - [zustand](https://github.com/pmndrs/zustand) 状态管理
+  - [immer](https://github.com/immerjs/immer) 处理不可变数据集
 - [antd](https://ant.design/index-cn) 组件库
 
 ## Vue
