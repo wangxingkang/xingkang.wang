@@ -1,1 +1,10 @@
-["coding", "code-analysis"]
+[
+  {
+    "type": "dir",
+    "name": "coding",
+    "label": "手写代码",
+    "collapsible": true,
+    "collapsed": false
+  },
+  "code-analysis"
+]
