@@ -31,4 +31,5 @@ export default defineConfig({
     enableContentAnimation: true,
     enableScrollToTop: true,
   },
+  globalStyles: path.join(__dirname, 'tailwind.css'),
 });
