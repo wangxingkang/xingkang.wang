@@ -1284,10 +1284,30 @@ url: /interview/code-analysis.md
 
 
 ---
-url: /interview/coding/001.md
+url: /interview/coding/0001.md
 ---
 
 # 将二维数组转换为 HTML 表格字符串
+
+中等
+JavaScript
+手写代码
+## 题目描述
+
+将只包含数字的二维数组，转换为 HTML 表格字符串，要求将每列的最大值高亮;
+
+```ts
+function arrayToHighlightedTable(arr: number[][]): string {
+
+}
+
+// 验证
+arrayToHighlightedTable([
+  [6, 5, 1, 2],
+  [1, 2, 1, 1],
+  [3, 5, 0, 1],
+]);
+```
 
 
 

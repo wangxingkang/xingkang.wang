@@ -31,7 +31,7 @@
 
 - [](/interview/algorithm.md)
 - [代码分析](/interview/code-analysis.md)
-- [将二维数组转换为 HTML 表格字符串](/interview/coding/001.md)
+- [将二维数组转换为 HTML 表格字符串](/interview/coding/0001.md)
 - [](/interview/css.md)
 - [](/interview/git.md)
 - [](/interview/javascript.md)
