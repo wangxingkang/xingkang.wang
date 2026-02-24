@@ -10,6 +10,11 @@
     "activeMatch": "/awesome/"
   },
   {
+    "text": "面试",
+    "link": "/interview/coding",
+    "activeMatch": "/interview/"
+  },
+  {
     "text": "博客",
     "link": "/blog/",
     "activeMatch": "/blog/"
