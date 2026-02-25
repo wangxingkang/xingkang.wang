@@ -164,6 +164,7 @@
 
 ### 其他
 
+- [unlazy](https://github.com/johannschopplich/unlazy) 图片懒加载
 - [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
 - [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
