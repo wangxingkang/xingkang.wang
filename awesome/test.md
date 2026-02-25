@@ -14,6 +14,7 @@
 - [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
 - [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器
+- [vitest-canvas-mock](https://github.com/wobsoriano/vitest-canvas-mock) 一个用于在 Vitest 中模拟 Canvas 的模块
 
 ## Jest
 
