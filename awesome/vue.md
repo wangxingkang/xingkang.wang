@@ -90,3 +90,7 @@
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 - [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
 - [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
+
+## 开源项目
+
+- [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目

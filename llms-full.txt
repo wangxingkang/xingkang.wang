@@ -381,6 +381,7 @@ url: /awesome/javascript.md
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
+- [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
 
 ## 数据可视化
 
@@ -499,6 +500,7 @@ url: /awesome/javascript.md
 
 ### 存储
 
+- [dexie](https://github.com/dexie/Dexie.js) 轻量级的 IndexedDB 库
 - [encrypt-storage](https://github.com/michelonsouza/encrypt-storage) EncryptStorage 为前端开发场景提供了更高一层的安全保障
 - [locally](https://github.com/ozantunca/locally) Locally 是一款 localStorage 管理器，支持为存储项设置超时时间以实现过期机制，并通过 LZW 算法压缩数据来节省存储空间
 - [localspace](https://github.com/unadlib/localspace) 一款可将 IndexedDB、localStorage 及其他存储方式的 API 统一为一套标准化接口的库
@@ -527,6 +529,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
 - [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
 - [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态
 - [clipboard-copy](https://github.com/feross/clipboard-copy) 面向网页端的轻量级剪贴板复制工具
@@ -626,6 +629,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) 五彩纸屑动画效果
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
@@ -635,9 +640,11 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
 - [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
 - [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
+- [json-server](https://github.com/typicode/json-server) 不用写代码就能模拟接口数据
 
 
 
@@ -1203,6 +1210,10 @@ url: /awesome/vue.md
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 - [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
 - [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
+
+## 开源项目
+
+- [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目
 
 
 
