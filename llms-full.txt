@@ -541,6 +541,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能
 - [unlazy](https://github.com/johannschopplich/unlazy) 图片懒加载
 - [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
