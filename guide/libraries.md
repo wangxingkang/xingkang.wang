@@ -17,6 +17,7 @@
 - [zustand](https://github.com/pmndrs/zustand) 状态管理
   - [immer](https://github.com/immerjs/immer) 处理不可变数据集
 - [antd](https://ant.design/index-cn) 组件库
+- [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟化列表
 
 ## Vue
 
