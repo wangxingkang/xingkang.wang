@@ -26,6 +26,10 @@
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
 
+### 地理
+
+- [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
+
 ### 其他
 
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
@@ -140,6 +144,7 @@
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
+- [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
 
 ### 安全
 
@@ -159,6 +164,7 @@
 
 ### 其他
 
+- [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
 - [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
 - [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态

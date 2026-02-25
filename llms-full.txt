@@ -120,6 +120,7 @@ url: /awesome/ai.md
 - [blinko](https://github.com/blinkospace/blinko) 一款开源、可自行托管的个人 AI 笔记工具
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
 - [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
 
 ## 产品
 
@@ -339,6 +340,10 @@ url: /awesome/github.md
 
 # GitHub
 
+## 汇总
+
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
+
 ## 工具
 
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
@@ -395,6 +400,10 @@ url: /awesome/javascript.md
 
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
+
+### 地理
+
+- [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
 
 ### 其他
 
@@ -510,6 +519,7 @@ url: /awesome/javascript.md
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
+- [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
 
 ### 安全
 
@@ -529,6 +539,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
 - [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
 - [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态
