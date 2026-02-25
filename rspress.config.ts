@@ -1,5 +1,6 @@
 import * as path from 'node:path';
 import { defineConfig } from '@rspress/core';
+import { pluginSitemap } from '@rspress/plugin-sitemap';
 
 export default defineConfig({
   base: '/',
@@ -15,6 +16,11 @@ export default defineConfig({
     cleanUrls: true,
     exclude: ['components/**'],
   },
+  plugins: [
+    pluginSitemap({
+      siteUrl: 'https://xingkang.wang',
+    }),
+  ],
   llms: true,
   themeConfig: {
     socialLinks: [

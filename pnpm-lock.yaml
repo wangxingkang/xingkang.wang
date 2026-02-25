@@ -27,6 +27,9 @@ importers:
       '@eslint-react/eslint-plugin':
         specifier: ^2.12.2
         version: 2.12.2(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3)
+      '@rspress/plugin-sitemap':
+        specifier: ^2.0.3
+        version: 2.0.3(@rspress/core@2.0.2(@types/react@19.2.13))
       '@tailwindcss/postcss':
         specifier: ^4.2.1
         version: 4.2.1
@@ -554,6 +557,12 @@ packages:
     resolution: {integrity: sha512-tU8rUVaPyC8o8k4ezgigRVQuZhBAC41KWdwZZ0BldN6o+QXSEIb722RnxCTpa9FGK2riqcwJgM+OqqcqXsFpmw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
+
+  '@rspress/plugin-sitemap@2.0.3':
+    resolution: {integrity: sha512-SKa7YEAdkUqya2YjMKbakg3kcYMkXgXhTQdDsHd+QlJWN8j8cDPiCcctMZu8iIPeKZlb+hTJkTWvh27LSIKdOA==}
+    engines: {node: ^20.19.0 || >=22.12.0}
+    peerDependencies:
+      '@rspress/core': ^2.0.3
 
   '@rspress/shared@2.0.2':
     resolution: {integrity: sha512-9+QC8UL1gV2KpRZx4n55vAl6bE38y7eDnGJhdFSHdJkpFbUCiJDk9ZcR6jD/Rrtq7vlT0gfumUk640pxpi3IDQ==}
@@ -3468,6 +3477,10 @@ snapshots:
       - core-js
       - supports-color
       - webpack-hot-middleware
+
+  '@rspress/plugin-sitemap@2.0.3(@rspress/core@2.0.2(@types/react@19.2.13))':
+    dependencies:
+      '@rspress/core': 2.0.2(@types/react@19.2.13)
 
   '@rspress/shared@2.0.2':
     dependencies:
