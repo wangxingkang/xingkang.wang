@@ -212,6 +212,8 @@
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输 📡 + 基于这些通道实现主节点选举（LeaderElection）
+- [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
+- [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 
 ## 组件
 
@@ -258,6 +260,7 @@
 ## 图标
 
 - [lucide](https://lucide.dev/guide/packages/lucide)
+- [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 
 ### 拖拽
 

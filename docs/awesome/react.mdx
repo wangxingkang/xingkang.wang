@@ -88,6 +88,7 @@
 
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
+- [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
 
 ### 3D
 
@@ -132,6 +133,8 @@
 
 ### 反馈
 
+- [react-toastify](https://github.com/fkhadra/react-toastify) 消息通知
+- [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
 - [sonner](https://github.com/emilkowalski/sonner) 一个具有独特风格的 React 提示组件
 
@@ -163,9 +166,14 @@
 
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
 - [@hugeicons/react](https://github.com/hugeicons/react)
+- [@phosphor-icons/react](https://github.com/phosphor-icons/react)
 
 ### 其他
 
+- [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
+- [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
+- [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
