@@ -31,6 +31,7 @@
 
 ### 其他
 
+- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
 ## 多语言
