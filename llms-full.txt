@@ -382,6 +382,7 @@ url: /awesome/javascript.md
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
 - [a2ui](https://a2ui.org)
+- [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
 
 ## 动画
 
@@ -714,6 +715,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档
@@ -822,6 +824,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
 ## 多语言
@@ -1164,6 +1167,7 @@ url: /awesome/vue.md
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
+- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 
 ## 多语言
 

@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档

@@ -14,6 +14,7 @@
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
+- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 
 ## 多语言
 
