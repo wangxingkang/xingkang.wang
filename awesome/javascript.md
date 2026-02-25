@@ -216,6 +216,9 @@
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输 📡 + 基于这些通道实现主节点选举（LeaderElection）
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
+- [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
+- [string-width](https://github.com/sindresorhus/string-width) 获取字符串的视觉宽度 —— 即显示该字符串所需的列数
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
 
 ## 组件
 
