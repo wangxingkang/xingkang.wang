@@ -81,6 +81,7 @@
 
 ### 其他
 
+- [@jambonn/vue-lazyload](https://github.com/jambonn/vue-lazyload) 图片懒加载
 - [@tanstack/vue-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) 基于 fabric.js 的开源图片编辑器
 
