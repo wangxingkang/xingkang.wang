@@ -9,6 +9,7 @@
 - 安全
   - [dompurify](https://github.com/cure53/DOMPurify) XSS
   - [crypto-js](https://github.com/brix/crypto-js) 加解密
+  - [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
 
 ## React
 
