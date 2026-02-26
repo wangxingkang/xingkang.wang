@@ -60,8 +60,10 @@
 
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
 - [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
-- [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
 - [@rive-app/react-webgl2](https://github.com/rive-app/rive-react)
+- [@galacean/effects](https://github.com/galacean/engine) 一款基于 WebGL 和 glTF 构建的 TypeScript 交互式引擎，支持 2D、3D、动画与物理效果
+- [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
+- [lottie-react](https://github.com/Gamote/lottie-react) 用于通过 Lottie 实时渲染复杂的 After Effects 动画
 
 ## Hooks
 
