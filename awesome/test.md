@@ -36,3 +36,7 @@
 
 - [官网](https://playwright.dev)
 - [playwright](https://github.com/microsoft/playwright) playwright 仓库
+
+## 其他
+
+- [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
