@@ -5,6 +5,7 @@
 ## 指南
 
 - [常用库](/guide/libraries.md)
+- [介绍](/template/react/guide/introduction.md)
 
 ## 精选资源
 
@@ -43,3 +44,7 @@
 
 - [博客](/blog/index.md)
 - [移动端调试](/blog/mobile-debug.md): 在 WEB 应用开发过程中, 如何在移动端调试？
+
+## Others
+
+- [更新日志](/template/react/changelog.md)
