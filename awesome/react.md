@@ -93,7 +93,7 @@
 
 ### 3D
 
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
+- [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
 - [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
 
 ### 其他
@@ -110,6 +110,7 @@
 
 ### 通用
 
+- [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react) 图标
 - [@hugeicons/react](https://github.com/hugeicons/react) 图标
 - [@phosphor-icons/react](https://github.com/phosphor-icons/react) 图标
