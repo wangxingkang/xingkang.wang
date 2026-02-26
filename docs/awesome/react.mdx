@@ -108,6 +108,12 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) 一款可手绘风格草图、类白板效果的虚拟白板工具
 - [drawnix](https://github.com/plait-board/drawnix) 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等
 
+### 通用
+
+- [lucide-react](https://lucide.dev/guide/packages/lucide-react) 图标
+- [@hugeicons/react](https://github.com/hugeicons/react) 图标
+- [@phosphor-icons/react](https://github.com/phosphor-icons/react) 图标
+
 ### 布局
 
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
@@ -125,6 +131,7 @@
 
 ### 数据展示
 
+- [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯
 - [reactour](https://github.com/elrumordelaluz/reactour) React 指引组件
 - [react-arborist](https://github.com/brimdata/react-arborist) 适用于 React 的一站式树形视图组件
@@ -132,6 +139,7 @@
 - [react-number-format](https://github.com/s-yadav/react-number-format) 数字格式化组件（支持输入框）
 - [react-grid-gallery](https://github.com/benhowell/react-grid-gallery) 自适应对齐图片画廊组件
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 
 ### 反馈
 
@@ -139,6 +147,7 @@
 - [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
 - [sonner](https://github.com/emilkowalski/sonner) 一个具有独特风格的 React 提示组件
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
 
 ### 文件相关
 
@@ -164,20 +173,11 @@
 - [react-draggable](https://github.com/react-grid-layout/react-draggable) React 可拖拽组件
 - [dnd-kit](https://github.com/clauderic/dnd-kit) 专为 React 打造的现代化、轻量级、高性能、无障碍且可扩展的拖放工具包
 
-### 图标
-
-- [lucide-react](https://lucide.dev/guide/packages/lucide-react)
-- [@hugeicons/react](https://github.com/hugeicons/react)
-- [@phosphor-icons/react](https://github.com/phosphor-icons/react)
-
 ### 其他
 
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
-- [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
-- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
-- [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
