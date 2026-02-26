@@ -1,0 +1,10 @@
+[
+  {
+    "type": "dir",
+    "name": "guide",
+    "label": "指南",
+    "collapsible": true,
+    "collapsed": false
+  },
+  "changelog"
+]

@@ -10,6 +10,27 @@
     "activeMatch": "/awesome/"
   },
   {
+    "text": "开发模版",
+    "items": [
+      {
+        "text": "React Template",
+        "link": "/template/react/guide/introduction"
+      },
+      {
+        "text": "RN Template",
+        "link": "/template/react-native"
+      },
+      {
+        "text": "Vue Template",
+        "link": "/template/vue"
+      },
+      {
+        "text": "Uni Template",
+        "link": "/template/uni"
+      }
+    ]
+  },
+  {
     "text": "面试题",
     "link": "/interview/coding/0001",
     "activeMatch": "/interview/"
