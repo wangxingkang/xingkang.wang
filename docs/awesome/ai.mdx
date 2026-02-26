@@ -14,6 +14,7 @@
 - [doubao](https://www.doubao.com) 字节出品
 - [qianwen](https://www.qianwen.com) 阿里出品
 - [kimi](https://www.kimi.com)
+- [minimaxi](https://agent.minimaxi.com) MiniMax 出品
 - [chatgpt](https://chatgpt.com) OpenAI 出品
 - [minimaxi](https://agent.minimaxi.com) MiniMax 出品
 - [z](https://chat.z.ai) 智谱出品
