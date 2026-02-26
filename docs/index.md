@@ -19,9 +19,10 @@ features:
     details: 汇聚全网优质开发资源，从入门到进阶，从工具到方法论，帮你节省筛选时间，聚焦核心能力提升
     icon: 🔥
     link: /awesome/ai
-  - title: Support for MDX content writing
-    details: MDX is a powerful way to write content, allowing you to use React components in Markdown.
+  - title: 开发模版
+    details: 提供 React、React Native、Vue、Uni 开发模版
     icon: 📦
+    link: /template/react/guide/introduction
   - title: Built-in full-text search
     details: Automatically generates a full-text search index for you during construction, providing out-of-the-box full-text search capabilities.
     icon: 🎨
