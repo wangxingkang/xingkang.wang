@@ -220,6 +220,9 @@
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [string-width](https://github.com/sindresorhus/string-width) 获取字符串的视觉宽度 —— 即显示该字符串所需的列数
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
+- [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
+- [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
+- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
 
 ## 组件
 
