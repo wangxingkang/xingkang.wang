@@ -597,6 +597,9 @@ url: /awesome/javascript.md
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [string-width](https://github.com/sindresorhus/string-width) 获取字符串的视觉宽度 —— 即显示该字符串所需的列数
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
+- [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
+- [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
+- [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
 
 ## 组件
 
@@ -906,6 +909,7 @@ url: /awesome/react.md
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
+- [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
 
 ### 数据录入
 
@@ -964,6 +968,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
