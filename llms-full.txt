@@ -156,6 +156,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [WPS 灵犀](https://lingxi.wps.cn) AI 办公
 - [蚂蚁阿福](https://chat.antafu.com)
 - [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
 - [meshy](https://www.meshy.ai) 创建3D模型
@@ -1322,6 +1323,7 @@ url: /awesome/website.md
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
+- [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
 
 ## 素材
 
