@@ -317,7 +317,7 @@ url: /awesome/engineering.md
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
-- [@module-federation/vite](https://github.com/module-federation/vite) 面向模块联邦的 Vite 插件
+- [@module-federation/vite](https://github.com/module-federation/vite) 模块联邦
 - [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) 面向 Vite 的零配置 PWA 解决方案
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) 为 Vite、Webpack 和 Rollup 实现 API 的按需自动导入
 - [unplugin-info](https://github.com/yjl9903/unplugin-info) 将构建信息导出为虚拟模块
@@ -344,6 +344,10 @@ url: /awesome/engineering.md
 
 - [官网](https://rspack.rs/zh/)
 - [rspack](https://github.com/web-infra-dev/rspack) rspack 仓库
+
+### 其他
+
+- [@module-federation/rsbuild-plugin](https://github.com/module-federation/core/tree/HEAD/packages/rsbuild-plugin) 模块联邦
 
 ## Webpack
 
