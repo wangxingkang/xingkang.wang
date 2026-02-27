@@ -39,6 +39,7 @@
 #### React
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react)
+- [babel-plugin-react-compiler](https://zh-hans.react.dev/learn/react-compiler/incremental-adoption)
 
 #### Vue
 
