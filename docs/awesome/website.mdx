@@ -36,6 +36,7 @@
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
+- [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
 
 ## 素材
 
