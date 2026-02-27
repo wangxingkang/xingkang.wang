@@ -27,3 +27,19 @@
   - [vue](https://cn.vuejs.org)
   - [vue-router](https://router.vuejs.org/zh/) 路由
   - [pinia](https://pinia.vuejs.org/zh/) 状态管理
+
+## 工程化
+
+### [Vite](https://cn.vite.dev)
+
+#### 公共
+
+- [unplugin-info/vite](https://github.com/yjl9903/unplugin-info) 构建信息
+
+#### React
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react)
+
+#### Vue
+
+- [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue)
