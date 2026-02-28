@@ -948,6 +948,7 @@ url: /awesome/react.md
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
+- [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 
 ## 数据可视化
 
@@ -1007,6 +1008,7 @@ url: /awesome/react.md
 - [react-grid-gallery](https://github.com/benhowell/react-grid-gallery) 自适应对齐图片画廊组件
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
+- [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
 
 ### 反馈
 
