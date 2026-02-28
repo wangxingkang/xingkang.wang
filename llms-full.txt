@@ -221,6 +221,7 @@ url: /awesome/css.md
 - [reseter.css](https://github.com/kkrishguptaa/reseter.css)
 - [reset.css](https://github.com/shannonmoeller/reset-css)
 - [modern-css-reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [@atlaskit/css-reset](https://npmx.dev/package/@atlaskit/css-reset)
 
 ## Postcss
 
@@ -1036,7 +1037,7 @@ url: /awesome/react.md
 
 ### 拖拽
 
-- [dnd-kit](https://github.com/clauderic/dnd-kit)
+- [@dnd-kit/react](https://github.com/clauderic/dnd-kit)
 - [react-dnd](https://github.com/react-dnd/react-dnd)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
