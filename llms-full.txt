@@ -136,8 +136,9 @@ url: /awesome/ai.md
 
 ### 其他
 
-- [openclaw](https://github.com/openclaw/openclaw) 你专属的个人 AI 助手
-- [picoclaw](https://github.com/sipeed/picoclaw) 超轻量级个人 AI 助手
+- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
+- [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
@@ -400,12 +401,14 @@ url: /awesome/go.md
 
 ## 官方资源
 
-- [官网](https://golang.google.cn)
+- [官网](https://golang.google.cn) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
 
 ## 其他
 
+- [undici](https://github.com/nodejs/undici)
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
+- [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
 
 
 
@@ -580,6 +583,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
+- [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
 - [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能
 - [unlazy](https://github.com/johannschopplich/unlazy) 图片懒加载
 - [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
@@ -692,6 +697,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 五彩纸屑动画效果
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
@@ -703,6 +709,12 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
+- [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型
+- [ipaddr.js](https://github.com/whitequark/ipaddr.js)  IP 地址处理
+- [json5](https://github.com/json5/json5) 更友好、更易用的 JSON
+- [linkedom](https://github.com/WebReflection/linkedom) 基于三向链表的 DOM 实现
+- [long](https://github.com/dcodeIO/long.js) 一个用于表示 64 位二进制补码整数值的 Long 类
 - [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
 - [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
 - [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
@@ -756,6 +768,23 @@ url: /awesome/node.md
 
 ## 其他
 
+- [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
+- [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
+- [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
+- [ajv](https://github.com/ajv-validator/ajv) 速度最快的 JSON Schema 验证器
+- [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
+- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
+- [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
+- [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
+- [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
+- [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
+- [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
+- [grammY](https://github.com/grammyjs/grammY) Telegram 机器人框架
+- [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
+- [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
+- [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
+- [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
+- [tar](https://github.com/isaacs/node-tar) tar for node
 - [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持

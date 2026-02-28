@@ -71,8 +71,9 @@
 
 ### 其他
 
-- [openclaw](https://github.com/openclaw/openclaw) 你专属的个人 AI 助手
-- [picoclaw](https://github.com/sipeed/picoclaw) 超轻量级个人 AI 助手
+- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
+- [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台

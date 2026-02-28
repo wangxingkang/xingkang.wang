@@ -165,6 +165,8 @@
 
 ### 其他
 
+- [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
+- [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
 - [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能
 - [unlazy](https://github.com/johannschopplich/unlazy) 图片懒加载
 - [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
@@ -277,6 +279,7 @@
 
 ### 其他
 
+- [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 五彩纸屑动画效果
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
@@ -288,6 +291,12 @@
 
 ## 其他
 
+- [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
+- [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型
+- [ipaddr.js](https://github.com/whitequark/ipaddr.js)  IP 地址处理
+- [json5](https://github.com/json5/json5) 更友好、更易用的 JSON
+- [linkedom](https://github.com/WebReflection/linkedom) 基于三向链表的 DOM 实现
+- [long](https://github.com/dcodeIO/long.js) 一个用于表示 64 位二进制补码整数值的 Long 类
 - [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
 - [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
 - [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
