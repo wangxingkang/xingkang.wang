@@ -32,6 +32,7 @@
 - [reseter.css](https://github.com/kkrishguptaa/reseter.css)
 - [reset.css](https://github.com/shannonmoeller/reset-css)
 - [modern-css-reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [@atlaskit/css-reset](https://npmx.dev/package/@atlaskit/css-reset)
 
 ## Postcss
 

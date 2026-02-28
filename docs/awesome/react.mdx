@@ -173,7 +173,7 @@
 
 ### 拖拽
 
-- [dnd-kit](https://github.com/clauderic/dnd-kit)
+- [@dnd-kit/react](https://github.com/clauderic/dnd-kit)
 - [react-dnd](https://github.com/react-dnd/react-dnd)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
