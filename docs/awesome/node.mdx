@@ -39,6 +39,23 @@
 
 ## 其他
 
+- [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
+- [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
+- [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
+- [ajv](https://github.com/ajv-validator/ajv) 速度最快的 JSON Schema 验证器
+- [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
+- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
+- [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
+- [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
+- [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
+- [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
+- [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
+- [grammY](https://github.com/grammyjs/grammY) Telegram 机器人框架
+- [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
+- [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
+- [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
+- [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
+- [tar](https://github.com/isaacs/node-tar) tar for node
 - [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
