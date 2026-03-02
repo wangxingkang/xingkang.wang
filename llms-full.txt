@@ -143,6 +143,7 @@ url: /awesome/ai.md
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
+- [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude 的主流智能体编排平台
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
@@ -412,6 +413,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
 - [undici](https://github.com/nodejs/undici)
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
@@ -475,6 +477,7 @@ url: /awesome/javascript.md
 
 - [es-toolkit](https://es-toolkit.dev/zh_hans/) 最先进的JavaScript工具库
 - [lodash](https://github.com/lodash/lodash) 一致性、模块化、高性能的 JavaScript 实用工具库
+- [radashi](https://github.com/radashi-org/radashi) 现代化、社区优先的 TypeScript 工具库
 
 ### 网络请求
 
@@ -591,6 +594,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
 - [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器

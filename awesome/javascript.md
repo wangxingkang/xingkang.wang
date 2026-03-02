@@ -50,6 +50,7 @@
 
 - [es-toolkit](https://es-toolkit.dev/zh_hans/) 最先进的JavaScript工具库
 - [lodash](https://github.com/lodash/lodash) 一致性、模块化、高性能的 JavaScript 实用工具库
+- [radashi](https://github.com/radashi-org/radashi) 现代化、社区优先的 TypeScript 工具库
 
 ### 网络请求
 
@@ -166,6 +167,7 @@
 
 ### 其他
 
+- [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
 - [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
