@@ -71,8 +71,9 @@
 
 ### 其他
 
-- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
+- [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR

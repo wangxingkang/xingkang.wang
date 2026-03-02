@@ -136,8 +136,9 @@ url: /awesome/ai.md
 
 ### 其他
 
-- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
+- [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
@@ -588,6 +589,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
 - [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
 - [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能

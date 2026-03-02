@@ -165,6 +165,7 @@
 
 ### 其他
 
+- [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
 - [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
 - [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能
