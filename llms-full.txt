@@ -457,6 +457,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
@@ -971,7 +972,7 @@ url: /awesome/react.md
 
 ### 其他
 
-- [xyflow](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
+- [@xyflow/react](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 
 ## 组件
 
@@ -990,6 +991,7 @@ url: /awesome/react.md
 
 ### 布局
 
+- [rc-dock](https://github.com/ticlo/rc-dock) 适用于 React 组件的停靠式布局
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
@@ -997,6 +999,10 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) 一款基于网页的 JSON 工具，可用于查看、编辑、格式化、修复、查询、转换和验证 JSON 数据
+- [react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field) 金额
+- [react-phone-number-input](https://gitlab.com/catamphetamine/react-phone-number-input) 电话输入
+- [antd-phone-input](https://github.com/typesnippet/antd-phone-input) 电话输入
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
 - [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
@@ -1015,9 +1021,11 @@ url: /awesome/react.md
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
+- [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 
 ### 反馈
 
+- [react-nprogress](https://github.com/tanem/react-nprogress) 顶部进度条
 - [react-toastify](https://github.com/fkhadra/react-toastify) 消息通知
 - [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
@@ -1027,6 +1035,7 @@ url: /awesome/react.md
 ### 文件相关
 
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
+- [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
 - [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
 - [@mdxeditor/editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
@@ -1040,6 +1049,7 @@ url: /awesome/react.md
 
 ### 音视频
 
+- [react-player](https://github.com/CookPete/react-player)
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 
@@ -1058,7 +1068,7 @@ url: /awesome/react.md
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
-- [@use-gesture/react](https://github.com/pmndrs/use-gesture) 鼠标/触摸手势的基本实用工具
+- [@use-gesture/react](https://github.com/pmndrs/use-gesture) 手势库
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
 - [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
