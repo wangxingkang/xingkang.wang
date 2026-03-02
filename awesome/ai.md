@@ -72,6 +72,7 @@
 
 ### 其他
 
+- [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
