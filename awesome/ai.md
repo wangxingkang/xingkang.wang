@@ -114,6 +114,7 @@
 
 ### 其他
 
+- [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [WPS 灵犀](https://lingxi.wps.cn) AI 办公
 - [蚂蚁阿福](https://chat.antafu.com)
 - [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
