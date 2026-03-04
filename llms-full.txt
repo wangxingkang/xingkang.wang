@@ -156,6 +156,7 @@ url: /awesome/ai.md
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
 - [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 
 ## 产品
 
@@ -422,6 +423,7 @@ url: /awesome/go.md
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
+- [containerd](https://github.com/containerd/containerd) 一个开源且可靠的容器运行时
 
 
 
