@@ -91,6 +91,7 @@
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
 - [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 
 ## 产品
 
