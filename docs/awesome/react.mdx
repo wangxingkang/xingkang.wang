@@ -68,6 +68,7 @@
 
 ## Hooks
 
+- [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
 - [@mantine/hooks](https://mantine.dev/hooks/package)
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
