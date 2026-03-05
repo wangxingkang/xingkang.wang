@@ -115,7 +115,8 @@
 
 ### 通用
 
-- [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
+- [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react) 图标
+- [@ant-design/icons](https://github.com/ant-design/ant-design-icons) 图标
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react) 图标
 - [@hugeicons/react](https://github.com/hugeicons/react) 图标
 - [@phosphor-icons/react](https://github.com/phosphor-icons/react) 图标
