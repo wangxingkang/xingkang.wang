@@ -54,6 +54,10 @@
 
 ## 组件
 
+### 通用
+
+- [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue) 图标
+
 ### 数据录入
 
 - [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) 一款适用于 Vue.js 2-3 版本的移动端友好型图片文件上传组件，支持图片预览、拖拽上传、EXIF 方向校正等丰富功能
