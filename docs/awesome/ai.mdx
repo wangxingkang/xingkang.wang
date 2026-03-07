@@ -36,7 +36,9 @@
 ## Skill
 
 - [skills](https://skills.sh)
+- [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
+- [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
 - [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
 - [superpowers](https://github.com/obra/superpowers) Skill精选，从脑暴、写需求文档、开发、测试全包含
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
@@ -72,15 +74,19 @@
 
 ### 其他
 
+- [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
+- [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [airi](https://github.com/moeru-ai/airi) 赛博生命
+- [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude 的主流智能体编排平台
+- [Aperant](https://github.com/AndyMik90/Aperant) 自主多会话 AI 编程
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体

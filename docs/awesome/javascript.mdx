@@ -167,6 +167,7 @@
 
 ### 其他
 
+- [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
 - [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
@@ -295,6 +296,7 @@
 
 ## 其他
 
+- [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
 - [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
 - [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型
 - [ipaddr.js](https://github.com/whitequark/ipaddr.js)  IP 地址处理

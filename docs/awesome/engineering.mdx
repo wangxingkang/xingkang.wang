@@ -62,6 +62,10 @@
 - [官网](https://rspack.rs/zh/)
 - [rspack](https://github.com/web-infra-dev/rspack) rspack 仓库
 
+### 官方插件
+
+- [rsbuild-plugin-image-compress](https://github.com/rstackjs/rsbuild-plugin-image-compress) 一款用于压缩图片的 Rsbuild 插件
+
 ### 其他
 
 - [@module-federation/rsbuild-plugin](https://github.com/module-federation/core/tree/HEAD/packages/rsbuild-plugin) 模块联邦
