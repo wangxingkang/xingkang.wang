@@ -200,6 +200,7 @@
 ### 其他
 
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
+- [react-confetti](https://github.com/alampros/react-confetti) 不用收拾的缤纷彩屑
 - [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)

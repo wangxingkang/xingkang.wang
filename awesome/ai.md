@@ -36,6 +36,7 @@
 ## Skill
 
 - [skills](https://skills.sh)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 一份精选的优质 Claude 技能、资源与工具清单，用于自定义 Claude AI 工作流
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率

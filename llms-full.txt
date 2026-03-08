@@ -101,6 +101,7 @@ url: /awesome/ai.md
 ## Skill
 
 - [skills](https://skills.sh)
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 一份精选的优质 Claude 技能、资源与工具清单，用于自定义 Claude AI 工作流
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
@@ -242,6 +243,7 @@ url: /awesome/css.md
 
 ## 工程化
 
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) 将像素单位转换为 rem 单位
 - [weapp-tailwindcss](https://tw.icebreaker.top/) 把 tailwindcss 原子化思想带入小程序开发
 - [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) 一款用于 Tailwind CSS 样式混淆的混淆器工具
 
@@ -854,6 +856,10 @@ url: /awesome/python.md
 
 - [官网](https://www.python.org)
 
+## AI
+
+- [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
+
 
 
 ---
@@ -1095,6 +1101,7 @@ url: /awesome/react.md
 ### 其他
 
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
+- [react-confetti](https://github.com/alampros/react-confetti) 不用收拾的缤纷彩屑
 - [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
