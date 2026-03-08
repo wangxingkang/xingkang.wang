@@ -40,6 +40,7 @@
 
 ## 工程化
 
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) 将像素单位转换为 rem 单位
 - [weapp-tailwindcss](https://tw.icebreaker.top/) 把 tailwindcss 原子化思想带入小程序开发
 - [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) 一款用于 Tailwind CSS 样式混淆的混淆器工具
 
