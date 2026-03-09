@@ -745,6 +745,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
 - [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
@@ -806,6 +807,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
 - [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
