@@ -199,6 +199,7 @@
 
 ### 其他
 
+- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [react-confetti](https://github.com/alampros/react-confetti) 不用收拾的缤纷彩屑

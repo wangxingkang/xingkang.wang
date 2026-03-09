@@ -86,6 +86,7 @@
 
 ### 其他
 
+- [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [vuetify](https://github.com/vuetifyjs/vuetify) Vue 组件框架
 - [vue3-gettext](https://github.com/jshmrtn/vue3-gettext) 使用 gettext 实现 Vue 3 应用的国际化翻译
 - [@zoom-image/vue](https://github.com/willnguyen1312/zoom-image/tree/main/packages/vue) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放

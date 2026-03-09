@@ -140,6 +140,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
@@ -149,6 +150,7 @@ url: /awesome/ai.md
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
+- [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
@@ -434,6 +436,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
 - [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
 - [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
@@ -1119,6 +1122,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [react-confetti](https://github.com/alampros/react-confetti) 不用收拾的缤纷彩屑
@@ -1217,6 +1221,7 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [overlayscrollbars-svelte](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-svelte) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/svelte](https://github.com/willnguyen1312/zoom-image/tree/main/packages/svelte) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [@tanstack/svelte-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
@@ -1408,6 +1413,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [vuetify](https://github.com/vuetifyjs/vuetify) Vue 组件框架
 - [vue3-gettext](https://github.com/jshmrtn/vue3-gettext) 使用 gettext 实现 Vue 3 应用的国际化翻译
 - [@zoom-image/vue](https://github.com/willnguyen1312/zoom-image/tree/main/packages/vue) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
