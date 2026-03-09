@@ -75,6 +75,8 @@
 
 ### 其他
 
+- [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
+- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体

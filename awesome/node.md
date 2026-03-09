@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
 - [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
 - [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口

@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
 - [undici](https://github.com/nodejs/undici)
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具

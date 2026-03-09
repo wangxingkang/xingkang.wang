@@ -140,6 +140,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
+- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
@@ -430,6 +432,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
 - [undici](https://github.com/nodejs/undici)
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
@@ -742,6 +745,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
 - [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
 - [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型
@@ -802,6 +806,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
 - [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
 - [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
@@ -1157,6 +1162,7 @@ url: /awesome/rust.md
 ## 其他
 
 - [x-algorithm](https://github.com/xai-org/x-algorithm)
+- [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
 
 
 
