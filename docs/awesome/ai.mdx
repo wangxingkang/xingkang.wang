@@ -75,6 +75,7 @@
 
 ### 其他
 
+- [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
@@ -83,6 +84,7 @@
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
+- [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手

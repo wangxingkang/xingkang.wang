@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
 - [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
