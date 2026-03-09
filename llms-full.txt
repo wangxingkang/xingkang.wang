@@ -140,6 +140,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
@@ -148,6 +149,7 @@ url: /awesome/ai.md
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [airi](https://github.com/moeru-ai/airi) 赛博生命
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
+- [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
@@ -432,6 +434,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
 - [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
 - [undici](https://github.com/nodejs/undici)
@@ -807,6 +810,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
 - [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
@@ -1163,6 +1167,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
+- [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
 - [x-algorithm](https://github.com/xai-org/x-algorithm)
 - [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
 
