@@ -12,5 +12,6 @@
 
 ### 其他
 
+- [@zoom-image/svelte](https://github.com/willnguyen1312/zoom-image/tree/main/packages/svelte) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [@tanstack/svelte-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验

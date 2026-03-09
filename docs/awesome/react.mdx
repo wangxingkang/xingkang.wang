@@ -199,6 +199,7 @@
 
 ### 其他
 
+- [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [react-confetti](https://github.com/alampros/react-confetti) 不用收拾的缤纷彩屑
 - [react-confetti-explosion](https://github.com/herrethan/react-confetti-explosion) 五彩纸屑动画效果
