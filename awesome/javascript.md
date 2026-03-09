@@ -21,6 +21,7 @@
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
+- [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
 
 ### 3D
 
@@ -167,6 +168,12 @@
 
 ### 其他
 
+- [hls.js](https://github.com/video-dev/hls.js) HLS.js 是一款 JavaScript 库，可在支持 MSE 技术的浏览器中播放 HLS 流媒体
+- [tzdb](https://github.com/vvo/tzdb) 🕰 简化、归类且**实时更新**的时区列表，附带主要城市
+- [pmtiles](https://github.com/protomaps/pmtiles) 静态存储中单文件存储的地图瓦片金字塔
+- [happy-dom](https://github.com/capricorn86/happy-dom) 一款无图形用户界面的网页浏览器 JavaScript 实现版本
+- [@photo-sphere-viewer/core](https://github.com/mistic100/Photo-Sphere-Viewer) 一款用于展示 360° 球形全景图的 JavaScript 库
+- [transformation-matrix](https://github.com/chrvadala/transformation-matrix) 轻松操作变换矩阵
 - [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
 - [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
@@ -284,6 +291,7 @@
 
 ### 其他
 
+- [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 五彩纸屑动画效果

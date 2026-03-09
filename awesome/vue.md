@@ -86,6 +86,9 @@
 
 ### 其他
 
+- [vuetify](https://github.com/vuetifyjs/vuetify) Vue 组件框架
+- [vue3-gettext](https://github.com/jshmrtn/vue3-gettext) 使用 gettext 实现 Vue 3 应用的国际化翻译
+- [@zoom-image/vue](https://github.com/willnguyen1312/zoom-image/tree/main/packages/vue) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [@jambonn/vue-lazyload](https://github.com/jambonn/vue-lazyload) 图片懒加载
 - [@tanstack/vue-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) 基于 fabric.js 的开源图片编辑器
