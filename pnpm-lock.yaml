@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@rspress/core':
-        specifier: ^2.0.1
-        version: 2.0.2(@types/react@19.2.13)
+        specifier: 2.0.5
+        version: 2.0.5(@types/mdast@4.0.4)(@types/react@19.2.13)(micromark-util-types@2.0.2)(micromark@4.0.2)
     devDependencies:
       '@antfu/eslint-config':
         specifier: ^7.3.0
@@ -28,8 +28,8 @@ importers:
         specifier: ^2.12.2
         version: 2.12.2(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3)
       '@rspress/plugin-sitemap':
-        specifier: ^2.0.3
-        version: 2.0.3(@rspress/core@2.0.2(@types/react@19.2.13))
+        specifier: 2.0.5
+        version: 2.0.5(@rspress/core@2.0.5(@types/mdast@4.0.4)(@types/react@19.2.13)(micromark-util-types@2.0.2)(micromark@4.0.2))
       '@tailwindcss/postcss':
         specifier: ^4.2.1
         version: 4.2.1
@@ -58,10 +58,10 @@ importers:
         specifier: ^16.2.7
         version: 16.2.7
       react:
-        specifier: ^19.2.4
+        specifier: 19.2.4
         version: 19.2.4
       react-dom:
-        specifier: ^19.2.4
+        specifier: 19.2.4
         version: 19.2.4(react@19.2.4)
       simple-git-hooks:
         specifier: ^2.13.1
@@ -462,8 +462,8 @@ packages:
     resolution: {integrity: sha512-QNqXyfVS2wm9hweSYD2O7F0G06uurj9kZ96TRQE5Y9hU7+tgdZwIkbAKc5Ocy1HxEY2kuDQa6cQ1WRs/O5LFKA==}
     engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
 
-  '@rsbuild/core@2.0.0-beta.1':
-    resolution: {integrity: sha512-m7L3oi4evTDODcY+Qk3cmY/p7GCaauSRe00D0AkXVohNvxFBt7F49uPwBSThS24I9d31zFuAED2jFqBeBlDqWw==}
+  '@rsbuild/core@2.0.0-beta.6':
+    resolution: {integrity: sha512-DUBhUzvzj6xlGUAHTTipFskSuZmVEuTX7lGU+ToPuo8n3bsQrWn/UBOEQAd45g66k7QfXadoZ/v7eodQErpvGQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -477,72 +477,69 @@ packages:
     peerDependencies:
       '@rsbuild/core': ^1.0.0 || ^2.0.0-0
 
-  '@rspack/binding-darwin-arm64@2.0.0-alpha.1':
-    resolution: {integrity: sha512-+6E6pYgpKvs41cyOlqRjpCT3djjL9hnntF61JumM/TNo1aTYXMNNG4b8ZsLMpBq5ZwCy9Dg8oEDe8AZ84rfM7A==}
+  '@rspack/binding-darwin-arm64@2.0.0-beta.3':
+    resolution: {integrity: sha512-QebSomLWlCbFsC0sfDuGqLJtkgyrnr38vrCepWukaAXIY4ANy5QB49LDKdLpVv6bKlC95MpnW37NvSNWY5GMYA==}
     cpu: [arm64]
     os: [darwin]
 
-  '@rspack/binding-darwin-x64@2.0.0-alpha.1':
-    resolution: {integrity: sha512-Ccf9NNupVe67vlaS9zKQJ+BvsAn385uBC1vXnYaUxxHoY/tEwNJf6t+XyDARt7mCtT7+Bu4L/iJ/JEF/MsO5zg==}
+  '@rspack/binding-darwin-x64@2.0.0-beta.3':
+    resolution: {integrity: sha512-EysmBq+sz+Ph0bu0gXpU1uuZG9gXgjqY+w3MJel+ieTFyQO3L/R56V32McgssMbheJbYcviDDn7Tz4D+lTvdJA==}
     cpu: [x64]
     os: [darwin]
 
-  '@rspack/binding-linux-arm64-gnu@2.0.0-alpha.1':
-    resolution: {integrity: sha512-B7omNsPSsinOq2VRD4d4VFrLgHceMQobqlLg0txFUZ7PDjE307gpTcGViWQlUhNCbkZXMPzDeXBFa5ZlEmxgnA==}
+  '@rspack/binding-linux-arm64-gnu@2.0.0-beta.3':
+    resolution: {integrity: sha512-iFPj4TQZKewnqWPfTbyk3F8QCBI/Edv7TVSRIPBHRnCM0lvYZl/8IZlUzXSamLvrtDpouF0nUzht/fktoWOhAg==}
     cpu: [arm64]
     os: [linux]
 
-  '@rspack/binding-linux-arm64-musl@2.0.0-alpha.1':
-    resolution: {integrity: sha512-NCG401ofZcDKlTWD8VHv76Y+02Stmd9Nu5MRbVUBOCTVgXMj8Mgrm5XsGBWUjzd5J/Mvo2hstCKIZxNzmPd8uQ==}
+  '@rspack/binding-linux-arm64-musl@2.0.0-beta.3':
+    resolution: {integrity: sha512-355mygfCNb0eF/y4HgtJcd0i9csNTG4Z15PCCplIkSAKJpFpkORM2xJb50BqsbhVafYl6AHoBlGWAo9iIzUb/w==}
     cpu: [arm64]
     os: [linux]
 
-  '@rspack/binding-linux-x64-gnu@2.0.0-alpha.1':
-    resolution: {integrity: sha512-Xgp8wJ5gjpPG8I3VMEsVAesfckWryQVUhJkHcxPfNi72QTv8UkMER7Jl+JrlQk7K7nMO5ltokx/VGl1c3tMx+w==}
+  '@rspack/binding-linux-x64-gnu@2.0.0-beta.3':
+    resolution: {integrity: sha512-U8a+bcP/tkMyiwiO9XfeRYYO20YPGiZNxWWt7FEsdmRuRAl6M+EmWaJllJFQtKH+GG8IN93pNoVPMvARjLoJOQ==}
     cpu: [x64]
     os: [linux]
 
-  '@rspack/binding-linux-x64-musl@2.0.0-alpha.1':
-    resolution: {integrity: sha512-lrYKcOgsPA1UMswxzFAV37ofkznbtTLCcEas6lxtlT3Dr28P6VRzC8TgVbIiprkm10I0BlThQWDJ3aGzzLj9Kg==}
+  '@rspack/binding-linux-x64-musl@2.0.0-beta.3':
+    resolution: {integrity: sha512-g81rqkaqDFRTID2VrHBYeM+xZe8yWov7IcryTrl9RGXXr61s+6Tu/mWyM378PuHOCyMNu7G3blVaSjLvKauG6Q==}
     cpu: [x64]
     os: [linux]
 
-  '@rspack/binding-wasm32-wasi@2.0.0-alpha.1':
-    resolution: {integrity: sha512-rppGiT7CtXlM8st+IgzBDqb7V//1xx5Oe0SY1sxxw0cfOGMpIQCwhJqx/uI6ioqJLZLGX/obt359+hPXyqGl4w==}
+  '@rspack/binding-wasm32-wasi@2.0.0-beta.3':
+    resolution: {integrity: sha512-tzGd8H2oj5F3oR/Hxp+J68zVU/nG+9ndH2KK3/RieVjNAiVNHCR0/ZU9D47s6fnmvWOqAQ1qO8gnVoVLopC4YA==}
     cpu: [wasm32]
 
-  '@rspack/binding-win32-arm64-msvc@2.0.0-alpha.1':
-    resolution: {integrity: sha512-yD2g1JmnCxrix/344r7lBn+RH+Nv8uWP0UDP8kwv4kQGCWr4U7IP8PKFpoyulVOgOUjvJpgImeyrDJ7R8he+5w==}
+  '@rspack/binding-win32-arm64-msvc@2.0.0-beta.3':
+    resolution: {integrity: sha512-TZZRSWa34sm5WyoQHwnyBjLJ4w3fcWRYA9ybYjSVWjUU6tVGdMiHiZp+WexUpIETvChLXU1JENNmBg/U7wvZEA==}
     cpu: [arm64]
     os: [win32]
 
-  '@rspack/binding-win32-ia32-msvc@2.0.0-alpha.1':
-    resolution: {integrity: sha512-5qpQL5Qz3uYb56pwffEGzznXSX9TNkLpigQbIObfnUwX7WkdjgTT7oTHpjn2sRSLLNiJ/jCp2r4ZHvjmnNRsRA==}
+  '@rspack/binding-win32-ia32-msvc@2.0.0-beta.3':
+    resolution: {integrity: sha512-VFnfdbJhyl6gNW1VzTyd1ZrHCboHPR7vrOalEsulQRqVNbtDkjm1sqLHtDcLmhTEv0a9r4lli8uubWDwmel8KQ==}
     cpu: [ia32]
     os: [win32]
 
-  '@rspack/binding-win32-x64-msvc@2.0.0-alpha.1':
-    resolution: {integrity: sha512-dZ76NN9tXLaF2gnB/pU+PcK4Adf9tj8dY06KcWk5F81ur2V4UbrMfkWJkQprur8cgL/F49YtFMRWa4yp/qNbpQ==}
+  '@rspack/binding-win32-x64-msvc@2.0.0-beta.3':
+    resolution: {integrity: sha512-rwZ6Y3b3oqPj+ZDPPRxr3136HUPKDSlPQa4v7bBOPLDlrFDFOynMIEqDUUi5+8lPaUQ8WWR0aJK4cgcTTT0Siw==}
     cpu: [x64]
     os: [win32]
 
-  '@rspack/binding@2.0.0-alpha.1':
-    resolution: {integrity: sha512-Glz0SNFYPtNVM+ExJ4ocSzW+oQhb1iHTmxqVEAILbL17Hq3N/nwZpo1cWEs6hJjn8cosJIb1VKbbgb/1goEtCQ==}
+  '@rspack/binding@2.0.0-beta.3':
+    resolution: {integrity: sha512-GSj+d8AlLs1oElhYq32vIN/eAsxWG9jy0EiNgSxWTt5Gdamv87kcvsV4jwfWIjlltdnBIJgey2RnU+hDZlTAvw==}
 
-  '@rspack/core@2.0.0-alpha.1':
-    resolution: {integrity: sha512-2KK3hbxrRqzxtzg+ka7LsiEKIWIGIQz317k9HHC2U4IC5yLJ31K8y/vQfA1aIT2QcFls9gW7GyRjp8A4X5cvLA==}
+  '@rspack/core@2.0.0-beta.3':
+    resolution: {integrity: sha512-VuLteRIesuyFFTXZaciUY0lwDZiwMc7JcpE8guvjArztDhtpVvlaOcLlVBp/Yza8c/Tk8Dxwe1ARzFL7xG1/0w==}
     engines: {node: ^20.19.0 || >=22.12.0}
     peerDependencies:
-      '@module-federation/runtime-tools': '>=0.22.0'
+      '@module-federation/runtime-tools': ^0.24.1 || ^2.0.0
       '@swc/helpers': '>=0.5.1'
     peerDependenciesMeta:
       '@module-federation/runtime-tools':
         optional: true
       '@swc/helpers':
         optional: true
-
-  '@rspack/lite-tapable@1.1.0':
-    resolution: {integrity: sha512-E2B0JhYFmVAwdDiG14+DW0Di4Ze4Jg10Pc4/lILUrd5DRCaklduz2OvJ5HYQ6G+hd+WTzqQb3QnDNfK4yvAFYw==}
 
   '@rspack/plugin-react-refresh@1.6.0':
     resolution: {integrity: sha512-OO53gkrte/Ty4iRXxxM6lkwPGxsSsupFKdrPFnjwFIYrPvFLjeolAl5cTx+FzO5hYygJiGnw7iEKTmD+ptxqDA==}
@@ -553,40 +550,51 @@ packages:
       webpack-hot-middleware:
         optional: true
 
-  '@rspress/core@2.0.2':
-    resolution: {integrity: sha512-tU8rUVaPyC8o8k4ezgigRVQuZhBAC41KWdwZZ0BldN6o+QXSEIb722RnxCTpa9FGK2riqcwJgM+OqqcqXsFpmw==}
+  '@rspress/core@2.0.5':
+    resolution: {integrity: sha512-2ezGmANmIrWmhsUrvlRb9Df4xsun1BDgEertDc890aQqtKcNrbu+TBRsOoO+E/N6ioavun7JGGe1wWjvxubCHw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
 
-  '@rspress/plugin-sitemap@2.0.3':
-    resolution: {integrity: sha512-SKa7YEAdkUqya2YjMKbakg3kcYMkXgXhTQdDsHd+QlJWN8j8cDPiCcctMZu8iIPeKZlb+hTJkTWvh27LSIKdOA==}
+  '@rspress/plugin-sitemap@2.0.5':
+    resolution: {integrity: sha512-wBxKL8sNd3bkKFxlFtB1xJ7jCtSRDL6pfVvWsmTIbTNDPCtefd1nmiMBIDMLOR8EflwuStIz3bMQXdWpbC7ahA==}
     engines: {node: ^20.19.0 || >=22.12.0}
     peerDependencies:
-      '@rspress/core': ^2.0.3
+      '@rspress/core': ^2.0.5
 
-  '@rspress/shared@2.0.2':
-    resolution: {integrity: sha512-9+QC8UL1gV2KpRZx4n55vAl6bE38y7eDnGJhdFSHdJkpFbUCiJDk9ZcR6jD/Rrtq7vlT0gfumUk640pxpi3IDQ==}
+  '@rspress/shared@2.0.5':
+    resolution: {integrity: sha512-Wdhh+VjU8zJWoVLhv9KJTRAZQ4X2V/Z81Lo2D0hQsa0Kj5F3EaxlMt5/dhX7DoflqNuZPZk/e7CSUB+gO/Umlg==}
 
-  '@shikijs/core@3.22.0':
-    resolution: {integrity: sha512-iAlTtSDDbJiRpvgL5ugKEATDtHdUVkqgHDm/gbD2ZS9c88mx7G1zSYjjOxp5Qa0eaW0MAQosFRmJSk354PRoQA==}
+  '@shikijs/core@4.0.2':
+    resolution: {integrity: sha512-hxT0YF4ExEqB8G/qFdtJvpmHXBYJ2lWW7qTHDarVkIudPFE6iCIrqdgWxGn5s+ppkGXI0aEGlibI0PAyzP3zlw==}
+    engines: {node: '>=20'}
 
-  '@shikijs/engine-javascript@3.22.0':
-    resolution: {integrity: sha512-jdKhfgW9CRtj3Tor0L7+yPwdG3CgP7W+ZEqSsojrMzCjD1e0IxIbwUMDDpYlVBlC08TACg4puwFGkZfLS+56Tw==}
+  '@shikijs/engine-javascript@4.0.2':
+    resolution: {integrity: sha512-7PW0Nm49DcoUIQEXlJhNNBHyoGMjalRETTCcjMqEaMoJRLljy1Bi/EGV3/qLBgLKQejdspiiYuHGQW6dX94Nag==}
+    engines: {node: '>=20'}
 
-  '@shikijs/engine-oniguruma@3.22.0':
-    resolution: {integrity: sha512-DyXsOG0vGtNtl7ygvabHd7Mt5EY8gCNqR9Y7Lpbbd/PbJvgWrqaKzH1JW6H6qFkuUa8aCxoiYVv8/YfFljiQxA==}
+  '@shikijs/engine-oniguruma@4.0.2':
+    resolution: {integrity: sha512-UpCB9Y2sUKlS9z8juFSKz7ZtysmeXCgnRF0dlhXBkmQnek7lAToPte8DkxmEYGNTMii72zU/lyXiCB6StuZeJg==}
+    engines: {node: '>=20'}
 
-  '@shikijs/langs@3.22.0':
-    resolution: {integrity: sha512-x/42TfhWmp6H00T6uwVrdTJGKgNdFbrEdhaDwSR5fd5zhQ1Q46bHq9EO61SCEWJR0HY7z2HNDMaBZp8JRmKiIA==}
+  '@shikijs/langs@4.0.2':
+    resolution: {integrity: sha512-KaXby5dvoeuZzN0rYQiPMjFoUrz4hgwIE+D6Du9owcHcl6/g16/yT5BQxSW5cGt2MZBz6Hl0YuRqf12omRfUUg==}
+    engines: {node: '>=20'}
 
-  '@shikijs/rehype@3.22.0':
-    resolution: {integrity: sha512-69b2VPc6XBy/VmAJlpBU5By+bJSBdE2nvgRCZXav7zujbrjXuT0F60DIrjKuutjPqNufuizE+E8tIZr2Yn8Z+g==}
+  '@shikijs/primitive@4.0.2':
+    resolution: {integrity: sha512-M6UMPrSa3fN5ayeJwFVl9qWofl273wtK1VG8ySDZ1mQBfhCpdd8nEx7nPZ/tk7k+TYcpqBZzj/AnwxT9lO+HJw==}
+    engines: {node: '>=20'}
 
-  '@shikijs/themes@3.22.0':
-    resolution: {integrity: sha512-o+tlOKqsr6FE4+mYJG08tfCFDS+3CG20HbldXeVoyP+cYSUxDhrFf3GPjE60U55iOkkjbpY2uC3It/eeja35/g==}
+  '@shikijs/rehype@4.0.2':
+    resolution: {integrity: sha512-cmPlKLD8JeojasNFoY64162ScpEdEdQUMuVodPCrv1nx1z3bjmGwoKWDruQWa/ejSznImlaeB0Ty6Q3zPaVQAA==}
+    engines: {node: '>=20'}
 
-  '@shikijs/types@3.22.0':
-    resolution: {integrity: sha512-491iAekgKDBFE67z70Ok5a8KBMsQ2IJwOWw3us/7ffQkIBCyOQfm/aNwVMBUriP02QshIfgHCBSIYAl3u2eWjg==}
+  '@shikijs/themes@4.0.2':
+    resolution: {integrity: sha512-mjCafwt8lJJaVSsQvNVrJumbnnj1RI8jbUKrPKgE6E3OvQKxnuRoBaYC51H4IGHePsGN/QtALglWBU7DoKDFnA==}
+    engines: {node: '>=20'}
+
+  '@shikijs/types@4.0.2':
+    resolution: {integrity: sha512-qzbeRooUTPnLE+sHD/Z8DStmaDgnbbc/pMrU203950aRqjX/6AFHeDYT+j00y2lPdz0ywJKx7o/7qnqTivtlXg==}
+    engines: {node: '>=20'}
 
   '@shikijs/vscode-textmate@10.0.2':
     resolution: {integrity: sha512-83yeghZ2xxin3Nj8z1NMd/NCuca+gsYXswywDy5bHvwlWL8tpTQmzGeUuHd9FC3E/SBEMvzJRwWEOz5gGes9Qg==}
@@ -601,8 +609,8 @@ packages:
     peerDependencies:
       eslint: '>=9.0.0'
 
-  '@swc/helpers@0.5.18':
-    resolution: {integrity: sha512-TXTnIcNJQEKwThMMqBXsZ4VGAza6bvN4pa41Rkqoio6QBKMvo+5lexeTMScGCIxtzgQJzElcvIltani+adC5PQ==}
+  '@swc/helpers@0.5.19':
+    resolution: {integrity: sha512-QamiFeIK3txNjgUTNppE6MiG3p7TdninpZu0E0PbqVh1a9FNLT2FRhisaa4NcaX52XVhA5l7Pk58Ft7Sqi/2sA==}
 
   '@tailwindcss/node@4.2.1':
     resolution: {integrity: sha512-jlx6sLk4EOwO6hHe1oCGm1Q4AN/s0rSrTTPBGPM0/RQ6Uylwq17FuU8IeJJKEjtc6K6O07zsvP+gDO6MMWo7pg==}
@@ -798,8 +806,8 @@ packages:
   '@ungap/structured-clone@1.3.0':
     resolution: {integrity: sha512-WmoN8qaIAo7WTYWbAZuG8PYEhn5fkz7dZrqTBZ7dtt//lL2Gwms1IcnQ5yHqjDfX8Ft5j4YzDM23f87zBfDe9g==}
 
-  '@unhead/react@2.1.4':
-    resolution: {integrity: sha512-3DzMi5nJkUyLVfQF/q78smCvcSy84TTYgTwXVz5s3AjUcLyHro5Z7bLWriwk1dn5+YRfEsec8aPkLCMi5VjMZg==}
+  '@unhead/react@2.1.10':
+    resolution: {integrity: sha512-z9IzzkaCI1GyiBwVRMt4dGc2mOvsj9drbAdXGMy6DWpu9FwTR37ZTmAi7UeCVyIkpVdIaNalz7vkbvGG8afFng==}
     peerDependencies:
       react: '>=18.3.1'
 
@@ -937,6 +945,10 @@ packages:
   cac@6.7.14:
     resolution: {integrity: sha512-b6Ilus+c3RrdDk+JhLKUAQfzzgLEPy6wcXqS7f/xe1EETvsDP6GORG7SFuOs6cID5YkqchW/LXZbX5bc8j7ZcQ==}
     engines: {node: '>=8'}
+
+  cac@7.0.0:
+    resolution: {integrity: sha512-tixWYgm5ZoOD+3g6UTea91eow5z6AAHaho3g0V9CNSNb45gM8SmflpAc+GRd1InC4AqN/07Unrgp56Y94N9hJQ==}
+    engines: {node: '>=20.19.0'}
 
   callsites@3.1.0:
     resolution: {integrity: sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==}
@@ -2046,6 +2058,35 @@ packages:
   micromark-core-commonmark@2.0.3:
     resolution: {integrity: sha512-RDBrHEMSxVFLg6xvnXmb1Ayr2WzLAWjeSATAoxwKYJV94TeNavgoIdA0a9ytzDSVzBy2YKFK+emCPOEibLeCrg==}
 
+  micromark-extension-cjk-friendly-gfm-strikethrough@2.0.1:
+    resolution: {integrity: sha512-wVC0zwjJNqQeX+bb07YTPu/CvSAyCTafyYb7sMhX1r62/Lw5M/df3JyYaANyp8g15c1ypJRFSsookTqA1IDsUg==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      micromark: ^4.0.0
+      micromark-util-types: ^2.0.0
+    peerDependenciesMeta:
+      micromark-util-types:
+        optional: true
+
+  micromark-extension-cjk-friendly-util@3.0.1:
+    resolution: {integrity: sha512-GcbXqTTHOsiZHyF753oIddP/J2eH8j9zpyQPhkof6B2JNxfEJabnQqxbCgzJNuNes0Y2jTNJ3LiYPSXr6eJA8w==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      micromark-util-types: '*'
+    peerDependenciesMeta:
+      micromark-util-types:
+        optional: true
+
+  micromark-extension-cjk-friendly@2.0.1:
+    resolution: {integrity: sha512-OkzoYVTL1ChbvQ8Cc1ayTIz7paFQz8iS9oIYmewncweUSwmWR+hkJF9spJ1lxB90XldJl26A1F4IkPOKS3bDXw==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      micromark: ^4.0.0
+      micromark-util-types: ^2.0.0
+    peerDependenciesMeta:
+      micromark-util-types:
+        optional: true
+
   micromark-extension-frontmatter@2.0.0:
     resolution: {integrity: sha512-C4AkuM3dA58cgZha7zVnuVxBhDsbttIMiytjgsM2XbHAB2faRVaHRle40558FBN+DJcrLNCoqG5mlrpdU4cRtg==}
 
@@ -2348,15 +2389,20 @@ packages:
     resolution: {integrity: sha512-QgT5//D3jfjJb6Gsjxv0Slpj23ip+HtOpnNgnb2S5zU3CB26G/IDPGoy4RJB42wzFE46DRsstbW6tKHoKbhAxw==}
     engines: {node: '>=0.10.0'}
 
-  react-router-dom@7.13.0:
-    resolution: {integrity: sha512-5CO/l5Yahi2SKC6rGZ+HDEjpjkGaG/ncEP7eWFTvFxbHP8yeeI0PxTDjimtpXYlR3b3i9/WIL4VJttPrESIf2g==}
+  react-render-to-markdown@19.0.1:
+    resolution: {integrity: sha512-BPv48o+ubcu2JyUDIktvJXFqLIZqR7hA4mvGu1eFIofz9fogT2me9UvXwRvqvGs9jEtNaJkxZIUKUX0oiK4hDA==}
+    peerDependencies:
+      react: '>=19'
+
+  react-router-dom@7.13.1:
+    resolution: {integrity: sha512-UJnV3Rxc5TgUPJt2KJpo1Jpy0OKQr0AjgbZzBFjaPJcFOb2Y8jA5H3LT8HUJAiRLlWrEXWHbF1Z4SCZaQjWDHw==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
       react-dom: '>=18'
 
-  react-router@7.13.0:
-    resolution: {integrity: sha512-PZgus8ETambRT17BUm/LL8lX3Of+oiLaPuVTRH3l1eLvSPpKO3AvhAEb5N7ihAFZQrYDqkvvWfFh9p0z9VsjLw==}
+  react-router@7.13.1:
+    resolution: {integrity: sha512-td+xP4X2/6BJvZoX6xw++A2DdEi++YypA69bJUV5oVvqf6/9/9nNlD70YO1e9d3MyamJEBQFEzk6mbfDYbqrSA==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
@@ -2420,6 +2466,26 @@ packages:
 
   rehype-recma@1.0.0:
     resolution: {integrity: sha512-lqA4rGUf1JmacCNWWZx0Wv1dHqMwxzsDWYMTowuplHF3xH0N/MmrZ/G3BDZnzAkRmxDadujCjaKM2hqYdCBOGw==}
+
+  remark-cjk-friendly-gfm-strikethrough@2.0.1:
+    resolution: {integrity: sha512-pWKj25O2eLXIL1aBupayl1fKhco+Brw8qWUWJPVB9EBzbQNd7nGLj0nLmJpggWsGLR5j5y40PIdjxby9IEYTuA==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      '@types/mdast': ^4.0.0
+      unified: ^11.0.0
+    peerDependenciesMeta:
+      '@types/mdast':
+        optional: true
+
+  remark-cjk-friendly@2.0.1:
+    resolution: {integrity: sha512-6WwkoQyZf/4j5k53zdFYrR8Ca+UVn992jXdLUSBDZR4eBpFhKyVxmA4gUHra/5fesjGIxrDhHesNr/sVoiiysA==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      '@types/mdast': ^4.0.0
+      unified: ^11.0.0
+    peerDependenciesMeta:
+      '@types/mdast':
+        optional: true
 
   remark-gfm@4.0.1:
     resolution: {integrity: sha512-1quofZ2RQ9EWdeN34S79+KExV1764+wCUGop5CPL1WGdD0ocPpu91lzPGbwWMECpEpd42kJGQwzRfyov9j4yNg==}
@@ -2500,8 +2566,9 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  shiki@3.22.0:
-    resolution: {integrity: sha512-LBnhsoYEe0Eou4e1VgJACes+O6S6QC0w71fCSp5Oya79inkwkm15gQ1UF6VtQ8j/taMDh79hAB49WUk8ALQW3g==}
+  shiki@4.0.2:
+    resolution: {integrity: sha512-eAVKTMedR5ckPo4xne/PjYQYrU3qx78gtJZ+sHlXEg5IHhhoQhMfZVzetTYuaJS0L2Ef3AcCRzCHV8T0WI6nIQ==}
+    engines: {node: '>=20'}
 
   signal-exit@4.1.0:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
@@ -2676,8 +2743,8 @@ packages:
   undici-types@6.21.0:
     resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
-  unhead@2.1.4:
-    resolution: {integrity: sha512-+5091sJqtNNmgfQ07zJOgUnMIMKzVKAWjeMlSrTdSGPB6JSozhpjUKuMfWEoLxlMAfhIvgOU8Me0XJvmMA/0fA==}
+  unhead@2.1.10:
+    resolution: {integrity: sha512-We8l9uNF8zz6U8lfQaVG70+R/QBfQx1oPIgXin4BtZnK2IQpz6yazQ0qjMNVBDw2ADgF2ea58BtvSK+XX5AS7g==}
 
   unified@11.0.5:
     resolution: {integrity: sha512-xKvGhPWw3k84Qjh8bI3ZeJjqnyadK+GEFtazSfZv/rKeTkTjOJho6mFqh2SM96iIcZokxiOpg78GazTSg8+KHA==}
@@ -3351,75 +3418,71 @@ snapshots:
 
   '@pkgr/core@0.2.9': {}
 
-  '@rsbuild/core@2.0.0-beta.1':
+  '@rsbuild/core@2.0.0-beta.6':
     dependencies:
-      '@rspack/core': 2.0.0-alpha.1(@swc/helpers@0.5.18)
-      '@swc/helpers': 0.5.18
-      jiti: 2.6.1
+      '@rspack/core': 2.0.0-beta.3(@swc/helpers@0.5.19)
+      '@swc/helpers': 0.5.19
     transitivePeerDependencies:
       - '@module-federation/runtime-tools'
 
-  '@rsbuild/plugin-react@1.4.5(@rsbuild/core@2.0.0-beta.1)':
+  '@rsbuild/plugin-react@1.4.5(@rsbuild/core@2.0.0-beta.6)':
     dependencies:
-      '@rsbuild/core': 2.0.0-beta.1
+      '@rsbuild/core': 2.0.0-beta.6
       '@rspack/plugin-react-refresh': 1.6.0(react-refresh@0.18.0)
       react-refresh: 0.18.0
     transitivePeerDependencies:
       - webpack-hot-middleware
 
-  '@rspack/binding-darwin-arm64@2.0.0-alpha.1':
+  '@rspack/binding-darwin-arm64@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-darwin-x64@2.0.0-alpha.1':
+  '@rspack/binding-darwin-x64@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-linux-arm64-gnu@2.0.0-alpha.1':
+  '@rspack/binding-linux-arm64-gnu@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-linux-arm64-musl@2.0.0-alpha.1':
+  '@rspack/binding-linux-arm64-musl@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-linux-x64-gnu@2.0.0-alpha.1':
+  '@rspack/binding-linux-x64-gnu@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-linux-x64-musl@2.0.0-alpha.1':
+  '@rspack/binding-linux-x64-musl@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-wasm32-wasi@2.0.0-alpha.1':
+  '@rspack/binding-wasm32-wasi@2.0.0-beta.3':
     dependencies:
       '@napi-rs/wasm-runtime': 1.0.7
     optional: true
 
-  '@rspack/binding-win32-arm64-msvc@2.0.0-alpha.1':
+  '@rspack/binding-win32-arm64-msvc@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-win32-ia32-msvc@2.0.0-alpha.1':
+  '@rspack/binding-win32-ia32-msvc@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding-win32-x64-msvc@2.0.0-alpha.1':
+  '@rspack/binding-win32-x64-msvc@2.0.0-beta.3':
     optional: true
 
-  '@rspack/binding@2.0.0-alpha.1':
+  '@rspack/binding@2.0.0-beta.3':
     optionalDependencies:
-      '@rspack/binding-darwin-arm64': 2.0.0-alpha.1
-      '@rspack/binding-darwin-x64': 2.0.0-alpha.1
-      '@rspack/binding-linux-arm64-gnu': 2.0.0-alpha.1
-      '@rspack/binding-linux-arm64-musl': 2.0.0-alpha.1
-      '@rspack/binding-linux-x64-gnu': 2.0.0-alpha.1
-      '@rspack/binding-linux-x64-musl': 2.0.0-alpha.1
-      '@rspack/binding-wasm32-wasi': 2.0.0-alpha.1
-      '@rspack/binding-win32-arm64-msvc': 2.0.0-alpha.1
-      '@rspack/binding-win32-ia32-msvc': 2.0.0-alpha.1
-      '@rspack/binding-win32-x64-msvc': 2.0.0-alpha.1
+      '@rspack/binding-darwin-arm64': 2.0.0-beta.3
+      '@rspack/binding-darwin-x64': 2.0.0-beta.3
+      '@rspack/binding-linux-arm64-gnu': 2.0.0-beta.3
+      '@rspack/binding-linux-arm64-musl': 2.0.0-beta.3
+      '@rspack/binding-linux-x64-gnu': 2.0.0-beta.3
+      '@rspack/binding-linux-x64-musl': 2.0.0-beta.3
+      '@rspack/binding-wasm32-wasi': 2.0.0-beta.3
+      '@rspack/binding-win32-arm64-msvc': 2.0.0-beta.3
+      '@rspack/binding-win32-ia32-msvc': 2.0.0-beta.3
+      '@rspack/binding-win32-x64-msvc': 2.0.0-beta.3
 
-  '@rspack/core@2.0.0-alpha.1(@swc/helpers@0.5.18)':
+  '@rspack/core@2.0.0-beta.3(@swc/helpers@0.5.19)':
     dependencies:
-      '@rspack/binding': 2.0.0-alpha.1
-      '@rspack/lite-tapable': 1.1.0
+      '@rspack/binding': 2.0.0-beta.3
     optionalDependencies:
-      '@swc/helpers': 0.5.18
-
-  '@rspack/lite-tapable@1.1.0': {}
+      '@swc/helpers': 0.5.19
 
   '@rspack/plugin-react-refresh@1.6.0(react-refresh@0.18.0)':
     dependencies:
@@ -3427,18 +3490,18 @@ snapshots:
       html-entities: 2.6.0
       react-refresh: 0.18.0
 
-  '@rspress/core@2.0.2(@types/react@19.2.13)':
+  '@rspress/core@2.0.5(@types/mdast@4.0.4)(@types/react@19.2.13)(micromark-util-types@2.0.2)(micromark@4.0.2)':
     dependencies:
       '@mdx-js/mdx': 3.1.1
       '@mdx-js/react': 3.1.1(@types/react@19.2.13)(react@19.2.4)
-      '@rsbuild/core': 2.0.0-beta.1
-      '@rsbuild/plugin-react': 1.4.5(@rsbuild/core@2.0.0-beta.1)
-      '@rspress/shared': 2.0.2
-      '@shikijs/rehype': 3.22.0
+      '@rsbuild/core': 2.0.0-beta.6
+      '@rsbuild/plugin-react': 1.4.5(@rsbuild/core@2.0.0-beta.6)
+      '@rspress/shared': 2.0.5
+      '@shikijs/rehype': 4.0.2
       '@types/unist': 3.0.3
-      '@unhead/react': 2.1.4(react@19.2.4)
+      '@unhead/react': 2.1.10(react@19.2.4)
       body-scroll-lock: 4.0.0-beta.0
-      cac: 6.7.14
+      cac: 7.0.0
       chokidar: 3.6.0
       clsx: 2.1.1
       copy-to-clipboard: 3.3.3
@@ -3456,15 +3519,18 @@ snapshots:
       react-dom: 19.2.4(react@19.2.4)
       react-lazy-with-preload: 2.2.1
       react-reconciler: 0.33.0(react@19.2.4)
-      react-router-dom: 7.13.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react-render-to-markdown: 19.0.1(react@19.2.4)
+      react-router-dom: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       rehype-external-links: 3.0.0
       rehype-raw: 7.0.0
+      remark-cjk-friendly: 2.0.1(@types/mdast@4.0.4)(micromark-util-types@2.0.2)(micromark@4.0.2)(unified@11.0.5)
+      remark-cjk-friendly-gfm-strikethrough: 2.0.1(@types/mdast@4.0.4)(micromark-util-types@2.0.2)(micromark@4.0.2)(unified@11.0.5)
       remark-gfm: 4.0.1
       remark-mdx: 3.1.1
       remark-parse: 11.0.0
       remark-stringify: 11.0.0
       scroll-into-view-if-needed: 3.1.0
-      shiki: 3.22.0
+      shiki: 4.0.2
       tinyglobby: 0.2.15
       tinypool: 1.1.1
       unified: 11.0.5
@@ -3473,19 +3539,22 @@ snapshots:
       unist-util-visit-children: 3.0.0
     transitivePeerDependencies:
       - '@module-federation/runtime-tools'
+      - '@types/mdast'
       - '@types/react'
       - core-js
+      - micromark
+      - micromark-util-types
       - supports-color
       - webpack-hot-middleware
 
-  '@rspress/plugin-sitemap@2.0.3(@rspress/core@2.0.2(@types/react@19.2.13))':
+  '@rspress/plugin-sitemap@2.0.5(@rspress/core@2.0.5(@types/mdast@4.0.4)(@types/react@19.2.13)(micromark-util-types@2.0.2)(micromark@4.0.2))':
     dependencies:
-      '@rspress/core': 2.0.2(@types/react@19.2.13)
+      '@rspress/core': 2.0.5(@types/mdast@4.0.4)(@types/react@19.2.13)(micromark-util-types@2.0.2)(micromark@4.0.2)
 
-  '@rspress/shared@2.0.2':
+  '@rspress/shared@2.0.5':
     dependencies:
-      '@rsbuild/core': 2.0.0-beta.1
-      '@shikijs/rehype': 3.22.0
+      '@rsbuild/core': 2.0.0-beta.6
+      '@shikijs/rehype': 4.0.2
       gray-matter: 4.0.3
       lodash-es: 4.17.23
       unified: 11.0.5
@@ -3493,42 +3562,49 @@ snapshots:
       - '@module-federation/runtime-tools'
       - core-js
 
-  '@shikijs/core@3.22.0':
+  '@shikijs/core@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/primitive': 4.0.2
+      '@shikijs/types': 4.0.2
       '@shikijs/vscode-textmate': 10.0.2
       '@types/hast': 3.0.4
       hast-util-to-html: 9.0.5
 
-  '@shikijs/engine-javascript@3.22.0':
+  '@shikijs/engine-javascript@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/types': 4.0.2
       '@shikijs/vscode-textmate': 10.0.2
       oniguruma-to-es: 4.3.4
 
-  '@shikijs/engine-oniguruma@3.22.0':
+  '@shikijs/engine-oniguruma@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/types': 4.0.2
       '@shikijs/vscode-textmate': 10.0.2
 
-  '@shikijs/langs@3.22.0':
+  '@shikijs/langs@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/types': 4.0.2
 
-  '@shikijs/rehype@3.22.0':
+  '@shikijs/primitive@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/types': 4.0.2
+      '@shikijs/vscode-textmate': 10.0.2
+      '@types/hast': 3.0.4
+
+  '@shikijs/rehype@4.0.2':
+    dependencies:
+      '@shikijs/types': 4.0.2
       '@types/hast': 3.0.4
       hast-util-to-string: 3.0.1
-      shiki: 3.22.0
+      shiki: 4.0.2
       unified: 11.0.5
       unist-util-visit: 5.1.0
 
-  '@shikijs/themes@3.22.0':
+  '@shikijs/themes@4.0.2':
     dependencies:
-      '@shikijs/types': 3.22.0
+      '@shikijs/types': 4.0.2
 
-  '@shikijs/types@3.22.0':
+  '@shikijs/types@4.0.2':
     dependencies:
       '@shikijs/vscode-textmate': 10.0.2
       '@types/hast': 3.0.4
@@ -3547,7 +3623,7 @@ snapshots:
       estraverse: 5.3.0
       picomatch: 4.0.3
 
-  '@swc/helpers@0.5.18':
+  '@swc/helpers@0.5.19':
     dependencies:
       tslib: 2.8.1
 
@@ -3758,10 +3834,10 @@ snapshots:
 
   '@ungap/structured-clone@1.3.0': {}
 
-  '@unhead/react@2.1.4(react@19.2.4)':
+  '@unhead/react@2.1.10(react@19.2.4)':
     dependencies:
       react: 19.2.4
-      unhead: 2.1.4
+      unhead: 2.1.10
 
   '@vitest/eslint-plugin@1.6.6(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3)':
     dependencies:
@@ -3896,6 +3972,8 @@ snapshots:
   builtin-modules@5.0.0: {}
 
   cac@6.7.14: {}
+
+  cac@7.0.0: {}
 
   callsites@3.1.0: {}
 
@@ -5256,6 +5334,38 @@ snapshots:
       micromark-util-symbol: 2.0.1
       micromark-util-types: 2.0.2
 
+  micromark-extension-cjk-friendly-gfm-strikethrough@2.0.1(micromark-util-types@2.0.2)(micromark@4.0.2):
+    dependencies:
+      devlop: 1.1.0
+      get-east-asian-width: 1.4.0
+      micromark: 4.0.2
+      micromark-extension-cjk-friendly-util: 3.0.1(micromark-util-types@2.0.2)
+      micromark-util-character: 2.1.1
+      micromark-util-chunked: 2.0.1
+      micromark-util-resolve-all: 2.0.1
+      micromark-util-symbol: 2.0.1
+    optionalDependencies:
+      micromark-util-types: 2.0.2
+
+  micromark-extension-cjk-friendly-util@3.0.1(micromark-util-types@2.0.2):
+    dependencies:
+      get-east-asian-width: 1.4.0
+      micromark-util-character: 2.1.1
+      micromark-util-symbol: 2.0.1
+    optionalDependencies:
+      micromark-util-types: 2.0.2
+
+  micromark-extension-cjk-friendly@2.0.1(micromark-util-types@2.0.2)(micromark@4.0.2):
+    dependencies:
+      devlop: 1.1.0
+      micromark: 4.0.2
+      micromark-extension-cjk-friendly-util: 3.0.1(micromark-util-types@2.0.2)
+      micromark-util-chunked: 2.0.1
+      micromark-util-resolve-all: 2.0.1
+      micromark-util-symbol: 2.0.1
+    optionalDependencies:
+      micromark-util-types: 2.0.2
+
   micromark-extension-frontmatter@2.0.0:
     dependencies:
       fault: 2.0.1
@@ -5691,13 +5801,18 @@ snapshots:
 
   react-refresh@0.18.0: {}
 
-  react-router-dom@7.13.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  react-render-to-markdown@19.0.1(react@19.2.4):
+    dependencies:
+      react: 19.2.4
+      react-reconciler: 0.33.0(react@19.2.4)
+
+  react-router-dom@7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
-      react-router: 7.13.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react-router: 7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
 
-  react-router@7.13.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  react-router@7.13.1(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
       cookie: 1.1.1
       react: 19.2.4
@@ -5788,6 +5903,26 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+  remark-cjk-friendly-gfm-strikethrough@2.0.1(@types/mdast@4.0.4)(micromark-util-types@2.0.2)(micromark@4.0.2)(unified@11.0.5):
+    dependencies:
+      micromark-extension-cjk-friendly-gfm-strikethrough: 2.0.1(micromark-util-types@2.0.2)(micromark@4.0.2)
+      unified: 11.0.5
+    optionalDependencies:
+      '@types/mdast': 4.0.4
+    transitivePeerDependencies:
+      - micromark
+      - micromark-util-types
+
+  remark-cjk-friendly@2.0.1(@types/mdast@4.0.4)(micromark-util-types@2.0.2)(micromark@4.0.2)(unified@11.0.5):
+    dependencies:
+      micromark-extension-cjk-friendly: 2.0.1(micromark-util-types@2.0.2)(micromark@4.0.2)
+      unified: 11.0.5
+    optionalDependencies:
+      '@types/mdast': 4.0.4
+    transitivePeerDependencies:
+      - micromark
+      - micromark-util-types
+
   remark-gfm@4.0.1:
     dependencies:
       '@types/mdast': 4.0.4
@@ -5877,14 +6012,14 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  shiki@3.22.0:
+  shiki@4.0.2:
     dependencies:
-      '@shikijs/core': 3.22.0
-      '@shikijs/engine-javascript': 3.22.0
-      '@shikijs/engine-oniguruma': 3.22.0
-      '@shikijs/langs': 3.22.0
-      '@shikijs/themes': 3.22.0
-      '@shikijs/types': 3.22.0
+      '@shikijs/core': 4.0.2
+      '@shikijs/engine-javascript': 4.0.2
+      '@shikijs/engine-oniguruma': 4.0.2
+      '@shikijs/langs': 4.0.2
+      '@shikijs/themes': 4.0.2
+      '@shikijs/types': 4.0.2
       '@shikijs/vscode-textmate': 10.0.2
       '@types/hast': 3.0.4
 
@@ -6031,7 +6166,7 @@ snapshots:
 
   undici-types@6.21.0: {}
 
-  unhead@2.1.4:
+  unhead@2.1.10:
     dependencies:
       hookable: 6.0.1
 
