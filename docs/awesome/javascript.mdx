@@ -296,6 +296,7 @@
 
 ## 其他
 
+- [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
 - [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
 - [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型
