@@ -54,6 +54,7 @@
 
 ### Code
 
+- [cc-switch](https://github.com/farion1231/cc-switch) 面向 Claude Code、Codex、OpenCode、openclaw 和 Gemini CLI 的**跨平台桌面版一站式辅助工具**。
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
