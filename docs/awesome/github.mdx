@@ -10,6 +10,10 @@
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
 
+## 学习
+
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 从零复刻经典技术，精通编程之道
+
 ## 其他
 
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
