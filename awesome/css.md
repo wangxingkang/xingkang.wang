@@ -25,6 +25,7 @@
 
 ## Reset
 
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [@unocss/reset](https://github.com/unocss/unocss/tree/main/packages-presets/reset)
 - [@csstools/normalize.css](https://github.com/csstools/normalize.css)
 - [normalize.css](https://github.com/necolas/normalize.css)
