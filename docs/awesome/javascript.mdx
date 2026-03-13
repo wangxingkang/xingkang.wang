@@ -2,6 +2,7 @@
 
 ## AI
 
+- [page-agent](https://github.com/alibaba/page-agent) JavaScript 页内图形界面智能体。通过自然语言控制网页界面。
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
 - [a2ui](https://a2ui.org)
@@ -242,6 +243,7 @@
 
 ### 可视化
 
+- [FlowmapBlue](https://github.com/FlowmapBlue/FlowmapBlue) 流场图可视化工具
 - [simple-mind-map](https://github.com/wanglin2/mind-map) 一个强大的思维导图
 
 ### 画板
