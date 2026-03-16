@@ -142,6 +142,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
+- [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
+- [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
@@ -1170,6 +1173,7 @@ url: /awesome/react.md
 
 - [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
+- [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
 
 ## 其他
 
