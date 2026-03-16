@@ -169,13 +169,17 @@
 
 ### 其他
 
+- [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
+- [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) navigator.mediaDevices.getUserMedia + MediaRecorder 生成的 WEBM 文件缺少时长元数据。该库会直接在文件二进制大对象（Blob）中补充缺失的元数据段
+- [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) 适用于 Mac OSX、Linux 和 Windows 系统的 **FFmpeg 静态二进制文件**
+- [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
+- [web-demuxer](https://github.com/bilibili/web-demuxer) WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [hls.js](https://github.com/video-dev/hls.js) HLS.js 是一款 JavaScript 库，可在支持 MSE 技术的浏览器中播放 HLS 流媒体
 - [tzdb](https://github.com/vvo/tzdb) 🕰 简化、归类且**实时更新**的时区列表，附带主要城市
 - [pmtiles](https://github.com/protomaps/pmtiles) 静态存储中单文件存储的地图瓦片金字塔
 - [happy-dom](https://github.com/capricorn86/happy-dom) 一款无图形用户界面的网页浏览器 JavaScript 实现版本
 - [@photo-sphere-viewer/core](https://github.com/mistic100/Photo-Sphere-Viewer) 一款用于展示 360° 球形全景图的 JavaScript 库
 - [transformation-matrix](https://github.com/chrvadala/transformation-matrix) 轻松操作变换矩阵
-- [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
 - [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
