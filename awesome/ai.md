@@ -77,6 +77,7 @@
 
 ### 其他
 
+- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
 - [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
@@ -93,6 +94,7 @@
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
@@ -112,6 +114,7 @@
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 - [BitNet](https://github.com/microsoft/BitNet) 1-bit 大语言模型官方推理框架
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) 让所有软件全部被代理驱动
+- [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
 
 ## 产品
 

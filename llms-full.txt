@@ -142,6 +142,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
 - [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
@@ -158,6 +159,7 @@ url: /awesome/ai.md
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
@@ -177,6 +179,7 @@ url: /awesome/ai.md
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 - [BitNet](https://github.com/microsoft/BitNet) 1-bit 大语言模型官方推理框架
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) 让所有软件全部被代理驱动
+- [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
 
 ## 产品
 
@@ -431,6 +434,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [Recordly](https://github.com/webadderall/Recordly) 这是一款免费开源的 Screen Studio 替代软件，可为你的屏幕录制添加自动缩放、鼠标动画等功能。它基于 OpenScreen 进行了深度修改。
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
 
@@ -636,13 +640,17 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
+- [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) navigator.mediaDevices.getUserMedia + MediaRecorder 生成的 WEBM 文件缺少时长元数据。该库会直接在文件二进制大对象（Blob）中补充缺失的元数据段
+- [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) 适用于 Mac OSX、Linux 和 Windows 系统的 **FFmpeg 静态二进制文件**
+- [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
+- [web-demuxer](https://github.com/bilibili/web-demuxer) WebCodecs 在浏览器中实现媒体文件的解封装，专为WebCodecs设计
 - [hls.js](https://github.com/video-dev/hls.js) HLS.js 是一款 JavaScript 库，可在支持 MSE 技术的浏览器中播放 HLS 流媒体
 - [tzdb](https://github.com/vvo/tzdb) 🕰 简化、归类且**实时更新**的时区列表，附带主要城市
 - [pmtiles](https://github.com/protomaps/pmtiles) 静态存储中单文件存储的地图瓦片金字塔
 - [happy-dom](https://github.com/capricorn86/happy-dom) 一款无图形用户界面的网页浏览器 JavaScript 实现版本
 - [@photo-sphere-viewer/core](https://github.com/mistic100/Photo-Sphere-Viewer) 一款用于展示 360° 球形全景图的 JavaScript 库
 - [transformation-matrix](https://github.com/chrvadala/transformation-matrix) 轻松操作变换矩阵
-- [mp4box](https://github.com/gpac/mp4box.js) GPAC 工具集 MP4Box 工具的 JavaScript 版本
 - [libmedia](https://github.com/zhaohappy/libmedia) 一个 TypeScript 实现的高性能媒体库，支持 WebCodecs 和 Wasm
 - [std](https://github.com/moeru-ai/std) 与运行时无关的 Moeru AI TypeScript 工具库
 - [tslog](https://github.com/fullstack-build/tslog) 适用于 TypeScript 和 JavaScript 的通用日志工具
@@ -1070,6 +1078,7 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [@uiw/react-color](https://github.com/uiwjs/react-color)
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) 图片裁剪
 - [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop) 图片裁剪
 - [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) 一款基于网页的 JSON 工具，可用于查看、编辑、格式化、修复、查询、转换和验证 JSON 数据
@@ -1137,6 +1146,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
