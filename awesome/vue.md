@@ -60,10 +60,13 @@
 
 ### 数据录入
 
+- [vue3-signature](https://github.com/WangShayne/vue3-signature) 签名绘制组件
+- [vue3-signature-pad](https://github.com/selemondev/vue3-signature-pad) 签名绘制组件
 - [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) 一款适用于 Vue.js 2-3 版本的移动端友好型图片文件上传组件，支持图片预览、拖拽上传、EXIF 方向校正等丰富功能
 
 ### 数据展示
 
+- [vxe-table](https://github.com/x-extends/vxe-table) 表格解决方案
 - [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [@number-flow/vue](https://github.com/barvian/number-flow/tree/main/packages/vue) 动画数字组件
 - [embla-carousel-vue](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
@@ -92,6 +95,7 @@
 
 ### 其他
 
+- [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [vuetify](https://github.com/vuetifyjs/vuetify) Vue 组件框架
 - [vue3-gettext](https://github.com/jshmrtn/vue3-gettext) 使用 gettext 实现 Vue 3 应用的国际化翻译

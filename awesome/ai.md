@@ -45,6 +45,7 @@
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
+- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
 
 ## 开源库
 
@@ -96,6 +97,7 @@
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) 从创意到论文，全程自主研究
 - [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
@@ -140,6 +142,7 @@
 
 ### 其他
 
+- [ardot](https://d.qq.com) AI 设计
 - [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [WPS 灵犀](https://lingxi.wps.cn) AI 办公
 - [蚂蚁阿福](https://chat.antafu.com)

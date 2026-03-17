@@ -206,6 +206,7 @@
 
 ### 其他
 
+- [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
