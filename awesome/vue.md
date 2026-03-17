@@ -64,6 +64,7 @@
 
 ### 数据展示
 
+- [@number-flow/vue](https://github.com/barvian/number-flow/tree/main/packages/vue) 动画数字组件
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [hevue-img-preview](https://github.com/heyongsheng/hevue-img-preview) 图片预览
 

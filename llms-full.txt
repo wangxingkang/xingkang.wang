@@ -1095,6 +1095,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) 关键字高亮
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯
@@ -1246,6 +1247,10 @@ url: /awesome/svelte.md
 ### 通用
 
 - [@iconify/svelte](https://github.com/iconify/iconify/tree/main/components/svelte) 图标
+
+### 数据展示
+
+- [@number-flow/svelte](https://github.com/barvian/number-flow/tree/main/packages/svelte) 动画数字组件
 
 ### 其他
 
@@ -1419,6 +1424,7 @@ url: /awesome/vue.md
 
 ### 数据展示
 
+- [@number-flow/vue](https://github.com/barvian/number-flow/tree/main/packages/vue) 动画数字组件
 - [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [hevue-img-preview](https://github.com/heyongsheng/hevue-img-preview) 图片预览
 

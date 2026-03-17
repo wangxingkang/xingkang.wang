@@ -147,6 +147,7 @@
 
 ### 数据展示
 
+- [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) 关键字高亮
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯

@@ -10,6 +10,10 @@
 
 - [@iconify/svelte](https://github.com/iconify/iconify/tree/main/components/svelte) 图标
 
+### 数据展示
+
+- [@number-flow/svelte](https://github.com/barvian/number-flow/tree/main/packages/svelte) 动画数字组件
+
 ### 其他
 
 - [overlayscrollbars-svelte](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-svelte) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
