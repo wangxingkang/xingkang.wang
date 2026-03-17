@@ -298,6 +298,7 @@
 
 ### 其他
 
+- [@lottiefiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
@@ -305,12 +306,13 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
-- [stripe-js](https://github.com/stripe/stripe-js)
+- [@stripe/stripe-js](https://github.com/stripe/stripe-js)
 - [supabase-js](https://github.com/supabase/supabase-js) 一款面向 Supabase 的同构 JavaScript 客户端
 - [fullpage](https://github.com/alvarotrigo/fullpage.js) 快速、便捷地创建全屏页面
 
 ## 其他
 
+- [pdfjs-dist](https://github.com/mozilla/pdf.js)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器

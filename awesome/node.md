@@ -39,6 +39,10 @@
 
 ## 其他
 
+- [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+- [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
+- [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
+- [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 - [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
 - [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
@@ -85,3 +89,4 @@
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
 - [tar](https://github.com/isaacs/node-tar) tar for node
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
+- [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块

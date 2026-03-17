@@ -142,6 +142,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
+- [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
@@ -769,6 +771,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@lottiefiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
@@ -776,12 +779,13 @@ url: /awesome/javascript.md
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
-- [stripe-js](https://github.com/stripe/stripe-js)
+- [@stripe/stripe-js](https://github.com/stripe/stripe-js)
 - [supabase-js](https://github.com/supabase/supabase-js) 一款面向 Supabase 的同构 JavaScript 客户端
 - [fullpage](https://github.com/alvarotrigo/fullpage.js) 快速、便捷地创建全屏页面
 
 ## 其他
 
+- [pdfjs-dist](https://github.com/mozilla/pdf.js)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
@@ -844,6 +848,10 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+- [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
+- [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
+- [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 - [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
 - [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
@@ -890,6 +898,7 @@ url: /awesome/node.md
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
 - [tar](https://github.com/isaacs/node-tar) tar for node
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
+- [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 
 
 
@@ -1022,6 +1031,7 @@ url: /awesome/react.md
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) 用于表单状态管理与校验的 React Hooks（支持 Web + React Native）
 
 ## 组件库
 
@@ -1063,6 +1073,7 @@ url: /awesome/react.md
 
 ### 通用
 
+- [react-icons](https://github.com/react-icons/react-icons) 主流图标库的 **SVG React 图标**
 - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react) 图标
 - [@ant-design/icons](https://github.com/ant-design/ant-design-icons) 图标
 - [lucide-react](https://lucide.dev/guide/packages/lucide-react) 图标
@@ -1081,6 +1092,7 @@ url: /awesome/react.md
 ### 数据录入
 
 - [@uiw/react-color](https://github.com/uiwjs/react-color)
+- [react-easy-crop](https://github.com/ValentinH/react-easy-crop) 图片裁剪
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) 图片裁剪
 - [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop) 图片裁剪
 - [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) 一款基于网页的 JSON 工具，可用于查看、编辑、格式化、修复、查询、转换和验证 JSON 数据
@@ -1095,6 +1107,8 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
+- [react-progressive-blur](https://github.com/rakib86/react-progressive-blur) 渐进式模糊效果
 - [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) 关键字高亮
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
@@ -1104,7 +1118,7 @@ url: /awesome/react.md
 - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) 基于 PrismJS 或 HighlightJS 抽象语法树（AST）、使用内联样式实现的 React 语法高亮组件
 - [react-number-format](https://github.com/s-yadav/react-number-format) 数字格式化组件（支持输入框）
 - [react-grid-gallery](https://github.com/benhowell/react-grid-gallery) 自适应对齐图片画廊组件
-- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
@@ -1190,6 +1204,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
 - [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
@@ -1228,6 +1243,8 @@ url: /awesome/solid.md
 
 ## 组件
 
+- [embla-carousel-solid](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [@lottiefiles/dotlottie-solid](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [@tanstack/solid-virtual](https://github.com/TanStack/virtual) 虚拟列表
 
 
@@ -1254,10 +1271,11 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [@lottiefiles/dotlottie-svelte](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [overlayscrollbars-svelte](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-svelte) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/svelte](https://github.com/willnguyen1312/zoom-image/tree/main/packages/svelte) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [@tanstack/svelte-virtual](https://github.com/TanStack/virtual) 虚拟列表
-- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [embla-carousel-svelte](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 
 
 
@@ -1424,8 +1442,9 @@ url: /awesome/vue.md
 
 ### 数据展示
 
+- [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [@number-flow/vue](https://github.com/barvian/number-flow/tree/main/packages/vue) 动画数字组件
-- [embla-carousel](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [embla-carousel-vue](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [hevue-img-preview](https://github.com/heyongsheng/hevue-img-preview) 图片预览
 
 ### 反馈
