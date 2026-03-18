@@ -88,6 +88,7 @@
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
+- [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 
 ## 数据可视化
 
