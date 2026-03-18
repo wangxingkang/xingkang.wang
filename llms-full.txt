@@ -429,6 +429,7 @@ url: /awesome/github.md
 
 ## 工具
 
+- [openvscode-server](https://github.com/gitpod-io/openvscode-server) 在远程机器上运行原版 VS Code，可通过现代化网页浏览器，随时随地、从任意设备访问。
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
@@ -457,6 +458,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
 - [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
 - [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
@@ -788,6 +790,8 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
+- [js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) 基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
 - [pdfjs-dist](https://github.com/mozilla/pdf.js)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
@@ -1049,6 +1053,7 @@ url: /awesome/react.md
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
+- [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 
 ## 数据可视化
 
@@ -1229,6 +1234,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [rustler](https://github.com/rusterlium/rustler) 用于创建 Erlang NIF 函数的安全 Rust 桥接层
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
 - [x-algorithm](https://github.com/xai-org/x-algorithm)

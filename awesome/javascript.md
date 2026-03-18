@@ -312,6 +312,8 @@
 
 ## 其他
 
+- [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
+- [js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) 基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
 - [pdfjs-dist](https://github.com/mozilla/pdf.js)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
