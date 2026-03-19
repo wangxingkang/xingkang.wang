@@ -35,6 +35,8 @@
 
 ## Skill
 
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
+- [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
 - [skills](https://skills.sh)
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 一份精选的优质 Claude 技能、资源与工具清单，用于自定义 Claude AI 工作流
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
@@ -99,6 +101,7 @@
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
+- [NemoClaw](https://github.com/NVIDIA/NemoClaw) 用于安全安装 OpenClaw 的 NVIDIA 插件
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) 从创意到论文，全程自主研究
 - [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
