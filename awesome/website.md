@@ -30,6 +30,7 @@
 
 ## 学习
 
+- [langshift](https://langshift.dev) 通过比较不同的计算机语言，学习新语言
 - [usehook](https://usehook.cn)
 - [30secondsofcode](https://www.30secondsofcode.org) 编程技术文章，助你提升开发技能
 - [Learn Git Branching](https://learngitbranching.js.org) Git 学习

@@ -143,6 +143,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
+- [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
+- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
@@ -207,6 +210,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
+- [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
 - [ardot](https://d.qq.com) AI 设计
 - [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [WPS 灵犀](https://lingxi.wps.cn) AI 办公
@@ -215,6 +220,18 @@ url: /awesome/ai.md
 - [meshy](https://www.meshy.ai) 创建3D模型
 - [flourish](https://flourish.studio) 图表、地图与交互式内容
 - [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
+
+
+
+---
+url: /awesome/browser-plugin.md
+---
+
+# 浏览器插件
+
+## 开发
+
+- [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 
 
 
@@ -440,6 +457,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary) 根据 Git 提交记录生成周报
+- [ponghub](https://github.com/WCY-dt/ponghub) 一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线
 - [Recordly](https://github.com/webadderall/Recordly) 这是一款免费开源的 Screen Studio 替代软件，可为你的屏幕录制添加自动缩放、鼠标动画等功能。它基于 OpenScreen 进行了深度修改。
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
@@ -776,6 +795,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [kelp](https://github.com/cferdinandi/kelp) 一个为热爱 HTML 的开发者打造的 UI 库，基于现代 CSS 和 Web Components 构建
 - [@lottiefiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
@@ -1234,6 +1254,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [imagekit](https://github.com/hzbd/imagekit) 批量图片处理的命令行工具
 - [rustler](https://github.com/rusterlium/rustler) 用于创建 Erlang NIF 函数的安全 Rust 桥接层
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
@@ -1542,6 +1563,7 @@ url: /awesome/website.md
 
 ## 学习
 
+- [langshift](https://langshift.dev) 通过比较不同的计算机语言，学习新语言
 - [usehook](https://usehook.cn)
 - [30secondsofcode](https://www.30secondsofcode.org) 编程技术文章，助你提升开发技能
 - [Learn Git Branching](https://learngitbranching.js.org) Git 学习
