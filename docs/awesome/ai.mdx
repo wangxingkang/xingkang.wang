@@ -78,6 +78,9 @@
 
 ### 其他
 
+- [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
+- [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
+- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
@@ -142,6 +145,8 @@
 
 ### 其他
 
+- [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
+- [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
 - [ardot](https://d.qq.com) AI 设计
 - [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [WPS 灵犀](https://lingxi.wps.cn) AI 办公

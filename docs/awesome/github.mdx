@@ -17,6 +17,8 @@
 
 ## 其他
 
+- [weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary) 根据 Git 提交记录生成周报
+- [ponghub](https://github.com/WCY-dt/ponghub) 一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线
 - [Recordly](https://github.com/webadderall/Recordly) 这是一款免费开源的 Screen Studio 替代软件，可为你的屏幕录制添加自动缩放、鼠标动画等功能。它基于 OpenScreen 进行了深度修改。
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
