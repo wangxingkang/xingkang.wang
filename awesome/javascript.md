@@ -298,6 +298,7 @@
 
 ### 其他
 
+- [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) 一款轻量易用的 JavaScript 库，用于元素的选择与移动操作。无任何依赖项，支持框选（Drag-Select）和拖放（Drag-And-Drop）功能
 - [kelp](https://github.com/cferdinandi/kelp) 一个为热爱 HTML 的开发者打造的 UI 库，基于现代 CSS 和 Web Components 构建
 - [@lottiefiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
