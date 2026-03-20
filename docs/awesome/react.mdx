@@ -135,6 +135,7 @@
 
 ### 数据录入
 
+- [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
 - [@uiw/react-color](https://github.com/uiwjs/react-color)
 - [react-easy-crop](https://github.com/ValentinH/react-easy-crop) 图片裁剪
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) 图片裁剪
@@ -207,6 +208,7 @@
 
 ### 其他
 
+- [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
