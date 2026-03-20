@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
 - [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
 - [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
