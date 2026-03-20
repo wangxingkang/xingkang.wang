@@ -117,6 +117,7 @@
 - [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude 的主流智能体编排平台
+- [edict](https://github.com/cft0808/edict) 三省六部制・OpenClaw 多智能体协同编排系统
 - [Aperant](https://github.com/AndyMik90/Aperant) 自主多会话 AI 编程
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
