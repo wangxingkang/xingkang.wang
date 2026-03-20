@@ -16,6 +16,7 @@
 
 ## 其他
 
+- [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航

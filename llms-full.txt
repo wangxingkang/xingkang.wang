@@ -976,6 +976,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航
@@ -1515,6 +1516,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 - [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [vuetify](https://github.com/vuetifyjs/vuetify) Vue 组件框架
