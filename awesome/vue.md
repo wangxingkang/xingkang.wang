@@ -45,7 +45,7 @@
 
 ### 3D
 
-- [Tresjs](https://github.com/Tresjs/tres)
+- [Tresjs](https://github.com/Tresjs/tres) 基于 Vue 组件的声明式 ThreeJS 开发方案
 
 ### 其他
 
