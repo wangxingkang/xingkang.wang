@@ -114,4 +114,5 @@
 
 ## 开源项目
 
+- [dicebear](https://github.com/dicebear/dicebear) DiceBear 是一款面向设计师与开发者的头像生成库
 - [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目
