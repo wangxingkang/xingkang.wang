@@ -1,1 +1,10 @@
-["libraries"]
+[
+  "libraries",
+  {
+    "type": "dir",
+    "name": "research",
+    "label": "技术调研",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
