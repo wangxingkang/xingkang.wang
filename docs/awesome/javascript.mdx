@@ -86,7 +86,8 @@
 
 ### 文件相关
 
-- [docxjs](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
+- [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
+- [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
 - [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
 - [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
 - [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
