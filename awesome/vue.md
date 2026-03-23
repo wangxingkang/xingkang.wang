@@ -82,7 +82,8 @@
 
 ### 富文本
 
-- \[@tiptap/vue-3]\(- [@tiptap/vue-3](https://github.com/ueberdosis/tiptap/tree/HEAD/packages/vue-3))
+- [@umoteam/editor](https://github.com/umodoc/editor) Umo Editor 是一个基于 Vue3 和 Tiptap3 的本土化开源文档编辑器，提供类似于 Microsoft Word 的在线编辑功能和浏览体验，专为国人用户设计
+- [@tiptap/vue-3](https://github.com/ueberdosis/tiptap/tree/HEAD/packages/vue-3)
 
 ### 拖拽
 
