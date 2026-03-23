@@ -13,6 +13,7 @@
   - [remark-gfm](https://github.com/remarkjs/remark-gfm)
   - [remark-rehype](https://github.com/remarkjs/remark-rehype)
   - [remark-parse](https://github.com/remarkjs/remark/tree/main/packages/remark-parse)
+  - [rehype-raw](https://github.com/rehypejs/rehype-raw)
   - [agentic-ui](https://github.com/antdigital-ai/agentic-ui)
   - [react-markdown](https://github.com/remarkjs/react-markdown)
     - [@assistant-ui/react-markdown](https://github.com/assistant-ui/assistant-ui/tree/main/packages/react-markdown)
