@@ -5,6 +5,7 @@
 ## 指南
 
 - [常用库](/guide/libraries.md)
+- [Markdown](/guide/research/markdown.md)
 - [介绍](/template/react/guide/introduction.md)
 
 ## 精选资源

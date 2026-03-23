@@ -171,6 +171,7 @@
 
 ### 其他
 
+- [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
 - [satori](https://github.com/vercel/satori) 实现 HTML 与 CSS 到 SVG 的转换
 - [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
 - [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) navigator.mediaDevices.getUserMedia + MediaRecorder 生成的 WEBM 文件缺少时长元数据。该库会直接在文件二进制大对象（Blob）中补充缺失的元数据段
