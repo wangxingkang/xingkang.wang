@@ -190,6 +190,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
+- [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [opencli](https://github.com/jackwener/opencli) 把任何网站或 Electron 应用变成你的命令行工具
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
@@ -852,6 +855,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [danfojs](https://github.com/javascriptdata/danfojs) Danfo.js 是一款开源的 JavaScript 库，它提供了高性能、直观且易用的数据结构，用于操作和处理结构化数据。
 - [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) 一款轻量易用的 JavaScript 库，用于元素的选择与移动操作。无任何依赖项，支持框选（Drag-Select）和拖放（Drag-And-Drop）功能
 - [kelp](https://github.com/cferdinandi/kelp) 一个为热爱 HTML 的开发者打造的 UI 库，基于现代 CSS 和 Web Components 构建
 - [@lottiefiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
