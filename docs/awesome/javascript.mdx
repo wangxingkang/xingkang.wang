@@ -57,6 +57,7 @@
 
 ### 网络请求
 
+- [ofetch](https://github.com/unjs/ofetch) 😱 一款更优秀的 Fetch API，全平台通用。
 - [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
   - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
 - [mande](https://github.com/posva/mande) 不到 700 字节的现代化 fetch 便捷封装库，内置智能可扩展的默认配置
@@ -318,6 +319,8 @@
 
 ## 其他
 
+- [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案
+- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [remove-markdown](https://github.com/zuchka/remove-markdown) 从文本中去除 Markdown 格式内容
 - [relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) 中国亲戚关系计算器
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
