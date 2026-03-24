@@ -614,6 +614,7 @@ url: /awesome/javascript.md
 
 ### 网络请求
 
+- [ofetch](https://github.com/unjs/ofetch) 😱 一款更优秀的 Fetch API，全平台通用。
 - [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
   - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
 - [mande](https://github.com/posva/mande) 不到 700 字节的现代化 fetch 便捷封装库，内置智能可扩展的默认配置
@@ -875,6 +876,8 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案
+- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [remove-markdown](https://github.com/zuchka/remove-markdown) 从文本中去除 Markdown 格式内容
 - [relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) 中国亲戚关系计算器
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
@@ -942,6 +945,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
+- [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
 - [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包

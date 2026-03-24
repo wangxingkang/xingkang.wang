@@ -39,6 +39,8 @@
 
 ## 其他
 
+- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
+- [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
 - [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
