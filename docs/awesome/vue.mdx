@@ -106,6 +106,10 @@
 - [@tanstack/vue-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) 基于 fabric.js 的开源图片编辑器
 
+## 其他
+
+- [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖
+
 ## 开发模版
 
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
