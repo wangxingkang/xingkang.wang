@@ -136,6 +136,7 @@
 
 ### 数据录入
 
+- [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 <textarea /> 组件，可随内容自动增高
 - [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
 - [@uiw/react-color](https://github.com/uiwjs/react-color)
@@ -210,6 +211,7 @@
 
 ### 其他
 
+- [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库

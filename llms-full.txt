@@ -193,6 +193,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
+- [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
@@ -427,6 +429,7 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [fontaine](https://github.com/unjs/fontaine) 基于字体度量指标的自动字体回退
 - [@tailwindcss/vite](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-vite)
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
@@ -1049,6 +1052,7 @@ url: /awesome/react-native.md
 
 ## 案例(开源项目)
 
+- [JKVideo](https://github.com/tiajinsha/JKVideo) 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) 一个基于 React native 开发的音乐软件
 - [twitter-ui](https://github.com/saulsharma/twitter-ui) 基于 React Native (Expo) 实现的 Twitter/X 界面
 
@@ -1196,6 +1200,7 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 <textarea /> 组件，可随内容自动增高
 - [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
 - [@uiw/react-color](https://github.com/uiwjs/react-color)
@@ -1270,6 +1275,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库
