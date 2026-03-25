@@ -24,5 +24,6 @@
 
 ## 案例(开源项目)
 
+- [JKVideo](https://github.com/tiajinsha/JKVideo) 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) 一个基于 React native 开发的音乐软件
 - [twitter-ui](https://github.com/saulsharma/twitter-ui) 基于 React Native (Expo) 实现的 Twitter/X 界面
