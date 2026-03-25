@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [discourse](https://github.com/discourse/discourse) 论坛系统
 - [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
 - [weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary) 根据 Git 提交记录生成周报
 - [ponghub](https://github.com/WCY-dt/ponghub) 一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线

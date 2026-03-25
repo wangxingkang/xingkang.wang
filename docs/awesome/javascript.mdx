@@ -304,6 +304,7 @@
 
 ### 其他
 
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) 基于 JavaScript 实现的可拖拽全尺寸日程日历组件
 - [danfojs](https://github.com/javascriptdata/danfojs) Danfo.js 是一款开源的 JavaScript 库，它提供了高性能、直观且易用的数据结构，用于操作和处理结构化数据。
 - [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) 一款轻量易用的 JavaScript 库，用于元素的选择与移动操作。无任何依赖项，支持框选（Drag-Select）和拖放（Drag-And-Drop）功能
 - [kelp](https://github.com/cferdinandi/kelp) 一个为热爱 HTML 的开发者打造的 UI 库，基于现代 CSS 和 Web Components 构建
@@ -321,6 +322,8 @@
 
 ## 其他
 
+- [morphlex](https://github.com/yippee-fun/morphlex) 用 TypeScript 编写的最优 DOM 变形算法
+- [jSquash](https://github.com/jamsinclair/jSquash) 基于 Squoosh 应用衍生、专注于浏览器与 Web Worker 的图像编解码器 WASM 包
 - [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案
 - [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [remove-markdown](https://github.com/zuchka/remove-markdown) 从文本中去除 Markdown 格式内容
