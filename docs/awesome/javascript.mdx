@@ -172,6 +172,7 @@
 
 ### 其他
 
+- [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
 - [satori](https://github.com/vercel/satori) 实现 HTML 与 CSS 到 SVG 的转换
 - [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
@@ -279,6 +280,7 @@
 #### 视频
 
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
+- [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
 
 #### 音频
