@@ -193,6 +193,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
@@ -732,6 +733,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
 - [satori](https://github.com/vercel/satori) 实现 HTML 与 CSS 到 SVG 的转换
 - [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
@@ -839,6 +841,7 @@ url: /awesome/javascript.md
 #### 视频
 
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
+- [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
 
 #### 音频

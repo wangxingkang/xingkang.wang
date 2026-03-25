@@ -85,6 +85,7 @@
 
 ### 其他
 
+- [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
