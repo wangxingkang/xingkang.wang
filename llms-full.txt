@@ -1028,6 +1028,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
@@ -1301,6 +1302,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [react-progressive-blur](https://github.com/rakib86/react-progressive-blur) 渐进式模糊效果
 - [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件

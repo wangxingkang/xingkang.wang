@@ -155,6 +155,7 @@
 
 ### 数据展示
 
+- [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [react-progressive-blur](https://github.com/rakib86/react-progressive-blur) 渐进式模糊效果
 - [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件

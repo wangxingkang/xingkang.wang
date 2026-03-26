@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
