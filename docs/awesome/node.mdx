@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
 - [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧

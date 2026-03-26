@@ -255,6 +255,7 @@
 
 ## 其他
 
+- [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
 - [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
