@@ -305,6 +305,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
+- [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
 - [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
@@ -777,6 +779,7 @@ url: /awesome/javascript.md
 ### 数据校验
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
+- [yup](https://github.com/jquense/yup) 极简对象模式验证
 
 ### 数据生成
 
@@ -851,6 +854,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [flowise-embed](https://github.com/FlowiseAI/FlowiseChatEmbed) 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库
+- [showdown](https://github.com/showdownjs/showdown) 一款使用 JavaScript 编写的 Markdown 与 HTML 双向转换器
+- [html-react-parser](https://github.com/remarkablemark/html-react-parser) 📝 HTML 转 React 解析器
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
@@ -1075,6 +1081,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
+- [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
+- [winston](https://github.com/winstonjs/winston) 一款适用于几乎所有场景的日志工具
 - [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
@@ -1373,6 +1382,7 @@ url: /awesome/react.md
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
+- [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) 适用于 React 的 JSON 查看器
 
 ### 反馈
 
@@ -1414,6 +1424,11 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
+- [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
+- [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
+- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+- [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
 - [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
