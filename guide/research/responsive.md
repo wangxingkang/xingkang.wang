@@ -10,13 +10,27 @@
 - 最大内容区: 800px
 - 最小内容区: 无
 
+适配方案: 响应式布局 + 移动优先 + 桌面增强
+
+双态布局切换
+
+- PC 端: 三栏式/两栏式结构; 左侧是会话历史列表，中间是对话主区域，右侧根据功能（如搜索来源、文档分析）弹性弹出第三栏
+
+- 移动端: 全屏对话; 隐藏侧边栏，将侧边栏功能收纳进左上角的“汉堡菜单”或底部导航
+
+- Css单位: `px`
+
 ### qianwen
 
 > [https://www.qianwen.com](https://www.qianwen.com)
 
 - 移动端断点: 755px
+
 - 最大内容区: 698px
+
 - 最小内容区: 452px
+
+- Css单位: `rem`
 
 ### deepseek
 
@@ -26,42 +40,66 @@
 - 最大内容区: 774px
 - 最小内容区: 无
 
+Css单位: `px`
+
 ### kimi
 
 > [https://www.kimi.com](https://www.kimi.com)
 
 - 移动端断点: 1280px
+
 - 最大内容区: 766px
+
 - 最小内容区: 375px
+
+- Css单位: `px`
 
 ### minimaxi
 
 > [https://agent.minimaxi.com](https://agent.minimaxi.com)
 
 - 移动端断点: 1148px
+
 - 最大内容区: 741px
+
 - 最小内容区: 无
+
+- Css单位: `px`
 
 ### 智谱
 
 > [https://chat.z.ai](https://chat.z.ai)
 
 - 移动端断点: 768px
+
 - 最大内容区: 946px
+
 - 最小内容区: 无
+
+- Css单位: `rem`
 
 ### chatgpt
 
 > [https://chatgpt.com](https://chatgpt.com)
 
 - 移动端断点: 768px
+
 - 最大内容区: 760px
+
 - 最小内容区: 无
+
+- 样式方案: TailwindCSS
+
+- Css单位: `rem`
 
 ### gemini
 
 > [https://gemini.google.com](https://gemini.google.com)
 
 - 移动端断点: 959px
+
 - 最大内容区: 760px
+
 - 最小内容区: 无
+
+- Css单位: `px`
