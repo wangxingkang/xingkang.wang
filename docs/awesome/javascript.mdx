@@ -101,6 +101,7 @@
 ### 数据校验
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
+- [yup](https://github.com/jquense/yup) 极简对象模式验证
 
 ### 数据生成
 
@@ -175,6 +176,9 @@
 
 ### 其他
 
+- [flowise-embed](https://github.com/FlowiseAI/FlowiseChatEmbed) 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库
+- [showdown](https://github.com/showdownjs/showdown) 一款使用 JavaScript 编写的 Markdown 与 HTML 双向转换器
+- [html-react-parser](https://github.com/remarkablemark/html-react-parser) 📝 HTML 转 React 解析器
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
