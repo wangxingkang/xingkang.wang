@@ -955,6 +955,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
 - [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
@@ -1327,6 +1328,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
 - [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
