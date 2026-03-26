@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库

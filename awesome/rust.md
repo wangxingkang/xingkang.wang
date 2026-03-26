@@ -4,6 +4,10 @@
 
 - [官网](https://rust-lang.org/zh-CN/)
 
+## 学习
+
+- [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料
+
 ## 其他
 
 - [imagekit](https://github.com/hzbd/imagekit) 批量图片处理的命令行工具

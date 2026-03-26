@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可在 Reddit、X、YouTube、黑客新闻（HN）、Polymarket 及全网对任意主题进行调研，然后合成一份有据可依的总结
 - [skills](https://github.com/mattpocock/skills) 这是我的个人技能目录，直接来自我的 `.claude` 目录。
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
@@ -84,6 +85,7 @@
 
 ### 其他
 
+- [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
 - [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
