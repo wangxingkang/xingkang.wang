@@ -304,6 +304,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
 - [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
@@ -1066,6 +1067,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
@@ -1140,6 +1142,10 @@ url: /awesome/python.md
 
 - [fish-speech](https://github.com/fishaudio/fish-speech) 当前最优开源语音合成（TTS）
 - [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
+
+## 其他
+
+- [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
 
 
 

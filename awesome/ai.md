@@ -84,6 +84,7 @@
 
 ### 其他
 
+- [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
 - [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
