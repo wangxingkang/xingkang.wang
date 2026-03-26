@@ -214,6 +214,7 @@
 
 ### 其他
 
+- [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位

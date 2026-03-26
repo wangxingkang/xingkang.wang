@@ -15,6 +15,7 @@
 - [anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
 - [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
+- [velocity-animate](https://github.com/julianshapiro/velocity) 加速型 JavaScript 动画
 
 ## 数据可视化
 
@@ -36,6 +37,8 @@
 
 ### 其他
 
+- [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
+- [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
 - [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
@@ -172,6 +175,7 @@
 
 ### 其他
 
+- [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
 - [satori](https://github.com/vercel/satori) 实现 HTML 与 CSS 到 SVG 的转换
@@ -322,6 +326,8 @@
 
 ## 其他
 
+- [paper.js](https://github.com/paperjs/paper.js) 矢量图形脚本的瑞士军刀
+- [oat](https://github.com/knadh/oat) 超轻量级、零依赖、基于语义化 HTML、CSS、JS 的 UI 库。压缩并 gzip 后约 8KB。
 - [morphlex](https://github.com/yippee-fun/morphlex) 用 TypeScript 编写的最优 DOM 变形算法
 - [jSquash](https://github.com/jamsinclair/jSquash) 基于 Squoosh 应用衍生、专注于浏览器与 Web Worker 的图像编解码器 WASM 包
 - [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案

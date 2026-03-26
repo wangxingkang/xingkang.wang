@@ -108,6 +108,7 @@
 
 ## 其他
 
+- [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
 - [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖
 
 ## 开发模版
