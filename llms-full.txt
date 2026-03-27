@@ -509,6 +509,11 @@ url: /awesome/desktop.md
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
 
+## Electrobun
+
+- [官网](https://blackboard.sh/electrobun/docs/)
+- [electrobun](https://github.com/blackboardsh/electrobun) electrobun 仓库
+
 
 
 ---
@@ -886,7 +891,6 @@ url: /awesome/javascript.md
 - [clipboard-copy](https://github.com/feross/clipboard-copy) 面向网页端的轻量级剪贴板复制工具
 - [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 通过 JavaScript 从浏览器端将内容复制到剪贴板
 - [clipboard](https://github.com/zenorocha/clipboard.js) ✂️ 现代化剪贴板复制工具，无需 Flash，仅 3KB 压缩体积
-- [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [debug](https://github.com/debug-js/debug) 一款轻量级 JavaScript 调试工具，仿照 Node.js 核心调试技术打造，同时支持 Node.js 和网页浏览器环境
 - [marked](https://github.com/markedjs/marked) 一款 Markdown 解析器与编译器，为极致性能而生
 - [turndown](https://github.com/mixmark-io/turndown) 🛏 一款基于 JavaScript 编写的 HTML 转 Markdown 转换器
@@ -1082,6 +1086,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
 - [winston](https://github.com/winstonjs/winston) 一款适用于几乎所有场景的日志工具
@@ -1769,6 +1774,7 @@ url: /awesome/vue.md
 
 ## 其他
 
+- [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
 - [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖
 

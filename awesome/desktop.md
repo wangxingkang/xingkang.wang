@@ -32,3 +32,8 @@
 
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
+
+## Electrobun
+
+- [官网](https://blackboard.sh/electrobun/docs/)
+- [electrobun](https://github.com/blackboardsh/electrobun) electrobun 仓库
