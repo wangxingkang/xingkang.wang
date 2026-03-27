@@ -117,7 +117,7 @@
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
-- [airi](https://github.com/moeru-ai/airi) 赛博生命
+- [airi](https://github.com/moeru-ai/airi) 复刻 Neuro-sama，让 AI waifu / 虚拟角色也能来到我们的世界
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
