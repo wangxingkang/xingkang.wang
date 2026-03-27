@@ -305,6 +305,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
@@ -1086,6 +1087,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端

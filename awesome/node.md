@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
