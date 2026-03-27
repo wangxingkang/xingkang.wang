@@ -31,6 +31,7 @@
 
 ## 组件库
 
+- [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
 - [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库
 - [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
@@ -121,5 +122,6 @@
 
 ## 开源项目
 
+- [webai-example-realtime-voice-chat](https://github.com/proj-airi/webai-example-realtime-voice-chat) 🎤💬 几乎在单个文件内，从零实现 ChatGPT 实时语音的完整示例，技术栈包含 VAD + STT + LLM + TTS！
 - [dicebear](https://github.com/dicebear/dicebear) DiceBear 是一款面向设计师与开发者的头像生成库
 - [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目

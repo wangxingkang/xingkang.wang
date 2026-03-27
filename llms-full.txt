@@ -337,7 +337,7 @@ url: /awesome/ai.md
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
-- [airi](https://github.com/moeru-ai/airi) 赛博生命
+- [airi](https://github.com/moeru-ai/airi) 复刻 Neuro-sama，让 AI waifu / 虚拟角色也能来到我们的世界
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
@@ -1699,6 +1699,7 @@ url: /awesome/vue.md
 
 ## 组件库
 
+- [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
 - [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库
 - [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
@@ -1789,6 +1790,7 @@ url: /awesome/vue.md
 
 ## 开源项目
 
+- [webai-example-realtime-voice-chat](https://github.com/proj-airi/webai-example-realtime-voice-chat) 🎤💬 几乎在单个文件内，从零实现 ChatGPT 实时语音的完整示例，技术栈包含 VAD + STT + LLM + TTS！
 - [dicebear](https://github.com/dicebear/dicebear) DiceBear 是一款面向设计师与开发者的头像生成库
 - [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目
 
