@@ -329,6 +329,7 @@
 
 ## 其他
 
+- [typebox](https://github.com/sinclairzx81/typebox) 支持 TypeScript 静态类型解析的 JSON Schema 类型构建器
 - [workflows-ts](https://github.com/run-llama/workflows-ts) 🌊 简洁、事件驱动、面向流的 TypeScript 工作流
 - [paper.js](https://github.com/paperjs/paper.js) 矢量图形脚本的瑞士军刀
 - [oat](https://github.com/knadh/oat) 超轻量级、零依赖、基于语义化 HTML、CSS、JS 的 UI 库。压缩并 gzip 后约 8KB。

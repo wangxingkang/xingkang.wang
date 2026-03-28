@@ -305,6 +305,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
@@ -643,6 +644,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [flipoff](https://github.com/magnum6actual/flipoff) 适用于任意电视的免费翻牌显示屏模拟器。复刻经典翻牌面板效果，无需花费 3500 美元购买硬件。
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
 - [discourse](https://github.com/discourse/discourse) 论坛系统
 - [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
@@ -1015,6 +1017,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [typebox](https://github.com/sinclairzx81/typebox) 支持 TypeScript 静态类型解析的 JSON Schema 类型构建器
 - [workflows-ts](https://github.com/run-llama/workflows-ts) 🌊 简洁、事件驱动、面向流的 TypeScript 工作流
 - [paper.js](https://github.com/paperjs/paper.js) 矢量图形脚本的瑞士军刀
 - [oat](https://github.com/knadh/oat) 超轻量级、零依赖、基于语义化 HTML、CSS、JS 的 UI 库。压缩并 gzip 后约 8KB。
