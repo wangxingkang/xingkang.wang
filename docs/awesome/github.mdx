@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [flipoff](https://github.com/magnum6actual/flipoff) 适用于任意电视的免费翻牌显示屏模拟器。复刻经典翻牌面板效果，无需花费 3500 美元购买硬件。
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
 - [discourse](https://github.com/discourse/discourse) 论坛系统
 - [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
