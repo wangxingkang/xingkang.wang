@@ -305,6 +305,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
@@ -1088,6 +1089,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
+- [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关

@@ -85,6 +85,7 @@
 
 ### 其他
 
+- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
