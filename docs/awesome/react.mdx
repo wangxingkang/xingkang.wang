@@ -31,6 +31,7 @@
 
 ### 其他
 
+- [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
 - [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
@@ -266,6 +267,7 @@
 
 ## 其他
 
+- [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
 - [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
 - [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
