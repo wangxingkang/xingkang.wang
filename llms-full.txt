@@ -691,6 +691,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
@@ -1178,6 +1179,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [NeMo](https://github.com/NVIDIA-NeMo/NeMo) 一款可扩展的生成式 AI 框架，专为从事大语言模型、多模态及语音 AI（自动语音识别与文本转语音）研究与开发的研究人员和开发者打造。
 - [hindsight](https://github.com/vectorize-io/hindsight) 具备学习能力的智能体记忆系统
 - [fish-speech](https://github.com/fishaudio/fish-speech) 当前最优开源语音合成（TTS）
 - [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
@@ -1262,6 +1264,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
 - [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
 
@@ -1497,6 +1500,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
 - [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
 - [react-scan](https://github.com/aidenybai/react-scan) 检测 React 应用中的性能问题，消除应用内的慢渲染现象
