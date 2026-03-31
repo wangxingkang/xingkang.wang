@@ -70,6 +70,7 @@
 
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
+- [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
 - [@mantine/hooks](https://mantine.dev/hooks/package)
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键

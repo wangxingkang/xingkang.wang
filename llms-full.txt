@@ -1019,6 +1019,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [disable-devtool](https://github.com/theajack/disable-devtool) 通过 F12 按键、右键菜单及浏览器菜单禁用网页开发者工具
 - [typebox](https://github.com/sinclairzx81/typebox) 支持 TypeScript 静态类型解析的 JSON Schema 类型构建器
 - [workflows-ts](https://github.com/run-llama/workflows-ts) 🌊 简洁、事件驱动、面向流的 TypeScript 工作流
 - [paper.js](https://github.com/paperjs/paper.js) 矢量图形脚本的瑞士军刀
@@ -1177,6 +1178,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [hindsight](https://github.com/vectorize-io/hindsight) 具备学习能力的智能体记忆系统
 - [fish-speech](https://github.com/fishaudio/fish-speech) 当前最优开源语音合成（TTS）
 - [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
 
@@ -1208,6 +1210,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [zeego](https://github.com/nandorojo/zeego) 为 React (Native) 精心打造的菜单组件
 - [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
@@ -1298,6 +1301,7 @@ url: /awesome/react.md
 
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
+- [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
 - [@mantine/hooks](https://mantine.dev/hooks/package)
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键

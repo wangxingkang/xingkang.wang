@@ -16,6 +16,7 @@
 
 ## 其他
 
+- [zeego](https://github.com/nandorojo/zeego) 为 React (Native) 精心打造的菜单组件
 - [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
