@@ -60,6 +60,8 @@
 
 ## 动画
 
+- [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
+- [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
 - [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
 - [@rive-app/react-webgl2](https://github.com/rive-app/rive-react)
@@ -92,6 +94,8 @@
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
+- [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
+- [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 
 ## 数据可视化
 
@@ -272,6 +276,8 @@
 
 ## 其他
 
+- [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
 - [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件

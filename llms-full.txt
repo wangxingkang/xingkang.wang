@@ -307,6 +307,10 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [lingo](https://github.com/lingodotdev/lingo.dev) 开源、基于人工智能的国际化开发工具包，借助大语言模型实现即时本地化
+- [morphic](https://github.com/miurla/morphic) 一款搭载生成式界面的人工智能搜索引擎。
+- [claudecodeui](https://github.com/siteboon/claudecodeui) 借助 CloudCLI（又名 Claude Code UI），您可以在移动端和网页端使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费开源的网页用户界面 / 图形界面，可帮助您远程管理 Claude Code 会话和项目
+- [puck](https://github.com/puckeditor/puck) 打造属于你自己的 AI 页面生成器
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
@@ -655,6 +659,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
 - [flipoff](https://github.com/magnum6actual/flipoff) 适用于任意电视的免费翻牌显示屏模拟器。复刻经典翻牌面板效果，无需花费 3500 美元购买硬件。
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
 - [discourse](https://github.com/discourse/discourse) 论坛系统
@@ -1118,6 +1123,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
 - [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
@@ -1228,11 +1234,19 @@ url: /awesome/react-native.md
 
 ## 组件库
 
+- [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) 适用于 React Native 的 UI 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) 跨平台 React Native UI 工具包
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) 以移动端为优先、具备无障碍访问能力的 React Native & Web 组件，可用于在 Android、iOS 和 Web 端构建风格统一的用户界面
 
 ## 其他
 
+- [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
+- [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
+- [eact-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及普通 React Web 项目的 SVG 库。
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) 一款高性能交互式底部弹窗组件，支持全面可配置的选项
+- [react-native-calendars](https://github.com/wix/react-native-calendars) React Native 日历组件
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) 重新实现的 React Native 动画库
+- [react-native-maps](https://github.com/react-native-maps/react-native-maps) 适用于 iOS 和 Android 的 React Native 地图视图组件
 - [zeego](https://github.com/nandorojo/zeego) 为 React (Native) 精心打造的菜单组件
 - [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition)
@@ -1242,6 +1256,8 @@ url: /awesome/react-native.md
 
 ## 案例(开源项目)
 
+- [OrionTV](https://github.com/orion-lib/OrionTV) 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
+- [MusicFree](https://github.com/maotoumao/MusicFree) 插件化、定制化、无广告的免费音乐播放器
 - [JKVideo](https://github.com/tiajinsha/JKVideo) 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) 一个基于 React native 开发的音乐软件
 - [twitter-ui](https://github.com/saulsharma/twitter-ui) 基于 React Native (Expo) 实现的 Twitter/X 界面
@@ -1314,6 +1330,8 @@ url: /awesome/react.md
 
 ## 动画
 
+- [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
+- [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
 - [react-spring](https://github.com/pmndrs/react-spring) ✌️ 一款基于弹簧物理模型的 React 动画库
 - [@rive-app/react-webgl2](https://github.com/rive-app/rive-react)
@@ -1346,6 +1364,8 @@ url: /awesome/react.md
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
+- [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
+- [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 
 ## 数据可视化
 
@@ -1526,6 +1546,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
 - [redalert2](https://github.com/huangkaoya/redalert2) 红色警戒2源代码
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
@@ -1888,6 +1910,7 @@ url: /awesome/website.md
 - [leetcode](https://leetcode.cn) 力扣
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
 - [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
+- [mianshiya](https://github.com/liyupi/mianshiya) 持续维护的企业面试题库网站
 
 ## 素材
 

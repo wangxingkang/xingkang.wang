@@ -85,6 +85,10 @@
 
 ### 其他
 
+- [lingo](https://github.com/lingodotdev/lingo.dev) 开源、基于人工智能的国际化开发工具包，借助大语言模型实现即时本地化
+- [morphic](https://github.com/miurla/morphic) 一款搭载生成式界面的人工智能搜索引擎。
+- [claudecodeui](https://github.com/siteboon/claudecodeui) 借助 CloudCLI（又名 Claude Code UI），您可以在移动端和网页端使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费开源的网页用户界面 / 图形界面，可帮助您远程管理 Claude Code 会话和项目
+- [puck](https://github.com/puckeditor/puck) 打造属于你自己的 AI 页面生成器
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
