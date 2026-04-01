@@ -869,6 +869,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [type-fest](https://github.com/sindresorhus/type-fest) 一组必备的 TypeScript 类型集合
 - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式
 - [flowise-embed](https://github.com/FlowiseAI/FlowiseChatEmbed) 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库
@@ -1024,6 +1025,8 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [@pqina/pintura](https://pqina.nl/pintura) 图像编辑器
+- [@pqina/pintura-video](https://pqina.nl/pintura/docs/v8/api/video-editor/installation/) 视频编辑器
 - [disable-devtool](https://github.com/theajack/disable-devtool) 通过 F12 按键、右键菜单及浏览器菜单禁用网页开发者工具
 - [typebox](https://github.com/sinclairzx81/typebox) 支持 TypeScript 静态类型解析的 JSON Schema 类型构建器
 - [workflows-ts](https://github.com/run-llama/workflows-ts) 🌊 简洁、事件驱动、面向流的 TypeScript 工作流
@@ -1456,6 +1459,8 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
+- [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
 - [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
