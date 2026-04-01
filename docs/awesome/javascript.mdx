@@ -20,6 +20,7 @@
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
 - [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
 - [velocity-animate](https://github.com/julianshapiro/velocity) 加速型 JavaScript 动画
+- [torph](https://github.com/lochie/torph) 无依赖的动画文本组件
 
 ## 数据可视化
 
@@ -180,6 +181,7 @@
 
 ### 其他
 
+- [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
 - [tippyjs](https://github.com/atomiks/tippyjs) 工具提示、气泡卡片、下拉菜单与菜单组件库
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库

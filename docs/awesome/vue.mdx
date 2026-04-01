@@ -58,6 +58,7 @@
 ### 通用
 
 - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue) 图标
+- [grid-layout-plus](https://github.com/qmhc/grid-layout-plus) 适用于 Vue 3 的可拖拽、可缩放网格布局
 
 ### 数据录入
 
