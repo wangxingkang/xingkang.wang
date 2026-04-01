@@ -77,6 +77,7 @@
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) 用于表单状态管理与校验的 React Hooks（支持 Web + React Native）
+- [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 
 ## 组件库
 
@@ -138,6 +139,7 @@
 
 ### 数据录入
 
+- [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
 - [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 `<textarea />` 组件，可随内容自动增高
 - [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
