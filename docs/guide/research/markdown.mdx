@@ -26,6 +26,8 @@
 - [marked](https://github.com/markedjs/marked)
   - [@ant-design/x-markdown](https://github.com/ant-design/x/tree/main/packages/x-markdown)
 - [markdown-it](https://github.com/markdown-it/markdown-it)
+  - [markdown-it-container](https://github.com/markdown-it/markdown-it-container) 用于 markdown-it Markdown 解析器的围栏容器插件
+  - [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) 一款用于创建 GitHub 风格任务列表的 markdown-it 插件
 - [comark](https://github.com/comarkdown/comark)
 - [md4x](https://github.com/unjs/md4x)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
