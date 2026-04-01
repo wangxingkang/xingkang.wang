@@ -2,6 +2,8 @@
 
 ## AI
 
+- [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
+- [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
@@ -178,6 +180,8 @@
 
 ### 其他
 
+- [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
+- [tippyjs](https://github.com/atomiks/tippyjs) 工具提示、气泡卡片、下拉菜单与菜单组件库
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [type-fest](https://github.com/sindresorhus/type-fest) 一组必备的 TypeScript 类型集合
 - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式

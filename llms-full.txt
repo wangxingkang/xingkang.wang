@@ -83,6 +83,8 @@ url: /guide/research/markdown.md
 - [marked](https://github.com/markedjs/marked)
   - [@ant-design/x-markdown](https://github.com/ant-design/x/tree/main/packages/x-markdown)
 - [markdown-it](https://github.com/markdown-it/markdown-it)
+  - [markdown-it-container](https://github.com/markdown-it/markdown-it-container) 用于 markdown-it Markdown 解析器的围栏容器插件
+  - [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) 一款用于创建 GitHub 风格任务列表的 markdown-it 插件
 - [comark](https://github.com/comarkdown/comark)
 - [md4x](https://github.com/unjs/md4x)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
@@ -305,8 +307,11 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
+- [agent-os](https://github.com/rivet-dev/agent-os) 一款面向智能体的便携开源操作系统。冷启动速度约 6 毫秒，成本比沙箱低 32 倍。基于 WebAssembly 与 V8 隔离环境驱动
 - [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
 - [claude-code](https://github.com/claude-code-best/claude-code) 原汁原昧 Claude Code 可运行版
+- [claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
@@ -694,6 +699,8 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
+- [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
@@ -870,6 +877,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
+- [tippyjs](https://github.com/atomiks/tippyjs) 工具提示、气泡卡片、下拉菜单与菜单组件库
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [type-fest](https://github.com/sindresorhus/type-fest) 一组必备的 TypeScript 类型集合
 - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式
