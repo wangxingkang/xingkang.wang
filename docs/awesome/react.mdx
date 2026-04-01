@@ -178,6 +178,7 @@
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 - [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) 适用于 React 的 JSON 查看器
+- [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 一款 React 分页组件，可根据可用宽度智能渲染——拥有丰富的样式定制选项。
 
 ### 反馈
 
