@@ -85,6 +85,7 @@
 
 ### 其他
 
+- [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
 - [agent-os](https://github.com/rivet-dev/agent-os) 一款面向智能体的便携开源操作系统。冷启动速度约 6 毫秒，成本比沙箱低 32 倍。基于 WebAssembly 与 V8 隔离环境驱动
 - [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
