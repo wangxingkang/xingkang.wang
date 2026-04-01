@@ -219,6 +219,8 @@
 
 ### 其他
 
+- [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
+- [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
 - [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
