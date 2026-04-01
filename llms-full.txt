@@ -869,6 +869,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [type-fest](https://github.com/sindresorhus/type-fest) 一组必备的 TypeScript 类型集合
+- [emoji-regex](https://github.com/mathiasbynens/emoji-regex) 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式
 - [flowise-embed](https://github.com/FlowiseAI/FlowiseChatEmbed) 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库
 - [showdown](https://github.com/showdownjs/showdown) 一款使用 JavaScript 编写的 Markdown 与 HTML 双向转换器
 - [html-react-parser](https://github.com/remarkablemark/html-react-parser) 📝 HTML 转 React 解析器
