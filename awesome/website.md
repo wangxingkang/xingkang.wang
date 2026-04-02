@@ -2,6 +2,7 @@
 
 ## 开发
 
+- [it-tools](https://it-tools.tech) 为开发者打造的一系列易用在线工具集
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
 - [rive](https://rive.app) 设计、编码、动画制作一站式完成，成品可发布至全平台
 - [svgator](https://app.svgator.com) 创建可用于生产环境的矢量动画工具

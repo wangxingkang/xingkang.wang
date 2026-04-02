@@ -307,6 +307,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
+- [claw-code](https://github.com/ultraworkers/claw-code) claude code 重写(Python)
 - [LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI)
 - [symphony](https://github.com/openai/symphony) 将项目工作转化为独立、自主的执行任务流，让团队能够**管理工作**，而非监督代码智能体
 - [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用
@@ -664,6 +666,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [openscreen](https://github.com/siddharthvaddem/openscreen) 免费创建精美演示视频。开源、无订阅、无水印，且可免费用于商业用途，是 Screen Studio 的替代方案
 - [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
 - [flipoff](https://github.com/magnum6actual/flipoff) 适用于任意电视的免费翻牌显示屏模拟器。复刻经典翻牌面板效果，无需花费 3500 美元购买硬件。
@@ -1554,6 +1557,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [heyform](https://github.com/heyform/heyform) 开源表单生成器
 - [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
@@ -1869,6 +1873,7 @@ url: /awesome/vue.md
 
 ## 开源项目
 
+- [it-tools](https://github.com/CorentinTh/it-tools) 为开发者打造的一系列易用在线工具集，拥有出色的用户体验
 - [webai-example-realtime-voice-chat](https://github.com/proj-airi/webai-example-realtime-voice-chat) 🎤💬 几乎在单个文件内，从零实现 ChatGPT 实时语音的完整示例，技术栈包含 VAD + STT + LLM + TTS！
 - [dicebear](https://github.com/dicebear/dicebear) DiceBear 是一款面向设计师与开发者的头像生成库
 - [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目
@@ -1883,6 +1888,7 @@ url: /awesome/website.md
 
 ## 开发
 
+- [it-tools](https://it-tools.tech) 为开发者打造的一系列易用在线工具集
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
 - [rive](https://rive.app) 设计、编码、动画制作一站式完成，成品可发布至全平台
 - [svgator](https://app.svgator.com) 创建可用于生产环境的矢量动画工具

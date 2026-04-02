@@ -85,6 +85,8 @@
 
 ### 其他
 
+- [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
+- [claw-code](https://github.com/ultraworkers/claw-code) claude code 重写(Python)
 - [LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI)
 - [symphony](https://github.com/openai/symphony) 将项目工作转化为独立、自主的执行任务流，让团队能够**管理工作**，而非监督代码智能体
 - [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用
