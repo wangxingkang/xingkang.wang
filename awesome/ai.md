@@ -85,6 +85,8 @@
 
 ### 其他
 
+- [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
+- [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
 - [claw-code](https://github.com/ultraworkers/claw-code) claude code 重写(Python)
 - [LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI)
