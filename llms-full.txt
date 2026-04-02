@@ -330,7 +330,6 @@ url: /awesome/ai.md
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
-- [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI/LLM 流程
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
@@ -689,7 +688,7 @@ url: /awesome/go.md
 
 ## 官方资源
 
-- [官网](https://golang.google.cn) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
+- [官网](https://golang.google.cn)
 
 ## 其他
 
@@ -698,7 +697,6 @@ url: /awesome/go.md
 - [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
 - [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
-- [undici](https://github.com/nodejs/undici)
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
@@ -1133,6 +1131,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [undici](https://github.com/nodejs/undici) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
 - [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
@@ -1164,7 +1163,6 @@ url: /awesome/node.md
 - [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
 - [ajv](https://github.com/ajv-validator/ajv) 速度最快的 JSON Schema 验证器
 - [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
-- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
 - [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
 - [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
@@ -1198,7 +1196,6 @@ url: /awesome/node.md
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
-- [tar](https://github.com/isaacs/node-tar) tar for node
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 
@@ -1510,7 +1507,6 @@ url: /awesome/react.md
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
 - [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
-- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
 - [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
 - [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
@@ -1535,7 +1531,7 @@ url: /awesome/react.md
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-- [react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
