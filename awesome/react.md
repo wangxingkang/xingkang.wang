@@ -125,6 +125,7 @@
 
 ### 通用
 
+- [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react) 一套包含 **6000 多款免费高质量 SVG 图标**，采用 MIT 开源许可，可直接用于你的网页项目。
 - [react-icons](https://github.com/react-icons/react-icons) 主流图标库的 **SVG React 图标**
 - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react) 图标
 - [@ant-design/icons](https://github.com/ant-design/ant-design-icons) 图标
