@@ -39,6 +39,7 @@
 
 ## 其他
 
+- [undici](https://github.com/nodejs/undici) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
 - [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
@@ -70,7 +71,6 @@
 - [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
 - [ajv](https://github.com/ajv-validator/ajv) 速度最快的 JSON Schema 验证器
 - [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
-- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
 - [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
 - [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
@@ -104,6 +104,5 @@
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
-- [tar](https://github.com/isaacs/node-tar) tar for node
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块

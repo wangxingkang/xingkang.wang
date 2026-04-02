@@ -230,7 +230,6 @@
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
 - [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
-- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
 - [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
 - [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
@@ -255,7 +254,7 @@
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-- [react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
