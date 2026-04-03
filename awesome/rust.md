@@ -10,6 +10,7 @@
 
 ## 其他
 
+- [pi\_agent\_rust](https://github.com/Dicklesworthstone/pi_agent_rust) 用 Rust 编写的高性能 AI 编程智能体命令行工具，**零不安全代码**
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell 是专为自主 AI 智能体打造的安全、私密运行时
 - [moltis](https://github.com/moltis-org/moltis) 一款值得信赖的 Rust 原生核心工具,内置语音、记忆体、MCP 工具及多通道访问能力
 - [zeroboot](https://github.com/zerobootdev/zeroboot) 通过写时复制（Copy-on-Write）分叉技术，为 AI 智能体实现亚毫秒级虚拟机沙箱

@@ -1202,6 +1202,7 @@ url: /awesome/node.md
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
+- [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境
 
 
 
@@ -1586,6 +1587,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [pi\_agent\_rust](https://github.com/Dicklesworthstone/pi_agent_rust) 用 Rust 编写的高性能 AI 编程智能体命令行工具，**零不安全代码**
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell 是专为自主 AI 智能体打造的安全、私密运行时
 - [moltis](https://github.com/moltis-org/moltis) 一款值得信赖的 Rust 原生核心工具,内置语音、记忆体、MCP 工具及多通道访问能力
 - [zeroboot](https://github.com/zerobootdev/zeroboot) 通过写时复制（Copy-on-Write）分叉技术，为 AI 智能体实现亚毫秒级虚拟机沙箱
