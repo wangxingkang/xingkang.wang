@@ -12,6 +12,7 @@
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
 - [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
+- [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) 将 Mermaid 图表渲染为精美的 SVG 或 ASCII 艺术图
 
 ## 动画
 

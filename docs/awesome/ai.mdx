@@ -50,6 +50,7 @@
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
+- [agentskills](https://github.com/agentskills/agentskills) 智能体技能的规范与文档
 
 ## 学习
 
@@ -86,6 +87,7 @@
 
 ### 其他
 
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
 - [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
