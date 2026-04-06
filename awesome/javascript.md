@@ -182,6 +182,7 @@
 
 ### 其他
 
+- [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
