@@ -901,6 +901,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [hucre](https://github.com/productdevbook/hucre) 无依赖电子表格引擎。支持读写 XLSX、CSV、ODS 格式。纯 TypeScript 实现，全平台通用
 - [chroma.js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
