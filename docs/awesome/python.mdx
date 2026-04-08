@@ -14,4 +14,5 @@
 
 ## 其他
 
+- [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
