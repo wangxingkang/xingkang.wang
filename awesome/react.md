@@ -225,6 +225,7 @@
 
 ### 其他
 
+- [react-menu](https://github.com/szhsin/react-menu) 用于构建无障碍菜单、下拉菜单、子菜单、右键菜单等功能的 React 组件
 - [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
 - [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
