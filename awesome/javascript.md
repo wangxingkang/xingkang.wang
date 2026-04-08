@@ -182,6 +182,11 @@
 
 ### 其他
 
+- [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
+- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
+- [currency.js](https://github.com/scurker/currency.js) 一个用于处理货币的 JavaScript 库
+- [accounting-js](https://github.com/nashdot/accounting-js) 数字、金额与货币格式化库
+- [numbro](https://github.com/BenjaminVanRyseghem/numbro) 一个用于数字格式化的JS库
 - [hucre](https://github.com/productdevbook/hucre) 无依赖电子表格引擎。支持读写 XLSX、CSV、ODS 格式。纯 TypeScript 实现，全平台通用
 - [chroma.js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境

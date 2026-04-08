@@ -310,6 +310,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
+- [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
+- [graphify](https://github.com/safishamsi/graphify) AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid）。可将任意包含代码、文档、论文或图片的文件夹转换为可检索的知识图谱
 - [deepagents](https://github.com/langchain-ai/deepagents) 基于 LangChain 和 LangGraph 构建的智能体管控框架。配备规划工具、文件系统后端，并支持创建子智能体，功能完备，可处理各类复杂的智能体任务
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
@@ -902,6 +905,11 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
+- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
+- [currency.js](https://github.com/scurker/currency.js) 一个用于处理货币的 JavaScript 库
+- [accounting-js](https://github.com/nashdot/accounting-js) 数字、金额与货币格式化库
+- [numbro](https://github.com/BenjaminVanRyseghem/numbro) 一个用于数字格式化的JS库
 - [hucre](https://github.com/productdevbook/hucre) 无依赖电子表格引擎。支持读写 XLSX、CSV、ODS 格式。纯 TypeScript 实现，全平台通用
 - [chroma.js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
@@ -1461,6 +1469,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
 - [react-responsive-overflow-list](https://github.com/Eliav2/react-responsive-overflow-list) 适用于 React 的响应式列表，仅显示适配空间的项目，并将其余项目归类到可自定义的溢出元素中
 - [react-overflow-list](https://github.com/mattrothenberg/react-overflow-list) 一款无头部（Headless）React 组件，让你完全控制可见项与溢出项的渲染方式 👀
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
