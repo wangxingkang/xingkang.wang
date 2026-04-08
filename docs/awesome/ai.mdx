@@ -81,6 +81,7 @@
 
 ### 音视频
 
+- [sentrysearch](https://github.com/ssrajadh/sentrysearch) 使用 Gemini Embedding 2 或 Qwen3-VL 对视频进行语义检索
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
