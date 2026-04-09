@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
 - [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性

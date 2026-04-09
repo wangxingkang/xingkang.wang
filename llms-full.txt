@@ -310,6 +310,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
 - [graphify](https://github.com/safishamsi/graphify) AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid）。可将任意包含代码、文档、论文或图片的文件夹转换为可检索的知识图谱
@@ -704,6 +705,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
 - [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
@@ -1120,6 +1122,10 @@ url: /awesome/node.md
 
 - [官网](https://nodejs.org/zh-cn)
 
+## AI
+
+- [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
+
 ## 框架
 
 - [fastify](https://github.com/fastify/fastify)
@@ -1155,6 +1161,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
 - [undici](https://github.com/nodejs/undici) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
@@ -1239,6 +1246,8 @@ url: /awesome/python.md
 
 ## AI
 
+- [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
+- [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo) 一款可扩展的生成式 AI 框架，专为从事大语言模型、多模态及语音 AI（自动语音识别与文本转语音）研究与开发的研究人员和开发者打造。
 - [hindsight](https://github.com/vectorize-io/hindsight) 具备学习能力的智能体记忆系统
@@ -1288,6 +1297,7 @@ url: /awesome/react-native.md
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航
 - [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
+- [expo-gooey-toast](https://github.com/rit3zh/expo-gooey-toast) 🍞 适用于 React Native 的平滑过渡消息提示组件
 
 ## 案例(开源项目)
 
@@ -1876,6 +1886,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 - [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
