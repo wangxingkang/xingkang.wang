@@ -30,6 +30,7 @@
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航
 - [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
+- [expo-gooey-toast](https://github.com/rit3zh/expo-gooey-toast) 🍞 适用于 React Native 的平滑过渡消息提示组件
 
 ## 案例(开源项目)
 

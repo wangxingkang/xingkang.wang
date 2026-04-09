@@ -88,6 +88,7 @@
 
 ### 其他
 
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
 - [graphify](https://github.com/safishamsi/graphify) AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid）。可将任意包含代码、文档、论文或图片的文件夹转换为可检索的知识图谱
