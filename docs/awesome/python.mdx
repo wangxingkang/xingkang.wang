@@ -6,6 +6,7 @@
 
 ## AI
 
+- [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架

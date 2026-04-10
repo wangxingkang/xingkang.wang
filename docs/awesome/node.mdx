@@ -6,6 +6,7 @@
 
 ## AI
 
+- [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
 
 ## 框架
@@ -43,6 +44,7 @@
 
 ## 其他
 
+- [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
 - [undici](https://github.com/nodejs/undici) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
