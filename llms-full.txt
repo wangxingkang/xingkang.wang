@@ -310,6 +310,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
+- [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
+- [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) claude-code 最佳实践
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
@@ -668,6 +671,8 @@ url: /awesome/github.md
 
 ## 工具
 
+- [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
 - [openvscode-server](https://github.com/gitpod-io/openvscode-server) 在远程机器上运行原版 VS Code，可通过现代化网页浏览器，随时随地、从任意设备访问。
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
@@ -679,6 +684,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [openscreen](https://github.com/siddharthvaddem/openscreen) 免费创建精美演示视频。开源、无订阅、无水印，且可免费用于商业用途，是 Screen Studio 的替代方案
 - [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
@@ -706,6 +712,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
@@ -1125,6 +1132,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
 
 ## 框架
@@ -1162,6 +1170,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
 - [undici](https://github.com/nodejs/undici) 一个从零编写、适用于 Node.js 的 HTTP/1.1 客户端
@@ -1247,6 +1256,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架
@@ -1285,6 +1295,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
 - [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
 - [eact-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及普通 React Web 项目的 SVG 库。
@@ -1624,6 +1635,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [xilem](https://github.com/linebender/xilem) 一款实验性的 Rust 原生 UI 框架
 - [pi\_agent\_rust](https://github.com/Dicklesworthstone/pi_agent_rust) 用 Rust 编写的高性能 AI 编程智能体命令行工具，**零不安全代码**
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell 是专为自主 AI 智能体打造的安全、私密运行时
 - [moltis](https://github.com/moltis-org/moltis) 一款值得信赖的 Rust 原生核心工具,内置语音、记忆体、MCP 工具及多通道访问能力

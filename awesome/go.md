@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
