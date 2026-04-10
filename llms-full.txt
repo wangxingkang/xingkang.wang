@@ -68,6 +68,8 @@ url: /guide/research/markdown.md
 
 - [remark](https://github.com/remarkjs/remark)
   - 插件
+    - [remark-directive](https://github.com/remarkjs/remark-directive) 支持指令功能的 Remark 插件
+    - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
     - [remark-gfm](https://github.com/remarkjs/remark-gfm) 用于支持 GFM 的 remark 插件（自动字面链接、脚注、删除线、表格、任务列表）
     - [remark-parse](https://github.com/remarkjs/remark/tree/main/packages/remark-parse) 用于添加 Markdown 解析支持的 remark 插件
     - [remark-emoji](https://github.com/rhysd/remark-emoji) 替换文本内 :emoji: 格式的 Markdown 转换器
@@ -916,6 +918,10 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
+- [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
+- [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器
+- [string-ts](https://github.com/gustavoguichard/string-ts) 强类型字符串处理函数
 - [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
 - [currency.js](https://github.com/scurker/currency.js) 一个用于处理货币的 JavaScript 库
@@ -1087,6 +1093,8 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [pinyin-pro](https://github.com/zh-lx/pinyin-pro) 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
+- [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) 用于遍历节点的工具
 - [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
 - [@pqina/pintura](https://pqina.nl/pintura) 图像编辑器
 - [@pqina/pintura-video](https://pqina.nl/pintura/docs/v8/api/video-editor/installation/) 视频编辑器
@@ -1172,6 +1180,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [jsonschema](https://github.com/tdegrunt/jsonschema) JSON Schema 验证
+- [ky](https://github.com/sindresorhus/ky) 🌳 基于 Fetch API 打造的轻量优雅 JavaScript HTTP 客户端
+- [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
 - [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
@@ -1381,6 +1392,7 @@ url: /awesome/react.md
 ## 状态管理
 
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
+  - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
@@ -1400,6 +1412,7 @@ url: /awesome/react.md
 
 ## Hooks
 
+- [use-context-selector](https://github.com/dai-shi/use-context-selector) 用户态实现的 React useContextSelector 钩子
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
 - [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
@@ -1473,6 +1486,7 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
 - [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
 - [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 `<textarea />` 组件，可随内容自动增高
@@ -1555,6 +1569,8 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
+- [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [react-contexify](https://github.com/fkhadra/react-contexify) 👌 轻松为你的 React 应用添加上下文菜单
 - [react-menu](https://github.com/szhsin/react-menu) 用于构建无障碍菜单、下拉菜单、子菜单、右键菜单等功能的 React 组件
 - [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
@@ -1608,6 +1624,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器 —— 类似 useState，但状态会存储在 URL 查询字符串中
 - [heyform](https://github.com/heyform/heyform) 开源表单生成器
 - [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境

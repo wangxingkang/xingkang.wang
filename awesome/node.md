@@ -44,6 +44,9 @@
 
 ## 其他
 
+- [jsonschema](https://github.com/tdegrunt/jsonschema) JSON Schema 验证
+- [ky](https://github.com/sindresorhus/ky) 🌳 基于 Fetch API 打造的轻量优雅 JavaScript HTTP 客户端
+- [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
 - [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库

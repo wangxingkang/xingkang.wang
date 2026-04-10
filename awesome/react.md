@@ -52,6 +52,7 @@
 ## 状态管理
 
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
+  - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
@@ -71,6 +72,7 @@
 
 ## Hooks
 
+- [use-context-selector](https://github.com/dai-shi/use-context-selector) 用户态实现的 React useContextSelector 钩子
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
 - [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
@@ -144,6 +146,7 @@
 
 ### 数据录入
 
+- [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
 - [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
 - [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 `<textarea />` 组件，可随内容自动增高
@@ -226,6 +229,8 @@
 
 ### 其他
 
+- [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
+- [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [react-contexify](https://github.com/fkhadra/react-contexify) 👌 轻松为你的 React 应用添加上下文菜单
 - [react-menu](https://github.com/szhsin/react-menu) 用于构建无障碍菜单、下拉菜单、子菜单、右键菜单等功能的 React 组件
 - [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
@@ -279,6 +284,7 @@
 
 ## 其他
 
+- [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器 —— 类似 useState，但状态会存储在 URL 查询字符串中
 - [heyform](https://github.com/heyform/heyform) 开源表单生成器
 - [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境

@@ -182,6 +182,10 @@
 
 ### 其他
 
+- [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
+- [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
+- [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器
+- [string-ts](https://github.com/gustavoguichard/string-ts) 强类型字符串处理函数
 - [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
 - [currency.js](https://github.com/scurker/currency.js) 一个用于处理货币的 JavaScript 库
@@ -353,6 +357,8 @@
 
 ## 其他
 
+- [pinyin-pro](https://github.com/zh-lx/pinyin-pro) 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
+- [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) 用于遍历节点的工具
 - [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
 - [@pqina/pintura](https://pqina.nl/pintura) 图像编辑器
 - [@pqina/pintura-video](https://pqina.nl/pintura/docs/v8/api/video-editor/installation/) 视频编辑器

@@ -11,6 +11,8 @@
 
 - [remark](https://github.com/remarkjs/remark)
   - 插件
+    - [remark-directive](https://github.com/remarkjs/remark-directive) 支持指令功能的 Remark 插件
+    - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
     - [remark-gfm](https://github.com/remarkjs/remark-gfm) 用于支持 GFM 的 remark 插件（自动字面链接、脚注、删除线、表格、任务列表）
     - [remark-parse](https://github.com/remarkjs/remark/tree/main/packages/remark-parse) 用于添加 Markdown 解析支持的 remark 插件
     - [remark-emoji](https://github.com/rhysd/remark-emoji) 替换文本内 :emoji: 格式的 Markdown 转换器
