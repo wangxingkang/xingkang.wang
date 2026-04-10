@@ -684,6 +684,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [openscreen](https://github.com/siddharthvaddem/openscreen) 免费创建精美演示视频。开源、无订阅、无水印，且可免费用于商业用途，是 Screen Studio 的替代方案
@@ -1086,6 +1087,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
 - [@pqina/pintura](https://pqina.nl/pintura) 图像编辑器
 - [@pqina/pintura-video](https://pqina.nl/pintura/docs/v8/api/video-editor/installation/) 视频编辑器
 - [disable-devtool](https://github.com/theajack/disable-devtool) 通过 F12 按键、右键菜单及浏览器菜单禁用网页开发者工具
@@ -1635,6 +1637,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱 👨‍🍳🐀
 - [xilem](https://github.com/linebender/xilem) 一款实验性的 Rust 原生 UI 框架
 - [pi\_agent\_rust](https://github.com/Dicklesworthstone/pi_agent_rust) 用 Rust 编写的高性能 AI 编程智能体命令行工具，**零不安全代码**
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell 是专为自主 AI 智能体打造的安全、私密运行时

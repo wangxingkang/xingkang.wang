@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [openscreen](https://github.com/siddharthvaddem/openscreen) 免费创建精美演示视频。开源、无订阅、无水印，且可免费用于商业用途，是 Screen Studio 的替代方案
