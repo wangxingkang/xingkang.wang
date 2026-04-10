@@ -353,6 +353,7 @@
 
 ## 其他
 
+- [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
 - [@pqina/pintura](https://pqina.nl/pintura) 图像编辑器
 - [@pqina/pintura-video](https://pqina.nl/pintura/docs/v8/api/video-editor/installation/) 视频编辑器
 - [disable-devtool](https://github.com/theajack/disable-devtool) 通过 F12 按键、右键菜单及浏览器菜单禁用网页开发者工具
