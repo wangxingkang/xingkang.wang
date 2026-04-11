@@ -312,6 +312,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
 - [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
@@ -1093,6 +1094,8 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [@standardagents/sip](https://github.com/standardagents/sip) 小型图像处理器 – 专为 Cloudflare Workers 打造的超高内存效率图像处理工具 🟠
+- [tsnapi](https://github.com/antfu/tsnapi) 针对库的公开 API 进行快照测试，覆盖运行时导出内容与类型声明。
 - [pinyin-pro](https://github.com/zh-lx/pinyin-pro) 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
 - [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) 用于遍历节点的工具
 - [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
@@ -1280,6 +1283,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
 

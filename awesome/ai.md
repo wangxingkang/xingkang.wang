@@ -88,6 +88,7 @@
 
 ### 其他
 
+- [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
 - [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
