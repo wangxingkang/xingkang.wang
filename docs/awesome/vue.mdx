@@ -68,6 +68,7 @@
 
 ### 数据展示
 
+- [vue3-carousel](https://github.com/ismail9k/vue3-carousel) 一款高度可定制、轻量级的 Vue 3 轮播组件
 - [vxe-table](https://github.com/x-extends/vxe-table) 表格解决方案
 - [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [@number-flow/vue](https://github.com/barvian/number-flow/tree/main/packages/vue) 动画数字组件
