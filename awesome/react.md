@@ -72,6 +72,7 @@
 
 ## Hooks
 
+- [react-infinite-scroll-hook](https://github.com/onderonur/react-infinite-scroll-hook) 用于创建无限滚动组件的 React Hook
 - [use-context-selector](https://github.com/dai-shi/use-context-selector) 用户态实现的 React useContextSelector 钩子
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
 - [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
@@ -230,6 +231,8 @@
 
 ### 其他
 
+- [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件
+- [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) 一款适用于 React 应用、**零依赖**的简易下拉刷新组件，支持移动端与桌面端。
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [react-contexify](https://github.com/fkhadra/react-contexify) 👌 轻松为你的 React 应用添加上下文菜单
