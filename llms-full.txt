@@ -258,6 +258,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA
 - [antfu skills](https://github.com/antfu/skills) Anthony Fu 精心整理的智能体技能合集
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可在 Reddit、X、YouTube、黑客新闻（HN）、Polymarket 及全网对任意主题进行调研，然后合成一份有据可依的总结
 - [skills](https://github.com/mattpocock/skills) 这是我的个人技能目录，直接来自我的 `.claude` 目录。
@@ -1187,6 +1188,8 @@ url: /awesome/node.md
 
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
+- [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
 - [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK
 - [ali-oss](https://github.com/ali-sdk/ali-oss)  阿里云云对象存储 SDK
 - [esdk-obs-nodejs](https://github.com/huaweicloud/huaweicloud-sdk-nodejs-obs) 华为云对象存储 SDK

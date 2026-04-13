@@ -46,6 +46,8 @@
 
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
+- [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
 - [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK
 - [ali-oss](https://github.com/ali-sdk/ali-oss)  阿里云云对象存储 SDK
 - [esdk-obs-nodejs](https://github.com/huaweicloud/huaweicloud-sdk-nodejs-obs) 华为云对象存储 SDK
