@@ -44,6 +44,11 @@
 
 ## 其他
 
+- [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
+- [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK
+- [ali-oss](https://github.com/ali-sdk/ali-oss)  阿里云云对象存储 SDK
+- [esdk-obs-nodejs](https://github.com/huaweicloud/huaweicloud-sdk-nodejs-obs) 华为云对象存储 SDK
 - [jsonschema](https://github.com/tdegrunt/jsonschema) JSON Schema 验证
 - [ky](https://github.com/sindresorhus/ky) 🌳 基于 Fetch API 打造的轻量优雅 JavaScript HTTP 客户端
 - [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
