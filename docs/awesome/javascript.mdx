@@ -357,6 +357,7 @@
 
 ## 其他
 
+- [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
 - [partytown](https://github.com/QwikDev/partytown) 将占用大量资源的第三方脚本从主线程移至 Web Worker 中运行
 - [@standardagents/sip](https://github.com/standardagents/sip) 小型图像处理器 – 专为 Cloudflare Workers 打造的超高内存效率图像处理工具 🟠
 - [tsnapi](https://github.com/antfu/tsnapi) 针对库的公开 API 进行快照测试，覆盖运行时导出内容与类型声明。

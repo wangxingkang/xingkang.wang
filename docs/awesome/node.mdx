@@ -44,6 +44,7 @@
 
 ## 其他
 
+- [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
