@@ -357,6 +357,7 @@
 
 ## 其他
 
+- [partytown](https://github.com/QwikDev/partytown) 将占用大量资源的第三方脚本从主线程移至 Web Worker 中运行
 - [@standardagents/sip](https://github.com/standardagents/sip) 小型图像处理器 – 专为 Cloudflare Workers 打造的超高内存效率图像处理工具 🟠
 - [tsnapi](https://github.com/antfu/tsnapi) 针对库的公开 API 进行快照测试，覆盖运行时导出内容与类型声明。
 - [pinyin-pro](https://github.com/zh-lx/pinyin-pro) 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
