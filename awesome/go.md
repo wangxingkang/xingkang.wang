@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
 - [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
