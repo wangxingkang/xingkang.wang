@@ -626,7 +626,6 @@ url: /awesome/engineering.md
 
 ### 其他
 
-- [tsdown](https://github.com/rolldown/tsdown) 由 Rolldown 驱动的优雅库打包工具
 - [unplugin-vue](https://github.com/unplugin/unplugin-vue) ✨ 将 Vue 3 单文件组件（SFC）转换为 JavaScript 代码
 - [rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts) 一款用于生成并打包 d.ts 文件的 Rolldown 插件
 - [rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) 适用于 WASM 的 Rolldown 插件
@@ -642,7 +641,6 @@ url: /awesome/engineering.md
 
 ### 其他
 
-- [rslib](https://github.com/web-infra-dev/rslib) 以简单直观的方式创建 JavaScript 库
 - [@module-federation/rsbuild-plugin](https://github.com/module-federation/core/tree/HEAD/packages/rsbuild-plugin) 模块联邦
 
 ## Webpack
@@ -658,6 +656,7 @@ url: /awesome/engineering.md
 
 ## 打包
 
+- [rslib](https://github.com/web-infra-dev/rslib) 以简单直观的方式创建 JavaScript 库
 - [tsdown](https://tsdown.dev/zh-CN/) 优雅的库打包工具, 由 Rolldown 强力驱动
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
@@ -1122,7 +1121,6 @@ url: /awesome/javascript.md
 - [morphlex](https://github.com/yippee-fun/morphlex) 用 TypeScript 编写的最优 DOM 变形算法
 - [jSquash](https://github.com/jamsinclair/jSquash) 基于 Squoosh 应用衍生、专注于浏览器与 Web Worker 的图像编解码器 WASM 包
 - [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案
-- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [remove-markdown](https://github.com/zuchka/remove-markdown) 从文本中去除 Markdown 格式内容
 - [relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) 中国亲戚关系计算器
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
@@ -1196,6 +1194,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
+- [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
