@@ -656,7 +656,6 @@ url: /awesome/engineering.md
 
 ## 打包
 
-- [rslib](https://github.com/web-infra-dev/rslib) 以简单直观的方式创建 JavaScript 库
 - [tsdown](https://tsdown.dev/zh-CN/) 优雅的库打包工具, 由 Rolldown 强力驱动
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
