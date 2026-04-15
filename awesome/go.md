@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
 - [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
