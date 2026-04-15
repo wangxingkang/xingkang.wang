@@ -54,7 +54,6 @@
 
 ### 其他
 
-- [tsdown](https://github.com/rolldown/tsdown) 由 Rolldown 驱动的优雅库打包工具
 - [unplugin-vue](https://github.com/unplugin/unplugin-vue) ✨ 将 Vue 3 单文件组件（SFC）转换为 JavaScript 代码
 - [rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts) 一款用于生成并打包 d.ts 文件的 Rolldown 插件
 - [rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) 适用于 WASM 的 Rolldown 插件
@@ -70,7 +69,6 @@
 
 ### 其他
 
-- [rslib](https://github.com/web-infra-dev/rslib) 以简单直观的方式创建 JavaScript 库
 - [@module-federation/rsbuild-plugin](https://github.com/module-federation/core/tree/HEAD/packages/rsbuild-plugin) 模块联邦
 
 ## Webpack
@@ -86,6 +84,7 @@
 
 ## 打包
 
+- [rslib](https://github.com/web-infra-dev/rslib) 以简单直观的方式创建 JavaScript 库
 - [tsdown](https://tsdown.dev/zh-CN/) 优雅的库打包工具, 由 Rolldown 强力驱动
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案

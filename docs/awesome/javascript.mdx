@@ -374,7 +374,6 @@
 - [morphlex](https://github.com/yippee-fun/morphlex) 用 TypeScript 编写的最优 DOM 变形算法
 - [jSquash](https://github.com/jamsinclair/jSquash) 基于 Squoosh 应用衍生、专注于浏览器与 Web Worker 的图像编解码器 WASM 包
 - [magic-regexp](https://github.com/unjs/magic-regexp) 一种编译期消除、类型安全、可读性强的正则表达式替代方案
-- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [remove-markdown](https://github.com/zuchka/remove-markdown) 从文本中去除 Markdown 格式内容
 - [relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) 中国亲戚关系计算器
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件

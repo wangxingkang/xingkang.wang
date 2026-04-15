@@ -44,6 +44,8 @@
 
 ## 其他
 
+- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
+- [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
