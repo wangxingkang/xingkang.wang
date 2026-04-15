@@ -72,6 +72,8 @@
 
 ## Hooks
 
+- [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
+- [state-in-url](https://github.com/asmyshlyaev177/state-in-url) 在查询参数中存储任何用户状态
 - [react-infinite-scroll-hook](https://github.com/onderonur/react-infinite-scroll-hook) 用于创建无限滚动组件的 React Hook
 - [use-context-selector](https://github.com/dai-shi/use-context-selector) 用户态实现的 React useContextSelector 钩子
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
@@ -83,6 +85,7 @@
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) 用于表单状态管理与校验的 React Hooks（支持 Web + React Native）
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
+- [use-query-params](https://github.com/pbeshai/use-query-params) 用于管理 URL 查询参数状态的 React Hook，支持轻松序列化。
 
 ## 组件库
 
