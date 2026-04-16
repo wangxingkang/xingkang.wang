@@ -90,6 +90,7 @@
 
 ### 其他
 
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
 - [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
