@@ -6,6 +6,7 @@
 
 ## 工具
 
+- [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
 - [openvscode-server](https://github.com/gitpod-io/openvscode-server) 在远程机器上运行原版 VS Code，可通过现代化网页浏览器，随时随地、从任意设备访问。
