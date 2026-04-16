@@ -316,6 +316,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
+- [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
@@ -725,6 +727,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
 - [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
