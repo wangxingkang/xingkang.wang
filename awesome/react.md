@@ -171,6 +171,7 @@
 
 ### 数据展示
 
+- [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
 - [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
 - [react-responsive-overflow-list](https://github.com/Eliav2/react-responsive-overflow-list) 适用于 React 的响应式列表，仅显示适配空间的项目，并将其余项目归类到可自定义的溢出元素中
