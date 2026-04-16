@@ -1459,6 +1459,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
