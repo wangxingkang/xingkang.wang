@@ -31,6 +31,7 @@
 
 ## 组件库
 
+- [tiny-vue](https://github.com/opentiny/tiny-vue) OpenTiny 社区的企业级 UI 组件库，同时支持 Vue.js 2 和 Vue.js 3，以及 PC 端和移动端。
 - [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
 - [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库

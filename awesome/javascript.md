@@ -180,11 +180,15 @@
 
 ### 颜色
 
+- [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
 
 ### 其他
 
+- [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
+- [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
+- [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
 - [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
 - [jwt-decode](https://github.com/auth0/jwt-decode) 解码 JWT 令牌；适用于浏览器应用
@@ -303,6 +307,7 @@
 
 ### 数据录入
 
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片裁剪器
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
 - [signature\_pad](https://github.com/szimek/signature_pad) 基于 HTML5 Canvas 实现的流畅签名绘制功能
 - [sortablejs](https://github.com/SortableJS/Sortable) 适用于现代浏览器及触控设备的可重新排序拖拽列表组件
