@@ -316,6 +316,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 智能体性能优化系统。为 Claude Code、Codex、Opencode、Cursor 及其他工具提供技能、本能、记忆、安全保障与研究优先的开发能力
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
@@ -809,6 +810,8 @@ url: /awesome/javascript.md
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
+  - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件
   - [i18next-browser-languagedetector](https://github.com/i18next/i18next-browser-languageDetector) 适用于 i18next 的浏览器环境语言检测插件
 
 ## 工具库
@@ -933,10 +936,16 @@ url: /awesome/javascript.md
 
 ### 颜色
 
+- [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
 
 ### 其他
 
+- [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
+- [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
+- [jwt-decode](https://github.com/auth0/jwt-decode) 解码 JWT 令牌；适用于浏览器应用
+- [pako](https://github.com/nodeca/pako) zlib 的高速 JavaScript 移植版，可在浏览器与 Node.js 中运行
+- [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
 - [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器
@@ -1287,6 +1296,7 @@ url: /awesome/node.md
 - [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 - [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境
+- [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法
 
 
 
@@ -1548,6 +1558,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
 - [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
@@ -1612,6 +1623,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件

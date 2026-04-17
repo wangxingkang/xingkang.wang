@@ -54,6 +54,8 @@
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
+  - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件
   - [i18next-browser-languagedetector](https://github.com/i18next/i18next-browser-languageDetector) 适用于 i18next 的浏览器环境语言检测插件
 
 ## 工具库
@@ -178,10 +180,16 @@
 
 ### 颜色
 
+- [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
 
 ### 其他
 
+- [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
+- [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
+- [jwt-decode](https://github.com/auth0/jwt-decode) 解码 JWT 令牌；适用于浏览器应用
+- [pako](https://github.com/nodeca/pako) zlib 的高速 JavaScript 移植版，可在浏览器与 Node.js 中运行
+- [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
 - [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器

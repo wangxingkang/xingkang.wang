@@ -173,6 +173,7 @@
 
 ### 数据展示
 
+- [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
 - [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
@@ -237,6 +238,7 @@
 
 ### 其他
 
+- [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件
