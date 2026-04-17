@@ -316,6 +316,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 智能体性能优化系统。为 Claude Code、Codex、Opencode、Cursor 及其他工具提供技能、本能、记忆、安全保障与研究优先的开发能力
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
@@ -1435,6 +1436,7 @@ url: /awesome/react.md
 
 ## 动画
 
+- [border-beam](https://github.com/Jakubantalik/border-beam) 适用于 React 的边框流光动画效果
 - [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库

@@ -61,6 +61,7 @@
 
 ## 动画
 
+- [border-beam](https://github.com/Jakubantalik/border-beam) 适用于 React 的边框流光动画效果
 - [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
