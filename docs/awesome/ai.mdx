@@ -90,6 +90,7 @@
 
 ### 其他
 
+- [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 智能体性能优化系统。为 Claude Code、Codex、Opencode、Cursor 及其他工具提供技能、本能、记忆、安全保障与研究优先的开发能力
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
