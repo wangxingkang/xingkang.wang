@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [actions-runner-controller](https://github.com/actions/actions-runner-controller) 用于 GitHub Actions 自托管运行器的 Kubernetes 控制器
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展

@@ -236,6 +236,8 @@
 
 ### 其他
 
+- [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
+- [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件
 - [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) 一款适用于 React 应用、**零依赖**的简易下拉刷新组件，支持移动端与桌面端。
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库

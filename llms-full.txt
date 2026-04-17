@@ -729,6 +729,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [actions-runner-controller](https://github.com/actions/actions-runner-controller) 用于 GitHub Actions 自托管运行器的 Kubernetes 控制器
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
@@ -1609,6 +1610,8 @@ url: /awesome/react.md
 
 ### 其他
 
+- [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
+- [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件
 - [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) 一款适用于 React 应用、**零依赖**的简易下拉刷新组件，支持移动端与桌面端。
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
