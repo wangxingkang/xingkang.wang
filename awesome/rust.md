@@ -4,6 +4,10 @@
 
 - [官网](https://rust-lang.org/zh-CN/)
 
+## AI
+
+- [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
+
 ## 学习
 
 - [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料

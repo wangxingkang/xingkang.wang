@@ -20,6 +20,7 @@
 - [GO](/awesome/go.md)
 - [JavaScript](/awesome/javascript.md)
 - [Node](/awesome/node.md)
+- [运维](/awesome/ops.md)
 - [Python](/awesome/python.md)
 - [React Native](/awesome/react-native.md)
 - [React](/awesome/react.md)
