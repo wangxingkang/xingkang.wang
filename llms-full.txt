@@ -1397,6 +1397,7 @@ url: /awesome/python.md
 - [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
+- [TheAlgorithms](https://github.com/TheAlgorithms/Python) 所有算法均使用 Python 实现
 
 
 
@@ -2138,10 +2139,12 @@ url: /awesome/website.md
 
 ## 学习
 
+- [leetcode-master](https://github.com/youngyangyang04/leetcode-master) 《代码随想录》LeetCode 刷题攻略
 - [langshift](https://langshift.dev) 通过比较不同的计算机语言，学习新语言
 - [usehook](https://usehook.cn)
 - [30secondsofcode](https://www.30secondsofcode.org) 编程技术文章，助你提升开发技能
 - [Learn Git Branching](https://learngitbranching.js.org) Git 学习
+- [javascript-algorithms](http://github.com/trekhleb/javascript-algorithms) 用 JavaScript 实现的算法与数据结构，附带详细讲解及拓展阅读链接。
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
