@@ -6,6 +6,10 @@
 
 ## 其他
 
+- [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
+- [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
+- [cloc](https://github.com/AlDanial/cloc) cloc 可以统计多种编程语言源代码中的空行、注释行与实际代码行
+- [git-lfs](https://github.com/git-lfs/git-lfs) 用于对大型文件进行版本管理的 Git 扩展工具
 - [actions-runner-controller](https://github.com/actions/actions-runner-controller) 用于 GitHub Actions 自托管运行器的 Kubernetes 控制器
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能

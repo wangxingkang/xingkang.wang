@@ -40,6 +40,7 @@
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
 - [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
 - [mianshiya](https://github.com/liyupi/mianshiya) 持续维护的企业面试题库网站
+- [business-util](https://wsafight.github.io/business-util/business/currency/)
 
 ## 素材
 

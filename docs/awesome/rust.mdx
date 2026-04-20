@@ -14,6 +14,7 @@
 
 ## 其他
 
+- [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 - [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱 👨‍🍳🐀
 - [xilem](https://github.com/linebender/xilem) 一款实验性的 Rust 原生 UI 框架

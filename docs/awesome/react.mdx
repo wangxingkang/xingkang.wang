@@ -300,6 +300,7 @@
 
 ## 其他
 
+- [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
 - [react-to-web-component](https://github.com/bitovi/react-to-web-component) 将 React 组件转换为原生 Web Components，同时也支持 Preact！
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器 —— 类似 useState，但状态会存储在 URL 查询字符串中
 - [heyform](https://github.com/heyform/heyform) 开源表单生成器
