@@ -54,6 +54,7 @@
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
   - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
+- [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案

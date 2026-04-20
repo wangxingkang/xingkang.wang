@@ -946,6 +946,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [comlink](https://github.com/GoogleChromeLabs/comlink) Comlink 让 WebWorker 变得易用又愉悦
+- [sysend](https://github.com/jcubic/sysend) 跨标签页通信
+- [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
@@ -1046,7 +1049,6 @@ url: /awesome/javascript.md
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
-- [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输 📡 + 基于这些通道实现主节点选举（LeaderElection）
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
@@ -1215,6 +1217,8 @@ url: /awesome/node.md
 - [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
 - [picocolors](https://github.com/alexeyraspopov/picocolors) 一款体积最小、速度最快的终端输出格式化库，支持 ANSI 颜色渲染
 - [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
+- [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
+- [yargs](https://github.com/yargs/yargs) 解析命令行参数
 - [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
@@ -1464,6 +1468,7 @@ url: /awesome/react.md
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
   - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
+- [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案

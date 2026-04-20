@@ -39,6 +39,8 @@
 - [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
 - [picocolors](https://github.com/alexeyraspopov/picocolors) 一款体积最小、速度最快的终端输出格式化库，支持 ANSI 颜色渲染
 - [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
+- [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
+- [yargs](https://github.com/yargs/yargs) 解析命令行参数
 - [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
