@@ -22,3 +22,4 @@
 - [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
+- [TheAlgorithms](https://github.com/TheAlgorithms/Python) 所有算法均使用 Python 实现
