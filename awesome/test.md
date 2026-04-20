@@ -39,4 +39,5 @@
 
 ## 其他
 
+- [cypress](https://github.com/cypress-io/cypress)
 - [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。

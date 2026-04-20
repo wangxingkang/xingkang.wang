@@ -50,6 +50,7 @@
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
+  - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 
 ## 多语言
 
@@ -186,6 +187,31 @@
 
 ### 其他
 
+- [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) 只需调用单个函数，即可打造快速且响应稳定的应用
+- [assemblyscript](https://github.com/AssemblyScript/assemblyscript) 一种面向 WebAssembly、类 TypeScript 的编程语言。
+- [reusify](https://github.com/mcollina/reusify) 优雅地复用对象与函数
+- [gpu.js](https://github.com/gpujs/gpu.js) GPU 加速的 JavaScript
+- [async](https://github.com/caolan/async) 适用于 Node.js 与浏览器环境的异步工具库
+- [memoizee](https://github.com/medikoo/memoizee) 适用于 JavaScript 的完整缓存（memoize）解决方案
+- [clone](https://github.com/jsmini/clone) 一款专业的深度克隆库
+- [egjs-imready](https://github.com/naver/egjs-imready) 我已准备好检查图片或视频是否加载完成
+- [normalizr](https://github.com/paularmstrong/normalizr) 根据模式规范化嵌套 JSON
+- [camelcase-keys](https://github.com/sindresorhus/camelcase-keys) 将对象键转换为驼峰式命名
+- [nanostores](https://github.com/nanostores/nanostores) 一款适用于 React / React Native / Preact / Vue / Svelte 的微型状态管理器（仅 286 字节），支持多个可按需引入的原子化存储
+- [xstate](https://github.com/statelyai/xstate) 用于处理复杂逻辑的状态机、状态图与角色模型
+- [wild-wild-utils](https://github.com/ehmicky/wild-wild-utils) 使用带有通配符和正则表达式的对象属性路径实现的函数式工具
+- [urlcat](https://github.com/balazsbotond/urlcat) 一款适用于 JavaScript 的 URL 构建库
+- [pagefind](https://github.com/pagefind/pagefind) 面向大规模场景的静态低带宽搜索
+- [critical](https://github.com/addyosmani/critical) 在 HTML 页面中提取并内联关键路径 CSS
+- [disableautofill](https://github.com/terrylinooo/disableautofill.js) 禁用 Chrome 自动填充与自动完成功能
+- [roslibjs](https://github.com/RobotWebTools/roslibjs) Robot Web Tools
+- [reading-time](https://github.com/ngryman/reading-time) 类似于 Medium 平台的阅读时长估算功能
+- [dinero.js](https://github.com/dinerojs/dinero.js) 在 JavaScript 和 TypeScript 中创建、计算并格式化货币金额
+- [minisearch](https://github.com/lucaong/minisearch) 适用于浏览器与 Node 环境、轻量且强大的 JavaScript 全文搜索引擎
+- [mjml](https://github.com/mjmlio/mjml) 唯一一款让响应式邮件开发变得简单的框架
+- [cornerstonejs](https://github.com/cornerstonejs) 交互式医学图像工具
+- [nzh](https://github.com/cnwhy/nzh) 数字转中文（大写，小写）数字，金额
+- [workbox](https://github.com/GoogleChrome/workbox) 用于构建渐进式 Web 应用（PWA）的 JavaScript 库
 - [comlink](https://github.com/GoogleChromeLabs/comlink) Comlink 让 WebWorker 变得易用又愉悦
 - [sysend](https://github.com/jcubic/sysend) 跨标签页通信
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
@@ -282,6 +308,7 @@
 - [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
 - [tldts](https://github.com/remusao/tldts) 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库
 - [superjson](https://github.com/flightcontrolhq/superjson) 将 JavaScript 表达式安全序列化为 JSON 超集格式，该格式支持日期（Date）、大整数（BigInt）等类型
+- [serialize-javascript](https://github.com/yahoo/serialize-javascript) 将 JavaScript 序列化为**包含正则表达式和函数的 JSON 超集**。
 - [shiki](https://github.com/shikijs/shiki) 一款颜值出众且功能强大的语法高亮工具
 - [lru-cache](https://github.com/isaacs/node-lru-cache) 一款会自动删除最近最少使用项的高性能缓存工具
 - [flexsearch](https://github.com/nextapps-de/flexsearch) 面向浏览器与 Node.js 的新一代全文检索工具库
@@ -294,6 +321,7 @@
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [string-width](https://github.com/sindresorhus/string-width) 获取字符串的视觉宽度 —— 即显示该字符串所需的列数
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
+- [instant.page](https://github.com/instantpage/instant.page) 一分钟内让你的网站页面实现秒开，转化率提升 1%。
 - [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
 - [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条

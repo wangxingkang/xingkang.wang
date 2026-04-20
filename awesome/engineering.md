@@ -29,6 +29,8 @@
 
 ### 其他
 
+- [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) 用于生成关键 CSS 的 Vite.js 与 Rollup 插件
+- [beasties](https://github.com/danielroe/beasties) 一个用于内联应用关键 CSS，并懒加载其余样式的库。
 - [fontaine](https://github.com/unjs/fontaine) 基于字体度量指标的自动字体回退
 - [@tailwindcss/vite](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-vite)
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
@@ -91,6 +93,7 @@
 
 ## 其他
 
+- [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
 - [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具

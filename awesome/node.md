@@ -46,6 +46,11 @@
 
 ## 其他
 
+- [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
+- [zx](https://github.com/google/zx) 一款用于编写更优质脚本的工具
+- [pollyjs](https://github.com/Netflix/pollyjs) 记录、重写和模拟 HTTP 交互
+- [awilix](https://github.com/jeffijoe/awilix) 适用于 Node.js 的功能极为强大的控制反转（IoC）容器
+- [find-up](https://github.com/sindresorhus/find-up) 通过向上遍历父目录来查找文件或目录
 - [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) 适用于 Node.js 后端的 μWebSockets
 - [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) 功能完整的 GraphQL 服务器重写版，专注于简易部署、高性能与极佳的开发者体验。
 - [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
