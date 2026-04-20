@@ -186,6 +186,9 @@
 
 ### 其他
 
+- [comlink](https://github.com/GoogleChromeLabs/comlink) Comlink 让 WebWorker 变得易用又愉悦
+- [sysend](https://github.com/jcubic/sysend) 跨标签页通信
+- [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
@@ -286,7 +289,6 @@
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
-- [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输 📡 + 基于这些通道实现主节点选举（LeaderElection）
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
