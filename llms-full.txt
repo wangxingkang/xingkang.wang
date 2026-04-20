@@ -1220,6 +1220,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) 适用于 Node.js 后端的 μWebSockets
 - [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) 功能完整的 GraphQL 服务器重写版，专注于简易部署、高性能与极佳的开发者体验。
 - [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
@@ -2022,6 +2023,10 @@ url: /awesome/vue.md
 - [@jambonn/vue-lazyload](https://github.com/jambonn/vue-lazyload) 图片懒加载
 - [@tanstack/vue-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) 基于 fabric.js 的开源图片编辑器
+
+## Nuxt
+
+- [nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) 适用于 Nuxt 的高度可配置 Cookie 提示栏
 
 ## 其他
 

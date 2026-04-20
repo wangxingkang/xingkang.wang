@@ -44,6 +44,7 @@
 
 ## 其他
 
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) 适用于 Node.js 后端的 μWebSockets
 - [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) 功能完整的 GraphQL 服务器重写版，专注于简易部署、高性能与极佳的开发者体验。
 - [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
 - [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
