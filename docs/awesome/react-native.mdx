@@ -18,6 +18,7 @@
 
 ## 其他
 
+- [expo-agent-spinners](https://github.com/Eronred/expo-agent-spinners) 适用于 React Native 和 Expo 的 54 种终端风格类加载指示器。轻量、无原生依赖——仅用文本实现，不占用大量 UI 线程。
 - [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
 - [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件

@@ -92,6 +92,7 @@
 
 ### 其他
 
+- [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) ChatGPT、Gemini、Grok、Claude、Perplexity、Cursor、Devin、Replit 等多款 AI 的系统提示词泄露！—— 面向所有人的 AI 系统透明度公开！
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
