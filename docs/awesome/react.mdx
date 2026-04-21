@@ -176,6 +176,7 @@
 
 ### 数据展示
 
+- [react-accordion](https://github.com/szhsin/react-accordion) 适用于 React 的完整折叠面板解决方案
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
