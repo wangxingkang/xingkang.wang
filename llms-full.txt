@@ -858,6 +858,7 @@ url: /awesome/javascript.md
 
 ### 字符串
 
+- [lz-string](https://github.com/pieroxy/lz-string) 适用于 JavaScript 的基于 LZ 算法的压缩算法
 - [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
 - [qs](https://github.com/ljharb/qs) 一款支持嵌套功能的查询字符串解析器与序列化器
 - [change-case](https://github.com/blakeembrey/change-case) 实现字符串在小驼峰式、大驼峰式、首字母大写式、下划线式等命名格式间的转换
