@@ -190,6 +190,8 @@
 
 ### 其他
 
+- [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
+- [zoid](https://github.com/krakenjs/zoid) 跨域组件
 - [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) 只需调用单个函数，即可打造快速且响应稳定的应用
 - [assemblyscript](https://github.com/AssemblyScript/assemblyscript) 一种面向 WebAssembly、类 TypeScript 的编程语言。
 - [reusify](https://github.com/mcollina/reusify) 优雅地复用对象与函数
