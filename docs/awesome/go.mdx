@@ -6,6 +6,7 @@
 
 ## 其他
 
+- [oras](https://github.com/oras-project/oras) OCI 容器镜像仓库客户端——用于管理制品、镜像、软件包等内容
 - [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
 - [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
 - [cloc](https://github.com/AlDanial/cloc) cloc 可以统计多种编程语言源代码中的空行、注释行与实际代码行

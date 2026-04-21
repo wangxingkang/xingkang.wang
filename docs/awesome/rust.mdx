@@ -6,6 +6,7 @@
 
 ## AI
 
+- [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 
 ## 学习
@@ -14,6 +15,7 @@
 
 ## 其他
 
+- [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 - [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱 👨‍🍳🐀
