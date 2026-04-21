@@ -158,6 +158,7 @@
 - [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
 - [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 `<textarea />` 组件，可随内容自动增高
+- [react-selectable-fast](https://github.com/valerybugakov/react-selectable-fast) 支持通过鼠标或触摸操作选中 React 组件
 - [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
 - [@uiw/react-color](https://github.com/uiwjs/react-color)
 - [react-easy-crop](https://github.com/ValentinH/react-easy-crop) 图片裁剪
@@ -300,6 +301,7 @@
 
 ## 其他
 
+- [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
 - [react-to-web-component](https://github.com/bitovi/react-to-web-component) 将 React 组件转换为原生 Web Components，同时也支持 Preact！
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器 —— 类似 useState，但状态会存储在 URL 查询字符串中
