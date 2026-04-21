@@ -612,6 +612,8 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression) Vite 插件，用于压缩打包文件
+- [rollup-plugin-gzip](https://github.com/kryops/rollup-plugin-gzip) 使用 Gzip 压缩你的 Rollup / Vite 打包文件
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) 用于生成关键 CSS 的 Vite.js 与 Rollup 插件
 - [beasties](https://github.com/danielroe/beasties) 一个用于内联应用关键 CSS，并懒加载其余样式的库。
 - [fontaine](https://github.com/unjs/fontaine) 基于字体度量指标的自动字体回退
@@ -740,6 +742,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [oras](https://github.com/oras-project/oras) OCI 容器镜像仓库客户端——用于管理制品、镜像、软件包等内容
 - [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
 - [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
 - [cloc](https://github.com/AlDanial/cloc) cloc 可以统计多种编程语言源代码中的空行、注释行与实际代码行
@@ -1393,6 +1396,7 @@ url: /awesome/python.md
 - [hindsight](https://github.com/vectorize-io/hindsight) 具备学习能力的智能体记忆系统
 - [fish-speech](https://github.com/fishaudio/fish-speech) 当前最优开源语音合成（TTS）
 - [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
+- [inspect\_ai](https://github.com/UKGovernmentBEIS/inspect_ai) 一款面向大语言模型评估的框架
 
 ## 其他
 
@@ -1793,6 +1797,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 
 ## 学习
@@ -1801,6 +1806,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 - [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱 👨‍🍳🐀
