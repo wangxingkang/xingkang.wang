@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
 - [context7](https://context7.com) 面向大语言模型与 AI 代码编辑器的最新代码文档

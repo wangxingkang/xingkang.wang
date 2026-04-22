@@ -191,6 +191,7 @@
 
 ### 其他
 
+- [sugar-high](https://github.com/huozhi/sugar-high) 超轻量级代码语法高亮工具
 - [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS) 一个用于操作 WebAudio 上下文的 JavaScript 库，专门用于处理音调/调性变换
 - [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
 - [zoid](https://github.com/krakenjs/zoid) 跨域组件
