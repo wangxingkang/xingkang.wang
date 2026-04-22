@@ -77,6 +77,7 @@
 ### 发布订阅
 
 - [mitt](https://github.com/developit/mitt) 🥊 仅 200 字节的超轻量函数式事件发射器/发布-订阅(pubsub)工具
+- [eventemitter3](https://github.com/primus/eventemitter3)
 
 ### 计算
 
@@ -191,6 +192,8 @@
 
 ### 其他
 
+- [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
+- [unified](https://github.com/unifiedjs/unified) 利用语法树对内容进行解析、检查、转换与序列化
 - [sugar-high](https://github.com/huozhi/sugar-high) 超轻量级代码语法高亮工具
 - [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS) 一个用于操作 WebAudio 上下文的 JavaScript 库，专门用于处理音调/调性变换
 - [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
@@ -277,7 +280,7 @@
 - [yaml](https://github.com/eemeli/yaml) 适用于 JavaScript 的 YAML 解析器与序列化器
 - [libarchive-wasm](https://github.com/ofk/libarchive-wasm) 基于 WebAssembly 的 libarchive 版本，支持多种压缩格式的解压缩功能
 - [unlazy](https://github.com/johannschopplich/unlazy) 图片懒加载
-- [transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
+- [@huggingface/transformers](https://github.com/huggingface/transformers.js) 浏览器中运行 Transformers
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) 解析 User-Agent 的 JS 库
 - [immutable](https://github.com/immutable-js/immutable-js) 适用于 JavaScript 的不可变持久化数据集合库，可提升开发效率与代码简洁性
 - [immer](https://github.com/immerjs/immer) 通过修改当前状态，创建下一个不可变状态
@@ -389,6 +392,7 @@
 
 ### 其他
 
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) 基于 JavaScript 实现的可拖拽全尺寸日程日历组件
 - [danfojs](https://github.com/javascriptdata/danfojs) Danfo.js 是一款开源的 JavaScript 库，它提供了高性能、直观且易用的数据结构，用于操作和处理结构化数据。
 - [DragSelect](https://github.com/ThibaultJanBeyer/DragSelect) 一款轻量易用的 JavaScript 库，用于元素的选择与移动操作。无任何依赖项，支持框选（Drag-Select）和拖放（Drag-And-Drop）功能

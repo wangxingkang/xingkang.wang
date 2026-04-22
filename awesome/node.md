@@ -46,6 +46,10 @@
 
 ## 其他
 
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
+- [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
+- [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
+- [postgres](https://github.com/porsager/postgres) 适用于 Node.js、Deno、Bun 以及 CloudFlare 平台的高性能全功能 PostgreSQL 客户端
 - [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
 - [zx](https://github.com/google/zx) 一款用于编写更优质脚本的工具
 - [pollyjs](https://github.com/Netflix/pollyjs) 记录、重写和模拟 HTTP 交互
