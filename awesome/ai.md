@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
 - [context7](https://context7.com) 面向大语言模型与 AI 代码编辑器的最新代码文档
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 一份独立的 CLAUDE.md 文件，用于优化 Claude Code 的表现，该文件基于安德烈・卡帕西对大语言模型编码陷阱的观察总结而成

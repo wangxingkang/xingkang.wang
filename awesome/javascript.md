@@ -191,6 +191,7 @@
 
 ### 其他
 
+- [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS) 一个用于操作 WebAudio 上下文的 JavaScript 库，专门用于处理音调/调性变换
 - [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
 - [zoid](https://github.com/krakenjs/zoid) 跨域组件
 - [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) 只需调用单个函数，即可打造快速且响应稳定的应用

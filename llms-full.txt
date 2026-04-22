@@ -260,6 +260,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
 - [context7](https://context7.com) 面向大语言模型与 AI 代码编辑器的最新代码文档
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 一份独立的 CLAUDE.md 文件，用于优化 Claude Code 的表现，该文件基于安德烈・卡帕西对大语言模型编码陷阱的观察总结而成
@@ -678,6 +679,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [madge](https://github.com/pahen/madge) 根据你的 CommonJS、AMD 或 ES6 模块依赖关系生成关系图
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
 - [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
@@ -713,6 +715,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源版剪映平替
 - [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
@@ -963,6 +966,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS) 一个用于操作 WebAudio 上下文的 JavaScript 库，专门用于处理音调/调性变换
 - [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
 - [zoid](https://github.com/krakenjs/zoid) 跨域组件
 - [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) 只需调用单个函数，即可打造快速且响应稳定的应用
@@ -1807,6 +1811,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点

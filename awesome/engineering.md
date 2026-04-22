@@ -95,6 +95,7 @@
 
 ## 其他
 
+- [madge](https://github.com/pahen/madge) 根据你的 CommonJS、AMD 或 ES6 模块依赖关系生成关系图
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
 - [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
