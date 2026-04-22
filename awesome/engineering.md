@@ -29,6 +29,8 @@
 
 ### 其他
 
+- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
+- [code-inspector-plugin](https://github.com/zh-lx/code-inspector) 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置
 - [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression) Vite 插件，用于压缩打包文件
 - [rollup-plugin-gzip](https://github.com/kryops/rollup-plugin-gzip) 使用 Gzip 压缩你的 Rollup / Vite 打包文件
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) 用于生成关键 CSS 的 Vite.js 与 Rollup 插件

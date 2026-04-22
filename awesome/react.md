@@ -148,6 +148,7 @@
 
 - [rc-dock](https://github.com/ticlo/rc-dock) 适用于 React 组件的停靠式布局
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
+- [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-split-pane](https://github.com/tomkp/react-split-pane) 分割面板
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
@@ -177,6 +178,7 @@
 
 ### 数据展示
 
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) 类似谷歌日历/Outlook的日历组件
 - [react-accordion](https://github.com/szhsin/react-accordion) 适用于 React 的完整折叠面板解决方案
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本

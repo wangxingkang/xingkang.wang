@@ -6,6 +6,7 @@
 
 ## 工具
 
+- [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。

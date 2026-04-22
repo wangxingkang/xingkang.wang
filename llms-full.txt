@@ -616,6 +616,8 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
+- [code-inspector-plugin](https://github.com/zh-lx/code-inspector) 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置
 - [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression) Vite 插件，用于压缩打包文件
 - [rollup-plugin-gzip](https://github.com/kryops/rollup-plugin-gzip) 使用 Gzip 压缩你的 Rollup / Vite 打包文件
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) 用于生成关键 CSS 的 Vite.js 与 Rollup 插件
@@ -703,6 +705,7 @@ url: /awesome/github.md
 
 ## 工具
 
+- [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
@@ -970,6 +973,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
+- [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
 - [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
 - [unified](https://github.com/unifiedjs/unified) 利用语法树对内容进行解析、检查、转换与序列化
 - [sugar-high](https://github.com/huozhi/sugar-high) 超轻量级代码语法高亮工具
@@ -1189,6 +1194,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
 - [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
 - [partytown](https://github.com/QwikDev/partytown) 将占用大量资源的第三方脚本从主线程移至 Web Worker 中运行
 - [@standardagents/sip](https://github.com/standardagents/sip) 小型图像处理器 – 专为 Cloudflare Workers 打造的超高内存效率图像处理工具 🟠
@@ -1632,6 +1638,7 @@ url: /awesome/react.md
 
 - [rc-dock](https://github.com/ticlo/rc-dock) 适用于 React 组件的停靠式布局
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
+- [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-split-pane](https://github.com/tomkp/react-split-pane) 分割面板
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
@@ -1661,6 +1668,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) 类似谷歌日历/Outlook的日历组件
 - [react-accordion](https://github.com/szhsin/react-accordion) 适用于 React 的完整折叠面板解决方案
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
