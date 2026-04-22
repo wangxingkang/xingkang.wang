@@ -92,6 +92,7 @@
 
 ## 组件库
 
+- [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
