@@ -63,6 +63,7 @@
 
 ### 数据录入
 
+- [json-editor-vue](https://github.com/cloydlau/json-editor-vue) Vue 2/3 同构 JSON 编辑器、查看器、格式化工具与校验器
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) 签名绘制组件
 - [vue3-signature-pad](https://github.com/selemondev/vue3-signature-pad) 签名绘制组件
 - [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) 一款适用于 Vue.js 2-3 版本的移动端友好型图片文件上传组件，支持图片预览、拖拽上传、EXIF 方向校正等丰富功能
