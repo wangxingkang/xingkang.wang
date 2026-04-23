@@ -180,6 +180,7 @@
 
 ### 数据展示
 
+- [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
 - [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) 专为 React 打造的原生图片缩放库
@@ -255,6 +256,7 @@
 
 ### 其他
 
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
 - [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面

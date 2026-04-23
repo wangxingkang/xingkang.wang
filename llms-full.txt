@@ -984,6 +984,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
 - [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
 - [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
@@ -1129,6 +1130,7 @@ url: /awesome/javascript.md
 - [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
 - [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
+- [lozad](https://github.com/ApoorvSaxena/lozad.js) 一款高性能、轻量（约 1kb）且可配置的懒加载器，纯 JavaScript 实现且无依赖，适用于响应式图片、iframe 等场景
 
 ## 组件
 
@@ -1687,6 +1689,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
 - [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) 专为 React 打造的原生图片缩放库
@@ -1762,6 +1765,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
 - [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面

@@ -193,6 +193,7 @@
 
 ### 其他
 
+- [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
 - [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
 - [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
@@ -338,6 +339,7 @@
 - [@braintree/sanitize-url](https://github.com/braintree/sanitize-url) URL 净化
 - [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
+- [lozad](https://github.com/ApoorvSaxena/lozad.js) 一款高性能、轻量（约 1kb）且可配置的懒加载器，纯 JavaScript 实现且无依赖，适用于响应式图片、iframe 等场景
 
 ## 组件
 
