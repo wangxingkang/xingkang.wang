@@ -1466,6 +1466,7 @@ url: /awesome/react-native.md
 
 ## 组件库
 
+- [react-native-paper](https://github.com/callstack/react-native-paper) 适用于 React Native（安卓 & iOS 系统）的 Material Design 组件库
 - [tamagui](https://github.com/tamagui/tamagui) 快速为 React 编写样式，在 React Native 上实现完全一致的表现，附带可选的 UI 组件库和优化编译器
 - [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) 适用于 React Native 的 UI 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) 跨平台 React Native UI 工具包
@@ -1473,6 +1474,14 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) 适用于 React Native 的 `<LinearGradient />` 线性渐变组件
+- [react-native-screens](https://github.com/software-mansion/react-native-screens) 适用于 React Native 应用的**原生导航基础组件**
+- [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
+- [react-native-modal](https://github.com/react-native-modal/react-native-modal) 一款适用于 React Native 的增强型、带动画效果且可高度自定义的模态框组件
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) 这是一个声明式 API，将平台原生的触摸与手势系统开放给 React Native 使用
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) 适用于 React Native iOS 与 Android 平台的设备信息库
+- [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库
 - [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) 一个用于在内容加载时显示彩色模糊占位图的库。
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) 对 React Native 视图进行快照并将其保存为图片
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) 支持相机拍摄、视频、可配置压缩、多图选择与裁剪功能的 iOS/Android 图片选择器
@@ -1683,6 +1692,7 @@ url: /awesome/react.md
 - [antd-phone-input](https://github.com/typesnippet/antd-phone-input) 电话输入
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
 - [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker) 一个简洁易用、可复用的 React 日期选择器组件
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
 - [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
 - [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
@@ -1765,6 +1775,10 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
+- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
+- [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
+- [react-joyride](https://github.com/gilbarbara/react-joyride) 在你的应用中创建引导式操作向导
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
 - [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
