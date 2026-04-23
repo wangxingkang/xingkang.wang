@@ -1775,6 +1775,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
 - [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
