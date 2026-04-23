@@ -18,6 +18,9 @@
 
 ## 其他
 
+- [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) 一个用于在内容加载时显示彩色模糊占位图的库。
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot) 对 React Native 视图进行快照并将其保存为图片
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) 支持相机拍摄、视频、可配置压缩、多图选择与裁剪功能的 iOS/Android 图片选择器
 - [expo-agent-spinners](https://github.com/Eronred/expo-agent-spinners) 适用于 React Native 和 Expo 的 54 种终端风格类加载指示器。轻量、无原生依赖——仅用文本实现，不占用大量 UI 线程。
 - [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
 - [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
