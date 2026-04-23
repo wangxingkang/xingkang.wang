@@ -6,6 +6,8 @@
 
 ## AI
 
+- [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [spec-kit](https://github.com/github/spec-kit) 用于帮助你入门规范驱动开发的工具包
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗

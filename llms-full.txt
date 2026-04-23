@@ -1420,6 +1420,8 @@ url: /awesome/python.md
 
 ## AI
 
+- [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [spec-kit](https://github.com/github/spec-kit) 用于帮助你入门规范驱动开发的工具包
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
@@ -2078,6 +2080,7 @@ url: /awesome/vue.md
 
 ### 数据录入
 
+- [json-editor-vue](https://github.com/cloydlau/json-editor-vue) Vue 2/3 同构 JSON 编辑器、查看器、格式化工具与校验器
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) 签名绘制组件
 - [vue3-signature-pad](https://github.com/selemondev/vue3-signature-pad) 签名绘制组件
 - [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) 一款适用于 Vue.js 2-3 版本的移动端友好型图片文件上传组件，支持图片预览、拖拽上传、EXIF 方向校正等丰富功能
