@@ -156,6 +156,8 @@
 
 ### 数据录入
 
+- [annotorious](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
+- [react-avatar-editor](https://github.com/mosch/react-avatar-editor) 小巧的头像与个人头像组件。通过直观易用的界面，对上传的图片进行尺寸调整与裁剪
 - [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
 - [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
 - [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
@@ -178,6 +180,13 @@
 
 ### 数据展示
 
+- [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
+- [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
+- [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) 专为 React 打造的原生图片缩放库
+- [react-zmage](https://github.com/Caldis/react-zmage) 一个基于 React 的可缩放图片控件
+- [simpleParallax.js](https://github.com/geosigno/simpleParallax.js) 适用于 React 和 JavaScript 的简易视差效果
+- [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) 用于为横幅、图片或任意其他 DOM 元素创建视差滚动效果的 React Hooks 与组件。
+- [react-image-gallery](https://github.com/xiaolin/react-image-gallery) 支持缩略图的 React 轮播图片画廊组件
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) 类似谷歌日历/Outlook的日历组件
 - [react-accordion](https://github.com/szhsin/react-accordion) 适用于 React 的完整折叠面板解决方案
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
@@ -204,6 +213,7 @@
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 - [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) 适用于 React 的 JSON 查看器
 - [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 一款 React 分页组件，可根据可用宽度智能渲染——拥有丰富的样式定制选项。
+- [react-image](https://github.com/mbrevda/react-image) 支持多种备用图与加载器的 React.js `<img>` 标签渲染组件
 
 ### 反馈
 
@@ -305,6 +315,7 @@
 
 ## 其他
 
+- [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
 - [react-to-web-component](https://github.com/bitovi/react-to-web-component) 将 React 组件转换为原生 Web Components，同时也支持 Preact！
