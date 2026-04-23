@@ -43,6 +43,7 @@
 
 ### 其他
 
+- [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
 - [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 - [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
 - [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
