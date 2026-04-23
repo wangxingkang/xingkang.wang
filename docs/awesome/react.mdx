@@ -174,6 +174,7 @@
 - [antd-phone-input](https://github.com/typesnippet/antd-phone-input) 电话输入
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
 - [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker) 一个简洁易用、可复用的 React 日期选择器组件
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
 - [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
 - [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
@@ -256,6 +257,10 @@
 
 ### 其他
 
+- [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
+- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
+- [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
+- [react-joyride](https://github.com/gilbarbara/react-joyride) 在你的应用中创建引导式操作向导
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
 - [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面

@@ -11,6 +11,7 @@
 
 ## 组件库
 
+- [react-native-paper](https://github.com/callstack/react-native-paper) 适用于 React Native（安卓 & iOS 系统）的 Material Design 组件库
 - [tamagui](https://github.com/tamagui/tamagui) 快速为 React 编写样式，在 React Native 上实现完全一致的表现，附带可选的 UI 组件库和优化编译器
 - [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) 适用于 React Native 的 UI 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) 跨平台 React Native UI 工具包
@@ -18,6 +19,14 @@
 
 ## 其他
 
+- [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) 适用于 React Native 的 `<LinearGradient />` 线性渐变组件
+- [react-native-screens](https://github.com/software-mansion/react-native-screens) 适用于 React Native 应用的**原生导航基础组件**
+- [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
+- [react-native-modal](https://github.com/react-native-modal/react-native-modal) 一款适用于 React Native 的增强型、带动画效果且可高度自定义的模态框组件
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) 这是一个声明式 API，将平台原生的触摸与手势系统开放给 React Native 使用
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) 适用于 React Native iOS 与 Android 平台的设备信息库
+- [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库
 - [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) 一个用于在内容加载时显示彩色模糊占位图的库。
 - [react-native-view-shot](https://github.com/gre/react-native-view-shot) 对 React Native 视图进行快照并将其保存为图片
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) 支持相机拍摄、视频、可配置压缩、多图选择与裁剪功能的 iOS/Android 图片选择器
