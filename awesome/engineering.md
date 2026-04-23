@@ -82,6 +82,10 @@
 - [官网](https://webpack.js.org)
 - [webpack](https://github.com/webpack/webpack) webpack 仓库
 
+### 插件
+
+- [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin) 对资源进行压缩处理，以便通过 **Content-Encoding** 响应头提供服务
+
 ## Babel
 
 ### 插件

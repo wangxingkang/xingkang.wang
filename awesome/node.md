@@ -46,6 +46,7 @@
 
 ## 其他
 
+- [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
 - [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
