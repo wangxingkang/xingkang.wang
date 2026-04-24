@@ -16,6 +16,7 @@
 
 ## 动画
 
+- [vap](https://github.com/Tencent/vap) VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
@@ -193,6 +194,7 @@
 
 ### 其他
 
+- [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
 - [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
@@ -345,6 +347,7 @@
 
 ### 可视化
 
+- [visx](https://github.com/airbnb/visx) 可视化组件库
 - [FlowmapBlue](https://github.com/FlowmapBlue/FlowmapBlue) 流场图可视化工具
 - [simple-mind-map](https://github.com/wanglin2/mind-map) 一个强大的思维导图
 
@@ -454,3 +457,5 @@
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
 - [json-server](https://github.com/typicode/json-server) 不用写代码就能模拟接口数据
 - [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) 东京公共交通系统的**实时3D数字地图**
+- [antlr4](https://github.com/antlr/antlr4) 一款功能强大的解析器生成器，用于读取、处理、执行或转换结构化文本与二进制文件
+- [grafana-data](https://github.com/grafana/grafana/tree/main/packages/grafana-data)
