@@ -257,6 +257,12 @@
 
 ### 其他
 
+- [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
+- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+  - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
+- [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
+- [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
+- [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
@@ -301,8 +307,6 @@
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
-  - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
   - [@rjsf/antd](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd) [antd](https://ant-design.antgroup.com/index-cn)
@@ -323,6 +327,7 @@
 
 ## 其他
 
+- [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器

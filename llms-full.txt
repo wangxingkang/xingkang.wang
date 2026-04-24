@@ -698,6 +698,7 @@ url: /awesome/engineering.md
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
 - [knip](https://github.com/webpro-nl/knip) ✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖与导出代码。上线前先清理干净！
+- [signoz](https://github.com/SigNoz/signoz) 基于 OpenTelemetry 的开源可观测性平台，在单一应用内集成日志、链路追踪与指标监控能力
 
 ## Nginx
 
@@ -788,6 +789,16 @@ url: /awesome/go.md
 
 
 ---
+url: /awesome/java.md
+---
+
+# Java
+
+## 其他
+
+
+
+---
 url: /awesome/javascript.md
 ---
 
@@ -809,6 +820,7 @@ url: /awesome/javascript.md
 
 ## 动画
 
+- [vap](https://github.com/Tencent/vap) VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [anime](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
@@ -986,6 +998,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
 - [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
@@ -1138,6 +1151,7 @@ url: /awesome/javascript.md
 
 ### 可视化
 
+- [visx](https://github.com/airbnb/visx) 可视化组件库
 - [FlowmapBlue](https://github.com/FlowmapBlue/FlowmapBlue) 流场图可视化工具
 - [simple-mind-map](https://github.com/wanglin2/mind-map) 一个强大的思维导图
 
@@ -1247,6 +1261,8 @@ url: /awesome/javascript.md
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
 - [json-server](https://github.com/typicode/json-server) 不用写代码就能模拟接口数据
 - [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) 东京公共交通系统的**实时3D数字地图**
+- [antlr4](https://github.com/antlr/antlr4) 一款功能强大的解析器生成器，用于读取、处理、执行或转换结构化文本与二进制文件
+- [grafana-data](https://github.com/grafana/grafana/tree/main/packages/grafana-data)
 
 
 
@@ -1302,6 +1318,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
 - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
 - [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
@@ -1427,6 +1444,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [spec-kit](https://github.com/github/spec-kit) 用于帮助你入门规范驱动开发的工具包
@@ -1777,6 +1795,12 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
+- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+  - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
+- [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
+- [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
+- [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
@@ -1821,8 +1845,6 @@ url: /awesome/react.md
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-- [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
-  - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
   - [@rjsf/antd](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd) [antd](https://ant-design.antgroup.com/index-cn)
@@ -1843,6 +1865,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
@@ -1873,6 +1896,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 
