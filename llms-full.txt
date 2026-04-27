@@ -321,6 +321,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
 - [hunk](https://github.com/modem-dev/hunk) 面向智能编程体的**先评审型终端差异查看器**
@@ -1190,6 +1191,7 @@ url: /awesome/javascript.md
 
 #### 其他
 
+- [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
 
@@ -1906,6 +1908,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器

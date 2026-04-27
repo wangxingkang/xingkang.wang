@@ -386,6 +386,7 @@
 
 #### 其他
 
+- [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
 
