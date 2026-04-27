@@ -101,6 +101,7 @@
 
 ### 其他
 
+- [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择

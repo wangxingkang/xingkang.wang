@@ -260,6 +260,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -321,6 +322,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) 检索与检索增强型大语言模型（RAG-LLM）
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
 - [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
@@ -765,8 +767,13 @@ url: /awesome/go.md
 
 - [官网](https://golang.google.cn)
 
+## AI
+
+- [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
+
 ## 其他
 
+- [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
 - [oras](https://github.com/oras-project/oras) OCI 容器镜像仓库客户端——用于管理制品、镜像、软件包等内容
 - [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
 - [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
@@ -1324,6 +1331,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [wechaty](https://github.com/wechaty/wechaty) 面向聊天机器人开发者的对话式RPA软件开发工具包
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
 - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
@@ -1450,6 +1458,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
@@ -1802,6 +1811,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
@@ -1904,6 +1914,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
@@ -2190,6 +2201,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择

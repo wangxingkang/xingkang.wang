@@ -257,6 +257,7 @@
 
 ### 其他
 
+- [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件

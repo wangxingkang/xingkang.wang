@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -95,6 +96,7 @@
 
 ### 其他
 
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) 检索与检索增强型大语言模型（RAG-LLM）
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
 - [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**

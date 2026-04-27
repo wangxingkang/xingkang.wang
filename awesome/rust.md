@@ -6,6 +6,7 @@
 
 ## AI
 
+- [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
