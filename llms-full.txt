@@ -1500,6 +1500,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [variable-header-blur](https://github.com/hewad-mubariz/variable-header-blur) 适用于 Expo 应用的跨平台原生头部模糊效果
 - [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
 - [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) 适用于 React Native 的 `<LinearGradient />` 线性渐变组件
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) 适用于 React Native 应用的**原生导航基础组件**
