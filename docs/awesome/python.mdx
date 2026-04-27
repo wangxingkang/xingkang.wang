@@ -23,6 +23,7 @@
 
 ## 其他
 
+- [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) 用于从流式数据重建场景的前馈三维基础模型
 - [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
