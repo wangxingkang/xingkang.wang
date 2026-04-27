@@ -16,6 +16,7 @@
 
 ## 其他
 
+- [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
