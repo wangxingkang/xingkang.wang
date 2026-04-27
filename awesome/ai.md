@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
 - [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
@@ -234,6 +235,7 @@
 
 ### 其他
 
+- [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
 - [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
 - [ardot](https://d.qq.com) AI 设计
