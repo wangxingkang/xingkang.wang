@@ -95,6 +95,8 @@
 
 ### 其他
 
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
+- [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备

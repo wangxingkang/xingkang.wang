@@ -321,6 +321,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
+- [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
@@ -999,6 +1001,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
 - [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
@@ -1191,6 +1194,7 @@ url: /awesome/javascript.md
 
 #### 其他
 
+- [Tone.js](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
@@ -1797,6 +1801,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
@@ -1973,6 +1978,7 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [@visual-json/svelte](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [@unhead/svelte](https://github.com/unjs/unhead/tree/main/packages/svelte) 适用于任意框架的全栈 `<head>` 工具包
 - [@lottiefiles/dotlottie-svelte](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [overlayscrollbars-svelte](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-svelte) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
@@ -2183,6 +2189,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 - [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
