@@ -235,6 +235,7 @@
 
 ### 其他
 
+- [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
 - [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
 - [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译

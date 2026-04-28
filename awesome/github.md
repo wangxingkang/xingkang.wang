@@ -22,6 +22,9 @@
 
 ## 其他
 
+- [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
+- [TurboOCR](https://github.com/aiptimizer/TurboOCR) 高性能 GPU OCR 服务端
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源版剪映平替
 - [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
