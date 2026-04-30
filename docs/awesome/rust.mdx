@@ -6,6 +6,8 @@
 
 ## AI
 
+- [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
+- [warp](https://github.com/warpdotdev/warp) Warp 是一款**智能体化开发环境**，源自终端而生
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体

@@ -96,6 +96,7 @@
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
+- [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
 - [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
