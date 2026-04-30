@@ -28,6 +28,7 @@
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+- [semiotic](https://github.com/nteract/semiotic) 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库
 
 ### 其他
 
@@ -157,6 +158,7 @@
 
 ### 数据录入
 
+- [react-editext](https://github.com/alioguzhan/react-editext) 可编辑文本组件
 - [annotorious](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) 小巧的头像与个人头像组件。通过直观易用的界面，对上传的图片进行尺寸调整与裁剪
 - [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
@@ -182,6 +184,7 @@
 
 ### 数据展示
 
+- [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
 - [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
@@ -330,6 +333,7 @@
 
 ## 其他
 
+- [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端

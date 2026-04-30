@@ -19,6 +19,8 @@
 
 ## 其他
 
+- [react-native-compressor](https://github.com/numandev1/react-native-compressor) 像 WhatsApp 一样压缩图片、视频和音频
+- [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [input-otp-native](https://github.com/yjose/input-otp-native) 应用一次性密码（OTP）输入组件
 - [expo-paste-input](https://github.com/arunabhverma/expo-paste-input) 跨平台原生剪贴板处理
 - [variable-header-blur](https://github.com/hewad-mubariz/variable-header-blur) 适用于 Expo 应用的跨平台原生头部模糊效果

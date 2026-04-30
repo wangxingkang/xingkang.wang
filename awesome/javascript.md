@@ -194,6 +194,7 @@
 
 ### 其他
 
+- [isbot](https://github.com/omrilotan/isbot) 通过用户代理字符串检测机器人、爬虫和网络蜘蛛
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度

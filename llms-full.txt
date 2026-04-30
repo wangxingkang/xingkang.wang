@@ -1020,6 +1020,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [isbot](https://github.com/omrilotan/isbot) 通过用户代理字符串检测机器人、爬虫和网络蜘蛛
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
@@ -1522,6 +1523,8 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-compressor](https://github.com/numandev1/react-native-compressor) 像 WhatsApp 一样压缩图片、视频和音频
+- [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [input-otp-native](https://github.com/yjose/input-otp-native) 应用一次性密码（OTP）输入组件
 - [expo-paste-input](https://github.com/arunabhverma/expo-paste-input) 跨平台原生剪贴板处理
 - [variable-header-blur](https://github.com/hewad-mubariz/variable-header-blur) 适用于 Expo 应用的跨平台原生头部模糊效果
@@ -1597,6 +1600,7 @@ url: /awesome/react.md
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
+- [semiotic](https://github.com/nteract/semiotic) 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库
 
 ### 其他
 
@@ -1726,6 +1730,7 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [react-editext](https://github.com/alioguzhan/react-editext) 可编辑文本组件
 - [annotorious](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) 小巧的头像与个人头像组件。通过直观易用的界面，对上传的图片进行尺寸调整与裁剪
 - [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
@@ -1751,6 +1756,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
 - [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
@@ -1899,6 +1905,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
