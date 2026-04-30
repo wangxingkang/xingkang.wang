@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
 - [react-native-compressor](https://github.com/numandev1/react-native-compressor) 像 WhatsApp 一样压缩图片、视频和音频
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [input-otp-native](https://github.com/yjose/input-otp-native) 应用一次性密码（OTP）输入组件
