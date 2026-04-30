@@ -300,6 +300,7 @@ url: /awesome/ai.md
 
 ### Code
 
+- [opencode](https://github.com/anomalyco/opencode) 智能开发代理
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) 轻量级 MCP，让代码即刻生效
 - [cc-switch](https://github.com/farion1231/cc-switch) 面向 Claude Code、Codex、OpenCode、openclaw 和 Gemini CLI 的**跨平台桌面版一站式辅助工具**。
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
