@@ -16,6 +16,7 @@
 
 ### 其他
 
+- [svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) 带刻度标记、支持无障碍、外观精美的**多滑块范围选择器**
 - [@visual-json/svelte](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [@unhead/svelte](https://github.com/unjs/unhead/tree/main/packages/svelte) 适用于任意框架的全栈 `<head>` 工具包
 - [@lottiefiles/dotlottie-svelte](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
