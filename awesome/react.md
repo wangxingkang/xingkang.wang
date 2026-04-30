@@ -160,7 +160,7 @@
 ### 数据录入
 
 - [react-editext](https://github.com/alioguzhan/react-editext) 可编辑文本组件
-- [annotorious](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
+- [@annotorious/react](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) 小巧的头像与个人头像组件。通过直观易用的界面，对上传的图片进行尺寸调整与裁剪
 - [react-multi-email](https://github.com/axisj/react-multi-email) 一个简易 React 组件，可在用户输入时自动格式化多个邮箱地址。
 - [better-upload](https://github.com/Nic13Gamer/better-upload) 适用于 React 的简洁易用文件上传组件。只需极少配置，即可直接上传至任意兼容 S3 的服务。
