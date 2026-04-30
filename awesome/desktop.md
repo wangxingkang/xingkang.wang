@@ -15,6 +15,7 @@
 
 ### 开源项目
 
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
 - [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
@@ -32,6 +33,10 @@
 
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
+
+### 开源项目
+
+- [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
 ## Electrobun
 

@@ -377,9 +377,12 @@
 
 #### 视频
 
+- [OvenPlayer](https://github.com/OvenMediaLabs/OvenPlayer) 基于 JavaScript、适配 LLHLS 与 WebRTC 协议、专为 OvenMediaEngine 打造的播放器
+- [p2p-media-loader](https://github.com/Novage/p2p-media-loader) 一款**开源引擎**，支持在网页浏览器HTML页面内直接实现**直播与点播视频的P2P流媒体传输**。
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
 - [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
+- [danmu.js](https://github.com/bytedance/danmu.js) 适用于任意 DOM 元素的 HTML5 弹幕插件
 
 #### 音频
 

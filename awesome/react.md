@@ -29,6 +29,7 @@
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
 - [semiotic](https://github.com/nteract/semiotic) 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库
+- [flowgram.ai](https://github.com/bytedance/flowgram.ai) 一款可扩展的工作流开发框架，内置画布、表单、变量及物料能力
 
 ### 其他
 

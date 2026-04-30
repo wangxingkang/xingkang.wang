@@ -570,6 +570,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
 - [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
@@ -587,6 +588,10 @@ url: /awesome/desktop.md
 
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
+
+### 开源项目
+
+- [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
 ## Electrobun
 
@@ -1203,9 +1208,12 @@ url: /awesome/javascript.md
 
 #### 视频
 
+- [OvenPlayer](https://github.com/OvenMediaLabs/OvenPlayer) 基于 JavaScript、适配 LLHLS 与 WebRTC 协议、专为 OvenMediaEngine 打造的播放器
+- [p2p-media-loader](https://github.com/Novage/p2p-media-loader) 一款**开源引擎**，支持在网页浏览器HTML页面内直接实现**直播与点播视频的P2P流媒体传输**。
 - [xgplayer](https://github.com/bytedance/xgplayer) 字节出品的播放器
 - [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
+- [danmu.js](https://github.com/bytedance/danmu.js) 适用于任意 DOM 元素的 HTML5 弹幕插件
 
 #### 音频
 
@@ -1601,6 +1609,7 @@ url: /awesome/react.md
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
 - [semiotic](https://github.com/nteract/semiotic) 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库
+- [flowgram.ai](https://github.com/bytedance/flowgram.ai) 一款可扩展的工作流开发框架，内置画布、表单、变量及物料能力
 
 ### 其他
 
