@@ -34,6 +34,7 @@
 
 ## Skill
 
+- [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
 - [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
@@ -97,6 +98,9 @@
 
 ### 其他
 
+- [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
+- [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
+- [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) 两千余条精选 Seedance 2.0 视频生成提示词，涵盖电影质感、二次元、用户原创内容、商业广告、趣味梗图等风格
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) 检索与检索增强型大语言模型（RAG-LLM）
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
 - [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用

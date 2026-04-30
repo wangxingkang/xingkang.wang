@@ -10,6 +10,8 @@
 
 ## 其他
 
+- [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
+- [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
 - [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
 - [oras](https://github.com/oras-project/oras) OCI 容器镜像仓库客户端——用于管理制品、镜像、软件包等内容
 - [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。

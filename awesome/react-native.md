@@ -19,6 +19,8 @@
 
 ## 其他
 
+- [input-otp-native](https://github.com/yjose/input-otp-native) 应用一次性密码（OTP）输入组件
+- [expo-paste-input](https://github.com/arunabhverma/expo-paste-input) 跨平台原生剪贴板处理
 - [variable-header-blur](https://github.com/hewad-mubariz/variable-header-blur) 适用于 Expo 应用的跨平台原生头部模糊效果
 - [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
 - [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) 适用于 React Native 的 `<LinearGradient />` 线性渐变组件
