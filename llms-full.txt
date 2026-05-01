@@ -325,6 +325,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [open-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) 两千余条精选 Seedance 2.0 视频生成提示词，涵盖电影质感、二次元、用户原创内容、商业广告、趣味梗图等风格
@@ -789,6 +790,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
 - [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
 - [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
@@ -1692,6 +1694,7 @@ url: /awesome/react.md
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
+- [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
 
 ## 数据可视化
 
@@ -1767,6 +1770,8 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
+- [react-compare-image](https://github.com/tam315/react-compare-image) 用于通过滑块对比两张图片的 React 组件
 - [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架

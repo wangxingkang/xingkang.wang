@@ -10,6 +10,7 @@
 
 ## 其他
 
+- [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
 - [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
 - [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
