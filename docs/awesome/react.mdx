@@ -110,6 +110,7 @@
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
+- [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
 
 ## 数据可视化
 
@@ -185,6 +186,8 @@
 
 ### 数据展示
 
+- [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
+- [react-compare-image](https://github.com/tam315/react-compare-image) 用于通过滑块对比两张图片的 React 组件
 - [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
