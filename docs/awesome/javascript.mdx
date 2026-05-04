@@ -194,6 +194,7 @@
 
 ### 其他
 
+- [dequal](https://github.com/lukeed/dequal) 超轻量的深度相等性判断工具库
 - [isbot](https://github.com/omrilotan/isbot) 通过用户代理字符串检测机器人、爬虫和网络蜘蛛
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
@@ -407,6 +408,7 @@
 
 ### 其他
 
+- [openseadragon](https://github.com/openseadragon/openseadragon) 一款**开源、基于网页**的可缩放图像查看器，**纯JavaScript** 实现
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) 基于 JavaScript 实现的可拖拽全尺寸日程日历组件
 - [danfojs](https://github.com/javascriptdata/danfojs) Danfo.js 是一款开源的 JavaScript 库，它提供了高性能、直观且易用的数据结构，用于操作和处理结构化数据。
