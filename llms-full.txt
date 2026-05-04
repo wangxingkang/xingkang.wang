@@ -325,6 +325,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
 - [open-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
@@ -1028,6 +1029,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [dequal](https://github.com/lukeed/dequal) 超轻量的深度相等性判断工具库
 - [isbot](https://github.com/omrilotan/isbot) 通过用户代理字符串检测机器人、爬虫和网络蜘蛛
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
@@ -1241,6 +1243,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [openseadragon](https://github.com/openseadragon/openseadragon) 一款**开源、基于网页**的可缩放图像查看器，**纯JavaScript** 实现
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) 基于 JavaScript 实现的可拖拽全尺寸日程日历组件
 - [danfojs](https://github.com/javascriptdata/danfojs) Danfo.js 是一款开源的 JavaScript 库，它提供了高性能、直观且易用的数据结构，用于操作和处理结构化数据。
@@ -1966,6 +1969,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
+- [yazi](https://github.com/sxyazi/yazi) 基于异步I/O、用 Rust 编写的极速终端文件管理器
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
