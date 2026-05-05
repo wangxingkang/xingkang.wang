@@ -99,6 +99,7 @@
 
 ### 其他
 
+- [deepsec](https://github.com/vercel-labs/deepsec) 由代码智能体驱动、用于在代码库中挖掘漏洞的安全检测工具
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
 - [open-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库

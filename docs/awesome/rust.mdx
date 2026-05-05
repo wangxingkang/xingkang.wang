@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
 - [yazi](https://github.com/sxyazi/yazi) 基于异步I/O、用 Rust 编写的极速终端文件管理器
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架

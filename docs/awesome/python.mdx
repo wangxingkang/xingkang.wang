@@ -6,6 +6,7 @@
 
 ## AI
 
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) 多智能体大模型金融交易框架
 - [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
