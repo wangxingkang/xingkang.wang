@@ -10,6 +10,7 @@
 
 ## 其他
 
+- [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
 - [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
