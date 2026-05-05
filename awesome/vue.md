@@ -83,6 +83,7 @@
 
 ### 文件相关
 
+- [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) 适用于 Vue 2 与 Vue 3 的 PDF 嵌入组件
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf)
 
 ### 富文本

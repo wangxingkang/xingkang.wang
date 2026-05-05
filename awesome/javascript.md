@@ -12,6 +12,8 @@
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
 - [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
+- [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
+  - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 - [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) 将 Mermaid 图表渲染为精美的 SVG 或 ASCII 艺术图
 
 ## 动画
@@ -51,8 +53,6 @@
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
-- [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
-  - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 
 ## 多语言
 
