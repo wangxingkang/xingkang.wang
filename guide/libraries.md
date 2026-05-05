@@ -22,6 +22,8 @@
 - [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
 - [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) 虚拟列表(支持无限滚动)
+- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 滚动条
+  - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
 
 ## Vue
 
@@ -29,6 +31,8 @@
   - [vue](https://cn.vuejs.org)
   - [vue-router](https://router.vuejs.org/zh/) 路由
   - [pinia](https://pinia.vuejs.org/zh/) 状态管理
+- [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 滚动条
+  - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
 
 ## 工程化
 
@@ -37,6 +41,7 @@
 #### 公共
 
 - [unplugin-info/vite](https://github.com/yjl9903/unplugin-info) 构建信息
+- [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression) 压缩
 
 #### React
 
