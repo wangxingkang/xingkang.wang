@@ -6,6 +6,8 @@
 - [axios](https://axios-http.com/zh/docs/intro) 网络请求
 - [es-toolkit](https://es-toolkit.dev/zh_hans) 工具库
 - [qs](https://github.com/ljharb/qs) 查询字符串解析与序列化工具
+- [clsx](https://github.com/lukeed/clsx) 用于按条件拼接 className 字符串
+- [xgplayer](https://github.com/bytedance/xgplayer) 播放器
 - 安全
   - [dompurify](https://github.com/cure53/DOMPurify) XSS
   - [crypto-js](https://github.com/brix/crypto-js) 加解密
@@ -13,26 +15,32 @@
 
 ## React
 
-- [react](https://zh-hans.react.dev)
-- [@tanstack/react-router](https://tanstack.com/router/latest) 路由
-- [zustand](https://github.com/pmndrs/zustand) 状态管理
-  - [immer](https://github.com/immerjs/immer) 处理不可变数据集
-- [antd](https://ant.design/index-cn) 组件库
-- [@tanstack/react-query](https://tanstack.com/query/latest) 异步状态管理、服务端状态工具与数据获取
-- [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
-- [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
-- [react-virtuoso](https://github.com/petyosi/react-virtuoso) 虚拟列表(支持无限滚动)
-- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 滚动条
-  - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
+- 基本
+  - [@tanstack/react-router](https://tanstack.com/router/latest) 路由
+  - [zustand](https://github.com/pmndrs/zustand) 状态库
+    - [immer](https://github.com/immerjs/immer) 不可变状态
+  - [@tanstack/react-query](https://tanstack.com/query/latest) 异步状态管理、服务端状态工具与数据获取
+- 组件库
+  - [antd](https://ant.design/index-cn) PC 端组件库
+  - [antd-mobile](https://github.com/ant-design/ant-design-mobile) 移动端组件库
+- Hooks
+  - [nuqs](https://github.com/47ng/nuqs) Url 参数状态管理器
+  - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控与非受控状态的管理
+- 组件
+  - [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
+  - [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
+  - [react-virtuoso](https://github.com/petyosi/react-virtuoso) 虚拟列表(支持无限滚动)
+  - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 滚动条
+    - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
 
 ## Vue
 
 - 全家桶
-  - [vue](https://cn.vuejs.org)
   - [vue-router](https://router.vuejs.org/zh/) 路由
   - [pinia](https://pinia.vuejs.org/zh/) 状态管理
-- [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 滚动条
-  - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
+- 组件
+  - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 滚动条
+    - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
 
 ## 工程化
 
