@@ -1511,6 +1511,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
 - [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) 用于从流式数据重建场景的前馈三维基础模型
