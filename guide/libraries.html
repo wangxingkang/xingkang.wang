@@ -9,7 +9,7 @@
 <script defer src="/static/js/lib-react.7b2a25276b.js"></script>
 <script defer src="/static/js/lib-router.43408175c1.js"></script>
 <script defer src="/static/js/166.17aa1af788.js"></script>
-<script defer src="/static/js/index.9b30068877.js"></script>
+<script defer src="/static/js/index.b9210c5567.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.5">
 <link rel="icon" href="/rspress-icon.png">
@@ -26,6 +26,8 @@
 <li><a href="https://axios-http.com/zh/docs/intro" target="_blank" rel="noopener noreferrer" class="rp-link">axios</a> 网络请求</li>
 <li><a href="https://es-toolkit.dev/zh_hans" target="_blank" rel="noopener noreferrer" class="rp-link">es-toolkit</a> 工具库</li>
 <li><a href="https://github.com/ljharb/qs" target="_blank" rel="noopener noreferrer" class="rp-link">qs</a> 查询字符串解析与序列化工具</li>
+<li><a href="https://github.com/lukeed/clsx" target="_blank" rel="noopener noreferrer" class="rp-link">clsx</a> 用于按条件拼接 className 字符串</li>
+<li><a href="https://github.com/bytedance/xgplayer" target="_blank" rel="noopener noreferrer" class="rp-link">xgplayer</a> 播放器</li>
 <li>安全<!-- -->
 <ul>
 <li><a href="https://github.com/cure53/DOMPurify" target="_blank" rel="noopener noreferrer" class="rp-link">dompurify</a> XSS</li>
@@ -36,15 +38,31 @@
 </ul>
 <h2 class="rp-toc-include" id="react"><a href="#react" class="rp-header-anchor rp-link" aria-hidden="true">#</a>React</h2>
 <ul>
-<li><a href="https://zh-hans.react.dev" target="_blank" rel="noopener noreferrer" class="rp-link">react</a></li>
-<li><a href="https://tanstack.com/router/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-router</a> 路由</li>
-<li><a href="https://github.com/pmndrs/zustand" target="_blank" rel="noopener noreferrer" class="rp-link">zustand</a> 状态管理<!-- -->
+<li>基本<!-- -->
 <ul>
-<li><a href="https://github.com/immerjs/immer" target="_blank" rel="noopener noreferrer" class="rp-link">immer</a> 处理不可变数据集</li>
+<li><a href="https://tanstack.com/router/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-router</a> 路由</li>
+<li><a href="https://github.com/pmndrs/zustand" target="_blank" rel="noopener noreferrer" class="rp-link">zustand</a> 状态库<!-- -->
+<ul>
+<li><a href="https://github.com/immerjs/immer" target="_blank" rel="noopener noreferrer" class="rp-link">immer</a> 不可变状态</li>
 </ul>
 </li>
-<li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 组件库</li>
 <li><a href="https://tanstack.com/query/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-query</a> 异步状态管理、服务端状态工具与数据获取</li>
+</ul>
+</li>
+<li>组件库<!-- -->
+<ul>
+<li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> PC 端组件库</li>
+<li><a href="https://github.com/ant-design/ant-design-mobile" target="_blank" rel="noopener noreferrer" class="rp-link">antd-mobile</a> 移动端组件库</li>
+</ul>
+</li>
+<li>Hooks<!-- -->
+<ul>
+<li><a href="https://github.com/47ng/nuqs" target="_blank" rel="noopener noreferrer" class="rp-link">nuqs</a> Url 参数状态管理器</li>
+<li><a href="https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state" target="_blank" rel="noopener noreferrer" class="rp-link">@radix-ui/react-use-controllable-state</a> 受控与非受控状态的管理</li>
+</ul>
+</li>
+<li>组件<!-- -->
+<ul>
 <li><a href="https://github.com/davidjerleke/embla-carousel" target="_blank" rel="noopener noreferrer" class="rp-link">embla-carousel-react</a> 轮播图库</li>
 <li><a href="https://tanstack.com/virtual/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-virtual</a> 虚拟列表</li>
 <li><a href="https://github.com/petyosi/react-virtuoso" target="_blank" rel="noopener noreferrer" class="rp-link">react-virtuoso</a> 虚拟列表(支持无限滚动)</li>
@@ -54,18 +72,23 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
 <h2 class="rp-toc-include" id="vue"><a href="#vue" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Vue</h2>
 <ul>
 <li>全家桶<!-- -->
 <ul>
-<li><a href="https://cn.vuejs.org" target="_blank" rel="noopener noreferrer" class="rp-link">vue</a></li>
 <li><a href="https://router.vuejs.org/zh/" target="_blank" rel="noopener noreferrer" class="rp-link">vue-router</a> 路由</li>
 <li><a href="https://pinia.vuejs.org/zh/" target="_blank" rel="noopener noreferrer" class="rp-link">pinia</a> 状态管理</li>
 </ul>
 </li>
+<li>组件<!-- -->
+<ul>
 <li><a href="https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue" target="_blank" rel="noopener noreferrer" class="rp-link">overlayscrollbars-vue</a> 滚动条<!-- -->
 <ul>
 <li><a href="https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars" target="_blank" rel="noopener noreferrer" class="rp-link">overlayscrollbars</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
