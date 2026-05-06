@@ -95,6 +95,7 @@
 
 ## 组件库
 
+- [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
@@ -228,6 +229,7 @@
 
 ### 反馈
 
+- [react-spinners](https://github.com/davidhu2000/react-spinners) 适用于 React 的加载动画旋转组件合集
 - [react-nprogress](https://github.com/tanem/react-nprogress) 顶部进度条
 - [react-toastify](https://github.com/fkhadra/react-toastify) 消息通知
 - [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
