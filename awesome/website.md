@@ -22,6 +22,7 @@
 - [不如摸鱼去](https://blog.wot-ui.cn)
 - [overreacted](https://overreacted.io)
 - [ishadeed](https://ishadeed.com)
+- [chanhdai](https://chanhdai.com)
 
 ## 图片处理
 
