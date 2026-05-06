@@ -77,6 +77,7 @@
 
 ## Hooks
 
+- [useWorker](https://github.com/alewin/useWorker) 用于无阻塞后台任务的 React 钩子
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
 - [state-in-url](https://github.com/asmyshlyaev177/state-in-url) 在查询参数中存储任何用户状态
 - [react-infinite-scroll-hook](https://github.com/onderonur/react-infinite-scroll-hook) 用于创建无限滚动组件的 React Hook
