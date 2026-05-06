@@ -12,6 +12,7 @@ url: /guide/libraries.md
 - [qs](https://github.com/ljharb/qs) 查询字符串解析与序列化工具
 - [clsx](https://github.com/lukeed/clsx) 用于按条件拼接 className 字符串
 - [xgplayer](https://github.com/bytedance/xgplayer) 播放器
+- [type-fest](https://github.com/sindresorhus/type-fest) TypeScript 类型集合
 - 安全
   - [dompurify](https://github.com/cure53/DOMPurify) XSS
   - [crypto-js](https://github.com/brix/crypto-js) 加解密
@@ -30,6 +31,7 @@ url: /guide/libraries.md
 - Hooks
   - [nuqs](https://github.com/47ng/nuqs) Url 参数状态管理器
   - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控与非受控状态的管理
+  - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - 组件
   - [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
   - [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
@@ -1044,6 +1046,7 @@ url: /awesome/javascript.md
 ### 颜色
 
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
+- [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
 
@@ -1108,7 +1111,6 @@ url: /awesome/javascript.md
 - [accounting-js](https://github.com/nashdot/accounting-js) 数字、金额与货币格式化库
 - [numbro](https://github.com/BenjaminVanRyseghem/numbro) 一个用于数字格式化的JS库
 - [hucre](https://github.com/productdevbook/hucre) 无依赖电子表格引擎。支持读写 XLSX、CSV、ODS 格式。纯 TypeScript 实现，全平台通用
-- [chroma.js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
@@ -1687,6 +1689,7 @@ url: /awesome/react.md
 
 ## Hooks
 
+- [useWorker](https://github.com/alewin/useWorker) 用于无阻塞后台任务的 React 钩子
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
 - [state-in-url](https://github.com/asmyshlyaev177/state-in-url) 在查询参数中存储任何用户状态
 - [react-infinite-scroll-hook](https://github.com/onderonur/react-infinite-scroll-hook) 用于创建无限滚动组件的 React Hook

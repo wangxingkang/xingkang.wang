@@ -189,6 +189,7 @@
 ### 颜色
 
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
+- [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
 
@@ -253,7 +254,6 @@
 - [accounting-js](https://github.com/nashdot/accounting-js) 数字、金额与货币格式化库
 - [numbro](https://github.com/BenjaminVanRyseghem/numbro) 一个用于数字格式化的JS库
 - [hucre](https://github.com/productdevbook/hucre) 无依赖电子表格引擎。支持读写 XLSX、CSV、ODS 格式。纯 TypeScript 实现，全平台通用
-- [chroma.js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版

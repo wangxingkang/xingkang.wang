@@ -8,6 +8,7 @@
 - [qs](https://github.com/ljharb/qs) 查询字符串解析与序列化工具
 - [clsx](https://github.com/lukeed/clsx) 用于按条件拼接 className 字符串
 - [xgplayer](https://github.com/bytedance/xgplayer) 播放器
+- [type-fest](https://github.com/sindresorhus/type-fest) TypeScript 类型集合
 - 安全
   - [dompurify](https://github.com/cure53/DOMPurify) XSS
   - [crypto-js](https://github.com/brix/crypto-js) 加解密
@@ -26,6 +27,7 @@
 - Hooks
   - [nuqs](https://github.com/47ng/nuqs) Url 参数状态管理器
   - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控与非受控状态的管理
+  - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - 组件
   - [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
   - [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
