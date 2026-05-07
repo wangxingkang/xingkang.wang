@@ -172,7 +172,7 @@
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) 适用于 React 的 `<textarea />` 组件，可随内容自动增高
 - [react-selectable-fast](https://github.com/valerybugakov/react-selectable-fast) 支持通过鼠标或触摸操作选中 React 组件
 - [react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files) 一款轻量简洁的 React.js 文件拖放库，可配置性极高，你可以为拖放区域（drop-area）自定义任意样式。用户既可以通过拖放方式上传文件，甚至还能在浏览器窗口的任意位置选择文件。
-- [@uiw/react-color](https://github.com/uiwjs/react-color)
+- [@uiw/react-color](https://github.com/uiwjs/react-color) 颜色选择器
 - [react-easy-crop](https://github.com/ValentinH/react-easy-crop) 图片裁剪
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) 图片裁剪
 - [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop) 图片裁剪
@@ -189,6 +189,8 @@
 
 ### 数据展示
 
+- [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) 一款高性能、轻量型的 React 轮播 / 滑动组件，适用于媒体与内容切换，拥有60 帧流畅动画、模块化样式、可选高阶组件以及全屏导航工具
 - [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
 - [react-compare-image](https://github.com/tam315/react-compare-image) 用于通过滑块对比两张图片的 React 组件
 - [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
@@ -224,7 +226,8 @@
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
-- [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) 适用于 React 的 JSON 查看器
+- [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) JSON 查看器
+- [@uiw/react-json-view](https://github.com/uiwjs/react-json-view) JSON 查看器
 - [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 一款 React 分页组件，可根据可用宽度智能渲染——拥有丰富的样式定制选项。
 - [react-image](https://github.com/mbrevda/react-image) 支持多种备用图与加载器的 React.js `<img>` 标签渲染组件
 
@@ -269,6 +272,7 @@
 
 ### 其他
 
+- [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
