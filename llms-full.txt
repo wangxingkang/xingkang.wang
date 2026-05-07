@@ -1054,6 +1054,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
 - [soundcn](https://github.com/kapishdima/soundcn) 精选 700+ 现代网页应用专用 UI 音效
 - [province-city-china](https://github.com/uiwjs/province-city-china) 最全最新中国【省、市、区县、乡镇街道】
 - [dequal](https://github.com/lukeed/dequal) 超轻量的深度相等性判断工具库
