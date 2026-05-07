@@ -195,6 +195,8 @@
 
 ### 其他
 
+- [soundcn](https://github.com/kapishdima/soundcn) 精选 700+ 现代网页应用专用 UI 音效
+- [province-city-china](https://github.com/uiwjs/province-city-china) 最全最新中国【省、市、区县、乡镇街道】
 - [dequal](https://github.com/lukeed/dequal) 超轻量的深度相等性判断工具库
 - [isbot](https://github.com/omrilotan/isbot) 通过用户代理字符串检测机器人、爬虫和网络蜘蛛
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
