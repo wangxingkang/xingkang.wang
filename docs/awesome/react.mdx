@@ -65,6 +65,7 @@
 
 ## 动画
 
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) 轻松为 React 组件添加倾斜悬浮动画效果
 - [border-beam](https://github.com/Jakubantalik/border-beam) 适用于 React 的边框流光动画效果
 - [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
@@ -96,6 +97,7 @@
 
 ## 组件库
 
+- [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
