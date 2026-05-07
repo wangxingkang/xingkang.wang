@@ -36,6 +36,7 @@
 
 ### 开源项目
 
+- [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
 ## Electrobun
