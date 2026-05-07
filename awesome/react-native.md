@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [react-native-rate-app](https://github.com/huextrat/react-native-rate-app) 适用于 Android 和 iOS 的**React Native 应用内评分模块**
 - [react-native-slider](https://github.com/callstack/react-native-slider) 滑块组件
 - [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
 - [react-native-compressor](https://github.com/numandev1/react-native-compressor) 像 WhatsApp 一样压缩图片、视频和音频

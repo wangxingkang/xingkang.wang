@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
 - [yazi](https://github.com/sxyazi/yazi) 基于异步I/O、用 Rust 编写的极速终端文件管理器
