@@ -348,6 +348,7 @@
 
 ## 其他
 
+- [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
 - [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
