@@ -341,6 +341,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [firecrawl](https://github.com/firecrawl/firecrawl) 面向AI，用于**网页搜索、数据爬取、网页交互**的API
 - [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) 面向 DeepSeek 模型、可在终端中运行的**代码智能体**。
@@ -489,6 +490,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
+- [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
 - [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
@@ -777,6 +780,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [melody](https://github.com/foamzou/melody) 个人音乐云盘
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
 - [TurboOCR](https://github.com/aiptimizer/TurboOCR) 高性能 GPU OCR 服务端
@@ -1058,6 +1062,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
 - [soundcn](https://github.com/kapishdima/soundcn) 精选 700+ 现代网页应用专用 UI 音效
@@ -1390,6 +1395,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
 - [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
 - [compressing](https://github.com/node-modules/compressing) 压缩&解压缩
 - [archiver](https://github.com/archiverjs/node-archiver) 用于归档生成的流式接口
@@ -1522,6 +1528,9 @@ url: /awesome/python.md
 
 ## AI
 
+- [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
+- [CorridorKey](https://github.com/nikopueringer/CorridorKey) 绿幕抠图
+- [autoclip](https://github.com/zhouxiaoka/autoclip) 一款智能高光提取与剪辑的二创工具
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) 多智能体大模型金融交易框架
 - [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
@@ -1576,6 +1585,12 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [@react-native-documents/picker](https://github.com/react-native-documents/document-picker/tree/main/packages/document-picker) 可从设备本地或 iCloud、Google 云端硬盘及其他文档服务提供商的云存储中读取文档
+- [@react-native-documents/viewer](https://github.com/react-native-documents/document-picker/tree/main/packages/document-viewer) 调用系统原生阅读器预览文档
+- [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
+- [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
+- [react-native-notify-kit](https://github.com/marcocrupi/react-native-notify-kit) 消息通知
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库
 - [react-native-rate-app](https://github.com/huextrat/react-native-rate-app) 适用于 Android 和 iOS 的**React Native 应用内评分模块**
 - [react-native-slider](https://github.com/callstack/react-native-slider) 滑块组件
 - [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
@@ -1744,6 +1759,7 @@ url: /awesome/react.md
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
+- [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
 
 ## 数据可视化
 
@@ -2023,6 +2039,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [sa-token-rust](https://github.com/sa-tokens/sa-token-rust) 开源、免费、轻量级 Rust 权限认证框架
+- [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。
 - [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
@@ -2046,6 +2064,7 @@ url: /awesome/rust.md
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
 - [x-algorithm](https://github.com/xai-org/x-algorithm)
 - [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
+- [zed](https://github.com/zed-industries/zed) IDE
 
 
 
@@ -2236,6 +2255,7 @@ url: /awesome/vue.md
 
 ## 组件库
 
+- [@nuxt/ui](https://github.com/nuxt/ui) 由 Reka UI 与 Tailwind CSS 驱动的简约易用型 Vue UI 组件库
 - [tiny-vue](https://github.com/opentiny/tiny-vue) OpenTiny 社区的企业级 UI 组件库，同时支持 Vue.js 2 和 Vue.js 3，以及 PC 端和移动端。
 - [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本

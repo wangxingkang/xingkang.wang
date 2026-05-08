@@ -100,6 +100,7 @@
 
 ### 其他
 
+- [firecrawl](https://github.com/firecrawl/firecrawl) 面向AI，用于**网页搜索、数据爬取、网页交互**的API
 - [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) 面向 DeepSeek 模型、可在终端中运行的**代码智能体**。
@@ -248,6 +249,8 @@
 
 ### 其他
 
+- [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
+- [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
 - [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章

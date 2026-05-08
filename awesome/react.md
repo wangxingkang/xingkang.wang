@@ -116,6 +116,7 @@
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
+- [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
 
 ## 数据可视化
 

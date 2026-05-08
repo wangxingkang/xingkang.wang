@@ -6,6 +6,9 @@
 
 ## AI
 
+- [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
+- [CorridorKey](https://github.com/nikopueringer/CorridorKey) 绿幕抠图
+- [autoclip](https://github.com/zhouxiaoka/autoclip) 一款智能高光提取与剪辑的二创工具
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) 多智能体大模型金融交易框架
 - [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型

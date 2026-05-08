@@ -19,6 +19,12 @@
 
 ## 其他
 
+- [@react-native-documents/picker](https://github.com/react-native-documents/document-picker/tree/main/packages/document-picker) 可从设备本地或 iCloud、Google 云端硬盘及其他文档服务提供商的云存储中读取文档
+- [@react-native-documents/viewer](https://github.com/react-native-documents/document-picker/tree/main/packages/document-viewer) 调用系统原生阅读器预览文档
+- [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
+- [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
+- [react-native-notify-kit](https://github.com/marcocrupi/react-native-notify-kit) 消息通知
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库
 - [react-native-rate-app](https://github.com/huextrat/react-native-rate-app) 适用于 Android 和 iOS 的**React Native 应用内评分模块**
 - [react-native-slider](https://github.com/callstack/react-native-slider) 滑块组件
 - [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
