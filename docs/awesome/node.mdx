@@ -46,6 +46,7 @@
 
 ## 其他
 
+- [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
 - [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
 - [compressing](https://github.com/node-modules/compressing) 压缩&解压缩
 - [archiver](https://github.com/archiverjs/node-archiver) 用于归档生成的流式接口
