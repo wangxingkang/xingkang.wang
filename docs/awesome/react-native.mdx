@@ -38,6 +38,7 @@
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) 适用于 React Native 应用的**原生导航基础组件**
 - [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
 - [react-native-modal](https://github.com/react-native-modal/react-native-modal) 一款适用于 React Native 的增强型、带动画效果且可高度自定义的模态框组件
+- [react-native-simple-dialogs](https://github.com/douglasjunior/react-native-simple-dialogs) 弹窗对话框
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) 这是一个声明式 API，将平台原生的触摸与手势系统开放给 React Native 使用
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) 适用于 React Native iOS 与 Android 平台的设备信息库
 - [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库

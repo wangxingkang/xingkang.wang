@@ -275,6 +275,7 @@
 
 ### 其他
 
+- [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
 - [boneyard](https://github.com/0xGF/boneyard) 自动生成式骨架屏加载框架
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
