@@ -341,6 +341,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) 面向 DeepSeek 模型、可在终端中运行的**代码智能体**。
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
@@ -511,6 +512,7 @@ url: /awesome/browser-plugin.md
 
 ## 开发
 
+- [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 
 
@@ -775,6 +777,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
 - [TurboOCR](https://github.com/aiptimizer/TurboOCR) 高性能 GPU OCR 服务端
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
@@ -1896,6 +1899,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [boneyard](https://github.com/0xGF/boneyard) 自动生成式骨架屏加载框架
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
@@ -2016,6 +2020,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。
 - [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用

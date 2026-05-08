@@ -22,6 +22,7 @@
 
 ## 其他
 
+- [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
 - [TurboOCR](https://github.com/aiptimizer/TurboOCR) 高性能 GPU OCR 服务端
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
