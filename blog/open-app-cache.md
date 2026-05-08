@@ -1,0 +1,83 @@
+# App Webview 是否开启缓存
+
+## 背景
+
+最近接了一个优化 App 中加载网页速度的需求，通过调试工具调试 Webview 后，发现每次加载网页都没有使用缓存，而网页服务是加了缓存设置的，询问了 APP 开发才知道，他们是关闭了缓存的，询问原因是开启存在问题，问题表现会偶发缓存未加载完成的文件；
+
+原因分析如下:
+
+- 一般情况下 Web 服务会使用通用的优化手段
+  - 打包文件，开启 hash，并设置强缓存
+  - 开启压缩(br/gzip) - 动态压缩
+- 开启压缩，会导致 HTTP 协议头缺失 `Content-Length`，导致 Webview 无法正确判断资源是否加载完成，会缓存未加载完成的文件
+- 由于 HTTP 缓存策略的影响，会一直加载缓存的资源，导致页面白屏
+
+## 缓存模式
+
+### Android (WebView)
+
+通过 `WebSettings` 来控制缓存行为
+
+- `LOAD_DEFAULT`: 默认模式【完全遵循 HTTP 标准】
+- `LOAD_CACHE_ELSE_NETWORK`: 缓存优先【只要缓存存在（即使过期）就用缓存，不存在才走网络】
+- `LOAD_NO_CACHE`: 禁用缓存【不使用本地缓存，强制从网络加载】
+- `LOAD_CACHE_ONLY`: 仅限缓存【不走网络，若无缓存则加载失败】
+
+### IOS (WebView)
+
+通过 `NSURLRequest` 的 `cachePolicy` 来控制缓存行为
+
+- `.useProtocolCachePolicy`: 默认模式【完全遵循 HTTP 标准】
+- `.returnCacheDataElseLoad`: 缓存优先【只要缓存存在（即使过期）就用缓存，不存在才走网络】
+- `.reloadIgnoringLocalCacheData`: 禁用缓存【不使用本地缓存，强制从网络加载】
+- `.returnCacheDataDontLoad`: 仅限缓存【不走网络，若无缓存则加载失败】
+
+### HarmonyOS (WebView)
+
+通过 Web 组件的 `cacheMode` 属性来控制缓存行为
+
+- `CacheMode.Default`: 默认模式【完全遵循 HTTP 标准】
+- `CacheMode.None`: 缓存优先【只要缓存存在（即使过期）就用缓存，不存在才走网络】
+- `CacheMode.Online`: 禁用缓存【不使用本地缓存，强制从网络加载】
+- `CacheMode.Only`: 仅限缓存【不走网络，若无缓存则加载失败】
+
+## 解决方案
+
+针对问题产生的原因，解决方案如下:
+
+1. 直接生成压缩包
+
+使用项目使用的打包工具生态所提供的压缩插件，生成对应的压缩文件
+
+- Vite
+  - [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression)
+- Webpack/Rspack
+  - [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin)
+- Rollup
+  - [rollup-plugin-gzip](https://github.com/kryops/rollup-plugin-gzip)
+
+2. 修改部署服务配置
+
+以 `Nginx` 为例
+
+```yaml
+# --- Gzip 静态配置 ---
+# 开启静态预压缩
+gzip_static on;
+# 关闭动态压缩
+gzip off;
+# 发送 Vary: Accept-Encoding 响应头，对 CDN 友好
+gzip_vary on;
+
+# --- Brotli 静态配置 ---
+# 开启 Brotli 静态预压缩
+brotli_static on;
+# 关闭 Brotli 动态压缩
+brotli off;
+# 发送 Vary: Accept-Encoding 响应头，对 CDN 友好
+brotli_vary on;
+
+# 确保 mime 类型正确，否则浏览器可能无法正确解析压缩流
+include       mime.types;
+default_type  application/octet-stream;
+```

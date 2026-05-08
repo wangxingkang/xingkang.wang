@@ -1,5 +1,13 @@
 # 博客
 
+## [App Webview 是否开启缓存](/blog/open-app-cache)
+
+*2026年5月8日*
+
+![wangxingkang](https://github.com/wangxingkang.png)wangxingkang[](https://github.com/wangxingkang)App webview 是否开启缓存？
+
+---
+
 ## [移动端调试](/blog/mobile-debug)
 
 *2026年2月11日*
