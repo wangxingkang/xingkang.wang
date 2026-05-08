@@ -6,6 +6,7 @@
 
 ## AI
 
+- [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
 - [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
 - [CorridorKey](https://github.com/nikopueringer/CorridorKey) 绿幕抠图
 - [autoclip](https://github.com/zhouxiaoka/autoclip) 一款智能高光提取与剪辑的二创工具
