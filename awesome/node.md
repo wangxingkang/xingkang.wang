@@ -46,6 +46,9 @@
 
 ## 其他
 
+- [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
+- [compressing](https://github.com/node-modules/compressing) 压缩&解压缩
+- [archiver](https://github.com/archiverjs/node-archiver) 用于归档生成的流式接口
 - [toml-node](https://github.com/BinaryMuse/toml-node) 适用于 Node.js 与浏览器的 TOML 解析器，兼容解析 TOML v1.1.0 规范
 - [wechaty](https://github.com/wechaty/wechaty) 面向聊天机器人开发者的对话式RPA软件开发工具包
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
@@ -132,7 +135,6 @@
 - [undici](https://github.com/nodejs/undici) 一款为 Node.js 从零构建的 HTTP/1.1 客户端
 - [wrap-ansi](https://github.com/chalk/wrap-ansi) 对包含 ANSI 转义码的字符串进行自动换行处理
 - [ws](https://github.com/websockets/ws) 一款适用于 Node.js 的 WebSocket 客户端与服务端库，易用性强、速度极快且经过全面测试
-- [adm-zip](https://github.com/cthackers/adm-zip) 一款基于 JavaScript 为 Node.js 实现的 ZIP 处理工具，支持用户在内存中或从磁盘读写的方式创建 / 解压 ZIP 文件
 - [minimatch](https://github.com/isaacs/minimatch) 一款基于 JavaScript 实现的 glob 匹配器
 - [glob](https://github.com/isaacs/node-glob) 为 Node.js 提供 glob 模式匹配功能
 - [portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
