@@ -1686,8 +1686,8 @@ url: /awesome/react.md
 
 ## 多语言
 
-- [js-lingui](https://github.com/lingui/js-lingui) 🌍 📖 轻量至 2 kb！易读、自动化的 JS 国际化方案
-- [react-i18next](https://github.com/i18next/react-i18next) 为 React 精心打造的国际化方案，基于 i18next 国际化生态构建
+- [react-i18next](https://github.com/i18next/react-i18next)
+- [js-lingui](https://github.com/lingui/js-lingui)
 - [react-intl](https://github.com/formatjs/formatjs)
 
 ## 框架
@@ -1820,6 +1820,7 @@ url: /awesome/react.md
 
 - [react-menu](https://github.com/szhsin/react-menu) 无障碍菜单、下拉菜单、子菜单、右键菜单
 - [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 分页
+- [react-contexify](https://github.com/fkhadra/react-contexify) 右键菜单
 
 ### 数据录入
 
@@ -1848,6 +1849,9 @@ url: /awesome/react.md
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
 - [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
 - [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
+- [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
+- [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
+- [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器
 
 ### 数据展示
 
@@ -1945,7 +1949,6 @@ url: /awesome/react.md
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 美化滚动条
 - [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
-- [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
@@ -1955,11 +1958,8 @@ url: /awesome/react.md
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件
 - [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
-- [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
-- [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) 一款适用于 React 应用、**零依赖**的简易下拉刷新组件，支持移动端与桌面端。
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
-- [react-contexify](https://github.com/fkhadra/react-contexify) 👌 轻松为你的 React 应用添加上下文菜单
 - [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
 - [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
