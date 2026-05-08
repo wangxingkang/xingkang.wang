@@ -135,7 +135,6 @@
 
 ## 开源项目
 
-- [it-tools](https://github.com/CorentinTh/it-tools) 为开发者打造的一系列易用在线工具集，拥有出色的用户体验
 - [webai-example-realtime-voice-chat](https://github.com/proj-airi/webai-example-realtime-voice-chat) 🎤💬 几乎在单个文件内，从零实现 ChatGPT 实时语音的完整示例，技术栈包含 VAD + STT + LLM + TTS！
 - [dicebear](https://github.com/dicebear/dicebear) DiceBear 是一款面向设计师与开发者的头像生成库
 - [douyin](https://github.com/zyronon/douyin) Vue 仿抖音的移动端短视频项目

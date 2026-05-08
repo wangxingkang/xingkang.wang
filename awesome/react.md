@@ -60,8 +60,6 @@
 - [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
-- [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
-  - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 
 ## 动画
@@ -81,6 +79,9 @@
 
 ## Hooks
 
+- [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
+  - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
+- [swr](https://github.com/vercel/swr) 数据请求
 - [useWorker](https://github.com/alewin/useWorker) 用于无阻塞后台任务的 React 钩子
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
 - [state-in-url](https://github.com/asmyshlyaev177/state-in-url) 在查询参数中存储任何用户状态
@@ -133,7 +134,7 @@
 
 - [@pascal-app/viewer](https://github.com/pascalorg/editor) 一款基于 React Three Fiber 与 WebGPU 构建的3D 建筑编辑器
 - [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
-- [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
+  - [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
 
 ### 其他
 
@@ -178,6 +179,7 @@
 
 ### 数据录入
 
+- [react-colorful](https://github.com/omgovich/react-colorful) 颜色选择器
 - [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [formik](https://github.com/jaredpalmer/formik) 构建表单
 - [react-editext](https://github.com/alioguzhan/react-editext) 可编辑文本组件
