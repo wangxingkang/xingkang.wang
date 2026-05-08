@@ -62,6 +62,7 @@
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
   - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
+- [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 
 ## 动画
 
@@ -167,6 +168,7 @@
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
+- [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 
 ### 导航
 
@@ -175,6 +177,8 @@
 
 ### 数据录入
 
+- [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
+- [formik](https://github.com/jaredpalmer/formik) 构建表单
 - [react-editext](https://github.com/alioguzhan/react-editext) 可编辑文本组件
 - [@annotorious/react](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) 小巧的头像与个人头像组件。通过直观易用的界面，对上传的图片进行尺寸调整与裁剪
@@ -201,39 +205,39 @@
 
 ### 数据展示
 
+- [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
-- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) 一款高性能、轻量型的 React 轮播 / 滑动组件，适用于媒体与内容切换，拥有60 帧流畅动画、模块化样式、可选高阶组件以及全屏导航工具
-- [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
+- [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 基于 dnd-kit 时间轴组件库
+- [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 无限滚动
 - [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [simpleParallax.js](https://github.com/geosigno/simpleParallax.js) 适用于 React 和 JavaScript 的简易视差效果
 - [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) 用于为横幅、图片或任意其他 DOM 元素创建视差滚动效果的 React Hooks 与组件。
-- [react-image-gallery](https://github.com/xiaolin/react-image-gallery) 支持缩略图的 React 轮播图片画廊组件
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) 类似谷歌日历/Outlook的日历组件
 - [react-accordion](https://github.com/szhsin/react-accordion) 适用于 React 的完整折叠面板解决方案
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
 - [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
 - [react-responsive-overflow-list](https://github.com/Eliav2/react-responsive-overflow-list) 适用于 React 的响应式列表，仅显示适配空间的项目，并将其余项目归类到可自定义的溢出元素中
 - [react-overflow-list](https://github.com/mattrothenberg/react-overflow-list) 一款无头部（Headless）React 组件，让你完全控制可见项与溢出项的渲染方式 👀
-- [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [react-progressive-blur](https://github.com/rakib86/react-progressive-blur) 渐进式模糊效果
 - [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) 关键字高亮
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯
-- [reactour](https://github.com/elrumordelaluz/reactour) React 指引组件
 - [react-arborist](https://github.com/brimdata/react-arborist) 适用于 React 的一站式树形视图组件
 - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) 基于 PrismJS 或 HighlightJS 抽象语法树（AST）、使用内联样式实现的 React 语法高亮组件
 - [react-number-format](https://github.com/s-yadav/react-number-format) 数字格式化组件（支持输入框）
 - [react-grid-gallery](https://github.com/benhowell/react-grid-gallery) 自适应对齐图片画廊组件
-- [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) 现代化的 React 灯箱组件
-- [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 - [flowise-react-json-view](https://github.com/mac-s-g/react-json-view) JSON 查看器
 - [@uiw/react-json-view](https://github.com/uiwjs/react-json-view) JSON 查看器
+- [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
+- [react-image-gallery](https://github.com/xiaolin/react-image-gallery) 支持缩略图的 React 轮播图片画廊组件
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) 一款高性能、轻量型的 React 轮播 / 滑动组件，适用于媒体与内容切换，拥有60 帧流畅动画、模块化样式、可选高阶组件以及全屏导航工具
+- [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
 - [img-comparison-slider](https://github.com/sneas/img-comparison-slider) 图片对比滑动条。用于对比图片处理前后的效果，支持 React、Vue、Angular 框架
 - [react-compare-image](https://github.com/tam315/react-compare-image) 用于通过滑块对比两张图片的 React 组件
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) 专为 React 打造的原生图片缩放库
@@ -242,6 +246,8 @@
 - [unpic-img](https://github.com/ascorbic/unpic-img) 多框架适配的响应式图片组件
 - [react-image](https://github.com/mbrevda/react-image) 支持多种备用图与加载器的 React.js `<img>` 标签渲染组件
 - [react-joyride](https://github.com/gilbarbara/react-joyride) 漫游式引导
+- [reactour](https://github.com/elrumordelaluz/reactour) 漫游式引导
+- [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 
 ### 反馈
 
@@ -260,6 +266,7 @@
 ### 文件相关
 
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
+- [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
 - [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
@@ -289,8 +296,8 @@
 
 ### 其他
 
+- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 美化滚动条
 - [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
-- [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
@@ -299,28 +306,21 @@
 - [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
-- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件。
+- [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件
 - [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
-- [boring-avatars](https://github.com/boringdesigners/boring-avatars) Boring Avatars 是一个开源 React 库，它可根据任意用户名和调色板生成基于 SVG 的自定义头像
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
-- [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 一个超棒的 React 无限滚动组件
 - [react-simple-pull-to-refresh](https://github.com/thmsgbrt/react-simple-pull-to-refresh) 一款适用于 React 应用、**零依赖**的简易下拉刷新组件，支持移动端与桌面端。
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
-- [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [react-contexify](https://github.com/fkhadra/react-contexify) 👌 轻松为你的 React 应用添加上下文菜单
 - [react-filepond](https://github.com/pqina/react-filepond) 一款便捷的 React 版 FilePond 适配组件
-- [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
-- [formik](https://github.com/jaredpalmer/formik) 在 React 中构建表单，告别泪崩 😭
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
 - [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
 - [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
-- [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 一款基于 dnd-kit 构建的 React 无头（headless）时间轴组件库
-- [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
@@ -357,12 +357,10 @@
 
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
 - [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
-- [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
 - [react-to-web-component](https://github.com/bitovi/react-to-web-component) 将 React 组件转换为原生 Web Components，同时也支持 Preact！
-- [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器 —— 类似 useState，但状态会存储在 URL 查询字符串中
 - [heyform](https://github.com/heyform/heyform) 开源表单生成器
 - [craft.js](https://github.com/prevwong/craft.js) 一款用于构建可扩展拖拽式页面编辑器的 React 框架
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) 用于**独立开发和测试 UI 组件**的沙箱环境
