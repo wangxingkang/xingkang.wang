@@ -195,6 +195,7 @@
 
 ### 其他
 
+- [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
 - [soundcn](https://github.com/kapishdima/soundcn) 精选 700+ 现代网页应用专用 UI 音效
 - [province-city-china](https://github.com/uiwjs/province-city-china) 最全最新中国【省、市、区县、乡镇街道】
