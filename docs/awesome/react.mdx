@@ -158,6 +158,7 @@
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
+  - [@thesvg/react](https://github.com/glincker/thesvg)
 
 ### 布局
 

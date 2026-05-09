@@ -59,7 +59,12 @@
 
 ### 通用
 
-- [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue) 图标
+- 图标
+  - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
+  - [@thesvg/react](https://github.com/glincker/thesvg)
+
+### 布局
+
 - [grid-layout-plus](https://github.com/qmhc/grid-layout-plus) 适用于 Vue 3 的可拖拽、可缩放网格布局
 
 ### 数据录入
@@ -105,7 +110,7 @@
 
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
-- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 - [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
