@@ -22,6 +22,7 @@
 
 ## 其他
 
+- [GitUp](https://github.com/git-up/GitUp) Git 操作终端
 - [melody](https://github.com/foamzou/melody) 个人音乐云盘
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具

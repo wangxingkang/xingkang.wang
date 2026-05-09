@@ -39,6 +39,10 @@
 
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
+- PlayCanvas
+  - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
+  - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
+  - [engine](https://github.com/playcanvas/engine) 基于 WebGL、WebGPU、WebXR 和 glTF 构建的**高性能网页图形运行时**
 
 ### 地理
 

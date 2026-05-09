@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [sa-token-rust](https://github.com/sa-tokens/sa-token-rust) 开源、免费、轻量级 Rust 权限认证框架
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。

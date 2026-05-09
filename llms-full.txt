@@ -848,6 +848,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [GitUp](https://github.com/git-up/GitUp) Git 操作终端
 - [melody](https://github.com/foamzou/melody) 个人音乐云盘
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
@@ -974,6 +975,10 @@ url: /awesome/javascript.md
 
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
+- PlayCanvas
+  - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
+  - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
+  - [engine](https://github.com/playcanvas/engine) 基于 WebGL、WebGPU、WebXR 和 glTF 构建的**高性能网页图形运行时**
 
 ### 地理
 
@@ -1891,6 +1896,7 @@ url: /awesome/react.md
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
+  - [@thesvg/react](https://github.com/glincker/thesvg)
 
 ### 布局
 
@@ -2134,6 +2140,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [sa-token-rust](https://github.com/sa-tokens/sa-token-rust) 开源、免费、轻量级 Rust 权限认证框架
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。
@@ -2378,7 +2385,12 @@ url: /awesome/vue.md
 
 ### 通用
 
-- [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue) 图标
+- 图标
+  - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
+  - [@thesvg/react](https://github.com/glincker/thesvg)
+
+### 布局
+
 - [grid-layout-plus](https://github.com/qmhc/grid-layout-plus) 适用于 Vue 3 的可拖拽、可缩放网格布局
 
 ### 数据录入
@@ -2424,7 +2436,7 @@ url: /awesome/vue.md
 
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
-- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⚡️ 海量数据也能实现极速滚动
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 海量数据也能实现极速滚动
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 - [vfit](https://github.com/v-plugin/vfit) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [overlayscrollbars-vue](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-vue) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
