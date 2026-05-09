@@ -200,6 +200,7 @@
 
 ### 其他
 
+- [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义

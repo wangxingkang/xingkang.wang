@@ -59,6 +59,7 @@
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
 - [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
+  - [valtio-reactive](https://github.com/valtiojs/valtio-reactive) 适用于 Valtio 的派生工具函数
 - [react-redux](https://github.com/reduxjs/react-redux) Redux 的官方 React 绑定库
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) 用于复杂业务逻辑的**状态机、状态图与 Actor 模型**
 
@@ -98,6 +99,7 @@
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 - [use-query-params](https://github.com/pbeshai/use-query-params) 用于管理 URL 查询参数状态的 React Hook，支持轻松序列化。
 - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控”（Controlled）与“非受控”（Uncontrolled）\*\*状态的管理
+- [custom-react-hooks](https://github.com/djkepa/custom-react-hooks)
 
 ## 组件库
 
@@ -281,6 +283,7 @@
 
 ### 富文本
 
+- [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
 - [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
@@ -338,6 +341,7 @@
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
+- [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
   - [@rjsf/antd](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd) [antd](https://ant-design.antgroup.com/index-cn)
@@ -358,6 +362,8 @@
 
 ## 其他
 
+- [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
+- [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
 - [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
