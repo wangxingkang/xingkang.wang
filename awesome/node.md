@@ -46,6 +46,7 @@
 
 ## 其他
 
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
 - [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件

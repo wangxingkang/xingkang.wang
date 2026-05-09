@@ -22,6 +22,8 @@
 
 ## 其他
 
+- [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
+- [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [GitUp](https://github.com/git-up/GitUp) Git 操作终端
 - [melody](https://github.com/foamzou/melody) 个人音乐云盘
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用

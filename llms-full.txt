@@ -687,6 +687,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
@@ -848,6 +849,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
+- [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [GitUp](https://github.com/git-up/GitUp) Git 操作终端
 - [melody](https://github.com/foamzou/melody) 个人音乐云盘
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
@@ -986,6 +989,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
 - [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
 - [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 - [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
@@ -1468,6 +1472,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
 - [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
@@ -2112,6 +2117,7 @@ url: /awesome/react.md
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
+- [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 
 
 
