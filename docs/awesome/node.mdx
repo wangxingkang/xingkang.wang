@@ -13,6 +13,7 @@
 
 - [fastify](https://github.com/fastify/fastify)
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
+- [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
 
 ## 版本发布
 
