@@ -47,6 +47,8 @@
 
 ## 其他
 
+- [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
+- [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码

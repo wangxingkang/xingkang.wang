@@ -23,6 +23,7 @@
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) 跨平台 React Native UI 工具包
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) 以移动端为优先、具备无障碍访问能力的 React Native & Web 组件，可用于在 Android、iOS 和 Web 端构建风格统一的用户界面
 - [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
+- [heroui-native](https://github.com/heroui-inc/heroui-native)
 
 ## 组件
 
@@ -63,12 +64,16 @@
 
 ### 音视频
 
+- [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) 音频播放器
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition) 语音识别
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
 
 ## 其他
 
+- [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
+- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
+- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) 适用于 Android ViewPager 与 iOS UIPageViewController 的 React Native 封装组件
 - [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
 - [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库

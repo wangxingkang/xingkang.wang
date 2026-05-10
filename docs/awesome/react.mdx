@@ -117,12 +117,15 @@
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
+- [ark](https://github.com/chakra-ui/ark)
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
 - [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
+- [uilayouts](https://github.com/ui-layouts/uilayouts)
+- [gluestack-ui](https://github.com/gluestack/gluestack-ui)
 
 ## 数据可视化
 
@@ -217,6 +220,7 @@
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
+- [glide-data-grid](https://github.com/glideapps/glide-data-grid) 数据表格组件
 - [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 基于 dnd-kit 时间轴组件库
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 无限滚动
@@ -382,3 +386,4 @@
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
+- [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
