@@ -17,6 +17,7 @@
 - [emotion](https://github.com/emotion-js/emotion)
 - [styled-components](https://github.com/styled-components/styled-components)
 - [@ant-design/cssinjs](https://github.com/ant-design/cssinjs)
+- [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) 零运行时 TypeScript 样式表
 
 ## Tailwind CSS
 
