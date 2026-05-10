@@ -369,6 +369,7 @@
 
 ### 数据录入
 
+- [vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) 时间选择器
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片裁剪器
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
 - [signature\_pad](https://github.com/szimek/signature_pad) 基于 HTML5 Canvas 实现的流畅签名绘制功能

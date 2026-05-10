@@ -22,6 +22,7 @@
 
 ## 其他
 
+- [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [GitUp](https://github.com/git-up/GitUp) Git 操作终端

@@ -611,6 +611,7 @@ url: /awesome/css.md
 - [emotion](https://github.com/emotion-js/emotion)
 - [styled-components](https://github.com/styled-components/styled-components)
 - [@ant-design/cssinjs](https://github.com/ant-design/cssinjs)
+- [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) 零运行时 TypeScript 样式表
 
 ## Tailwind CSS
 
@@ -849,6 +850,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [GitUp](https://github.com/git-up/GitUp) Git 操作终端
@@ -1308,6 +1310,7 @@ url: /awesome/javascript.md
 
 ### 数据录入
 
+- [vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) 时间选择器
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片裁剪器
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
 - [signature\_pad](https://github.com/szimek/signature_pad) 基于 HTML5 Canvas 实现的流畅签名绘制功能
@@ -1608,6 +1611,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
 - [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
 - [CorridorKey](https://github.com/nikopueringer/CorridorKey) 绿幕抠图
@@ -1630,6 +1634,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
 - [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
@@ -2107,6 +2112,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
@@ -2154,6 +2160,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [RaTeX](https://github.com/erweixin/RaTeX) LaTeX 数学公式渲染器
 - [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [sa-token-rust](https://github.com/sa-tokens/sa-token-rust) 开源、免费、轻量级 Rust 权限认证框架
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能

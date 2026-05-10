@@ -362,6 +362,7 @@
 
 ## 其他
 
+- [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
