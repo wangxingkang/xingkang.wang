@@ -15,6 +15,7 @@
 
 ### 开源项目
 
+- [gitify](https://github.com/gitify-app/gitify) 菜单栏显示 Git 通知
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
 - [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
@@ -23,6 +24,7 @@
 
 ## 其他
 
+- [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
 - [electron-builder](https://github.com/electron-userland/electron-builder) 一套一站式解决方案，可打包并构建出可直接分发的 Electron 应用，且开箱即支持自动更新功能

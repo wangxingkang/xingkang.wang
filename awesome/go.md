@@ -11,6 +11,7 @@
 
 ## 其他
 
+- [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随

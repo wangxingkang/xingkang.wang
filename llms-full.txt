@@ -667,6 +667,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [gitify](https://github.com/gitify-app/gitify) 菜单栏显示 Git 通知
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
 - [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
@@ -675,6 +676,7 @@ url: /awesome/desktop.md
 
 ## 其他
 
+- [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
 - [electron-builder](https://github.com/electron-userland/electron-builder) 一套一站式解决方案，可打包并构建出可直接分发的 Electron 应用，且开箱即支持自动更新功能
@@ -894,6 +896,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
@@ -1141,6 +1144,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
+- [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
@@ -1477,6 +1482,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
+- [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
@@ -1675,6 +1682,7 @@ url: /awesome/react-native.md
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) 跨平台 React Native UI 工具包
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) 以移动端为优先、具备无障碍访问能力的 React Native & Web 组件，可用于在 Android、iOS 和 Web 端构建风格统一的用户界面
 - [react-native-reusables](https://github.com/founded-labs/react-native-reusables) 将 shadcn/ui 引入 React Native
+- [heroui-native](https://github.com/heroui-inc/heroui-native)
 
 ## 组件
 
@@ -1715,12 +1723,16 @@ url: /awesome/react-native.md
 
 ### 音视频
 
+- [react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) 音频播放器
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition) 语音识别
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
 
 ## 其他
 
+- [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
+- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
+- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) 适用于 Android ViewPager 与 iOS UIPageViewController 的 React Native 封装组件
 - [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
 - [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库
@@ -1867,12 +1879,15 @@ url: /awesome/react.md
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
 - [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
+- [ark](https://github.com/chakra-ui/ark)
 - [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 - [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
 - [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
 - [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
 - [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
+- [uilayouts](https://github.com/ui-layouts/uilayouts)
+- [gluestack-ui](https://github.com/gluestack/gluestack-ui)
 
 ## 数据可视化
 
@@ -1967,6 +1982,7 @@ url: /awesome/react.md
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
+- [glide-data-grid](https://github.com/glideapps/glide-data-grid) 数据表格组件
 - [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 基于 dnd-kit 时间轴组件库
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 无限滚动
@@ -2132,6 +2148,7 @@ url: /awesome/react.md
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
+- [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
 
 
 
