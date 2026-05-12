@@ -38,3 +38,5 @@
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
 - [containerd](https://github.com/containerd/containerd) 一个开源且可靠的容器运行时
 - [photoprism](https://github.com/photoprism/photoprism) 面向去中心化网络的人工智能照片应用
+- [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
+- [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本

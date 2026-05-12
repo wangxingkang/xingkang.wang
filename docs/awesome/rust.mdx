@@ -19,6 +19,9 @@
 
 ## 其他
 
+- [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
+- [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
+- [git-cliff](https://github.com/orhun/git-cliff) 一款高度可自定义的**更新日志生成器**，遵循**约定式提交（Conventional Commit）** 规范
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) 密码管理服务
 - [RaTeX](https://github.com/erweixin/RaTeX) LaTeX 数学公式渲染器
 - [gitui](https://github.com/gitui-org/gitui) Git 终端界面
@@ -50,3 +53,4 @@
 - [zed](https://github.com/zed-industries/zed) IDE
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
+- [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
