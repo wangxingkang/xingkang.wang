@@ -39,6 +39,7 @@
 - [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
 - [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
 - [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
+- [antdv-next](https://github.com/antdv-next/antdv-next)
 
 ## 可视化
 
@@ -91,6 +92,7 @@
 
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) 适用于 Vue 2 与 Vue 3 的 PDF 嵌入组件
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf)
+- [vue-office](https://github.com/501351981/vue-office) 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览
 
 ### 富文本
 
@@ -127,6 +129,7 @@
 
 ## 其他
 
+- [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印
 - [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
 - [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖

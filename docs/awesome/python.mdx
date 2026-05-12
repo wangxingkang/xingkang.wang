@@ -6,6 +6,7 @@
 
 ## AI
 
+- [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
 - [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
 - [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
@@ -29,6 +30,7 @@
 
 ## 其他
 
+- [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
 - [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
 - [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具

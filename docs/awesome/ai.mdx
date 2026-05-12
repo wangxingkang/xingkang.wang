@@ -99,6 +99,7 @@
 
 ### 其他
 
+- [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
@@ -163,6 +164,7 @@
 - [claude-code](https://github.com/claude-code-best/claude-code) 原汁原昧 Claude Code 可运行版
 - [claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
+  - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**

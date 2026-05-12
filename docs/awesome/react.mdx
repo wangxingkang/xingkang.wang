@@ -172,6 +172,7 @@
 - [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-split-pane](https://github.com/tomkp/react-split-pane) 分割面板
+- [react-reflex](https://github.com/leefsmp/Re-Flex) 适用于中大型 React 网页应用的可缩放弹性布局容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
@@ -219,6 +220,7 @@
 
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
+- [@ornery/ui-grid-react](https://github.com/orneryd/uiGrid/tree/main/projects/ui-grid-react) 数据表格组件
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [glide-data-grid](https://github.com/glideapps/glide-data-grid) 数据表格组件
 - [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
@@ -387,3 +389,4 @@
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
+- [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
