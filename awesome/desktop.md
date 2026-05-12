@@ -41,8 +41,13 @@
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
+- [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建
 
 ## Electrobun
 
 - [官网](https://blackboard.sh/electrobun/docs/)
 - [electrobun](https://github.com/blackboardsh/electrobun) electrobun 仓库
+
+## 其他
+
+- [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用

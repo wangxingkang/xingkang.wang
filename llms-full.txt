@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
@@ -472,6 +473,7 @@ url: /awesome/ai.md
 - [claude-code](https://github.com/claude-code-best/claude-code) 原汁原昧 Claude Code 可运行版
 - [claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
+  - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
@@ -583,6 +585,7 @@ url: /awesome/browser-plugin.md
 
 ## 开发
 
+- [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 借助原生热模块替换（HMR）与零配置搭建，开发跨浏览器扩展程序
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 
@@ -693,11 +696,16 @@ url: /awesome/desktop.md
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
+- [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建
 
 ## Electrobun
 
 - [官网](https://blackboard.sh/electrobun/docs/)
 - [electrobun](https://github.com/blackboardsh/electrobun) electrobun 仓库
+
+## 其他
+
+- [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 
 
 
@@ -852,6 +860,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
+- [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
@@ -876,6 +886,7 @@ url: /awesome/github.md
 - [Recordly](https://github.com/webadderall/Recordly) 这是一款免费开源的 Screen Studio 替代软件，可为你的屏幕录制添加自动缩放、鼠标动画等功能。它基于 OpenScreen 进行了深度修改。
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) 采用 ActivityPub 联邦协议、可在浏览器内直接通过 P2P 点对点 传输的视频流媒体平台
 
 
 
@@ -1618,6 +1629,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
 - [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
 - [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
@@ -1641,6 +1653,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
 - [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
 - [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具
@@ -1730,6 +1743,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
 - [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) 适用于 Android ViewPager 与 iOS UIPageViewController 的 React Native 封装组件
@@ -1745,6 +1759,7 @@ url: /awesome/react-native.md
 - [eact-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及普通 React Web 项目的 SVG 库。
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
+- [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) 为 React Native 提供 iOS 风格流畅滑动操作
 
 ## 案例(开源项目)
 
@@ -1934,6 +1949,7 @@ url: /awesome/react.md
 - [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
 - [react-split-pane](https://github.com/tomkp/react-split-pane) 分割面板
+- [react-reflex](https://github.com/leefsmp/Re-Flex) 适用于中大型 React 网页应用的可缩放弹性布局容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
 - [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
@@ -1981,6 +1997,7 @@ url: /awesome/react.md
 
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
+- [@ornery/ui-grid-react](https://github.com/orneryd/uiGrid/tree/main/projects/ui-grid-react) 数据表格组件
 - [react-data-grid](https://github.com/Comcast/react-data-grid) 功能丰富且可高度定制的 React 数据表格组件
 - [glide-data-grid](https://github.com/glideapps/glide-data-grid) 数据表格组件
 - [@tanstack/react-table](https://github.com/TanStack/table) 适用于 TS/JS 的无头 UI 工具：用于构建功能强大的表格与数据网格
@@ -2149,6 +2166,7 @@ url: /awesome/react.md
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
+- [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
 
 
 
@@ -2177,6 +2195,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden) 密码管理服务
 - [RaTeX](https://github.com/erweixin/RaTeX) LaTeX 数学公式渲染器
 - [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [sa-token-rust](https://github.com/sa-tokens/sa-token-rust) 开源、免费、轻量级 Rust 权限认证框架
@@ -2205,6 +2224,8 @@ url: /awesome/rust.md
 - [x-algorithm](https://github.com/xai-org/x-algorithm)
 - [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
 - [zed](https://github.com/zed-industries/zed) IDE
+- [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
+- [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
 
 
 
@@ -2403,6 +2424,7 @@ url: /awesome/vue.md
 - [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
 - [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
 - [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
+- [antdv-next](https://github.com/antdv-next/antdv-next)
 
 ## 可视化
 
@@ -2455,6 +2477,7 @@ url: /awesome/vue.md
 
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) 适用于 Vue 2 与 Vue 3 的 PDF 嵌入组件
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf)
+- [vue-office](https://github.com/501351981/vue-office) 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览
 
 ### 富文本
 
@@ -2491,6 +2514,7 @@ url: /awesome/vue.md
 
 ## 其他
 
+- [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印
 - [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
 - [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖
