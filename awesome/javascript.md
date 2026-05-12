@@ -97,6 +97,8 @@
 - [lz-string](https://github.com/pieroxy/lz-string) 适用于 JavaScript 的基于 LZ 算法的压缩算法
 - [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
 - [qs](https://github.com/ljharb/qs) 一款支持嵌套功能的查询字符串解析器与序列化器
+- [query-string](https://github.com/sindresorhus/query-string) 解析与序列化 URL 查询字符串
+- [urijs](https://github.com/medialize/URI.js) JavaScript URL 地址操作库
 - [change-case](https://github.com/blakeembrey/change-case) 实现字符串在小驼峰式、大驼峰式、首字母大写式、下划线式等命名格式间的转换
 - [normalize-url](https://github.com/sindresorhus/normalize-url) 规范化 URL
 - [string-length](https://github.com/sindresorhus/string-length) 获取字符串的真实长度
