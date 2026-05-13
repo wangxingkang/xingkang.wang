@@ -110,6 +110,7 @@
 
 ### 其他
 
+- [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 海量数据也能实现极速滚动

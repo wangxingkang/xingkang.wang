@@ -6,6 +6,7 @@
 
 ## AI
 
+- [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
 - [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
@@ -30,6 +31,9 @@
 
 ## 其他
 
+- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
+- [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
+- [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
 - [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库

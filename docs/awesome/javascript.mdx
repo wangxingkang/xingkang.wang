@@ -2,6 +2,7 @@
 
 ## AI
 
+- [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
@@ -34,6 +35,7 @@
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 - [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
+- [chartjs](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
 
 ### 3D
 
@@ -46,10 +48,12 @@
 
 ### 地理
 
+- [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
 
 ### 其他
 
+- [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
 - [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
@@ -203,6 +207,14 @@
 
 ### 其他
 
+- [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
+- [socket.io-client](https://github.com/socketio/socket.io)
+- [panzoom](https://github.com/anvaka/panzoom) 通用平移缩放库
+- [js-sha256](https://github.com/emn178/js-sha256) 一款简洁的 JavaScript SHA-256 / SHA-224 哈希函数库，支持 UTF-8 编码
+- [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 用 JavaScript 实现截图功能
+- [html-entities](https://github.com/mdevils/html-entities) 极速 HTML 实体编码/解码库
+- [highlight.js](https://github.com/highlightjs/highlight.js) 自带语言自动检测、**零依赖**的 JavaScript 代码语法高亮库
+- [alpine](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
@@ -211,6 +223,8 @@
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
+  - [y-protocols](https://github.com/yjs/y-protocols)
+  - [y-prosemirror](https://github.com/yjs/y-prosemirror)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
@@ -320,6 +334,7 @@
 - [debug](https://github.com/debug-js/debug) 一款轻量级 JavaScript 调试工具，仿照 Node.js 核心调试技术打造，同时支持 Node.js 和网页浏览器环境
 - [marked](https://github.com/markedjs/marked) 一款 Markdown 解析器与编译器，为极致性能而生
 - [turndown](https://github.com/mixmark-io/turndown) 🛏 一款基于 JavaScript 编写的 HTML 转 Markdown 转换器
+  - [@joplin/turndown-plugin-gfm](https://github.com/laurent22/joplin/tree/dev/packages/turndown-plugin-gfm) 为 Turndown 添加 GitHub 风格 Markdown（GFM） 扩展的插件
 - [jose](https://github.com/panva/jose) 适用于 Node.js、浏览器、Cloudflare Workers、Deno、Bun 及其他 Web 互操作运行时的 JWA、JWS、JWE、JWT、JWK、JWKS 相关实现
 - [diff2html](https://github.com/rtfpessoa/diff2html)
 - [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
@@ -366,6 +381,9 @@
 - [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
 - [lozad](https://github.com/ApoorvSaxena/lozad.js) 一款高性能、轻量（约 1kb）且可配置的懒加载器，纯 JavaScript 实现且无依赖，适用于响应式图片、iframe 等场景
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) 支持日期、正则表达式、ES6 Map/Set 及类型数组，极速深度相等性检测
+- [heic2any](https://github.com/alexcorvi/heic2any) 在浏览器中将 HEIF 图像格式转换为 PNG、GIF、JPEG 格式
+- [xlsx](https://github.com/SheetJS/sheetjs) SheetJS 电子表格数据工具库
 
 ## 组件
 

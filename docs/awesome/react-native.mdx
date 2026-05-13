@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [@floating-ui/react-native](https://github.com/floating-ui/floating-ui/tree/master/packages/react-native) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
 - [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
