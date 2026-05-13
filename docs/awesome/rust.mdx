@@ -6,6 +6,7 @@
 
 ## AI
 
+- [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
 - [warp](https://github.com/warpdotdev/warp) Warp 是一款**智能体化开发环境**，源自终端而生
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
