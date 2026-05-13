@@ -376,6 +376,7 @@
 
 ## 其他
 
+- [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
@@ -398,3 +399,4 @@
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
 - [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
+- [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库

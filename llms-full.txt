@@ -896,6 +896,7 @@ url: /awesome/github.md
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) 采用 ActivityPub 联邦协议、可在浏览器内直接通过 P2P 点对点 传输的视频流媒体平台
+- [joplin](https://github.com/laurent22/joplin) 一款注重隐私的笔记应用，支持多端同步
 
 
 
@@ -982,6 +983,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
@@ -1014,6 +1016,7 @@ url: /awesome/javascript.md
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 - [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
+- [chartjs](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
 
 ### 3D
 
@@ -1026,10 +1029,12 @@ url: /awesome/javascript.md
 
 ### 地理
 
+- [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
 
 ### 其他
 
+- [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
 - [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
@@ -1183,6 +1188,14 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
+- [socket.io-client](https://github.com/socketio/socket.io)
+- [panzoom](https://github.com/anvaka/panzoom) 通用平移缩放库
+- [js-sha256](https://github.com/emn178/js-sha256) 一款简洁的 JavaScript SHA-256 / SHA-224 哈希函数库，支持 UTF-8 编码
+- [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 用 JavaScript 实现截图功能
+- [html-entities](https://github.com/mdevils/html-entities) 极速 HTML 实体编码/解码库
+- [highlight.js](https://github.com/highlightjs/highlight.js) 自带语言自动检测、**零依赖**的 JavaScript 代码语法高亮库
+- [alpine](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
@@ -1191,6 +1204,8 @@ url: /awesome/javascript.md
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
+  - [y-protocols](https://github.com/yjs/y-protocols)
+  - [y-prosemirror](https://github.com/yjs/y-prosemirror)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
@@ -1300,6 +1315,7 @@ url: /awesome/javascript.md
 - [debug](https://github.com/debug-js/debug) 一款轻量级 JavaScript 调试工具，仿照 Node.js 核心调试技术打造，同时支持 Node.js 和网页浏览器环境
 - [marked](https://github.com/markedjs/marked) 一款 Markdown 解析器与编译器，为极致性能而生
 - [turndown](https://github.com/mixmark-io/turndown) 🛏 一款基于 JavaScript 编写的 HTML 转 Markdown 转换器
+  - [@joplin/turndown-plugin-gfm](https://github.com/laurent22/joplin/tree/dev/packages/turndown-plugin-gfm) 为 Turndown 添加 GitHub 风格 Markdown（GFM） 扩展的插件
 - [jose](https://github.com/panva/jose) 适用于 Node.js、浏览器、Cloudflare Workers、Deno、Bun 及其他 Web 互操作运行时的 JWA、JWS、JWE、JWT、JWK、JWKS 相关实现
 - [diff2html](https://github.com/rtfpessoa/diff2html)
 - [defu](https://github.com/unjs/defu) 🌊 递归式赋值默认属性
@@ -1346,6 +1362,9 @@ url: /awesome/javascript.md
 - [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access) 浏览器中的文件系统访问 API，附带兼容旧环境的降级方案
 - [perfect-freehand](https://github.com/steveruizok/perfect-freehand) 绘制完美的压感手绘线条
 - [lozad](https://github.com/ApoorvSaxena/lozad.js) 一款高性能、轻量（约 1kb）且可配置的懒加载器，纯 JavaScript 实现且无依赖，适用于响应式图片、iframe 等场景
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) 支持日期、正则表达式、ES6 Map/Set 及类型数组，极速深度相等性检测
+- [heic2any](https://github.com/alexcorvi/heic2any) 在浏览器中将 HEIF 图像格式转换为 PNG、GIF、JPEG 格式
+- [xlsx](https://github.com/SheetJS/sheetjs) SheetJS 电子表格数据工具库
 
 ## 组件
 
@@ -1673,6 +1692,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
 - [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) 以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务
@@ -1697,6 +1717,9 @@ url: /awesome/python.md
 
 ## 其他
 
+- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
+- [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
+- [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
 - [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
@@ -1789,6 +1812,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [@floating-ui/react-native](https://github.com/floating-ui/floating-ui/tree/master/packages/react-native) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
 - [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
@@ -2200,6 +2224,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
@@ -2222,6 +2247,7 @@ url: /awesome/react.md
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
 - [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
+- [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库
 
 
 
@@ -2324,6 +2350,10 @@ url: /awesome/svelte.md
 
 - [lucide-svelte](https://lucide.dev/guide/packages/lucide-svelte)
 
+## 组件库
+
+- [bits-ui](https://github.com/huntabyte/bits-ui) 适用于 Svelte 的无样式无头组件
+
 ## 组件
 
 ### 通用
@@ -2336,6 +2366,9 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) 一款有固定设计风格的 Svelte 消息提示（Toast）组件
+- [paneforge](https://github.com/svecosystem/paneforge) 适用于 Svelte 的可缩放面板组件
+- [@xyflow/svelte](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 - [svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) 带刻度标记、支持无障碍、外观精美的**多滑块范围选择器**
 - [@visual-json/svelte](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [@unhead/svelte](https://github.com/unjs/unhead/tree/main/packages/svelte) 适用于任意框架的全栈 `<head>` 工具包
@@ -2565,6 +2598,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 海量数据也能实现极速滚动
