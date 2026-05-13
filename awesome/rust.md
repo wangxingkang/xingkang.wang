@@ -54,3 +54,4 @@
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
+- [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器

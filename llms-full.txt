@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
@@ -936,6 +937,20 @@ url: /awesome/go.md
 - [photoprism](https://github.com/photoprism/photoprism) 面向去中心化网络的人工智能照片应用
 - [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
+
+
+
+---
+url: /awesome/ide.md
+---
+
+# IDE
+
+## VsCode
+
+### 插件
+
+- [turbo-console-log](https://github.com/Chakroun-Anas/turbo-console-log) 自动化日志工具
 
 
 
@@ -2234,6 +2249,7 @@ url: /awesome/rust.md
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
+- [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
 
 
 

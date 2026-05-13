@@ -19,6 +19,7 @@
 - [工程化](/awesome/engineering.md)
 - [GitHub](/awesome/github.md)
 - [GO](/awesome/go.md)
+- [IDE](/awesome/ide.md)
 - [Java](/awesome/java.md)
 - [JavaScript](/awesome/javascript.md)
 - [Node](/awesome/node.md)
