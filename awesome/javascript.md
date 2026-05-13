@@ -202,6 +202,7 @@
 
 ### 其他
 
+- [bwip-js](https://github.com/metafloor/bwip-js) 纯 JavaScript 条形码生成器
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
