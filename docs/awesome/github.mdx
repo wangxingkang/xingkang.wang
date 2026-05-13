@@ -2,6 +2,7 @@
 
 ## 汇总
 
+- [awesome](https://github.com/sindresorhus/awesome) 涵盖各类趣味主题的优质精选清单
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
 
 ## 工具
@@ -22,6 +23,7 @@
 
 ## 其他
 
+- [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
