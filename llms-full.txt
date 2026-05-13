@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
@@ -1188,6 +1189,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [js-draw](https://github.com/personalizedrefrigerator/js-draw) 手绘库
 - [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
 - [socket.io-client](https://github.com/socketio/socket.io)
 - [panzoom](https://github.com/anvaka/panzoom) 通用平移缩放库
@@ -1812,6 +1814,9 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
+- [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
+- [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件
 - [@dr.pogodin/react-native-fs](https://github.com/birdofpreyru/react-native-fs) 文件系统访问
 - [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
 - [react-native-graph](https://github.com/margelo/react-native-graph) 基于 Skia 构建、美观且高性能的 React Native 图表组件库
@@ -1983,6 +1988,7 @@ url: /awesome/react.md
 - [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui)
+- [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
 
 ## 数据可视化
 
@@ -2211,6 +2217,7 @@ url: /awesome/react.md
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
 - [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
+- [react-archer](https://github.com/pierpo/react-archer) 在 React 元素之间绘制箭头
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
   - [@rjsf/antd](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/antd) [antd](https://ant-design.antgroup.com/index-cn)

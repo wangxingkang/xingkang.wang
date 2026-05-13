@@ -207,6 +207,7 @@
 
 ### 其他
 
+- [js-draw](https://github.com/personalizedrefrigerator/js-draw) 手绘库
 - [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
 - [socket.io-client](https://github.com/socketio/socket.io)
 - [panzoom](https://github.com/anvaka/panzoom) 通用平移缩放库
