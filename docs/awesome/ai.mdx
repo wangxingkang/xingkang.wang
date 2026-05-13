@@ -99,6 +99,7 @@
 
 ### 其他
 
+- [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号

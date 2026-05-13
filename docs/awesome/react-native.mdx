@@ -73,6 +73,9 @@
 
 ## 其他
 
+- [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
+- [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
+- [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件
 - [@dr.pogodin/react-native-fs](https://github.com/birdofpreyru/react-native-fs) 文件系统访问
 - [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
 - [react-native-graph](https://github.com/margelo/react-native-graph) 基于 Skia 构建、美观且高性能的 React Native 图表组件库
