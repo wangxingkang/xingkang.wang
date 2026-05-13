@@ -41,6 +41,7 @@
 
 ### 其他
 
+- [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
 - [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
@@ -53,6 +54,9 @@
 
 ## 其他
 
+- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
+- [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
+- [kutt](https://github.com/thedevs-network/kutt) 短链接工具
 - [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问

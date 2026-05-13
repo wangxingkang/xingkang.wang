@@ -7,7 +7,9 @@
 
 ## 动画
 
+- [react-native-effects](https://github.com/blazejkustra/react-native-effects) 基于 WebGPU 驱动的 React Native 着色器特效，开箱即用组件，独立线程运行
 - [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) 重新实现的 React Native 动画库
+  - [react-native-worklets](https://github.com/software-mansion/react-native-reanimated/tree/main/packages/react-native-worklets) 一个无需编写任何原生代码，即可在多线程和多运行时环境中并行执行 JavaScript 代码的库
 - [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
 - [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
 
@@ -71,6 +73,7 @@
 
 ## 其他
 
+- [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
 - [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
 - [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏

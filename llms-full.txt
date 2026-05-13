@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
@@ -841,6 +842,7 @@ url: /awesome/github.md
 
 ## 汇总
 
+- [awesome](https://github.com/sindresorhus/awesome) 涵盖各类趣味主题的优质精选清单
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
 
 ## 工具
@@ -861,6 +863,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
@@ -1022,6 +1025,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
 - [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
 - [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
@@ -1174,6 +1178,10 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
+- [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
+- [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
+- [scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) 为 if-needed、smooth 等属性提供 Element.scrollIntoView 的 Ponyfill 兼容垫片
 - [bwip-js](https://github.com/metafloor/bwip-js) 纯 JavaScript 条形码生成器
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
@@ -1507,6 +1515,7 @@ url: /awesome/node.md
 
 ### 其他
 
+- [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
 - [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
@@ -1519,6 +1528,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
+- [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
+- [kutt](https://github.com/thedevs-network/kutt) 短链接工具
 - [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
@@ -1705,7 +1717,9 @@ url: /awesome/react-native.md
 
 ## 动画
 
+- [react-native-effects](https://github.com/blazejkustra/react-native-effects) 基于 WebGPU 驱动的 React Native 着色器特效，开箱即用组件，独立线程运行
 - [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) 重新实现的 React Native 动画库
+  - [react-native-worklets](https://github.com/software-mansion/react-native-reanimated/tree/main/packages/react-native-worklets) 一个无需编写任何原生代码，即可在多线程和多运行时环境中并行执行 JavaScript 代码的库
 - [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
 - [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
 
@@ -1769,6 +1783,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
 - [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
 - [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
@@ -1898,7 +1913,9 @@ url: /awesome/react.md
 - [use-debounce](https://github.com/xnimorz/use-debounce) 防抖
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
+- [use-long-press](https://github.com/minwork/react/tree/main/packages/use-long-press) 长按
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) 用于表单状态管理与校验的 React Hooks（支持 Web + React Native）
+  - [@hookform/resolvers](https://github.com/react-hook-form/resolvers) 校验解析器
 - [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
 - [use-query-params](https://github.com/pbeshai/use-query-params) 用于管理 URL 查询参数状态的 React Hook，支持轻松序列化。
 - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控”（Controlled）与“非受控”（Uncontrolled）\*\*状态的管理
@@ -1937,6 +1954,7 @@ url: /awesome/react.md
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
 - [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
+- [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 适用于 ApexCharts 的 React 组件
 
 ### 3D
 
@@ -2021,6 +2039,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
 - [@ornery/ui-grid-react](https://github.com/orneryd/uiGrid/tree/main/projects/ui-grid-react) 数据表格组件
@@ -2105,6 +2124,7 @@ url: /awesome/react.md
 - [react-player](https://github.com/CookPete/react-player)
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
+- [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
 
 ### 拖拽
 
@@ -2115,6 +2135,9 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
+- [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
+- [vaul](https://github.com/emilkowalski/vaul) 抽屉
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 美化滚动条
 - [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
@@ -2345,6 +2368,10 @@ url: /awesome/test.md
 - [官网](https://jestjs.io/zh-Hans/)
 - [jest](https://github.com/jestjs/jest) jest 仓库
 
+### 其他
+
+- [jest-websocket-mock](https://github.com/romgain/jest-websocket-mock) 使用 Jest 模拟 WebSocket，并对复杂的 WebSocket 交互进行断言测试
+
 ## Rstest
 
 ### 官方资源
@@ -2361,6 +2388,9 @@ url: /awesome/test.md
 
 ## 其他
 
+- [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
+- [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
+- [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
 - [cypress](https://github.com/cypress-io/cypress)
 - [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
 

@@ -23,6 +23,10 @@
 - [官网](https://jestjs.io/zh-Hans/)
 - [jest](https://github.com/jestjs/jest) jest 仓库
 
+### 其他
+
+- [jest-websocket-mock](https://github.com/romgain/jest-websocket-mock) 使用 Jest 模拟 WebSocket，并对复杂的 WebSocket 交互进行断言测试
+
 ## Rstest
 
 ### 官方资源
@@ -39,5 +43,8 @@
 
 ## 其他
 
+- [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
+- [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
+- [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
 - [cypress](https://github.com/cypress-io/cypress)
 - [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
