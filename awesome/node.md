@@ -56,6 +56,7 @@
 
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
 - [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
+- [dub](https://github.com/dubinc/dub) 短链接生成、转化追踪以及联盟营销项目管理
 - [kutt](https://github.com/thedevs-network/kutt) 短链接工具
 - [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令

@@ -845,6 +845,10 @@ url: /awesome/github.md
 - [awesome](https://github.com/sindresorhus/awesome) 涵盖各类趣味主题的优质精选清单
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
 
+## action
+
+- [anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
+
 ## 工具
 
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
@@ -864,6 +868,7 @@ url: /awesome/github.md
 ## 其他
 
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
+- [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
@@ -1530,6 +1535,7 @@ url: /awesome/node.md
 
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
 - [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
+- [dub](https://github.com/dubinc/dub) 短链接生成、转化追踪以及联盟营销项目管理
 - [kutt](https://github.com/thedevs-network/kutt) 短链接工具
 - [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
@@ -2244,6 +2250,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
 - [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [git-cliff](https://github.com/orhun/git-cliff) 一款高度可自定义的**更新日志生成器**，遵循**约定式提交（Conventional Commit）** 规范
@@ -2280,6 +2287,7 @@ url: /awesome/rust.md
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
+- [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
 
 
 
@@ -2388,6 +2396,7 @@ url: /awesome/test.md
 
 ## 其他
 
+- [@playwright/test](https://github.com/microsoft/playwright) Playwright 是一款用于网页测试与自动化的框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具

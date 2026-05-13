@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
 - [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [git-cliff](https://github.com/orhun/git-cliff) 一款高度可自定义的**更新日志生成器**，遵循**约定式提交（Conventional Commit）** 规范
@@ -55,3 +56,4 @@
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
+- [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
