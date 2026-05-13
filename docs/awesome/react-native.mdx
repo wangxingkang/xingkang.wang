@@ -73,6 +73,13 @@
 
 ## 其他
 
+- [@dr.pogodin/react-native-fs](https://github.com/birdofpreyru/react-native-fs) 文件系统访问
+- [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
+- [react-native-graph](https://github.com/margelo/react-native-graph) 基于 Skia 构建、美观且高性能的 React Native 图表组件库
+- [react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) 一款极速 React Native 网络请求库，支持预加载
+- [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) 用 C/C++ JSI 实现的 Node.js crypto 模块
+- [react-native-version-info](https://github.com/tessus/react-native-version-info) React Native 安卓、iOS 及 Windows 版本信息
+- [react-native-zip-archive](https://github.com/mockingbot/react-native-zip-archive) 适用于 React Native 的 Zip 压缩归档工具
 - [@floating-ui/react-native](https://github.com/floating-ui/floating-ui/tree/master/packages/react-native) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
 - [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
