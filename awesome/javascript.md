@@ -207,6 +207,11 @@
 
 ### 其他
 
+- [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
+- [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
+- [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
+- [noble-hashes](https://github.com/paulmillr/noble-hashes) 经安全审计、极简实现的哈希函数、消息认证码（MAC）及密钥派生函数（KDF）JavaScript 库
+- [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) 体积仅 5KB、速度最快的 secp256k1 签名与 ECDH 算法 JavaScript 实现
 - [js-draw](https://github.com/personalizedrefrigerator/js-draw) 手绘库
 - [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
 - [socket.io-client](https://github.com/socketio/socket.io)

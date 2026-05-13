@@ -304,6 +304,7 @@
 
 - [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
+  - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
 - [react-player](https://github.com/CookPete/react-player)
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
@@ -318,6 +319,7 @@
 
 ### 其他
 
+- [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
 - [vaul](https://github.com/emilkowalski/vaul) 抽屉

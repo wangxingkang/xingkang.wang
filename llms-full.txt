@@ -1189,6 +1189,11 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
+- [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
+- [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
+- [noble-hashes](https://github.com/paulmillr/noble-hashes) 经安全审计、极简实现的哈希函数、消息认证码（MAC）及密钥派生函数（KDF）JavaScript 库
+- [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) 体积仅 5KB、速度最快的 secp256k1 签名与 ECDH 算法 JavaScript 实现
 - [js-draw](https://github.com/personalizedrefrigerator/js-draw) 手绘库
 - [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
 - [socket.io-client](https://github.com/socketio/socket.io)
@@ -2164,6 +2169,7 @@ url: /awesome/react.md
 
 - [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
+  - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
 - [react-player](https://github.com/CookPete/react-player)
 - [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
@@ -2178,6 +2184,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
 - [vaul](https://github.com/emilkowalski/vaul) 抽屉
@@ -2277,6 +2284,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
 - [warp](https://github.com/warpdotdev/warp) Warp 是一款**智能体化开发环境**，源自终端而生
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
@@ -2410,6 +2418,7 @@ url: /awesome/test.md
 ### 其他
 
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
+- [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
 - [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
 - [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
 - [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
@@ -2449,6 +2458,7 @@ url: /awesome/test.md
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
 - [cypress](https://github.com/cypress-io/cypress)
 - [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
+- [webdriverio](https://github.com/webdriverio/webdriverio) 适用于 Node.js 的新一代浏览器与移动端自动化测试框架
 
 
 
