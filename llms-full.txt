@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
 - [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
@@ -560,6 +561,8 @@ url: /awesome/ai.md
 - [jaaz](https://jaaz.app) 内容创作多模态智能体
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+- [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
+- [writehuman](https://writehuman.ai) 去除 AI 味
 
 ### 其他
 
@@ -852,6 +855,7 @@ url: /awesome/github.md
 
 ## 工具
 
+- [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
@@ -1819,6 +1823,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
 - [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
 - [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件

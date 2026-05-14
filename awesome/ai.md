@@ -99,6 +99,7 @@
 
 ### 其他
 
+- [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
 - [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 开源 AI 视频平台替代方案 —— 免费 AI 图像与视频生成工作室(无内容审查限制)
@@ -251,6 +252,8 @@
 - [jaaz](https://jaaz.app) 内容创作多模态智能体
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+- [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
+- [writehuman](https://writehuman.ai) 去除 AI 味
 
 ### 其他
 
