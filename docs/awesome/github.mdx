@@ -11,6 +11,7 @@
 
 ## 工具
 
+- [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。

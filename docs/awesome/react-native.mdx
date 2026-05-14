@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
 - [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
 - [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件
