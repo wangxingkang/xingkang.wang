@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)

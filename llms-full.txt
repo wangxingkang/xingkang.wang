@@ -687,6 +687,7 @@ url: /awesome/desktop.md
 
 ## 其他
 
+- [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
@@ -1893,6 +1894,8 @@ url: /awesome/react.md
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
 - [@a2ui/react](https://github.com/google/A2UI/tree/main/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
 - [@a2ui/markdown-it](https://github.com/google/A2UI/tree/main/renderers/markdown/markdown-it) 基于 markdown‑it 和 dompurify 的 A2UI Markdown 渲染器
+- CopilotKit 面向智能体与生成式界面的前端技术栈
+  - [@copilotkit/react-ui](https://github.com/CopilotKit/CopilotKit/tree/main/packages/react-ui)
 
 ### Hooks
 
@@ -2262,6 +2265,7 @@ url: /awesome/react.md
 - [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
+- [react-merge-refs](https://github.com/gregberge/react-merge-refs) 用于合并引用（refs）的 React 工具函数
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
 - [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
