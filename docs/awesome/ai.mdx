@@ -99,6 +99,7 @@
 
 ### 其他
 
+- [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
 - [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
@@ -257,6 +258,7 @@
 
 ### 其他
 
+- [www.flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
 - [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同

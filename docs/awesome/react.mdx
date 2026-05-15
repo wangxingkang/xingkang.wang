@@ -17,6 +17,8 @@
 - [@tanstack/ai-react](https://tanstack.com/ai/latest) 一款可为应用程序赋予 AI 能力的智能 SDK
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
+- [@a2ui/react](https://github.com/google/A2UI/tree/main/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
+- [@a2ui/markdown-it](https://github.com/google/A2UI/tree/main/renderers/markdown/markdown-it) 基于 markdown‑it 和 dompurify 的 A2UI Markdown 渲染器
 
 ### Hooks
 
@@ -319,6 +321,7 @@
 
 ### 其他
 
+- [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
@@ -332,6 +335,7 @@
 - [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
+- [keepalive-for-react](https://github.com/finedaybreak/keepalive-for-react) 一个类似 Vue 中 keep-alive 的 React KeepAlive 组件
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件
 - [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
@@ -377,6 +381,7 @@
 - [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
+- [south-admin-react](https://github.com/southliu/south-admin-react)
 
 ## 其他
 
