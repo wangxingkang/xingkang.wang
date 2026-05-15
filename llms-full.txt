@@ -408,6 +408,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
 - [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
@@ -566,6 +567,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [www.flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
 - [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
@@ -761,6 +763,7 @@ url: /awesome/engineering.md
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
+- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) 为渲染进程提供 Node.js API 垫片
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
 - [@module-federation/vite](https://github.com/module-federation/vite) 模块联邦
 - [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) 面向 Vite 的零配置 PWA 解决方案
@@ -990,6 +993,7 @@ url: /awesome/javascript.md
 
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
+- [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
@@ -1887,6 +1891,8 @@ url: /awesome/react.md
 - [@tanstack/ai-react](https://tanstack.com/ai/latest) 一款可为应用程序赋予 AI 能力的智能 SDK
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
+- [@a2ui/react](https://github.com/google/A2UI/tree/main/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
+- [@a2ui/markdown-it](https://github.com/google/A2UI/tree/main/renderers/markdown/markdown-it) 基于 markdown‑it 和 dompurify 的 A2UI Markdown 渲染器
 
 ### Hooks
 
@@ -2189,6 +2195,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
@@ -2202,6 +2209,7 @@ url: /awesome/react.md
 - [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
+- [keepalive-for-react](https://github.com/finedaybreak/keepalive-for-react) 一个类似 Vue 中 keep-alive 的 React KeepAlive 组件
 - [react-calendar-timeline](https://github.com/namespace-ee/react-calendar-timeline) 一款现代化、响应式的 React 时间轴组件
 - [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
@@ -2247,6 +2255,7 @@ url: /awesome/react.md
 - [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
+- [south-admin-react](https://github.com/southliu/south-admin-react)
 
 ## 其他
 
@@ -2303,6 +2312,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
+- [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统
 - [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
 - [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
@@ -2341,6 +2352,7 @@ url: /awesome/rust.md
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
+- [tock](https://github.com/tock/tock) 面向微控制器的安全嵌入式操作系统
 
 
 

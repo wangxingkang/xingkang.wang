@@ -20,6 +20,8 @@
 
 ## 其他
 
+- [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
+- [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统
 - [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
 - [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
@@ -58,3 +60,4 @@
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的 Rust 实现版
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
+- [tock](https://github.com/tock/tock) 面向微控制器的安全嵌入式操作系统

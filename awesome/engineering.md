@@ -40,6 +40,7 @@
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) 支持开发服务器的 rollup-plugin-copy 插件
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) 借助 Sharp.js 和 SVGO 优化你的图片资源
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) Electron + Vite
+- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) 为渲染进程提供 Node.js API 垫片
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
 - [@module-federation/vite](https://github.com/module-federation/vite) 模块联邦
 - [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) 面向 Vite 的零配置 PWA 解决方案
