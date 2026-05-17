@@ -6,6 +6,7 @@
 
 ## AI
 
+- [claude-for-legal](https://github.com/anthropics/claude-for-legal) 一套用于合规工作流的插件套件
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
 - [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
