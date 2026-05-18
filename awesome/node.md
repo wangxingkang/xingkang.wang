@@ -6,6 +6,7 @@
 
 ## AI
 
+- [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
 
@@ -54,6 +55,8 @@
 
 ## 其他
 
+- [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
 - [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
 - [dub](https://github.com/dubinc/dub) 短链接生成、转化追踪以及联盟营销项目管理
@@ -166,3 +169,4 @@
 - [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法
 - [archilang](https://github.com/4kk11/archilang) 语义化平面图
 - [google-cloud-node](https://github.com/googleapis/google-cloud-node)
+- [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识

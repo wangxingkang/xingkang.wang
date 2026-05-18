@@ -6,6 +6,7 @@
 
 ## AI
 
+- [wewrite](https://github.com/oaker-io/wewrite) 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
 - [claude-for-legal](https://github.com/anthropics/claude-for-legal) 一套用于合规工作流的插件套件
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频

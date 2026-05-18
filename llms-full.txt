@@ -675,6 +675,7 @@ url: /awesome/desktop.md
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn) Electron Forge 结合 shadcn-ui（基于 Vite + TypeScript）
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
+- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) 基于 Vite + Electron 搭配 Rolldown，速度超快
 
 ### 开源项目
 
@@ -685,8 +686,11 @@ url: /awesome/desktop.md
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
-## 其他
+### 其他
 
+- [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
+- [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
+- [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
@@ -753,6 +757,7 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector) 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置
 - [vite-plugin-compression2](https://github.com/nonzzz/vite-plugin-compression) Vite 插件，用于压缩打包文件
@@ -1524,6 +1529,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
 
@@ -1572,6 +1578,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
 - [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
 - [dub](https://github.com/dubinc/dub) 短链接生成、转化追踪以及联盟营销项目管理
@@ -1684,6 +1692,7 @@ url: /awesome/node.md
 - [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法
 - [archilang](https://github.com/4kk11/archilang) 语义化平面图
 - [google-cloud-node](https://github.com/googleapis/google-cloud-node)
+- [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
 
 
 
@@ -1712,6 +1721,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [wewrite](https://github.com/oaker-io/wewrite) 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
 - [claude-for-legal](https://github.com/anthropics/claude-for-legal) 一套用于合规工作流的插件套件
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [video-use](https://github.com/browser-use/video-use) 用编程智能体编辑视频
@@ -2307,6 +2317,8 @@ url: /awesome/rust.md
 
 ## AI
 
+- [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
+- [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
 - [warp](https://github.com/warpdotdev/warp) Warp 是一款**智能体化开发环境**，源自终端而生

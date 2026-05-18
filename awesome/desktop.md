@@ -12,6 +12,7 @@
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn) Electron Forge 结合 shadcn-ui（基于 Vite + TypeScript）
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
+- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) 基于 Vite + Electron 搭配 Rolldown，速度超快
 
 ### 开源项目
 
@@ -22,8 +23,11 @@
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
-## 其他
+### 其他
 
+- [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
+- [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
+- [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
