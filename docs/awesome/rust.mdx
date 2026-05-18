@@ -6,6 +6,7 @@
 
 ## AI
 
+- [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
@@ -22,6 +23,7 @@
 
 ## 其他
 
+- [fancy-regex](https://github.com/fancy-regex/fancy-regex) 一款支持环视、反向引用等高级特性的 Rust 正则表达式库，提供兼容 Oniguruma 语法的模式
 - [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
 - [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统
 - [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
