@@ -1472,6 +1472,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [monaco-editor](https://github.com/microsoft/monaco-editor) 基于浏览器的代码编辑器
 - [openseadragon](https://github.com/openseadragon/openseadragon) 一款**开源、基于网页**的可缩放图像查看器，**纯JavaScript** 实现
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) 基于 JavaScript 实现的可拖拽全尺寸日程日历组件
