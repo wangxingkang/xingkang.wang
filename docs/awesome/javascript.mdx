@@ -2,6 +2,7 @@
 
 ## AI
 
+- [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
 - [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
