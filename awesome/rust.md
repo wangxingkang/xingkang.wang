@@ -23,6 +23,7 @@
 
 ## 其他
 
+- [rustnet](https://github.com/domcyrus/rustnet) 面向终端的进程级网络监控工具：实时呈现 TCP、UDP、QUIC 连接，自带深度包检测，默认沙箱隔离运行
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) 一款支持环视、反向引用等高级特性的 Rust 正则表达式库，提供兼容 Oniguruma 语法的模式
 - [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
 - [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统

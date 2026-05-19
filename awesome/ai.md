@@ -93,6 +93,7 @@
 
 ### 音视频
 
+- [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 - [sentrysearch](https://github.com/ssrajadh/sentrysearch) 使用 Gemini Embedding 2 或 Qwen3-VL 对视频进行语义检索
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
@@ -261,7 +262,8 @@
 
 ### 其他
 
-- [www.flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
+- [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
+- [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
 - [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
