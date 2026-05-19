@@ -214,6 +214,7 @@
 - [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) 用于安全安装 OpenClaw 的 NVIDIA 插件
 - [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [nexu](https://github.com/nexu-io/nexu) 让你的 OpenClaw 🦞 Agent 直接运行在微信、飞书、Slack、Discord 等 IM 中
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) 从创意到论文，全程自主研究
 - [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
