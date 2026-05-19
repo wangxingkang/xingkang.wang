@@ -55,6 +55,8 @@
 
 ## 其他
 
+- [png-to-ico](https://github.com/steambap/png-to-ico) 将 PNG 转换为 ICO 格式
+- [node-pty](https://github.com/microsoft/node-pty) 在 Node.js 中创建伪终端（pty）
 - [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
 - [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具

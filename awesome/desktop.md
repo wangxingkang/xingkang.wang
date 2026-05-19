@@ -16,6 +16,7 @@
 
 ### 开源项目
 
+- [cate](https://github.com/0-AI-UG/cate) 一款空间式桌面集成开发环境，拥有可无限延展的画布，支持代码编辑、终端、浏览器与 Git 操作
 - [gitify](https://github.com/gitify-app/gitify) 菜单栏显示 Git 通知
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
 - [mediago](https://github.com/caorushizi/mediago) 跨平台视频提取工具: 支持流媒体下载、视频下载、m3u8 下载及 B站视频下载
@@ -25,7 +26,11 @@
 
 ### 其他
 
+- [@electron/rebuild](https://github.com/electron/rebuild) 用于根据当前已安装的 Electron 版本，重新编译原生 Node.js 模块的软件包
+- [@electron/remote](https://github.com/electron/remote) 在 Electron 中，将主进程的 JavaScript 对象桥接到渲染进程
+- [electron-log](https://github.com/megahertz/electron-log) 适用于 Electron / Node.js/ NW\.js 应用的简易日志模块
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
+- [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
 - [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
