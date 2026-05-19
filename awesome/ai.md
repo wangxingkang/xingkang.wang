@@ -100,6 +100,7 @@
 
 ### 其他
 
+- [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [fallow](https://github.com/fallow-rs/fallow) 面向 TypeScript 和 JavaScript 的代码库智能分析工具
 - [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
