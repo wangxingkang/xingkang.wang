@@ -176,6 +176,7 @@
 
 ### 存储
 
+- [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 IndexedDB 实现、极简小巧、基于 Promise 的键值存储库
 - [dexie](https://github.com/dexie/Dexie.js) 轻量级的 IndexedDB 库
 - [encrypt-storage](https://github.com/michelonsouza/encrypt-storage) EncryptStorage 为前端开发场景提供了更高一层的安全保障
 - [locally](https://github.com/ozantunca/locally) Locally 是一款 localStorage 管理器，支持为存储项设置超时时间以实现过期机制，并通过 LZW 算法压缩数据来节省存储空间
@@ -206,6 +207,12 @@
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
+
+### 音视频
+
+- ffmpeg.wasm
+  - [@ffmpeg/ffmpeg](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/ffmpeg)
+  - [@ffmpeg/util](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/util)
 
 ### 其他
 

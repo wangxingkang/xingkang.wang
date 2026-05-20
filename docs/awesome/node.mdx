@@ -6,6 +6,7 @@
 
 ## AI
 
+- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
