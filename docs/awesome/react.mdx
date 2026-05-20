@@ -298,6 +298,7 @@
 
 ### 富文本
 
+- [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
 - [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
 - [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
