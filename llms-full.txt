@@ -1007,6 +1007,7 @@ url: /awesome/java.md
 ## 其他
 
 - [nacos](https://github.com/alibaba/nacos) 一款易用的动态服务发现、配置管理与服务治理平台，专为构建 AI 云原生应用而设计
+- [flowable-engine](https://github.com/flowable/flowable-engine) 一款精简高效的工作流与业务流程管理（BPM）平台，面向开发者、系统管理员及业务用户
 
 
 
@@ -1192,6 +1193,7 @@ url: /awesome/javascript.md
 
 ### 存储
 
+- [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 IndexedDB 实现、极简小巧、基于 Promise 的键值存储库
 - [dexie](https://github.com/dexie/Dexie.js) 轻量级的 IndexedDB 库
 - [encrypt-storage](https://github.com/michelonsouza/encrypt-storage) EncryptStorage 为前端开发场景提供了更高一层的安全保障
 - [locally](https://github.com/ozantunca/locally) Locally 是一款 localStorage 管理器，支持为存储项设置超时时间以实现过期机制，并通过 LZW 算法压缩数据来节省存储空间
@@ -1222,6 +1224,12 @@ url: /awesome/javascript.md
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
+
+### 音视频
+
+- ffmpeg.wasm
+  - [@ffmpeg/ffmpeg](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/ffmpeg)
+  - [@ffmpeg/util](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/util)
 
 ### 其他
 
@@ -1548,6 +1556,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
@@ -2358,6 +2367,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
 - [rustnet](https://github.com/domcyrus/rustnet) 面向终端的进程级网络监控工具：实时呈现 TCP、UDP、QUIC 连接，自带深度包检测，默认沙箱隔离运行
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) 一款支持环视、反向引用等高级特性的 Rust 正则表达式库，提供兼容 Oniguruma 语法的模式
