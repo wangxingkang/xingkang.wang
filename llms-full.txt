@@ -2221,6 +2221,7 @@ url: /awesome/react.md
 
 ### 富文本
 
+- [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
 - [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
 - [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
@@ -2367,6 +2368,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
 - [rustnet](https://github.com/domcyrus/rustnet) 面向终端的进程级网络监控工具：实时呈现 TCP、UDP、QUIC 连接，自带深度包检测，默认沙箱隔离运行
