@@ -599,6 +599,7 @@ url: /awesome/browser-plugin.md
 
 ## 开发
 
+- [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 一款适用于 Chrome 中基于 Promise 的网页扩展 API 的轻量级垫片库
 - [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 借助原生热模块替换（HMR）与零配置搭建，开发跨浏览器扩展程序
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
@@ -1752,6 +1753,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
 - [semble](https://github.com/MinishLab/semble) 面向智能体的快速精准代码搜索工具
 - [wewrite](https://github.com/oaker-io/wewrite) 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
 - [claude-for-legal](https://github.com/anthropics/claude-for-legal) 一套用于合规工作流的插件套件
@@ -2724,6 +2726,7 @@ url: /awesome/vue.md
 - [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
 - [vue-macros](https://github.com/vue-macros/vue-macros) 探索并扩展更多适用于 Vue 的宏与语法糖
+- [vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) 打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
 
 ## 开发模版
 
