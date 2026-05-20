@@ -23,6 +23,7 @@
 
 ## 其他
 
+- [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区

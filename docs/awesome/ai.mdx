@@ -101,6 +101,7 @@
 
 ### 其他
 
+- [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [fallow](https://github.com/fallow-rs/fallow) 面向 TypeScript 和 JavaScript 的代码库智能分析工具
 - [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
