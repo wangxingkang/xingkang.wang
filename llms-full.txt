@@ -410,6 +410,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [fallow](https://github.com/fallow-rs/fallow) 面向 TypeScript 和 JavaScript 的代码库智能分析工具
 - [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
@@ -953,6 +954,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
@@ -982,6 +984,7 @@ url: /awesome/go.md
 - [photoprism](https://github.com/photoprism/photoprism) 面向去中心化网络的人工智能照片应用
 - [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
+- [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 
 
 
@@ -1051,6 +1054,7 @@ url: /awesome/javascript.md
 
 ### 图表
 
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts) 基于 HTML5 Canvas 构建的高性能金融图表
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
@@ -1753,6 +1757,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
 - [semble](https://github.com/MinishLab/semble) 面向智能体的快速精准代码搜索工具
 - [wewrite](https://github.com/oaker-io/wewrite) 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
@@ -2370,6 +2375,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区

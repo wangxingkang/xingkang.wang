@@ -11,6 +11,7 @@
 
 ## 其他
 
+- [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
@@ -40,3 +41,4 @@
 - [photoprism](https://github.com/photoprism/photoprism) 面向去中心化网络的人工智能照片应用
 - [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
+- [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
