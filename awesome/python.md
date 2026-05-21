@@ -6,6 +6,7 @@
 
 ## AI
 
+- [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件

@@ -6,6 +6,7 @@
 
 ## AI
 
+- [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
@@ -130,6 +131,7 @@
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
 - [winston](https://github.com/winstonjs/winston) 一款适用于几乎所有场景的日志工具
+  - [winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) 每日生成轮换日志文件
 - [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架

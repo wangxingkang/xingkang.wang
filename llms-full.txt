@@ -411,6 +411,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [ping-island](https://github.com/erha19/ping-island) 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [fallow](https://github.com/fallow-rs/fallow) 面向 TypeScript 和 JavaScript 的代码库智能分析工具
@@ -708,6 +709,7 @@ url: /awesome/desktop.md
 
 ### 其他
 
+- [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) 一种将 Chrome 开发者工具扩展集成到 Electron 中的简便方法
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
 - [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 右键菜单
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) 右键菜单
@@ -1594,6 +1596,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
@@ -1718,6 +1721,7 @@ url: /awesome/node.md
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
 - [winston](https://github.com/winstonjs/winston) 一款适用于几乎所有场景的日志工具
+  - [winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) 每日生成轮换日志文件
 - [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
@@ -1808,6 +1812,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
@@ -2437,6 +2442,10 @@ url: /awesome/rust.md
 
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
+- [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
+- [pastel](https://github.com/sharkdp/pastel) 一款用于生成、分析、转换和处理颜色的命令行工具
+- [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具
 - [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
