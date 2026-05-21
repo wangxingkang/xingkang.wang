@@ -56,6 +56,15 @@
 
 ## 其他
 
+- [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
+- [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
+- [node-mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
+- [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
+- [randomColor](https://github.com/davidmerfield/randomColor) 一款用于生成美观配色的轻量脚本
+- [sax](https://github.com/isaacs/sax-js) 适用于 JavaScript 的 SAX 风格解析器
+- [style-dictionary](https://github.com/style-dictionary/style-dictionary) 用于创建跨平台样式的构建系统
+- [svg-sprite](https://github.com/svg-sprite/svg-sprite) 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源
+- [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
 - [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
 - [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
 - [node-accept-language](https://github.com/tinganho/node-accept-language)

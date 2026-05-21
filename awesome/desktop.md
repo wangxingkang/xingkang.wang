@@ -30,7 +30,8 @@
 ### 其他
 
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
-- [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 适用于 Electron 应用的右键菜单
+- [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 右键菜单
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) 右键菜单
 - [@electron-uikit/notification](https://github.com/alex8088/electron-uikit/tree/main/packages/notification) 通知组件
 - [@electron-uikit/toast](https://github.com/alex8088/electron-uikit/tree/main/packages/toast) 轻提示组件
 - [@electron-uikit/titlebar](https://github.com/alex8088/electron-uikit/tree/main/packages/titlebar) 适用于 Electron 应用的标题栏网页组件

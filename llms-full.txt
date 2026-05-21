@@ -709,7 +709,8 @@ url: /awesome/desktop.md
 ### 其他
 
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
-- [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 适用于 Electron 应用的右键菜单
+- [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 右键菜单
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) 右键菜单
 - [@electron-uikit/notification](https://github.com/alex8088/electron-uikit/tree/main/packages/notification) 通知组件
 - [@electron-uikit/toast](https://github.com/alex8088/electron-uikit/tree/main/packages/toast) 轻提示组件
 - [@electron-uikit/titlebar](https://github.com/alex8088/electron-uikit/tree/main/packages/titlebar) 适用于 Electron 应用的标题栏网页组件
@@ -1259,6 +1260,12 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
+- [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
+- [mustache.js](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
+- [opentype.js](https://github.com/opentypejs/opentype.js) 使用 JavaScript 读写 OpenType 字体
+- [workerpool](https://github.com/josdejong/workerpool) 在 Node.js 和浏览器环境中，将任务分发至工作线程池执行
+- [xregexp](https://github.com/slevithan/xregexp) 扩展版 JavaScript 正则表达式
 - [chinese-days](https://github.com/vsme/chinese-days) 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用
 - [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
@@ -1355,6 +1362,7 @@ url: /awesome/javascript.md
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
+- [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
@@ -1636,6 +1644,15 @@ url: /awesome/node.md
 
 ## 其他
 
+- [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
+- [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
+- [node-mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
+- [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
+- [randomColor](https://github.com/davidmerfield/randomColor) 一款用于生成美观配色的轻量脚本
+- [sax](https://github.com/isaacs/sax-js) 适用于 JavaScript 的 SAX 风格解析器
+- [style-dictionary](https://github.com/style-dictionary/style-dictionary) 用于创建跨平台样式的构建系统
+- [svg-sprite](https://github.com/svg-sprite/svg-sprite) 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源
+- [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
 - [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
 - [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
 - [node-accept-language](https://github.com/tinganho/node-accept-language)
@@ -2418,6 +2435,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
 - [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
@@ -2550,6 +2568,9 @@ url: /awesome/test.md
 
 ### 其他
 
+- [@vitest/browser](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser) 该包提供用于自定义浏览器驱动程序的工具
+- [@vitest/browser-playwright](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser-playwright)
+- [@vitest/coverage-v8](https://github.com/vitest-dev/vitest/tree/HEAD/packages/coverage-v8) 基于 V8、支持原生代码覆盖率的 Vitest 覆盖率提供程序
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
 - [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
 - [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践

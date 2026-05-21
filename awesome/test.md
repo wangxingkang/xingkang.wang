@@ -9,6 +9,9 @@
 
 ### 其他
 
+- [@vitest/browser](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser) 该包提供用于自定义浏览器驱动程序的工具
+- [@vitest/browser-playwright](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser-playwright)
+- [@vitest/coverage-v8](https://github.com/vitest-dev/vitest/tree/HEAD/packages/coverage-v8) 基于 V8、支持原生代码覆盖率的 Vitest 覆盖率提供程序
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
 - [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
 - [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践

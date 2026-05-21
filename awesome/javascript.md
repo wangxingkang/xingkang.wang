@@ -220,6 +220,12 @@
 
 ### 其他
 
+- [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
+- [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
+- [mustache.js](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
+- [opentype.js](https://github.com/opentypejs/opentype.js) 使用 JavaScript 读写 OpenType 字体
+- [workerpool](https://github.com/josdejong/workerpool) 在 Node.js 和浏览器环境中，将任务分发至工作线程池执行
+- [xregexp](https://github.com/slevithan/xregexp) 扩展版 JavaScript 正则表达式
 - [chinese-days](https://github.com/vsme/chinese-days) 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用
 - [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
@@ -316,6 +322,7 @@
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
+- [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
