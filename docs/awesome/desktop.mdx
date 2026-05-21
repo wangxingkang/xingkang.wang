@@ -29,6 +29,7 @@
 
 ### 其他
 
+- [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) 一种将 Chrome 开发者工具扩展集成到 Electron 中的简便方法
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
 - [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 右键菜单
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) 右键菜单
