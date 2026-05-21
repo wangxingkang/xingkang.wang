@@ -23,6 +23,7 @@
 
 ## 其他
 
+- [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
 - [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
