@@ -102,6 +102,8 @@
 
 ### 其他
 
+- [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
 - [ping-island](https://github.com/erha19/ping-island) 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理

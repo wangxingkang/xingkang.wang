@@ -16,6 +16,7 @@
 
 ### 开源项目
 
+- [eSearch](https://github.com/xushengfeng/eSearch) 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译
 - [modly](https://github.com/lightningpixel/modly) 一款借助本地 AI、通过图片生成 3D 模型
 - [AiToEarn](https://github.com/yikart/AiToEarn) 全平台一键分发
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) 强大的 macOS 启动器
