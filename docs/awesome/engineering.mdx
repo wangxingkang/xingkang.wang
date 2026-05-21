@@ -105,6 +105,7 @@
 
 ## 其他
 
+- [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [css-modules-kit](https://github.com/mizdra/css-modules-kit) 一款让 CSS Modules 更好用的工具库
 - [happy-css-modules](https://github.com/mizdra/happy-css-modules) 类型安全、支持定义跳转的 CSS Modules，上手还极其简单！
 - [madge](https://github.com/pahen/madge) 根据你的 CommonJS、AMD 或 ES6 模块依赖关系生成关系图
