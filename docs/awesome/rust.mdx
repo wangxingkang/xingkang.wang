@@ -25,6 +25,10 @@
 
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
+- [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
+- [pastel](https://github.com/sharkdp/pastel) 一款用于生成、分析、转换和处理颜色的命令行工具
+- [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具
 - [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
