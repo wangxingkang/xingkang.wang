@@ -57,6 +57,9 @@
 
 ## 其他
 
+- [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
+- [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
+- [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库
 - [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
 - [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
 - [node-mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录

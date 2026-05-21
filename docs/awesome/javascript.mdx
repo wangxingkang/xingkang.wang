@@ -220,6 +220,8 @@
 
 ### 其他
 
+- [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
+- [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
 - [mustache.js](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
