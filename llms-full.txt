@@ -343,6 +343,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
@@ -461,6 +462,7 @@ url: /awesome/ai.md
 - [deepagents](https://github.com/langchain-ai/deepagents) 基于 LangChain 和 LangGraph 构建的智能体管控框架。配备规划工具、文件系统后端，并支持创建子智能体，功能完备，可处理各类复杂的智能体任务
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) 使用 C/C++ 进行大语言模型（LLM）推理
 - [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
@@ -593,13 +595,15 @@ url: /awesome/ai.md
 
 
 ---
-url: /awesome/browser-plugin.md
+url: /awesome/browser-extension.md
 ---
 
 # 浏览器插件
 
 ## 开发
 
+- [transliteration](https://github.com/yf-hk/transliteration) 适用于 Node.js、浏览器、Web Worker、React Native、Electron 及命令行的 UTF‑8 转 ASCII 音译 / URL 友好字符串转换模块
+- [raycast](https://github.com/raycast/extensions) 扩展 Raycast 所需的一切
 - [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 一款适用于 Chrome 中基于 Promise 的网页扩展 API 的轻量级垫片库
 - [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 借助原生热模块替换（HMR）与零配置搭建，开发跨浏览器扩展程序
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
@@ -691,6 +695,9 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [modly](https://github.com/lightningpixel/modly) 一款借助本地 AI、通过图片生成 3D 模型
+- [AiToEarn](https://github.com/yikart/AiToEarn) 全平台一键分发
+- [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) 强大的 macOS 启动器
 - [cate](https://github.com/0-AI-UG/cate) 一款空间式桌面集成开发环境，拥有可无限延展的画布，支持代码编辑、终端、浏览器与 Git 操作
 - [gitify](https://github.com/gitify-app/gitify) 菜单栏显示 Git 通知
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
@@ -701,9 +708,16 @@ url: /awesome/desktop.md
 
 ### 其他
 
+- [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
+- [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 适用于 Electron 应用的右键菜单
+- [@electron-uikit/notification](https://github.com/alex8088/electron-uikit/tree/main/packages/notification) 通知组件
+- [@electron-uikit/toast](https://github.com/alex8088/electron-uikit/tree/main/packages/toast) 轻提示组件
+- [@electron-uikit/titlebar](https://github.com/alex8088/electron-uikit/tree/main/packages/titlebar) 适用于 Electron 应用的标题栏网页组件
+- [electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) 适用于 Apple 液态玻璃效果的 Electron 绑定接口
 - [@electron/rebuild](https://github.com/electron/rebuild) 用于根据当前已安装的 Electron 版本，重新编译原生 Node.js 模块的软件包
 - [@electron/remote](https://github.com/electron/remote) 在 Electron 中，将主进程的 JavaScript 对象桥接到渲染进程
 - [electron-log](https://github.com/megahertz/electron-log) 适用于 Electron / Node.js/ NW\.js 应用的简易日志模块
+- [electron-serve](https://github.com/sindresorhus/electron-serve) Electron 应用的静态文件服务
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
@@ -850,6 +864,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [css-modules-kit](https://github.com/mizdra/css-modules-kit) 一款让 CSS Modules 更好用的工具库
 - [happy-css-modules](https://github.com/mizdra/happy-css-modules) 类型安全、支持定义跳转的 CSS Modules，上手还极其简单！
 - [madge](https://github.com/pahen/madge) 根据你的 CommonJS、AMD 或 ES6 模块依赖关系生成关系图
@@ -904,6 +919,9 @@ url: /awesome/github.md
 
 ## 其他
 
+- [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
+- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
+- [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
@@ -1065,6 +1083,7 @@ url: /awesome/javascript.md
 
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
+  - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) 用于加速光线投射、并支持对 three.js 网格进行空间查询的 BVH（边界体积层次结构）实现
 - PlayCanvas
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
@@ -1091,6 +1110,7 @@ url: /awesome/javascript.md
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-resources-for-ts](https://github.com/i18next/i18next-resources-for-ts) 该工具包可将资源转换为可用于类型安全的 i18next 项目的格式
   - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
   - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件
   - [i18next-browser-languagedetector](https://github.com/i18next/i18next-browser-languageDetector) 适用于 i18next 的浏览器环境语言检测插件
@@ -1225,6 +1245,7 @@ url: /awesome/javascript.md
 
 ### 颜色
 
+- [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
@@ -1238,6 +1259,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [chinese-days](https://github.com/vsme/chinese-days) 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用
+- [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
+- [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
 - [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
 - [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
 - [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
@@ -1309,6 +1333,7 @@ url: /awesome/javascript.md
 - [sysend](https://github.com/jcubic/sysend) 跨标签页通信
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
+- [driver.js](https://github.com/nilbuild/driver.js) 一款轻量、无依赖的 JavaScript 库，用于引导页面上的用户焦点
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
@@ -1611,6 +1636,15 @@ url: /awesome/node.md
 
 ## 其他
 
+- [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
+- [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
+- [node-accept-language](https://github.com/tinganho/node-accept-language)
+- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
+- [form-data](https://github.com/form-data/form-data) 生成可读的multipart/form-data格式数据流
+- [image-size](https://github.com/image-size/image-size) 用于检测图片尺寸的 Node 模块
+- [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) XML 转 JavaScript 对象转换器
+- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) 适用于 Node.js 的最快、最简 SQLite3 库
 - [png-to-ico](https://github.com/steambap/png-to-ico) 将 PNG 转换为 ICO 格式
 - [node-pty](https://github.com/microsoft/node-pty) 在 Node.js 中创建伪终端（pty）
 - [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
@@ -1757,6 +1791,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
 - [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
 - [semble](https://github.com/MinishLab/semble) 面向智能体的快速精准代码搜索工具
@@ -2077,7 +2112,8 @@ url: /awesome/react.md
 
 - [@pascal-app/viewer](https://github.com/pascalorg/editor) 一款基于 React Three Fiber 与 WebGPU 构建的3D 建筑编辑器
 - [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
-  - [drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
+  - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) react‑three‑fiber 的后期处理工具
+  - [@react-three/drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
 
 ### 其他
 
@@ -2118,7 +2154,7 @@ url: /awesome/react.md
 
 ### 导航
 
-- [react-menu](https://github.com/szhsin/react-menu) 无障碍菜单、下拉菜单、子菜单、右键菜单
+- [@szhsin/react-menu](https://github.com/szhsin/react-menu) 无障碍菜单、下拉菜单、子菜单、右键菜单
 - [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 分页
 - [react-contexify](https://github.com/fkhadra/react-contexify) 右键菜单
 
@@ -2156,6 +2192,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) 可自定义颜色与 Logo 的 React + TypeScript 二维码生成组件
 - [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
 - [react-base-table](https://github.com/Autodesk/react-base-table) 一款**高性能、高灵活度**，用于渲染海量数据集的 React 表格组件
@@ -2249,11 +2286,14 @@ url: /awesome/react.md
 
 - [@dnd-kit/react](https://github.com/clauderic/dnd-kit)
 - [react-dnd](https://github.com/react-dnd/react-dnd)
+  - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
 ### 其他
 
+- [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
+- [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
@@ -2291,7 +2331,8 @@ url: /awesome/react.md
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
 - [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
-- [react-oauth](https://github.com/MomenSherif/react-oauth) 谷歌登录
+- [@react-oauth/google](https://github.com/MomenSherif/react-oauth) 谷歌登录
+- [@react-oauth/github](https://github.com/MomenSherif/react-oauth) GitHub 登录
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
@@ -2318,6 +2359,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-rewrite](https://github.com/donghaxkim/react-rewrite) 用于运行 React 应用的可视化编辑器，可实时编辑界面元素并直接修改源文件，不含人工智能功能
+- [react-transition-group](https://github.com/reactjs/react-transition-group) 在 React 组件进入或离开 DOM 时执行动画的简便方案
 - [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
@@ -2375,10 +2418,13 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) 轻松监控你的网络流量
 - [rustnet](https://github.com/domcyrus/rustnet) 面向终端的进程级网络监控工具：实时呈现 TCP、UDP、QUIC 连接，自带深度包检测，默认沙箱隔离运行
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) 一款支持环视、反向引用等高级特性的 Rust 正则表达式库，提供兼容 Oniguruma 语法的模式
 - [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
@@ -2474,6 +2520,7 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [@egjs/svelte-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Svelte 组件
 - [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) 一款有固定设计风格的 Svelte 消息提示（Toast）组件
 - [paneforge](https://github.com/svecosystem/paneforge) 适用于 Svelte 的可缩放面板组件
 - [@xyflow/svelte](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
@@ -2708,6 +2755,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [@egjs/vue3-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Vue 组件
 - [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性

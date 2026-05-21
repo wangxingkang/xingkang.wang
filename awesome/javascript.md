@@ -44,6 +44,7 @@
 
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
+  - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) 用于加速光线投射、并支持对 three.js 网格进行空间查询的 BVH（边界体积层次结构）实现
 - PlayCanvas
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
@@ -70,6 +71,7 @@
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-resources-for-ts](https://github.com/i18next/i18next-resources-for-ts) 该工具包可将资源转换为可用于类型安全的 i18next 项目的格式
   - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
   - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件
   - [i18next-browser-languagedetector](https://github.com/i18next/i18next-browser-languageDetector) 适用于 i18next 的浏览器环境语言检测插件
@@ -204,6 +206,7 @@
 
 ### 颜色
 
+- [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
@@ -217,6 +220,9 @@
 
 ### 其他
 
+- [chinese-days](https://github.com/vsme/chinese-days) 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用
+- [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
+- [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
 - [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
 - [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
 - [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
@@ -288,6 +294,7 @@
 - [sysend](https://github.com/jcubic/sysend) 跨标签页通信
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
+- [driver.js](https://github.com/nilbuild/driver.js) 一款轻量、无依赖的 JavaScript 库，用于引导页面上的用户焦点
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁

@@ -56,6 +56,15 @@
 
 ## 其他
 
+- [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
+- [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
+- [node-accept-language](https://github.com/tinganho/node-accept-language)
+- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
+- [form-data](https://github.com/form-data/form-data) 生成可读的multipart/form-data格式数据流
+- [image-size](https://github.com/image-size/image-size) 用于检测图片尺寸的 Node 模块
+- [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) XML 转 JavaScript 对象转换器
+- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) 适用于 Node.js 的最快、最简 SQLite3 库
 - [png-to-ico](https://github.com/steambap/png-to-ico) 将 PNG 转换为 ICO 格式
 - [node-pty](https://github.com/microsoft/node-pty) 在 Node.js 中创建伪终端（pty）
 - [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发

@@ -23,10 +23,13 @@
 
 ## 其他
 
+- [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [clone](https://github.com/unixshells/clone) 用于多租户开发环境与无服务器架构的轻量级虚拟机监控器
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) 轻松监控你的网络流量
 - [rustnet](https://github.com/domcyrus/rustnet) 面向终端的进程级网络监控工具：实时呈现 TCP、UDP、QUIC 连接，自带深度包检测，默认沙箱隔离运行
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) 一款支持环视、反向引用等高级特性的 Rust 正则表达式库，提供兼容 Oniguruma 语法的模式
 - [Fyrox](https://github.com/FyroxEngine/Fyrox) 用 Rust 编写的 3D 和 2D 游戏引擎
