@@ -29,6 +29,7 @@
 
 ### 其他
 
+- [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
 - [vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) 用于开发 Chrome / 网页扩展程序的 Vite 插件
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持

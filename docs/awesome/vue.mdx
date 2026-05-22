@@ -77,6 +77,7 @@
 
 ### 数据展示
 
+- [ag-grid-vue3](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue3) 适用于构建企业级应用的优质 JavaScript 数据表格组件
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) 一款高度可定制、轻量级的 Vue 3 轮播组件
 - [vxe-table](https://github.com/x-extends/vxe-table) 表格解决方案
 - [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器

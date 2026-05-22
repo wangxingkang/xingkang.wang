@@ -6,6 +6,7 @@
 
 ## AI
 
+- [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
