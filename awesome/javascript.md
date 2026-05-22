@@ -33,6 +33,7 @@
 
 ### 图表
 
+- [LogicFlow](https://github.com/didi/LogicFlow) 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) 基于 HTML5 Canvas 构建的高性能金融图表
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
