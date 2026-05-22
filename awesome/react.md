@@ -227,6 +227,7 @@
 
 ### 数据展示
 
+- [ag-grid-react](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react) 适用于构建企业级应用的优质 JavaScript 数据表格组件
 - [react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) 可自定义颜色与 Logo 的 React + TypeScript 二维码生成组件
 - [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
@@ -327,6 +328,8 @@
 
 ### 其他
 
+- [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
+- [react-ace](https://github.com/securingsincity/react-ace) React Ace 组件
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件

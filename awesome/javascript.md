@@ -91,6 +91,7 @@
 - [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
   - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
 - [mande](https://github.com/posva/mande) 不到 700 字节的现代化 fetch 便捷封装库，内置智能可扩展的默认配置
+- [whatwg-fetch](https://github.com/JakeChampion/fetch) 一个用于 `window.fetch` 的 JavaScript 兼容垫片
 
 ### 发布订阅
 
@@ -225,7 +226,7 @@
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
-- [mustache.js](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
+- [mustache](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
 - [opentype.js](https://github.com/opentypejs/opentype.js) 使用 JavaScript 读写 OpenType 字体
 - [workerpool](https://github.com/josdejong/workerpool) 在 Node.js 和浏览器环境中，将任务分发至工作线程池执行
 - [xregexp](https://github.com/slevithan/xregexp) 扩展版 JavaScript 正则表达式
@@ -326,6 +327,7 @@
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
+- [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
@@ -405,6 +407,7 @@
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
+- [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
@@ -502,6 +505,7 @@
 
 ## 其他
 
+- [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本
 - [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
 - [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
 - [partytown](https://github.com/QwikDev/partytown) 将占用大量资源的第三方脚本从主线程移至 Web Worker 中运行

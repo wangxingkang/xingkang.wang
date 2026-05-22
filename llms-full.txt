@@ -647,6 +647,8 @@ url: /awesome/css.md
 
 - [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
+- [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
+- [@tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) 一款提供工具类样式的插件，用于将文本在指定行数后进行视觉截断
 
 ## Reset
 
@@ -794,6 +796,7 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
 - [vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) 用于开发 Chrome / 网页扩展程序的 Vite 插件
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持
@@ -1136,6 +1139,7 @@ url: /awesome/javascript.md
 - [axios](https://axios-http.com/zh/) 基于 promise 的网络请求库
   - [openapi-client-axios](https://github.com/openapistack/openapi-client-axios) 基于 axios 调用支持 OpenAPI 规范的 API 的 JavaScript 客户端工具库
 - [mande](https://github.com/posva/mande) 不到 700 字节的现代化 fetch 便捷封装库，内置智能可扩展的默认配置
+- [whatwg-fetch](https://github.com/JakeChampion/fetch) 一个用于 `window.fetch` 的 JavaScript 兼容垫片
 
 ### 发布订阅
 
@@ -1270,7 +1274,7 @@ url: /awesome/javascript.md
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
-- [mustache.js](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
+- [mustache](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
 - [opentype.js](https://github.com/opentypejs/opentype.js) 使用 JavaScript 读写 OpenType 字体
 - [workerpool](https://github.com/josdejong/workerpool) 在 Node.js 和浏览器环境中，将任务分发至工作线程池执行
 - [xregexp](https://github.com/slevithan/xregexp) 扩展版 JavaScript 正则表达式
@@ -1371,6 +1375,7 @@ url: /awesome/javascript.md
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
+- [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
@@ -1450,6 +1455,7 @@ url: /awesome/javascript.md
 - [trpc](https://github.com/trpc/trpc) 快速迭代，零故障交付。端到端类型安全的 API 开发从未如此简单。
 - [formilyjs](https://formilyjs.org/zh-CN) 阿里巴巴统一前端表单解决方案
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
+- [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
@@ -1547,6 +1553,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本
 - [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
 - [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
 - [partytown](https://github.com/QwikDev/partytown) 将占用大量资源的第三方脚本从主线程移至 Web Worker 中运行
@@ -1821,6 +1828,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
@@ -2223,6 +2231,7 @@ url: /awesome/react.md
 
 ### 数据展示
 
+- [ag-grid-react](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react) 适用于构建企业级应用的优质 JavaScript 数据表格组件
 - [react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) 可自定义颜色与 Logo 的 React + TypeScript 二维码生成组件
 - [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) React 中最强大的虚拟列表组件
@@ -2323,6 +2332,8 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
+- [react-ace](https://github.com/securingsincity/react-ace) React Ace 组件
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
@@ -2761,6 +2772,7 @@ url: /awesome/vue.md
 
 ### 数据展示
 
+- [ag-grid-vue3](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue3) 适用于构建企业级应用的优质 JavaScript 数据表格组件
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) 一款高度可定制、轻量级的 Vue 3 轮播组件
 - [vxe-table](https://github.com/x-extends/vxe-table) 表格解决方案
 - [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
