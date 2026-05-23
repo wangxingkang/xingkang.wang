@@ -6,6 +6,7 @@
 
 ## AI
 
+- [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
@@ -57,6 +58,7 @@
 
 ## 其他
 
+- [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
 - [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
 - [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库

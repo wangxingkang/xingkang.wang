@@ -125,6 +125,7 @@
 
 ### 文件相关
 
+- [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
 - [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
@@ -222,8 +223,11 @@
 
 ### 其他
 
+- [@huggingface/hub](https://github.com/huggingface/huggingface.js) 使用 JavaScript 调用 Hugging Face
+- [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
+- [fflate](https://github.com/101arrowz/fflate) 8KB 大小的高性能（解）压缩工具
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
 - [mustache](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
@@ -267,7 +271,8 @@
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
-- [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
+- [@dagrejs/dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
+- [@dagrejs/graphlib](https://github.com/dagrejs/graphlib) 适用于 JavaScript 的有向多重图库
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
 - [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
 - [unified](https://github.com/unifiedjs/unified) 利用语法树对内容进行解析、检查、转换与序列化

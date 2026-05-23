@@ -22,6 +22,8 @@
 ## Tailwind CSS
 
 - [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
+- [@toolwind/corner-shape](https://github.com/toolwind/corner-shape) 为 CSS 的 corner-shape 属性及其各角独立属性（例如 corner-top-left-shape）提供一流的工具类
+- [tw-shimmer](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/tw-shimmer) 用于实现微光闪烁效果的 Tailwind CSS v4 插件
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
 - [@tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) 一款提供工具类样式的插件，用于将文本在指定行数后进行视觉截断
