@@ -11,6 +11,7 @@
 
 ## 其他
 
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器

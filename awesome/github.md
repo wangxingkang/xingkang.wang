@@ -32,6 +32,7 @@
 
 ## 其他
 
+- [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱

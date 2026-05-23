@@ -651,6 +651,8 @@ url: /awesome/css.md
 ## Tailwind CSS
 
 - [daisyui](https://daisyui.com) 最受欢迎的免费开源 Tailwind CSS 组件库
+- [@toolwind/corner-shape](https://github.com/toolwind/corner-shape) 为 CSS 的 corner-shape 属性及其各角独立属性（例如 corner-top-left-shape）提供一流的工具类
+- [tw-shimmer](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/tw-shimmer) 用于实现微光闪烁效果的 Tailwind CSS v4 插件
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
 - [@tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) 一款提供工具类样式的插件，用于将文本在指定行数后进行视觉截断
@@ -933,6 +935,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
@@ -986,6 +989,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
@@ -1178,6 +1182,7 @@ url: /awesome/javascript.md
 
 ### 文件相关
 
+- [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
 - [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
@@ -1275,8 +1280,11 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@huggingface/hub](https://github.com/huggingface/huggingface.js) 使用 JavaScript 调用 Hugging Face
+- [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
+- [fflate](https://github.com/101arrowz/fflate) 8KB 大小的高性能（解）压缩工具
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
 - [mustache](https://github.com/janl/mustache.js) 基于 JavaScript、使用 `{{mustaches}}` 语法的极简模板引擎
@@ -1320,7 +1328,8 @@ url: /awesome/javascript.md
 - [print-js](https://github.com/crabbly/Print.js) 一款轻量 JavaScript 库，用于实现网页打印功能
 - [js-base64](https://github.com/dankogai/js-base64) 适用于 JavaScript 的 Base64 实现
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) LazyLoad 是一款轻量且灵活的脚本，它通过将首屏下方的图片、背景、视频、iframe 嵌入页及脚本延迟至即将进入视口时再加载，从而提升网站速度
-- [dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
+- [@dagrejs/dagre](https://github.com/dagrejs/dagre) 适用于 JavaScript 的有向图布局
+- [@dagrejs/graphlib](https://github.com/dagrejs/graphlib) 适用于 JavaScript 的有向多重图库
 - [marpit](https://github.com/marp-team/marpit) 一款轻量框架，用于从 Markdown 文件生成幻灯片演示文稿
 - [botid](https://vercel.com/docs/botid) 提供隐形验证码和高级机器人防护
 - [unified](https://github.com/unifiedjs/unified) 利用语法树对内容进行解析、检查、转换与序列化
@@ -1614,6 +1623,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
@@ -1665,6 +1675,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
 - [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
 - [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库
@@ -1833,6 +1844,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [unsloth](https://github.com/unslothai/unsloth) Unsloth Studio 是一款网页界面工具，可在本地训练并运行 Gemma 4、通义千问 3.6、DeepSeek、开源版 GPT 等开源模型
 - [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
@@ -2050,6 +2062,9 @@ url: /awesome/react.md
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
 - [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
+  - [@streamdown/code](https://github.com/vercel/streamdown/tree/main/packages/streamdown-code)
+  - [@streamdown/math](https://github.com/vercel/streamdown/tree/main/packages/streamdown-math)
+  - [@streamdown/mermaid](https://github.com/vercel/streamdown/tree/main/packages/streamdown-mermaid)
 
 ## 多语言
 
