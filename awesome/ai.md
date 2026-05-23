@@ -6,6 +6,7 @@
 - [watcha](https://watcha.cn) AI 产品的大众点评
 - [魔搭社区](https://modelscope.cn/home)
 - [kaggle](https://www.kaggle.com)
+- [huggingface](https://huggingface.co) 模型、数据集、应用程序
 
 ## 通用
 
@@ -102,6 +103,10 @@
 
 ### 其他
 
+- [Understand-Anything](https://github.com/Lum1104/Understand-Anything) 将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱
+  支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等多平台
+- [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty、支持垂直标签页并为 AI 编程代理提供通知功能的 macOS 终端
+- [codexbar](https://github.com/steipete/codexbar) 无需登录，即可查看 OpenAI Codex 与 Claude Code 的使用统计数据
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
 - [ping-island](https://github.com/erha19/ping-island) 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
