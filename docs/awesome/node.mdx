@@ -199,3 +199,4 @@
 - [google-cloud-node](https://github.com/googleapis/google-cloud-node)
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
 - [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
+- [cal.diy](https://github.com/calcom/cal.diy) 让所有人都能触手可及的日程规划基础设施

@@ -23,6 +23,7 @@
 
 ## 其他
 
+- [bevy](https://github.com/bevyengine/bevy) 一款用 Rust 语言构建、简洁易用的数据驱动型游戏引擎
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
