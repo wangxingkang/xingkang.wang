@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
 - [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
 - [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景

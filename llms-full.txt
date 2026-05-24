@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
@@ -412,6 +413,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything) 将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱
   支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等多平台
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty、支持垂直标签页并为 AI 编程代理提供通知功能的 macOS 终端
@@ -721,6 +723,7 @@ url: /awesome/desktop.md
 
 ### 其他
 
+- [custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) 借鉴 VS Code 风格的自定义 Electron 标题栏
 - [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) 一种将 Chrome 开发者工具扩展集成到 Electron 中的简便方法
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
 - [@electron-uikit/contextmenu](https://github.com/alex8088/electron-uikit/tree/main/packages/contextmenu) 右键菜单
@@ -935,6 +938,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
 - [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
@@ -1816,6 +1820,7 @@ url: /awesome/node.md
 - [google-cloud-node](https://github.com/googleapis/google-cloud-node)
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
 - [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
+- [cal.diy](https://github.com/calcom/cal.diy) 让所有人都能触手可及的日程规划基础设施
 
 
 
@@ -1973,6 +1978,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
 - [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
 - [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
@@ -2480,6 +2486,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [bevy](https://github.com/bevyengine/bevy) 一款用 Rust 语言构建、简洁易用的数据驱动型游戏引擎
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
