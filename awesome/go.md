@@ -44,3 +44,4 @@
 - [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
 - [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
+- [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
