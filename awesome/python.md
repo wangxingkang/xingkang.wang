@@ -6,6 +6,8 @@
 
 ## AI
 
+- [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) lama.cpp 的 Python 绑定库
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 学以致用，动手搭建，交付成品
 - [unsloth](https://github.com/unslothai/unsloth) Unsloth Studio 是一款网页界面工具，可在本地训练并运行 Gemma 4、通义千问 3.6、DeepSeek、开源版 GPT 等开源模型
 - [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式

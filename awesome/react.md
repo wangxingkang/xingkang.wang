@@ -109,6 +109,7 @@
 - [use-query-params](https://github.com/pbeshai/use-query-params) 用于管理 URL 查询参数状态的 React Hook，支持轻松序列化。
 - [@radix-ui/react-use-controllable-state](https://github.com/radix-ui/primitives/tree/main/packages/react/use-controllable-state) 受控”（Controlled）与“非受控”（Uncontrolled）\*\*状态的管理
 - [custom-react-hooks](https://github.com/djkepa/custom-react-hooks)
+- [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) React 的useEffect钩子，区别在于对依赖项进行深度对比，而非引用相等判断
 
 ## 组件库
 
@@ -134,7 +135,7 @@
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
 - [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
-- [gluestack-ui](https://github.com/gluestack/gluestack-ui)
+- [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
 - [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
 
 ## 数据可视化
@@ -409,6 +410,7 @@
 - [@tuyau/react-query](https://github.com/Julien-R44/tuyau/tree/main/packages/react-query)
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
 - [react-video-editor](https://github.com/designcombo/react-video-editor) 基于 Remotion 搭建的**在线 React 视频编辑器**，复刻剪映、可画风格
+- [cutia](https://github.com/msgbyte/cutia) 开源版网页端剪映替代工具
 - [RapidRAW](https://github.com/CyberTimon/RapidRAW) 一款美观、非破坏性且由 GPU 加速的 RAW 图像编辑器，专为高性能而打造
 - [apollo-client](https://github.com/apollographql/apollo-client) 适用于 TypeScript、JavaScript、React、Vue、Angular 等框架的行业领先 GraphQL 客户端
 - [million](https://github.com/aidenybai/million) 面向 React 的优化编译器
