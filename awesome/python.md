@@ -6,6 +6,7 @@
 
 ## AI
 
+- [club-3090](https://github.com/noonghunna/club-3090) 面向 RTX 3090 显卡、CUDA 架构显卡的大模型部署社区方案。兼容 vLLM、llama.cpp、ik\_llama 多推理引擎，适配各类模型。现已适配单卡、双卡部署的通义千问 3.6-27B、通义千问 3.6-35B、杰玛 4-26B、杰玛 4-31B 模型配置。
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) lama.cpp 的 Python 绑定库
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 学以致用，动手搭建，交付成品
 - [unsloth](https://github.com/unslothai/unsloth) Unsloth Studio 是一款网页界面工具，可在本地训练并运行 Gemma 4、通义千问 3.6、DeepSeek、开源版 GPT 等开源模型

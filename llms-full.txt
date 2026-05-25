@@ -996,6 +996,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [llama-swap](https://github.com/mostlygeek/llama-swap) 适配各类本地兼容 OpenAI、Anthropic 接口的服务端，可稳妥切换模型，支持 llama.cpp、vllm 等程序
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
@@ -1066,6 +1067,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
@@ -1630,6 +1632,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
 - [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
@@ -1852,6 +1855,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [club-3090](https://github.com/noonghunna/club-3090) 面向 RTX 3090 显卡、CUDA 架构显卡的大模型部署社区方案。兼容 vLLM、llama.cpp、ik\_llama 多推理引擎，适配各类模型。现已适配单卡、双卡部署的通义千问 3.6-27B、通义千问 3.6-35B、杰玛 4-26B、杰玛 4-31B 模型配置。
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) lama.cpp 的 Python 绑定库
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 学以致用，动手搭建，交付成品
 - [unsloth](https://github.com/unslothai/unsloth) Unsloth Studio 是一款网页界面工具，可在本地训练并运行 Gemma 4、通义千问 3.6、DeepSeek、开源版 GPT 等开源模型

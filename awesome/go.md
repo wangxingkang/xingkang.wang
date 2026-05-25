@@ -11,6 +11,7 @@
 
 ## 其他
 
+- [llama-swap](https://github.com/mostlygeek/llama-swap) 适配各类本地兼容 OpenAI、Anthropic 接口的服务端，可稳妥切换模型，支持 llama.cpp、vllm 等程序
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
