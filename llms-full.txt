@@ -414,6 +414,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
@@ -1002,6 +1003,7 @@ url: /awesome/go.md
 
 ## AI
 
+- [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
 - [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
 
@@ -1664,6 +1666,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
 - [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
 - [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
@@ -2032,6 +2035,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-magic-modal](https://github.com/GSTJ/react-native-magic-modal) 一款可在任意位置以命令式调用的弹窗组件库
 - [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
 - [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
 - [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案

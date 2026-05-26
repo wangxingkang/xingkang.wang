@@ -105,6 +105,7 @@
 
 ### 其他
 
+- [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
