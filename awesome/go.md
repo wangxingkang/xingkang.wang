@@ -9,8 +9,15 @@
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
 - [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
 
+## 学习
+
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) 算法竞赛模板库
+
 ## 其他
 
+- [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
+- [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
+- [netbird](https://github.com/netbirdio/netbird) 依托 WireGuard® 搭建安全的叠加网络，接入各类设备，支持单点登录、多因素认证以及精细化访问控制
 - [llama-swap](https://github.com/mostlygeek/llama-swap) 适配各类本地兼容 OpenAI、Anthropic 接口的服务端，可稳妥切换模型，支持 llama.cpp、vllm 等程序
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版

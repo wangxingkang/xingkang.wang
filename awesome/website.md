@@ -13,6 +13,7 @@
 - [editorconfig](https://editorconfig.org) EditorConfig
 - [ipaddress](https://www.ipaddress.com/website)
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
+- [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
 
 ## 博客
 

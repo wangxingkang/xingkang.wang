@@ -59,6 +59,7 @@
 
 ## 其他
 
+- [jsonpath](https://github.com/dchester/jsonpath) 借助 JSONPath 表达式查询和操作 JavaScript 对象
 - [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
 - [uiohook-napi](https://github.com/SnosMe/uiohook-napi)

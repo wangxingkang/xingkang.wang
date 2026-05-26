@@ -224,6 +224,8 @@
 
 ### 其他
 
+- [css-selector-generator](https://github.com/fczbkk/css-selector-generator) 用于为指定元素生成唯一 CSS 选择器的 JavaScript 对象
+- [dom-to-pptx](https://github.com/atharva9167j/dom-to-pptx) 将任意 HTML 元素转换为可完整编辑的 PowerPoint 幻灯片
 - [@huggingface/hub](https://github.com/huggingface/huggingface.js) 使用 JavaScript 调用 Hugging Face
 - [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
@@ -320,7 +322,8 @@
 - [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
-- [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器
+- [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器
+- [compare-versions](https://github.com/omichelsen/compare-versions) 对比语义化版本号字符串，判断版本大小、相等关系
 - [string-ts](https://github.com/gustavoguichard/string-ts) 强类型字符串处理函数
 - [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
@@ -439,6 +442,8 @@
 
 ### 数据录入
 
+- [sizzle](https://github.com/jquery/sizzle) 一款性能强劲的高速选择器引擎
+- [imask](https://github.com/uNmAnNeR/imaskjs) 原生 JavaScript 输入掩码
 - [vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) 时间选择器
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片裁剪器
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶

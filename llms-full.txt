@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
@@ -413,6 +414,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
@@ -498,6 +500,7 @@ url: /awesome/ai.md
 - [claude-code](https://github.com/claude-code-best/claude-code) 原汁原昧 Claude Code 可运行版
 - [claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
+  - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
@@ -887,6 +890,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [css-modules-kit](https://github.com/mizdra/css-modules-kit) 一款让 CSS Modules 更好用的工具库
 - [happy-css-modules](https://github.com/mizdra/happy-css-modules) 类型安全、支持定义跳转的 CSS Modules，上手还极其简单！
@@ -942,6 +946,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
+- [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
 - [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
 - [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
@@ -995,8 +1001,15 @@ url: /awesome/go.md
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
 - [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
 
+## 学习
+
+- [codeforces-go](https://github.com/EndlessCheng/codeforces-go) 算法竞赛模板库
+
 ## 其他
 
+- [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
+- [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
+- [netbird](https://github.com/netbirdio/netbird) 依托 WireGuard® 搭建安全的叠加网络，接入各类设备，支持单点登录、多因素认证以及精细化访问控制
 - [llama-swap](https://github.com/mostlygeek/llama-swap) 适配各类本地兼容 OpenAI、Anthropic 接口的服务端，可稳妥切换模型，支持 llama.cpp、vllm 等程序
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
@@ -1056,6 +1069,7 @@ url: /awesome/java.md
 
 ## 其他
 
+- [dbeaver](https://github.com/dbeaver/dbeaver) 免费通用型数据库工具与 SQL 客户端
 - [nacos](https://github.com/alibaba/nacos) 一款易用的动态服务发现、配置管理与服务治理平台，专为构建 AI 云原生应用而设计
 - [flowable-engine](https://github.com/flowable/flowable-engine) 一款精简高效的工作流与业务流程管理（BPM）平台，面向开发者、系统管理员及业务用户
 
@@ -1291,6 +1305,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [css-selector-generator](https://github.com/fczbkk/css-selector-generator) 用于为指定元素生成唯一 CSS 选择器的 JavaScript 对象
+- [dom-to-pptx](https://github.com/atharva9167j/dom-to-pptx) 将任意 HTML 元素转换为可完整编辑的 PowerPoint 幻灯片
 - [@huggingface/hub](https://github.com/huggingface/huggingface.js) 使用 JavaScript 调用 Hugging Face
 - [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
@@ -1387,7 +1403,8 @@ url: /awesome/javascript.md
 - [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
-- [std-semver](https://npmx.dev/package/std-semver) 语义化版本解析器
+- [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器
+- [compare-versions](https://github.com/omichelsen/compare-versions) 对比语义化版本号字符串，判断版本大小、相等关系
 - [string-ts](https://github.com/gustavoguichard/string-ts) 强类型字符串处理函数
 - [filesize](https://github.com/avoidwork/filesize.js) 用于生成描述文件大小的可读字符串的 JavaScript 库
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节数转换为易于阅读的字符串
@@ -1506,6 +1523,8 @@ url: /awesome/javascript.md
 
 ### 数据录入
 
+- [sizzle](https://github.com/jquery/sizzle) 一款性能强劲的高速选择器引擎
+- [imask](https://github.com/uNmAnNeR/imaskjs) 原生 JavaScript 输入掩码
 - [vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) 时间选择器
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片裁剪器
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
@@ -1687,6 +1706,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [jsonpath](https://github.com/dchester/jsonpath) 借助 JSONPath 表达式查询和操作 JavaScript 对象
 - [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
 - [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
@@ -1897,6 +1917,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
 - [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台
@@ -2486,6 +2507,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
@@ -2916,6 +2938,7 @@ url: /awesome/website.md
 - [editorconfig](https://editorconfig.org) EditorConfig
 - [ipaddress](https://www.ipaddress.com/website)
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
+- [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
 
 ## 博客
 
