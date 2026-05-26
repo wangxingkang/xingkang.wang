@@ -429,3 +429,4 @@
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
 - [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
 - [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库
+- [isolet](https://github.com/millionco/isolet) 将任意组件打包为独立、隔离的微组件（小组件）
