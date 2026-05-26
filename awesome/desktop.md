@@ -9,6 +9,7 @@
 
 ### 开发模版
 
+- [electron-react-app](https://github.com/guasam/electron-react-app)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn) Electron Forge 结合 shadcn-ui（基于 Vite + TypeScript）
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
