@@ -46,6 +46,7 @@
 
 ## 其他
 
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
 - [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台

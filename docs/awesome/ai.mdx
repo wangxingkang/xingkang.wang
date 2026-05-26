@@ -35,6 +35,7 @@
 
 ## Skill
 
+- [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
@@ -104,6 +105,7 @@
 
 ### 其他
 
+- [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
@@ -189,6 +191,7 @@
 - [claude-code](https://github.com/claude-code-best/claude-code) 原汁原昧 Claude Code 可运行版
 - [claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
+  - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
