@@ -49,6 +49,7 @@
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
+- [@electron/fuses](https://github.com/electron/fuses) 切换 Electron 安全熔断配置，自定义已打包的 Electron 应用程序
 - [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案

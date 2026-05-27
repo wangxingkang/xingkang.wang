@@ -61,6 +61,19 @@
 
 ## 其他
 
+- [atomically](https://github.com/fabiospampinato/atomically) 以原子操作方式可靠地读写文件
+- [fswin](https://github.com/xxoo/node-fswin) 适用于 Windows 系统的 Node.js 文件系统扩展库
+- [serve-index](https://github.com/expressjs/serve-index) 展示目录列表
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) 系统信息库
+- [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
+- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
+- [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
+- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
+- [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
+- [sqlite3](https://github.com/TryGhost/node-sqlite3) Node.js 的 SQLite3 绑定库
 - [effect](https://github.com/Effect-TS/effect) 给 TypeScript 提供一套“可组合、类型安全、可管理副作用”的运行时框架
 - [otel](https://github.com/kubiks-inc/otel) 专为 TypeScript 可观测性打造的一站式遥测开发工具包
 - [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端

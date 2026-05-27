@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
@@ -752,6 +753,7 @@ url: /awesome/desktop.md
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
+- [@electron/fuses](https://github.com/electron/fuses) 切换 Electron 安全熔断配置，自定义已打包的 Electron 应用程序
 - [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
@@ -1314,6 +1316,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [core-js](https://github.com/zloirock/core-js)
+- [fast-sort](https://github.com/snovakovic/fast-sort) 极速数组排序库
 - [geist](https://github.com/vercel/geist-font/tree/HEAD/packages/next) Geist 是 Vercel 推出的全新字体家族
 - [gif.js](https://github.com/jnordberg/gif.js) JavaScript GIF 编码库
 - [js-cookie](https://github.com/js-cookie/js-cookie) 一款简洁轻量的客户端 JavaScript Cookie 操作接口
@@ -1554,6 +1558,7 @@ url: /awesome/javascript.md
 
 ### 文件相关
 
+- [@cantoo/pdf-lib](https://github.com/cantoo-scribe/pdf-lib) 在任意 JavaScript 环境中创建和编辑 PDF 文档
 - [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器
 - [pdf.js](http://github.com/mozilla/pdf.js) PDF 查看器
 
@@ -1612,6 +1617,9 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) 在现代浏览器中实现文本复制到剪贴板
+- [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
+- [gl-matrix](https://github.com/toji/gl-matrix) 适用于高性能 WebGL 应用的 JavaScript 矩阵与向量运算库
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
 - [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本
 - [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
@@ -1724,6 +1732,19 @@ url: /awesome/node.md
 
 ## 其他
 
+- [atomically](https://github.com/fabiospampinato/atomically) 以原子操作方式可靠地读写文件
+- [fswin](https://github.com/xxoo/node-fswin) 适用于 Windows 系统的 Node.js 文件系统扩展库
+- [serve-index](https://github.com/expressjs/serve-index) 展示目录列表
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) 系统信息库
+- [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
+- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
+- [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
+- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
+- [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
+- [sqlite3](https://github.com/TryGhost/node-sqlite3) Node.js 的 SQLite3 绑定库
 - [effect](https://github.com/Effect-TS/effect) 给 TypeScript 提供一套“可组合、类型安全、可管理副作用”的运行时框架
 - [otel](https://github.com/kubiks-inc/otel) 专为 TypeScript 可观测性打造的一站式遥测开发工具包
 - [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端
@@ -2228,6 +2249,7 @@ url: /awesome/react.md
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
 - [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
+- [blueprint](https://github.com/palantir/blueprint)
 
 ## 数据可视化
 

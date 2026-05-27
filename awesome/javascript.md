@@ -224,6 +224,8 @@
 
 ### 其他
 
+- [core-js](https://github.com/zloirock/core-js)
+- [fast-sort](https://github.com/snovakovic/fast-sort) 极速数组排序库
 - [geist](https://github.com/vercel/geist-font/tree/HEAD/packages/next) Geist 是 Vercel 推出的全新字体家族
 - [gif.js](https://github.com/jnordberg/gif.js) JavaScript GIF 编码库
 - [js-cookie](https://github.com/js-cookie/js-cookie) 一款简洁轻量的客户端 JavaScript Cookie 操作接口
@@ -464,6 +466,7 @@
 
 ### 文件相关
 
+- [@cantoo/pdf-lib](https://github.com/cantoo-scribe/pdf-lib) 在任意 JavaScript 环境中创建和编辑 PDF 文档
 - [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器
 - [pdf.js](http://github.com/mozilla/pdf.js) PDF 查看器
 
@@ -522,6 +525,9 @@
 
 ## 其他
 
+- [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) 在现代浏览器中实现文本复制到剪贴板
+- [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
+- [gl-matrix](https://github.com/toji/gl-matrix) 适用于高性能 WebGL 应用的 JavaScript 矩阵与向量运算库
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
 - [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本
 - [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
