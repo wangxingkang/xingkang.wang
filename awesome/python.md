@@ -6,6 +6,7 @@
 
 ## AI
 
+- [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 这是一个开源插件仓库，插件主要面向知识工作者，供其在 Claude Cowork 中使用
 - [rotorquant](https://github.com/scrya-com/rotorquant) 采用分块对角旋转实现键值缓存压缩，性能优于极速量化：困惑度 6.91，优于 7.07；解码速度提升 28%，预填充速度提升 5.3 倍，参数量缩减至原有的 1/44，可直接无缝接入 llama.cpp 使用
 - [club-3090](https://github.com/noonghunna/club-3090) 面向 RTX 3090 显卡、CUDA 架构显卡的大模型部署社区方案。兼容 vLLM、llama.cpp、ik\_llama 多推理引擎，适配各类模型。现已适配单卡、双卡部署的通义千问 3.6-27B、通义千问 3.6-35B、杰玛 4-26B、杰玛 4-31B 模型配置。
