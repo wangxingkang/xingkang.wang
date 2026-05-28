@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [@react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) 一款用于 React Native 的异步持久化键值存储系统
 - [react-native-magic-modal](https://github.com/GSTJ/react-native-magic-modal) 一款可在任意位置以命令式调用的弹窗组件库
 - [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
 - [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器

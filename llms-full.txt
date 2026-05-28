@@ -666,9 +666,10 @@ url: /awesome/css.md
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
+- [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
 - [@tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) 一款提供工具类样式的插件，用于将文本在指定行数后进行视觉截断
-- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) 为不受你管控的 HTML 页面提供精致优雅的默认排版样式
+- [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) 默认排版样式
 
 ## Reset
 
@@ -736,6 +737,8 @@ url: /awesome/desktop.md
 
 ### 其他
 
+- [@electron/devtron](https://github.com/electron/devtron) 一款 Electron 开发者工具扩展
+- [update-electron-app](https://github.com/electron/update-electron-app) 自动更新
 - [custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) 借鉴 VS Code 风格的自定义 Electron 标题栏
 - [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) 一种将 Chrome 开发者工具扩展集成到 Electron 中的简便方法
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
@@ -752,15 +755,22 @@ url: /awesome/desktop.md
 - [electron-serve](https://github.com/sindresorhus/electron-serve) Electron 应用的静态文件服务
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
+- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) 无需借助菜单，直接为浏览器窗口实例添加本地键盘快捷键
+- [@electron/osx-sign](https://github.com/electron/osx-sign) 为 macOS 平台的 Electron 应用进行代码签名
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
 - [@electron/fuses](https://github.com/electron/fuses) 切换 Electron 安全熔断配置，自定义已打包的 Electron 应用程序
 - [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
+- [electron-squirrel-startup](https://github.com/mongodb-js/electron-squirrel-startup) 适用于 Electron 应用的 Squirrel.Windows 默认事件处理器
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
+- [electron-window-state](https://github.com/mawie81/electron-window-state) 用于保存和恢复 Electron 应用窗口大小与位置的库
 - [electron-builder](https://github.com/electron-userland/electron-builder) 一套一站式解决方案，可打包并构建出可直接分发的 Electron 应用，且开箱即支持自动更新功能
 - [electronmon](https://github.com/catdad/electronmon) 借助简易工具运行、监听并重启 Electron 应用
+- [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
+- [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
+- [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 
 ## Tauri
 
@@ -956,6 +966,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
 - [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
@@ -1132,7 +1143,7 @@ url: /awesome/javascript.md
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 - [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
-- [chartjs](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
+- [chart.js](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
 
 ### 3D
 
@@ -1151,6 +1162,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
@@ -1190,6 +1202,7 @@ url: /awesome/javascript.md
 
 - [mitt](https://github.com/developit/mitt) 🥊 仅 200 字节的超轻量函数式事件发射器/发布-订阅(pubsub)工具
 - [eventemitter3](https://github.com/primus/eventemitter3)
+- [pubsub-js](https://github.com/mroderick/PubSubJS)
 
 ### 计算
 
@@ -1270,6 +1283,7 @@ url: /awesome/javascript.md
   - [rehype-katex](https://github.com/remarkjs/remark-math/tree/main/packages/rehype-katex) 支持数学公式的 remark 与 rehype 插件
   - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
   - [rehype-raw](https://github.com/rehypejs/rehype-raw) 用于重新解析语法树的插件
+  - [rehype-sanitize](https://github.com/rehypejs/rehype-sanitize) 清理 html
   - [remark-gfm](https://github.com/remarkjs/remark-gfm) 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）
   - [rehype-highlight](https://github.com/rehypejs/rehype-highlight) 代码块高亮插件
 
@@ -1302,6 +1316,8 @@ url: /awesome/javascript.md
 
 ### 颜色
 
+- [color](https://github.com/Qix-/color) JavaScript 颜色转换与处理库
+- [color-bits](https://github.com/romgrk/color-bits) 高性能 JavaScript 色彩处理库
 - [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
@@ -1316,6 +1332,20 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
+- [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
+- [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
+- [extract-colors](https://github.com/Namide/extract-colors) 从图片中提取主色调
+- [hjson](https://github.com/hjson/hjson-js) 适用于 JavaScript 的 Hjson
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) 纯 JavaScript 实现的客户端 HTML 转 PDF渲染方案
+- [libphonenumber-js](https://gitlab.com/catamphetamine/libphonenumber-js) 用 JavaScript 重新实现的、更简洁轻量版谷歌安卓 libphonenumber 号码解析库
+- [ogl](https://github.com/oframe/ogl) 轻量型 WebGL 库
+- [papaparse](https://github.com/mholt/PapaParse) 一款高速强大的 CSV（分隔符文本）解析器，可流畅处理大文件与异常格式内容
+- [piri](https://github.com/thejessewinton/piri) 一款轻量工具，可制作样式精美的 SVG 地图
+- [flag-icons](https://github.com/lipis/flag-icons) 精选全量国家旗帜 SVG 图标库，附带 CSS 样式，便于快速集成
+- [validator](https://github.com/validatorjs/validator.js) 字符串校验
+- [webdav](https://github.com/perry-mitchell/webdav-client) WebDAV 客户端
+- [fetch-extras](https://github.com/sindresorhus/fetch-extras) 适用于 Fetch API 的实用工具集
 - [core-js](https://github.com/zloirock/core-js)
 - [fast-sort](https://github.com/snovakovic/fast-sort) 极速数组排序库
 - [geist](https://github.com/vercel/geist-font/tree/HEAD/packages/next) Geist 是 Vercel 推出的全新字体家族
@@ -1364,6 +1394,7 @@ url: /awesome/javascript.md
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
   - [y-protocols](https://github.com/yjs/y-protocols)
   - [y-prosemirror](https://github.com/yjs/y-prosemirror)
+  - [y-indexeddb](https://github.com/yjs/y-indexeddb)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
@@ -1580,7 +1611,7 @@ url: /awesome/javascript.md
 
 #### 其他
 
-- [Tone.js](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
+- [tone](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
@@ -1596,6 +1627,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [ej2-javascript-ui-controls](https://github.com/syncfusion/ej2-javascript-ui-controls) 50 余款跨浏览器、响应式、轻量型 HTML5 UI 控件
+- [cobe](https://github.com/shuding/cobe) 仅 5KB 大小的 WebGL 地球仪库
 - [monaco-editor](https://github.com/microsoft/monaco-editor) 基于浏览器的代码编辑器
 - [openseadragon](https://github.com/openseadragon/openseadragon) 一款**开源、基于网页**的可缩放图像查看器，**纯JavaScript** 实现
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器
@@ -1732,6 +1765,19 @@ url: /awesome/node.md
 
 ## 其他
 
+- [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
+- [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
+- [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) 用于劫持 ESM import 函数的模块
+- [require-in-the-middle](https://github.com/nodejs/require-in-the-middle) 用于劫持 Node.js require 函数的模块
+- [rimraf](https://github.com/isaacs/rimraf) 适用于 Node.js 的 rm -rf 风格文件删除工具
+- [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) 基于配置、高效灵活的命令行工具，借助 markdownlint 库对 Markdown/CommonMark 文件进行代码检查
+- [log-symbols](https://github.com/sindresorhus/log-symbols) 适配不同日志级别的彩色标识符号
+- [shell-env](https://github.com/sindresorhus/shell-env) 从终端 Shell 中获取环境变量
+- [file-icon](https://github.com/sindresorhus/file-icon) macOS 平台）获取文件或应用程序的图标并导出为 PNG 图片
+- [iconv-lite](https://github.com/pillarjs/iconv-lite) 纯 JavaScript 实现的字符编码转换工具
+- [plist](https://github.com/TooTallNate/plist.js) 适用于 Node.js 与浏览器的 Apple 属性列表解析 / 构建库，支持 XML、二进制（bplist）以及 OpenStep 格式
+- [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
+- [ini](https://github.com/npm/ini) JavaScript 版 INI 解析与序列化库
 - [atomically](https://github.com/fabiospampinato/atomically) 以原子操作方式可靠地读写文件
 - [fswin](https://github.com/xxoo/node-fswin) 适用于 Windows 系统的 Node.js 文件系统扩展库
 - [serve-index](https://github.com/expressjs/serve-index) 展示目录列表
@@ -1821,7 +1867,6 @@ url: /awesome/node.md
 - [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
 - [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
-- [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
 - [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
@@ -1895,6 +1940,8 @@ url: /awesome/node.md
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
 - [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
 - [cal.diy](https://github.com/calcom/cal.diy) 让所有人都能触手可及的日程规划基础设施
+- [registry-js](https://github.com/desktop/registry-js) 一款简洁、设计风格明确的 Windows 注册表操作库
+- [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
 
 
 
@@ -2060,6 +2107,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [@react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) 一款用于 React Native 的异步持久化键值存储系统
 - [react-native-magic-modal](https://github.com/GSTJ/react-native-magic-modal) 一款可在任意位置以命令式调用的弹窗组件库
 - [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
 - [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
@@ -2225,6 +2273,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
@@ -2234,6 +2283,7 @@ url: /awesome/react.md
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
+  - [cult-ui](https://github.com/nolly-studio/cult-ui)
 - [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
 - [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
@@ -2282,6 +2332,7 @@ url: /awesome/react.md
 ### 通用
 
 - 图标
+  - [@icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons)
   - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
   - [react-icons](https://github.com/react-icons/react-icons)
   - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react)
@@ -2312,6 +2363,7 @@ url: /awesome/react.md
 
 ### 数据录入
 
+- [react-color-palette](https://github.com/Wondermarin/react-color-palette) 适用于 React 的轻量级取色器组件
 - [react-colorful](https://github.com/omgovich/react-colorful) 颜色选择器
 - [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [formik](https://github.com/jaredpalmer/formik) 构建表单
@@ -2447,6 +2499,10 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
+- [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
+- [react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued) 基于 Diff 与 React 实现的简洁美观的文本对比查看组件
+- [react-mosaic-component](https://github.com/nomcopter/react-mosaic) 基于 React 实现的平铺式窗口管理器
 - [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
 - [react-ace](https://github.com/securingsincity/react-ace) React Ace 组件
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
@@ -2516,6 +2572,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK
 - [react-rewrite](https://github.com/donghaxkim/react-rewrite) 用于运行 React 应用的可视化编辑器，可实时编辑界面元素并直接修改源文件，不含人工智能功能
 - [react-transition-group](https://github.com/reactjs/react-transition-group) 在 React 组件进入或离开 DOM 时执行动画的简便方案
 - [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
@@ -2547,6 +2604,7 @@ url: /awesome/react.md
 - [invoify](https://github.com/al1abb/invoify) 一款基于 Next.js、TypeScript 和 Shadcn 开发的发票生成器应用
 - [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库
 - [isolet](https://github.com/millionco/isolet) 将任意组件打包为独立、隔离的微组件（小组件）
+- [fumadocs](https://github.com/fuma-nama/fumadocs) 优雅且灵活的 React.js 文档框架
 
 
 
@@ -2580,6 +2638,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [rust\_minifb](https://github.com/emoon/rust_minifb) 适用于 Rust 语言的跨平台窗口与帧缓冲区库

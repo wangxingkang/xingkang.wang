@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [rust\_minifb](https://github.com/emoon/rust_minifb) 适用于 Rust 语言的跨平台窗口与帧缓冲区库

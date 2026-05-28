@@ -32,6 +32,8 @@
 
 ### 其他
 
+- [@electron/devtron](https://github.com/electron/devtron) 一款 Electron 开发者工具扩展
+- [update-electron-app](https://github.com/electron/update-electron-app) 自动更新
 - [custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) 借鉴 VS Code 风格的自定义 Electron 标题栏
 - [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) 一种将 Chrome 开发者工具扩展集成到 Electron 中的简便方法
 - [@electron-uikit/core](https://github.com/alex8088/electron-uikit/tree/main/packages/core) Electron UI 工具包核心。提供用于主进程与渲染进程间通信的 UI 工具包 API
@@ -48,15 +50,22 @@
 - [electron-serve](https://github.com/sindresorhus/electron-serve) Electron 应用的静态文件服务
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
+- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) 无需借助菜单，直接为浏览器窗口实例添加本地键盘快捷键
+- [@electron/osx-sign](https://github.com/electron/osx-sign) 为 macOS 平台的 Electron 应用进行代码签名
 - [@electron/notarize](https://github.com/electron/notarize) 为你的 macOS 版 Electron 应用进行公证
 - [@electron/fuses](https://github.com/electron/fuses) 切换 Electron 安全熔断配置，自定义已打包的 Electron 应用程序
 - [doubleshot](https://github.com/Doubleshotjs/doubleshot) 拆分式 Node 后端与 Electron 主进程
+- [electron-squirrel-startup](https://github.com/mongodb-js/electron-squirrel-startup) 适用于 Electron 应用的 Squirrel.Windows 默认事件处理器
 - [electron-icon-builder](https://github.com/safu9/electron-icon-builder) 一款图标生成工具，用于生成 Electron 打包所需的全部图标文件
 - [menubar](https://github.com/max-mapper/menubar) 用 Electron 快速开发**菜单栏桌面应用**的高阶方案
 - [@electron-toolkit/preload](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/preload)
 - [@electron-toolkit/utils](https://github.com/alex8088/electron-toolkit/tree/HEAD/packages/utils)
+- [electron-window-state](https://github.com/mawie81/electron-window-state) 用于保存和恢复 Electron 应用窗口大小与位置的库
 - [electron-builder](https://github.com/electron-userland/electron-builder) 一套一站式解决方案，可打包并构建出可直接分发的 Electron 应用，且开箱即支持自动更新功能
 - [electronmon](https://github.com/catdad/electronmon) 借助简易工具运行、监听并重启 Electron 应用
+- [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
+- [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
+- [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 
 ## Tauri
 

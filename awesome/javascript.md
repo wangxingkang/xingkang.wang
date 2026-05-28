@@ -40,7 +40,7 @@
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 - [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
-- [chartjs](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
+- [chart.js](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
 
 ### 3D
 
@@ -59,6 +59,7 @@
 
 ### 其他
 
+- [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
@@ -98,6 +99,7 @@
 
 - [mitt](https://github.com/developit/mitt) 🥊 仅 200 字节的超轻量函数式事件发射器/发布-订阅(pubsub)工具
 - [eventemitter3](https://github.com/primus/eventemitter3)
+- [pubsub-js](https://github.com/mroderick/PubSubJS)
 
 ### 计算
 
@@ -178,6 +180,7 @@
   - [rehype-katex](https://github.com/remarkjs/remark-math/tree/main/packages/rehype-katex) 支持数学公式的 remark 与 rehype 插件
   - [remark-breaks](https://github.com/remarkjs/remark-breaks) 无需空格即可添加换行支持的插件
   - [rehype-raw](https://github.com/rehypejs/rehype-raw) 用于重新解析语法树的插件
+  - [rehype-sanitize](https://github.com/rehypejs/rehype-sanitize) 清理 html
   - [remark-gfm](https://github.com/remarkjs/remark-gfm) 支持 GFM 语法的 remark 插件（含自动链接字面量、脚注、删除线、表格、任务列表）
   - [rehype-highlight](https://github.com/rehypejs/rehype-highlight) 代码块高亮插件
 
@@ -210,6 +213,8 @@
 
 ### 颜色
 
+- [color](https://github.com/Qix-/color) JavaScript 颜色转换与处理库
+- [color-bits](https://github.com/romgrk/color-bits) 高性能 JavaScript 色彩处理库
 - [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
 - [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
@@ -224,6 +229,20 @@
 
 ### 其他
 
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
+- [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
+- [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
+- [extract-colors](https://github.com/Namide/extract-colors) 从图片中提取主色调
+- [hjson](https://github.com/hjson/hjson-js) 适用于 JavaScript 的 Hjson
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) 纯 JavaScript 实现的客户端 HTML 转 PDF渲染方案
+- [libphonenumber-js](https://gitlab.com/catamphetamine/libphonenumber-js) 用 JavaScript 重新实现的、更简洁轻量版谷歌安卓 libphonenumber 号码解析库
+- [ogl](https://github.com/oframe/ogl) 轻量型 WebGL 库
+- [papaparse](https://github.com/mholt/PapaParse) 一款高速强大的 CSV（分隔符文本）解析器，可流畅处理大文件与异常格式内容
+- [piri](https://github.com/thejessewinton/piri) 一款轻量工具，可制作样式精美的 SVG 地图
+- [flag-icons](https://github.com/lipis/flag-icons) 精选全量国家旗帜 SVG 图标库，附带 CSS 样式，便于快速集成
+- [validator](https://github.com/validatorjs/validator.js) 字符串校验
+- [webdav](https://github.com/perry-mitchell/webdav-client) WebDAV 客户端
+- [fetch-extras](https://github.com/sindresorhus/fetch-extras) 适用于 Fetch API 的实用工具集
 - [core-js](https://github.com/zloirock/core-js)
 - [fast-sort](https://github.com/snovakovic/fast-sort) 极速数组排序库
 - [geist](https://github.com/vercel/geist-font/tree/HEAD/packages/next) Geist 是 Vercel 推出的全新字体家族
@@ -272,6 +291,7 @@
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
   - [y-protocols](https://github.com/yjs/y-protocols)
   - [y-prosemirror](https://github.com/yjs/y-prosemirror)
+  - [y-indexeddb](https://github.com/yjs/y-indexeddb)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
@@ -488,7 +508,7 @@
 
 #### 其他
 
-- [Tone.js](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
+- [tone](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
@@ -504,6 +524,8 @@
 
 ### 其他
 
+- [ej2-javascript-ui-controls](https://github.com/syncfusion/ej2-javascript-ui-controls) 50 余款跨浏览器、响应式、轻量型 HTML5 UI 控件
+- [cobe](https://github.com/shuding/cobe) 仅 5KB 大小的 WebGL 地球仪库
 - [monaco-editor](https://github.com/microsoft/monaco-editor) 基于浏览器的代码编辑器
 - [openseadragon](https://github.com/openseadragon/openseadragon) 一款**开源、基于网页**的可缩放图像查看器，**纯JavaScript** 实现
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) 音频波形播放器

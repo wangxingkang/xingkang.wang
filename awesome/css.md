@@ -27,9 +27,10 @@
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
+- [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
 - [@tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) 一款提供工具类样式的插件，用于将文本在指定行数后进行视觉截断
-- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) 为不受你管控的 HTML 页面提供精致优雅的默认排版样式
+- [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) 默认排版样式
 
 ## Reset
 

@@ -32,6 +32,7 @@
 
 ## 其他
 
+- [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
 - [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
