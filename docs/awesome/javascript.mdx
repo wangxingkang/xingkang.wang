@@ -550,7 +550,6 @@
 - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) 在现代浏览器中实现文本复制到剪贴板
 - [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
 - [gl-matrix](https://github.com/toji/gl-matrix) 适用于高性能 WebGL 应用的 JavaScript 矩阵与向量运算库
-- [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
 - [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本
 - [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) 该库可帮助你检测当前国际化语言是否为**从右至左书写**的语言。
 - [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
