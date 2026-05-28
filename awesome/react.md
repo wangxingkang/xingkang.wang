@@ -309,6 +309,7 @@
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
 - [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
 - [@mdxeditor/editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
+- [@cyntler/react-doc-viewer](https://github.com/cyntler/react-doc-viewer) React 文件预览组件
 
 ### 富文本
 

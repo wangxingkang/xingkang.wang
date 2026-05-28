@@ -18,6 +18,7 @@
 
 ## 框架
 
+- [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
 - [fastify](https://github.com/fastify/fastify)
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
@@ -61,6 +62,7 @@
 
 ## 其他
 
+- [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
 - [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
 - [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
 - [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) 用于劫持 ESM import 函数的模块
@@ -138,6 +140,7 @@
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
 - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
+  - [drizzle-kit](https://github.com/drizzle-team/drizzle-orm/tree/main/drizzle-kit) Drizzle ORM 的命令行迁移工具
 - [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
 - [postgres](https://github.com/porsager/postgres) 适用于 Node.js、Deno、Bun 以及 CloudFlare 平台的高性能全功能 PostgreSQL 客户端
@@ -238,3 +241,4 @@
 - [cal.diy](https://github.com/calcom/cal.diy) 让所有人都能触手可及的日程规划基础设施
 - [registry-js](https://github.com/desktop/registry-js) 一款简洁、设计风格明确的 Windows 注册表操作库
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
+- [kill-port](https://github.com/tiaanduplessis/kill-port) 终止指定端口上运行的进程
