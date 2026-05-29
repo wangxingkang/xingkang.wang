@@ -29,6 +29,7 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理与包发布
 - [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
 - [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
+- [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 
 ## 运行时
 

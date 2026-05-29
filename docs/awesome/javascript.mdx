@@ -63,7 +63,7 @@
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
-- [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
+- [sigma](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
 - [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 - [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
 - [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
@@ -229,6 +229,7 @@
 
 ### 其他
 
+- [graphology](https://github.com/graphology/graphology) 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
 - [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
@@ -508,6 +509,7 @@
 
 #### 其他
 
+- [milkdown](https://github.com/Milkdown/milkdown) 插件驱动型所见即所得 Markdown 编辑器框架
 - [tone](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
