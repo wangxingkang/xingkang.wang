@@ -90,6 +90,7 @@
 
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
   - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
+  - [query-key-factory](https://github.com/lukemorales/query-key-factory) 用于创建类型安全标准化查询键的库
 - [swr](https://github.com/vercel/swr) 数据请求
 - [useWorker](https://github.com/alewin/useWorker) 用于无阻塞后台任务的 React 钩子
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
@@ -161,6 +162,8 @@
 
 ### 其他
 
+- [react-sigma](https://github.com/sim51/react-sigma) Sigma React 组件
+  - [@react-sigma/core](https://github.com/sim51/react-sigma/tree/main/packages/core)
 - [@xyflow/react](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 
 ## 组件
@@ -342,6 +345,7 @@
 
 ### 其他
 
+- [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
 - [react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued) 基于 Diff 与 React 实现的简洁美观的文本对比查看组件

@@ -415,6 +415,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
@@ -910,6 +911,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [css-modules-kit](https://github.com/mizdra/css-modules-kit) 一款让 CSS Modules 更好用的工具库
@@ -1166,7 +1168,7 @@ url: /awesome/javascript.md
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
 - [d2](https://github.com/terrastruct/d2) 种现代化的图表脚本语言，可将文本转换为图表
-- [sigma.js](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
+- [sigma](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
 - [LeaferJS](https://github.com/leaferjs/LeaferJS) 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 - [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
 - [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
@@ -1332,6 +1334,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [graphology](https://github.com/graphology/graphology) 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
 - [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
@@ -1611,6 +1614,7 @@ url: /awesome/javascript.md
 
 #### 其他
 
+- [milkdown](https://github.com/Milkdown/milkdown) 插件驱动型所见即所得 Markdown 编辑器框架
 - [tone](https://github.com/Tonejs/Tone.js) 一款用于在浏览器中制作交互式音乐的 Web Audio 框架
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
@@ -1732,6 +1736,7 @@ url: /awesome/node.md
 - [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理与包发布
 - [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
 - [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
+- [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 
 ## 运行时
 
@@ -2275,6 +2280,7 @@ url: /awesome/react.md
 
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
   - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
+  - [query-key-factory](https://github.com/lukemorales/query-key-factory) 用于创建类型安全标准化查询键的库
 - [swr](https://github.com/vercel/swr) 数据请求
 - [useWorker](https://github.com/alewin/useWorker) 用于无阻塞后台任务的 React 钩子
 - [nuqs](https://github.com/47ng/nuqs) 适用于 React 框架的类型安全搜索参数状态管理器
@@ -2346,6 +2352,8 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-sigma](https://github.com/sim51/react-sigma) Sigma React 组件
+  - [@react-sigma/core](https://github.com/sim51/react-sigma/tree/main/packages/core)
 - [@xyflow/react](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 
 ## 组件
@@ -2527,6 +2535,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
 - [react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued) 基于 Diff 与 React 实现的简洁美观的文本对比查看组件
@@ -2648,6 +2657,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
@@ -2666,6 +2676,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具
 - [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架

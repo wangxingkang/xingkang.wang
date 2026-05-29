@@ -107,6 +107,7 @@
 
 ## 其他
 
+- [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [css-modules-kit](https://github.com/mizdra/css-modules-kit) 一款让 CSS Modules 更好用的工具库

@@ -6,6 +6,7 @@
 
 ## AI
 
+- [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
@@ -24,6 +25,7 @@
 
 ## 其他
 
+- [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具
 - [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
