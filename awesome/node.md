@@ -63,6 +63,9 @@
 
 ## 其他
 
+- [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
+- [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本
+- [is-stream](https://github.com/sindresorhus/is-stream) 检测对象是否为 Node.js 流
 - [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
 - [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
 - [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
