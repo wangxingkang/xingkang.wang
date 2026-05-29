@@ -229,6 +229,7 @@
 
 ### 其他
 
+- [safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify
 - [graphology](https://github.com/graphology/graphology) 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
