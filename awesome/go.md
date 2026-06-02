@@ -16,6 +16,7 @@
 
 ## 其他
 
+- [wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
 - [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
 - [netbird](https://github.com/netbirdio/netbird) 依托 WireGuard® 搭建安全的叠加网络，接入各类设备，支持单点登录、多因素认证以及精细化访问控制
