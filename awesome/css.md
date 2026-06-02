@@ -54,6 +54,10 @@
 - [weapp-tailwindcss](https://tw.icebreaker.top/) 把 tailwindcss 原子化思想带入小程序开发
 - [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) 一款用于 Tailwind CSS 样式混淆的混淆器工具
 
+## 其他
+
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) 复刻 GitHub Markdown 样式所需的最简 CSS 代码
+
 ## 学习
 
 - [iCSS](https://github.com/chokcoco/iCSS) 不止于 CSS

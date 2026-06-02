@@ -694,6 +694,10 @@ url: /awesome/css.md
 - [weapp-tailwindcss](https://tw.icebreaker.top/) 把 tailwindcss 原子化思想带入小程序开发
 - [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) 一款用于 Tailwind CSS 样式混淆的混淆器工具
 
+## 其他
+
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) 复刻 GitHub Markdown 样式所需的最简 CSS 代码
+
 ## 学习
 
 - [iCSS](https://github.com/chokcoco/iCSS) 不止于 CSS
@@ -1192,6 +1196,7 @@ url: /awesome/javascript.md
 - [es-toolkit](https://es-toolkit.dev/zh_hans/) 最先进的JavaScript工具库
 - [lodash](https://github.com/lodash/lodash) 一致性、模块化、高性能的 JavaScript 实用工具库
 - [radashi](https://github.com/radashi-org/radashi) 现代化、社区优先的 TypeScript 工具库
+- [underscore](https://github.com/jashkenas/underscore) 实用工具集
 
 ### 网络请求
 
@@ -1655,6 +1660,9 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [html-tags](https://github.com/sindresorhus/html-tags)
+- [iso-639-1](https://github.com/meikidd/iso-639-1) 用于 [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 语言代码的简易操作接口
+- [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
 - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) 在现代浏览器中实现文本复制到剪贴板
 - [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
 - [gl-matrix](https://github.com/toji/gl-matrix) 适用于高性能 WebGL 应用的 JavaScript 矩阵与向量运算库
@@ -1771,6 +1779,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
+- [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
+- [native-keymap](https://github.com/Microsoft/node-native-keymap) 获取操作系统底层键盘布局和键位映射
 - [nan](https://github.com/nodejs/nan) Node.js 原生抽象层
 - [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
 - [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本

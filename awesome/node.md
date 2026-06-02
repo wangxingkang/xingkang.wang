@@ -63,6 +63,9 @@
 
 ## 其他
 
+- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
+- [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
+- [native-keymap](https://github.com/Microsoft/node-native-keymap) 获取操作系统底层键盘布局和键位映射
 - [nan](https://github.com/nodejs/nan) Node.js 原生抽象层
 - [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
 - [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本
