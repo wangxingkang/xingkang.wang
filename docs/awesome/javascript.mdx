@@ -86,6 +86,7 @@
 - [es-toolkit](https://es-toolkit.dev/zh_hans/) 最先进的JavaScript工具库
 - [lodash](https://github.com/lodash/lodash) 一致性、模块化、高性能的 JavaScript 实用工具库
 - [radashi](https://github.com/radashi-org/radashi) 现代化、社区优先的 TypeScript 工具库
+- [underscore](https://github.com/jashkenas/underscore) 实用工具集
 
 ### 网络请求
 
@@ -549,6 +550,9 @@
 
 ## 其他
 
+- [html-tags](https://github.com/sindresorhus/html-tags)
+- [iso-639-1](https://github.com/meikidd/iso-639-1) 用于 [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 语言代码的简易操作接口
+- [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
 - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) 在现代浏览器中实现文本复制到剪贴板
 - [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
 - [gl-matrix](https://github.com/toji/gl-matrix) 适用于高性能 WebGL 应用的 JavaScript 矩阵与向量运算库
