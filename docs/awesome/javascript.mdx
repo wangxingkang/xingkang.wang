@@ -540,7 +540,6 @@
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
-- [canvas-confetti](https://github.com/catdad/canvas-confetti) 五彩纸屑动画效果
 - [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)

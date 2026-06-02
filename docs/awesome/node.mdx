@@ -63,6 +63,7 @@
 
 ## 其他
 
+- [nan](https://github.com/nodejs/nan) Node.js 原生抽象层
 - [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
 - [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本
 - [is-stream](https://github.com/sindresorhus/is-stream) 检测对象是否为 Node.js 流
