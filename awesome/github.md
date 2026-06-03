@@ -5,14 +5,6 @@
 - [awesome](https://github.com/sindresorhus/awesome) 涵盖各类趣味主题的优质精选清单
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
 
-## action
-
-- [actions/setup-node](https://github.com/actions/setup-node) 安装特定版本的 Node.js
-- [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
-- [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
-- [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
-- [peakoss/anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
-
 ## 工具
 
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
