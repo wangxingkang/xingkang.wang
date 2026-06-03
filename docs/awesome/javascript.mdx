@@ -503,6 +503,7 @@
 - [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
 - [danmu.js](https://github.com/bytedance/danmu.js) 适用于任意 DOM 元素的 HTML5 弹幕插件
+- [asciinema-player](https://github.com/asciinema/asciinema-player) 终端会话录制与数据流的网页播放器
 
 #### 音频
 
