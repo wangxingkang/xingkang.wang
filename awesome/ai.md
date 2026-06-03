@@ -139,7 +139,6 @@
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
 - [deepsec](https://github.com/vercel-labs/deepsec) 由代码智能体驱动、用于在代码库中挖掘漏洞的安全检测工具
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
-- [open-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) 两千余条精选 Seedance 2.0 视频生成提示词，涵盖电影质感、二次元、用户原创内容、商业广告、趣味梗图等风格
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) 检索与检索增强型大语言模型（RAG-LLM）
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
@@ -176,7 +175,6 @@
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
-- [claw-code](https://github.com/ultraworkers/claw-code) claude code 重写(Python)
 - [LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI)
 - [symphony](https://github.com/openai/symphony) 将项目工作转化为独立、自主的执行任务流，让团队能够**管理工作**，而非监督代码智能体
 - [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用

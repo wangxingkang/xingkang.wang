@@ -448,7 +448,6 @@ url: /awesome/ai.md
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
 - [deepsec](https://github.com/vercel-labs/deepsec) 由代码智能体驱动、用于在代码库中挖掘漏洞的安全检测工具
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
-- [open-design](https://github.com/nexu-io/open-design) Claude Design 的开源替代品
 - [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) 两千余条精选 Seedance 2.0 视频生成提示词，涵盖电影质感、二次元、用户原创内容、商业广告、趣味梗图等风格
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) 检索与检索增强型大语言模型（RAG-LLM）
 - [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
@@ -485,7 +484,6 @@ url: /awesome/ai.md
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
-- [claw-code](https://github.com/ultraworkers/claw-code) claude code 重写(Python)
 - [LittleJS-AI](https://github.com/KilledByAPixel/LittleJS-AI)
 - [symphony](https://github.com/openai/symphony) 将项目工作转化为独立、自主的执行任务流，让团队能够**管理工作**，而非监督代码智能体
 - [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用
@@ -1787,6 +1785,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
+- [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
 - [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
@@ -2958,6 +2958,16 @@ url: /awesome/vibe-coding.md
 
 - [官网](https://opencode.ai)
 - [opencode](https://github.com/anomalyco/opencode) 代码仓库
+
+## ClaudeCode
+
+- [官网](https://code.claude.com/docs/zh-CN/overview)
+- [claude-code](https://github.com/anthropics/claude-code) 代码仓库
+
+### 其他
+
+- [claw-code](https://github.com/ultraworkers/claw-code)
+- [open-design](https://github.com/nexu-io/open-design) 本地优先、开源的 Claude Design 替代品
 
 ## Codex
 
