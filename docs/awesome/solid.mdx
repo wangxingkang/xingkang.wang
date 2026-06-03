@@ -15,4 +15,5 @@
 
 ## 其他
 
+- [@solidjs/router](https://github.com/solidjs/solid-router) 路由库
 - [@unhead/solid-js](https://github.com/unjs/unhead/tree/main/packages/solid-js) 适用于任意框架的全栈 `<head>` 工具包

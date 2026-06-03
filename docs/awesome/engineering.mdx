@@ -105,6 +105,15 @@
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
 - [father](https://github.com/umijs/father) NPM 包开发工具
 
+## github action
+
+- [actions/setup-node](https://github.com/actions/setup-node) 安装特定版本的 Node.js
+- [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
+- [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
+- [peakoss/anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
+- [toolkit](https://github.com/actions/toolkit) 用于开发 GitHub Actions 的 GitHub 工具套件
+
 ## 其他
 
 - [publint](https://github.com/publint/publint) NPM 包校验工具
