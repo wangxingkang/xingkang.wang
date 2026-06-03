@@ -45,6 +45,7 @@
 
 ### 图表
 
+- [vue-data-ui](https://github.com/graphieros/vue-data-ui) 数据可视化组件库
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) Apache ECharts™ 的 Vue.js 组件
 
 ### 3D
