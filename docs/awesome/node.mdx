@@ -19,6 +19,7 @@
 ## 框架
 
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
+  - [@hono/node-server](https://github.com/honojs/node-server) 基于 Node.js 的 Hono 服务端
 - [fastify](https://github.com/fastify/fastify)
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
@@ -63,6 +64,7 @@
 
 ## 其他
 
+- [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
 - [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
 - [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
 - [native-keymap](https://github.com/Microsoft/node-native-keymap) 获取操作系统底层键盘布局和键位映射
@@ -111,7 +113,7 @@
 - [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库
 - [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
 - [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
-- [node-mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
+- [mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
 - [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
 - [randomColor](https://github.com/davidmerfield/randomColor) 一款用于生成美观配色的轻量脚本
 - [sax](https://github.com/isaacs/sax-js) 适用于 JavaScript 的 SAX 风格解析器
@@ -250,3 +252,5 @@
 - [registry-js](https://github.com/desktop/registry-js) 一款简洁、设计风格明确的 Windows 注册表操作库
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
 - [kill-port](https://github.com/tiaanduplessis/kill-port) 终止指定端口上运行的进程
+- [md5](https://github.com/pvorb/node-md5) 用于通过 MD5 算法对消息进行哈希处理的 JavaScript 函数
+- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
