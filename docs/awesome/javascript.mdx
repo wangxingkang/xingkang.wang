@@ -142,6 +142,7 @@
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
+- [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
 
 ### 数据生成
 
