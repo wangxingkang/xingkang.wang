@@ -340,7 +340,6 @@ url: /awesome/ai.md
 ### cli
 
 - [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
-- [codex](https://github.com/openai/codex) openai 出品
 
 ## Skill
 
@@ -389,9 +388,7 @@ url: /awesome/ai.md
 
 ### Code
 
-- [opencode](https://github.com/anomalyco/opencode) 智能开发代理
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) 轻量级 MCP，让代码即刻生效
-- [cc-switch](https://github.com/farion1231/cc-switch) 面向 Claude Code、Codex、OpenCode、openclaw 和 Gemini CLI 的**跨平台桌面版一站式辅助工具**。
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
@@ -1258,6 +1255,7 @@ url: /awesome/javascript.md
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
+- [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
 
 ### 数据生成
 
@@ -2941,6 +2939,30 @@ url: /awesome/uni.md
 - [uni-use](https://uni-helper.js.org/uni-use/guide/installation) uni-app 组合式工具集
 - [uni-ku-root](https://uni-ku.js.org/projects/root/introduction) 一个模拟 App.vue 原有能力的根组件插件
 - [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer) 🦾 Uniapp Vue3 版本的分包优化实现
+
+
+
+---
+url: /awesome/vibe-coding.md
+---
+
+# 氛围编程
+
+## OpenCode
+
+### 官方资源
+
+- [官网](https://opencode.ai)
+- [opencode](https://github.com/anomalyco/opencode) 代码仓库
+
+## Codex
+
+- [官网](https://chatgpt.com/zh-Hans-CN/codex)
+- [codex](https://github.com/openai/codex) 代码仓库
+
+## 其他
+
+- [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
 
 
 

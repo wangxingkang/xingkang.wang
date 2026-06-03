@@ -31,7 +31,6 @@
 ### cli
 
 - [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
-- [codex](https://github.com/openai/codex) openai 出品
 
 ## Skill
 
@@ -80,9 +79,7 @@
 
 ### Code
 
-- [opencode](https://github.com/anomalyco/opencode) 智能开发代理
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) 轻量级 MCP，让代码即刻生效
-- [cc-switch](https://github.com/farion1231/cc-switch) 面向 Claude Code、Codex、OpenCode、openclaw 和 Gemini CLI 的**跨平台桌面版一站式辅助工具**。
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面

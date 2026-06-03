@@ -32,6 +32,7 @@
 - [Svelte](/awesome/svelte.md)
 - [Test](/awesome/test.md)
 - [Uni](/awesome/uni.md)
+- [氛围编程](/awesome/vibe-coding.md)
 - [Vue](/awesome/vue.md)
 - [Website](/awesome/website.md)
 
