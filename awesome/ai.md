@@ -106,6 +106,9 @@
 
 ### 其他
 
+- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
+- [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
+- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序

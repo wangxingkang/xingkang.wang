@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
 - [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
 - [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表

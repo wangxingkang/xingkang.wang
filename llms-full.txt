@@ -415,6 +415,9 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
+- [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
+- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
@@ -973,6 +976,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
@@ -1615,6 +1619,7 @@ url: /awesome/javascript.md
 - [player](https://github.com/vidstack/player) 用于在网页上构建视频 / 音频播放器的UI 组件与钩子。功能健壮、可高度定制且具备无障碍支持。是 JW Player 和 Video.js 的现代化替代方案。
 - [plyr](https://github.com/sampotts/plyr) 一款轻量的、支持 HTML5、YouTube 及 Vimeo 的播放器
 - [danmu.js](https://github.com/bytedance/danmu.js) 适用于任意 DOM 元素的 HTML5 弹幕插件
+- [asciinema-player](https://github.com/asciinema/asciinema-player) 终端会话录制与数据流的网页播放器
 
 #### 音频
 
@@ -1782,6 +1787,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
 - [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
 - [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
@@ -2000,6 +2006,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [headroom](https://github.com/chopratejas/headroom) 在送入大模型前，对工具输出内容、日志、文件以及检索增强知识库分片进行压缩。Token 消耗量降低 60%\~95%，回答效果保持不变。提供类库、代理服务、MCP 服务端三种部署形态
 - [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 这是一个开源插件仓库，插件主要面向知识工作者，供其在 Claude Cowork 中使用
 - [rotorquant](https://github.com/scrya-com/rotorquant) 采用分块对角旋转实现键值缓存压缩，性能优于极速量化：困惑度 6.91，优于 7.07；解码速度提升 28%，预填充速度提升 5.3 倍，参数量缩减至原有的 1/44，可直接无缝接入 llama.cpp 使用
