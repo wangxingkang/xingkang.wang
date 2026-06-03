@@ -7,6 +7,16 @@
 - [官网](https://opencode.ai)
 - [opencode](https://github.com/anomalyco/opencode) 代码仓库
 
+## ClaudeCode
+
+- [官网](https://code.claude.com/docs/zh-CN/overview)
+- [claude-code](https://github.com/anthropics/claude-code) 代码仓库
+
+### 其他
+
+- [claw-code](https://github.com/ultraworkers/claw-code)
+- [open-design](https://github.com/nexu-io/open-design) 本地优先、开源的 Claude Design 替代品
+
 ## Codex
 
 - [官网](https://chatgpt.com/zh-Hans-CN/codex)

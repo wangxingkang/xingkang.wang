@@ -64,6 +64,8 @@
 
 ## 其他
 
+- [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
+- [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
 - [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
