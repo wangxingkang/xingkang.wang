@@ -199,7 +199,6 @@
 - [react-reflex](https://github.com/leefsmp/Re-Flex) 适用于中大型 React 网页应用的可缩放弹性布局容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
-- [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
 - [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 
 ### 导航

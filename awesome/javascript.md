@@ -196,7 +196,6 @@
 - [localspace](https://github.com/unadlib/localspace) 一款可将 IndexedDB、localStorage 及其他存储方式的 API 统一为一套标准化接口的库
 - [universal-cookie](https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie) JavaScript 通用 cookie
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
-- [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
@@ -219,7 +218,6 @@
 - [color](https://github.com/Qix-/color) JavaScript 颜色转换与处理库
 - [color-bits](https://github.com/romgrk/color-bits) 高性能 JavaScript 色彩处理库
 - [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
-- [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
@@ -360,7 +358,6 @@
 - [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
 - [jwt-decode](https://github.com/auth0/jwt-decode) 解码 JWT 令牌；适用于浏览器应用
 - [pako](https://github.com/nodeca/pako) zlib 的高速 JavaScript 移植版，可在浏览器与 Node.js 中运行
-- [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
 - [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器

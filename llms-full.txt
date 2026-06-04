@@ -1321,7 +1321,6 @@ url: /awesome/javascript.md
 - [localspace](https://github.com/unadlib/localspace) 一款可将 IndexedDB、localStorage 及其他存储方式的 API 统一为一套标准化接口的库
 - [universal-cookie](https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie) JavaScript 通用 cookie
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
-- [idb-keyval](https://github.com/jakearchibald/idb-keyval) 一款基于 Promise 实现的超轻量极简键值存储库，底层采用 IndexedDB 构建
 - [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
@@ -1344,7 +1343,6 @@ url: /awesome/javascript.md
 - [color](https://github.com/Qix-/color) JavaScript 颜色转换与处理库
 - [color-bits](https://github.com/romgrk/color-bits) 高性能 JavaScript 色彩处理库
 - [@ant-design/colors](https://github.com/ant-design/ant-design-colors)
-- [color](https://github.com/Qix-/color) 颜色转换与处理库
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
@@ -1485,7 +1483,6 @@ url: /awesome/javascript.md
 - [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
 - [jwt-decode](https://github.com/auth0/jwt-decode) 解码 JWT 令牌；适用于浏览器应用
 - [pako](https://github.com/nodeca/pako) zlib 的高速 JavaScript 移植版，可在浏览器与 Node.js 中运行
-- [PapaParse](https://github.com/mholt/PapaParse) 快速且强大的 CSV（分隔文本）解析器，能优雅处理大文件与格式异常的输入
 - [elkjs](https://github.com/kieler/elkjs) 面向 JavaScript 的 ELK 布局算法
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
 - [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器
@@ -1811,7 +1808,6 @@ url: /awesome/node.md
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
-- [defu](https://github.com/unjs/defu) 递归填充默认属性
 - [untun](https://github.com/unjs/untun) 借助 Cloudflare 快速隧道，将本地 HTTP/HTTPS 服务暴露至公网
 - [destr](https://github.com/unjs/destr) 一款更快、更安全、更便捷的 JSON.parse 替代品，支持处理任意输入内容
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
@@ -1949,7 +1945,6 @@ url: /awesome/node.md
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
-- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
 - [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
@@ -2233,7 +2228,6 @@ url: /awesome/react-native.md
 - [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库
 - [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
-- [eact-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及普通 React Web 项目的 SVG 库。
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
 - [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) 为 React Native 提供 iOS 风格流畅滑动操作
@@ -2456,7 +2450,6 @@ url: /awesome/react.md
 - [react-reflex](https://github.com/leefsmp/Re-Flex) 适用于中大型 React 网页应用的可缩放弹性布局容器组件
 - [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) React 可调整大小面板组/布局组件
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) 一款适用于 React 的可拖拽、可调整大小的网格布局组件，支持响应式断点配置
-- [react-mosaic](https://github.com/nomcopter/react-mosaic) 一款 React 平铺式窗口管理器
 - [allotment](https://github.com/johnwalley/allotment) 一款用于实现可调整大小分割视图的 React 组件
 
 ### 导航
@@ -2793,7 +2786,6 @@ url: /awesome/rust.md
 - [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
-- [yazi](https://github.com/sxyazi/yazi) 基于异步I/O、用 Rust 编写的极速终端文件管理器
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
@@ -2943,7 +2935,6 @@ url: /awesome/test.md
 
 ## 其他
 
-- [@playwright/test](https://github.com/microsoft/playwright) Playwright 是一款用于网页测试与自动化的框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
