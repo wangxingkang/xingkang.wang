@@ -124,7 +124,6 @@
 - [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库
 - [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
-- [eact-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及普通 React Web 项目的 SVG 库。
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
 - [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
 - [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) 为 React Native 提供 iOS 风格流畅滑动操作

@@ -70,7 +70,6 @@
 - [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [numa](https://github.com/razvandimescu/numa) 用 Rust 编写的轻量便携 DNS 解析器 支持 .numa 本地域名、广告拦截、开发者自定义域名覆盖
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
-- [yazi](https://github.com/sxyazi/yazi) 基于异步I/O、用 Rust 编写的极速终端文件管理器
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力

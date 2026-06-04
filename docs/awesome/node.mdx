@@ -67,7 +67,6 @@
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
-- [defu](https://github.com/unjs/defu) 递归填充默认属性
 - [untun](https://github.com/unjs/untun) 借助 Cloudflare 快速隧道，将本地 HTTP/HTTPS 服务暴露至公网
 - [destr](https://github.com/unjs/destr) 一款更快、更安全、更便捷的 JSON.parse 替代品，支持处理任意输入内容
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
@@ -205,7 +204,6 @@
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
-- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图片优化工具
 - [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
