@@ -7,6 +7,10 @@
 - [官网](https://chatgpt.com/zh-Hans-CN/codex)
 - [codex](https://github.com/openai/codex) 代码仓库
 
+### 其他
+
+- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
+
 ## OpenCode
 
 ### 官方资源
