@@ -232,6 +232,12 @@
 
 ### 其他
 
+- [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
+- [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器
+- [ghostty-web](https://github.com/coder/ghostty-web) 基于 xterm.js API 兼容实现的网页版 Ghostty 终端
+- [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) 对 JavaScript 对象进行差异比对与补丁生成
+- [lib0](https://github.com/dmonad/lib0) 工具函数
+- [match-sorter](https://github.com/kentcdodds/match-sorter) 适用于 JavaScript 数组、简洁易用、表现可预期且结果确定的最优匹配排序方案
 - [safe-regex2](https://github.com/fastify/safe-regex2) 检测存在潜在灾难性指数耗时问题的正则表达式
 - [unicode-emoji-json](https://github.com/muan/unicode-emoji-json) 从 unicode.org 获取的 Emoji 数据，整理为便于读取使用的 JSON 文件
 - [safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify
@@ -453,6 +459,7 @@
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
+- [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度

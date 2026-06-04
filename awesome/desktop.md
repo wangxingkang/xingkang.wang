@@ -67,6 +67,7 @@
 - [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 - [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
+- [@electron/packager](https://github.com/electron/packager) 通过 JavaScript 代码或命令行工具，自定义并打包 Electron 应用
 
 ## Tauri
 

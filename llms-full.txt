@@ -664,6 +664,7 @@ url: /awesome/css.md
 - [tw-shimmer](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/tw-shimmer) 用于实现微光闪烁效果的 Tailwind CSS v4 插件
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
+- [tailwind-variants](https://github.com/heroui-inc/tailwind-variants) Tailwind CSS 一流变体接口
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
 - [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
@@ -775,6 +776,7 @@ url: /awesome/desktop.md
 - [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 - [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
+- [@electron/packager](https://github.com/electron/packager) 通过 JavaScript 代码或命令行工具，自定义并打包 Electron 应用
 
 ## Tauri
 
@@ -974,6 +976,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
 - [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
@@ -1351,6 +1354,12 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
+- [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器
+- [ghostty-web](https://github.com/coder/ghostty-web) 基于 xterm.js API 兼容实现的网页版 Ghostty 终端
+- [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) 对 JavaScript 对象进行差异比对与补丁生成
+- [lib0](https://github.com/dmonad/lib0) 工具函数
+- [match-sorter](https://github.com/kentcdodds/match-sorter) 适用于 JavaScript 数组、简洁易用、表现可预期且结果确定的最优匹配排序方案
 - [safe-regex2](https://github.com/fastify/safe-regex2) 检测存在潜在灾难性指数耗时问题的正则表达式
 - [unicode-emoji-json](https://github.com/muan/unicode-emoji-json) 从 unicode.org 获取的 Emoji 数据，整理为便于读取使用的 JSON 文件
 - [safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify
@@ -1572,6 +1581,7 @@ url: /awesome/javascript.md
 - [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
+- [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
@@ -2387,6 +2397,7 @@ url: /awesome/react.md
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
 - [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 适用于 ApexCharts 的 React 组件
+- [bklit-ui](https://github.com/bklit/bklit-ui)
 
 ### 3D
 
@@ -2580,6 +2591,9 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
+- [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
+- [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
 - [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
@@ -2699,6 +2713,7 @@ url: /awesome/rust.md
 ## 官方资源
 
 - [官网](https://rust-lang.org/zh-CN/)
+- [cargo](https://github.com/rust-lang/cargo) 包管理器
 
 ## AI
 
@@ -2721,6 +2736,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效
+- [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
 - [EasyTier](https://github.com/EasyTier/EasyTier) 一款简洁、去中心化的网状 VPN，内置 WireGuard 协议支持
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
@@ -3197,6 +3214,7 @@ url: /awesome/website.md
 - [tinypng](https://tinypng.com) 压缩图片
 - [remove](https://www.remove.bg/zh) 去除背景
 - [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)
+- [remove.photos](https://remove.photos/zh-cn/) 抠图
 
 ## 学习
 

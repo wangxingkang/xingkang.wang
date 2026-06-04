@@ -3,6 +3,7 @@
 ## 官方资源
 
 - [官网](https://rust-lang.org/zh-CN/)
+- [cargo](https://github.com/rust-lang/cargo) 包管理器
 
 ## AI
 
@@ -25,6 +26,8 @@
 
 ## 其他
 
+- [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效
+- [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
 - [EasyTier](https://github.com/EasyTier/EasyTier) 一款简洁、去中心化的网状 VPN，内置 WireGuard 协议支持
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端

@@ -30,6 +30,7 @@
 - [tinypng](https://tinypng.com) 压缩图片
 - [remove](https://www.remove.bg/zh) 去除背景
 - [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)
+- [remove.photos](https://remove.photos/zh-cn/) 抠图
 
 ## 学习
 
