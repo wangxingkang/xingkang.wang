@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
 - [defu](https://github.com/unjs/defu) 递归填充默认属性
