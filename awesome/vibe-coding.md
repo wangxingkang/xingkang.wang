@@ -22,6 +22,11 @@
 - [官网](https://chatgpt.com/zh-Hans-CN/codex)
 - [codex](https://github.com/openai/codex) 代码仓库
 
+## CodeWhale
+
+- [官网](https://codewhale.net/zh)
+- [CodeWhale](https://github.com/Hmbown/CodeWhale) 为 DeepSeek V4 而生的终端编程智能体
+
 ## 其他
 
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
