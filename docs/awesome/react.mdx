@@ -153,6 +153,7 @@
 - [recharts](https://github.com/recharts/recharts) 使用 React 和 D3 重新定义图表库
 - [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 适用于 ApexCharts 的 React 组件
+- [bklit-ui](https://github.com/bklit/bklit-ui)
 
 ### 3D
 
@@ -346,6 +347,9 @@
 
 ### 其他
 
+- [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
+- [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
+- [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
 - [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果

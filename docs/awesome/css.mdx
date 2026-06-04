@@ -26,6 +26,7 @@
 - [tw-shimmer](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/tw-shimmer) 用于实现微光闪烁效果的 Tailwind CSS v4 插件
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
+- [tailwind-variants](https://github.com/heroui-inc/tailwind-variants) Tailwind CSS 一流变体接口
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
 - [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
