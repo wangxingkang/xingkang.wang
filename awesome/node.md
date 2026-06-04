@@ -64,6 +64,14 @@
 
 ## 其他
 
+- [hookable](https://github.com/unjs/hookable) 异步钩子
+- [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
+- [defu](https://github.com/unjs/defu) 递归填充默认属性
+- [untun](https://github.com/unjs/untun) 借助 Cloudflare 快速隧道，将本地 HTTP/HTTPS 服务暴露至公网
+- [destr](https://github.com/unjs/destr) 一款更快、更安全、更便捷的 JSON.parse 替代品，支持处理任意输入内容
+- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
+- [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
+- [c12](https://github.com/unjs/c12) 智能配置加载器
 - [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用

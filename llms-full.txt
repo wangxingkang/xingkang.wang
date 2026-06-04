@@ -414,7 +414,6 @@ url: /awesome/ai.md
 
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
-- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
@@ -900,6 +899,7 @@ url: /awesome/engineering.md
 
 ### 插件
 
+- [webpackbar](https://github.com/unjs/webpackbar) 适用于 Webpack 3、4、5 的优雅进度条与性能分析器
 - [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin) 对资源进行压缩处理，以便通过 **Content-Encoding** 响应头提供服务
 
 ## Babel
@@ -914,6 +914,7 @@ url: /awesome/engineering.md
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
 - [father](https://github.com/umijs/father) NPM 包开发工具
+- [unbuild](https://github.com/unjs/unbuild)
 
 ## github action
 
@@ -926,6 +927,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
@@ -975,6 +977,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
@@ -1683,6 +1686,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
 - [html-tags](https://github.com/sindresorhus/html-tags)
 - [iso-639-1](https://github.com/meikidd/iso-639-1) 用于 [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 语言代码的简易操作接口
 - [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
@@ -1803,6 +1807,14 @@ url: /awesome/node.md
 
 ## 其他
 
+- [hookable](https://github.com/unjs/hookable) 异步钩子
+- [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
+- [defu](https://github.com/unjs/defu) 递归填充默认属性
+- [untun](https://github.com/unjs/untun) 借助 Cloudflare 快速隧道，将本地 HTTP/HTTPS 服务暴露至公网
+- [destr](https://github.com/unjs/destr) 一款更快、更安全、更便捷的 JSON.parse 替代品，支持处理任意输入内容
+- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
+- [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
+- [c12](https://github.com/unjs/c12) 智能配置加载器
 - [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
@@ -2995,6 +3007,10 @@ url: /awesome/vibe-coding.md
 
 - [官网](https://chatgpt.com/zh-Hans-CN/codex)
 - [codex](https://github.com/openai/codex) 代码仓库
+
+### 其他
+
+- [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 
 ## OpenCode
 

@@ -90,6 +90,7 @@
 
 ### 插件
 
+- [webpackbar](https://github.com/unjs/webpackbar) 适用于 Webpack 3、4、5 的优雅进度条与性能分析器
 - [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin) 对资源进行压缩处理，以便通过 **Content-Encoding** 响应头提供服务
 
 ## Babel
@@ -104,6 +105,7 @@
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
 - [father](https://github.com/umijs/father) NPM 包开发工具
+- [unbuild](https://github.com/unjs/unbuild)
 
 ## github action
 
@@ -116,6 +118,7 @@
 
 ## 其他
 
+- [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
