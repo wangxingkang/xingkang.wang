@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档

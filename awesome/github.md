@@ -24,6 +24,8 @@
 
 ## 其他
 
+- [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
 - [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网

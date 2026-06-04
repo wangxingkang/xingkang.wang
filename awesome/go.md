@@ -16,6 +16,9 @@
 
 ## 其他
 
+- [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
+- [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
+- [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
 - [wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
 - [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务

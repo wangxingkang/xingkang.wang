@@ -774,6 +774,7 @@ url: /awesome/desktop.md
 - [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
 - [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
+- [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
 
 ## Tauri
 
@@ -784,6 +785,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [tolaria](https://github.com/refactoringhq/tolaria) 用于管理 Markdown 知识库的桌面应用程序
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
@@ -972,6 +974,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
 - [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
@@ -1037,6 +1041,9 @@ url: /awesome/go.md
 
 ## 其他
 
+- [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
+- [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
+- [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
 - [wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
 - [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
@@ -1344,6 +1351,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [safe-regex2](https://github.com/fastify/safe-regex2) 检测存在潜在灾难性指数耗时问题的正则表达式
+- [unicode-emoji-json](https://github.com/muan/unicode-emoji-json) 从 unicode.org 获取的 Emoji 数据，整理为便于读取使用的 JSON 文件
 - [safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify
 - [graphology](https://github.com/graphology/graphology) 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
@@ -1785,6 +1794,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
@@ -2007,6 +2017,9 @@ url: /awesome/python.md
 
 ## AI
 
+- [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
+- [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
+- [OpenMythos](https://github.com/kyegomez/OpenMythos) 依托现有公开研究文献，从基础原理出发，对克劳德神话架构进行理论重构
 - [headroom](https://github.com/chopratejas/headroom) 在送入大模型前，对工具输出内容、日志、文件以及检索增强知识库分片进行压缩。Token 消耗量降低 60%\~95%，回答效果保持不变。提供类库、代理服务、MCP 服务端三种部署形态
 - [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 这是一个开源插件仓库，插件主要面向知识工作者，供其在 Claude Cowork 中使用
@@ -2049,6 +2062,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
@@ -2336,6 +2350,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [coss](https://github.com/cosscom/coss)
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
@@ -2706,6 +2721,12 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
+- [EasyTier](https://github.com/EasyTier/EasyTier) 一款简洁、去中心化的网状 VPN，内置 WireGuard 协议支持
+- [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
+- [pingora](https://github.com/cloudflare/pingora) 一款用于构建高性能、稳定可靠且易于迭代扩展的网络服务的开发库
+- [starship](https://github.com/starship/starship) 一款极简、极速、可高度自定义的跨 Shell 命令行提示符工具
+- [wezterm](https://github.com/wezterm/wezterm) 依托 GPU 硬件加速的跨平台终端模拟器与多路复用工具
 - [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具
 - [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
