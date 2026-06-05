@@ -2007,6 +2007,10 @@ url: /awesome/node.md
 - [md5](https://github.com/pvorb/node-md5) 用于通过 MD5 算法对消息进行哈希处理的 JavaScript 函数
 - [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
 
+## 开发模版
+
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template) Hono 后端模板
+
 
 
 ---
@@ -2079,6 +2083,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
@@ -2596,6 +2601,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
 - [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
 - [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
@@ -2670,6 +2676,7 @@ url: /awesome/react.md
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
 - [south-admin-react](https://github.com/southliu/south-admin-react)
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
 ## 其他
 

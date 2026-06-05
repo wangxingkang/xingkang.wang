@@ -266,3 +266,7 @@
 - [kill-port](https://github.com/tiaanduplessis/kill-port) 终止指定端口上运行的进程
 - [md5](https://github.com/pvorb/node-md5) 用于通过 MD5 算法对消息进行哈希处理的 JavaScript 函数
 - [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
+
+## 开发模版
+
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template) Hono 后端模板
