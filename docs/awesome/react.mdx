@@ -423,6 +423,7 @@
 
 ## 其他
 
+- [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK
 - [react-rewrite](https://github.com/donghaxkim/react-rewrite) 用于运行 React 应用的可视化编辑器，可实时编辑界面元素并直接修改源文件，不含人工智能功能
 - [react-transition-group](https://github.com/reactjs/react-transition-group) 在 React 组件进入或离开 DOM 时执行动画的简便方案
