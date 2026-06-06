@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
