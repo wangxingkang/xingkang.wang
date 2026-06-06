@@ -6,6 +6,7 @@
 
 ## AI
 
+- [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
 - [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) 依托现有公开研究文献，从基础原理出发，对克劳德神话架构进行理论重构

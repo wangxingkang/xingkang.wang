@@ -412,6 +412,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
+- [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
@@ -721,6 +723,7 @@ url: /awesome/desktop.md
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) 基于 Vite + Electron 搭配 Rolldown，速度超快
+- [reactronite](https://github.com/flaviodelgrosso/reactronite) 一款功能完备、现代化的 Electron 开发模板，用于开发跨平台桌面应用程序
 
 ### 开源项目
 
@@ -837,6 +840,7 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) 一款用于将 SVG 转换为 React 组件的 Vite 插件
 - [vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) 为 Vite 新增 WebAssembly ESM 集成能力
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
@@ -976,6 +980,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
@@ -2038,6 +2043,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
 - [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) 依托现有公开研究文献，从基础原理出发，对克劳德神话架构进行理论重构

@@ -29,6 +29,7 @@
 
 ### 其他
 
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) 一款用于将 SVG 转换为 React 组件的 Vite 插件
 - [vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) 为 Vite 新增 WebAssembly ESM 集成能力
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发

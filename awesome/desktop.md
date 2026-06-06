@@ -15,6 +15,7 @@
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo) 基于 pnpm、Vue、Vite 构建的 Electron Turborepo 单体仓库脚手架
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) 基于 Vite + Electron 搭配 Rolldown，速度超快
+- [reactronite](https://github.com/flaviodelgrosso/reactronite) 一款功能完备、现代化的 Electron 开发模板，用于开发跨平台桌面应用程序
 
 ### 开源项目
 
