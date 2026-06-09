@@ -351,6 +351,7 @@
 
 ### 其他
 
+- [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
 - [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器

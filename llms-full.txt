@@ -931,6 +931,8 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
+- [vinext](https://github.com/cloudflare/vinext) 复刻 Next.js API 接口的 Vite 插件，可部署至任意平台
 - [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
@@ -1151,6 +1153,7 @@ url: /awesome/javascript.md
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+- [ai-sdk-ollama](https://github.com/jagreehal/ai-sdk-ollama)
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
 - [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
@@ -1701,6 +1704,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
 - [html-tags](https://github.com/sindresorhus/html-tags)
 - [iso-639-1](https://github.com/meikidd/iso-639-1) 用于 [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 语言代码的简易操作接口
@@ -1822,6 +1826,10 @@ url: /awesome/node.md
 
 ## 其他
 
+- [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
+- [cors](https://github.com/expressjs/cors) Node.js 跨域中间件
+- [caniuse-lite](https://github.com/browserslist/caniuse-lite) 精简版 caniuse 数据库，仅保留核心内容
+- [dotenv-cli](https://github.com/entropitor/dotenv-cli) 用于加载 dotenv 配置文件的命令行工具
 - [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
@@ -2631,6 +2639,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
 - [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
@@ -2992,6 +3001,7 @@ url: /awesome/test.md
 
 ## 其他
 
+- [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具

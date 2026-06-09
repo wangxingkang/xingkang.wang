@@ -47,6 +47,7 @@
 
 ## 其他
 
+- [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
