@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具

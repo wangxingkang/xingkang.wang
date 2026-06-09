@@ -840,6 +840,7 @@ url: /awesome/engineering.md
 
 ### 其他
 
+- [deno-vite-plugin](https://github.com/denoland/deno-vite-plugin) 用于在 Vite 中支持 Deno 模块解析的 Vite 插件
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) 一款用于将 SVG 转换为 React 组件的 Vite 插件
 - [vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) 为 Vite 新增 WebAssembly ESM 集成能力
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
@@ -980,6 +981,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [readest](https://github.com/readest/readest) 电子书阅读器
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
@@ -1041,6 +1043,7 @@ url: /awesome/go.md
 
 ## AI
 
+- [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
 - [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
@@ -1051,6 +1054,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
 - [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
 - [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
@@ -1350,6 +1354,7 @@ url: /awesome/javascript.md
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
+- [tinycolor2](https://github.com/bgrins/TinyColor)
 
 ### 音视频
 
@@ -1359,6 +1364,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [jieba-wasm](https://github.com/fengkx/jieba-wasm) 绑定 [jieba-rs](https://github.com/fengkx/jieba-rs) 的 WebAssembly 封装
 - [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
 - [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器
 - [ghostty-web](https://github.com/coder/ghostty-web) 基于 xterm.js API 兼容实现的网页版 Ghostty 终端
@@ -1809,6 +1815,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
@@ -2043,6 +2050,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
 - [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
 - [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
@@ -2089,6 +2097,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
@@ -2105,6 +2114,7 @@ url: /awesome/python.md
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
 - [TheAlgorithms](https://github.com/TheAlgorithms/Python) 所有算法均使用 Python 实现
+- [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
 
 
 
@@ -2337,6 +2347,7 @@ url: /awesome/react.md
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) 轻松为 React 组件添加倾斜悬浮动画效果
 - [border-beam](https://github.com/Jakubantalik/border-beam) 适用于 React 的边框流光动画效果
+- [metal-fx](https://github.com/Jakubantalik/metal-fx) 适用于 React 按钮及界面组件的 WebGL 液态金属动画效果
 - [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
@@ -2346,6 +2357,9 @@ url: /awesome/react.md
 - [@galacean/effects](https://github.com/galacean/engine) 一款基于 WebGL 和 glTF 构建的 TypeScript 交互式引擎，支持 2D、3D、动画与物理效果
 - [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
 - [lottie-react](https://github.com/Gamote/lottie-react) 用于通过 Lottie 实时渲染复杂的 After Effects 动画
+- [transitions.dev](https://github.com/Jakubantalik/transitions.dev) 网页应用必备动效合集，涵盖各类产品交互动效技巧
+- [cursify](https://github.com/ui-layouts/cursify) 适用于 React 与 Next.js 的鼠标光标动画库
+- [@tsparticles/react](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## Hooks
 
@@ -2568,6 +2582,7 @@ url: /awesome/react.md
 
 ### 文件相关
 
+- [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
@@ -2607,6 +2622,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
 - [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
@@ -2686,6 +2702,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
 - [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK
 - [react-rewrite](https://github.com/donghaxkim/react-rewrite) 用于运行 React 应用的可视化编辑器，可实时编辑界面元素并直接修改源文件，不含人工智能功能
@@ -2736,6 +2753,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
@@ -2755,6 +2773,10 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [jieba-rs](https://github.com/messense/jieba-rs) 中文分词
+- [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
+- [sem](https://github.com/Ataraxy-Labs/sem) 基于 Git 实现实体级差异对比、代码追溯与影响分析；借助 tree-sitter 支持 26 种编程语言，专为代码智能代理打造
+- [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效
 - [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
@@ -2838,6 +2860,10 @@ url: /awesome/solid.md
 
 - [lucide-solid](https://lucide.dev/guide/packages/lucide-solid)
 
+## 动画
+
+- [@tsparticles/solid](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
+
 ## 组件
 
 - [@corvu/tooltip](https://github.com/corvudev/corvu) tooltip
@@ -2863,6 +2889,10 @@ url: /awesome/svelte.md
 ## 图标
 
 - [lucide-svelte](https://lucide.dev/guide/packages/lucide-svelte)
+
+## 动画
+
+- [@tsparticles/svelte](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## 组件库
 
@@ -3086,6 +3116,7 @@ url: /awesome/vue.md
 ## 动画
 
 - [motion-vue](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
+- [@tsparticles/vue3](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## 组件库
 
@@ -3094,7 +3125,7 @@ url: /awesome/vue.md
 - [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
 - [primevue](https://github.com/primefaces/primevue) 下一代 Vue UI 组件库
-- [inspira-ui](https://inspira-ui.com/docs/zh-cn) 使用 Nuxt 和 Vue 构建漂亮的网站
+- [inspira-ui](https://inspira-ui.com/docs/cn/components) 使用 Nuxt 和 Vue 构建漂亮的网站
 - [vue-bits](https://vue-bits.dev/) 一款开源的 Vue 组件合集 - 内置动画效果、支持交互且可完全自定义，助力打造极具视觉冲击力、令人印象深刻的网站
 - [element-plus](https://github.com/element-plus/element-plus) 🎉 由 Element 团队打造的 Vue3 UI 组件库
 - [antdv-next](https://github.com/antdv-next/antdv-next)

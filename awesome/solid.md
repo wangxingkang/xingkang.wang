@@ -4,6 +4,10 @@
 
 - [lucide-solid](https://lucide.dev/guide/packages/lucide-solid)
 
+## 动画
+
+- [@tsparticles/solid](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
+
 ## 组件
 
 - [@corvu/tooltip](https://github.com/corvudev/corvu) tooltip

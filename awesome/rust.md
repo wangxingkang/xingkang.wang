@@ -7,6 +7,7 @@
 
 ## AI
 
+- [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
@@ -26,6 +27,10 @@
 
 ## 其他
 
+- [jieba-rs](https://github.com/messense/jieba-rs) 中文分词
+- [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
+- [sem](https://github.com/Ataraxy-Labs/sem) 基于 Git 实现实体级差异对比、代码追溯与影响分析；借助 tree-sitter 支持 26 种编程语言，专为代码智能代理打造
+- [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效
 - [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验

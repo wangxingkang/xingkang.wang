@@ -4,6 +4,10 @@
 
 - [lucide-svelte](https://lucide.dev/guide/packages/lucide-svelte)
 
+## 动画
+
+- [@tsparticles/svelte](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
+
 ## 组件库
 
 - [bits-ui](https://github.com/huntabyte/bits-ui) 适用于 Svelte 的无样式无头组件
