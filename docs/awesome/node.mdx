@@ -64,6 +64,10 @@
 
 ## 其他
 
+- [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
+- [cors](https://github.com/expressjs/cors) Node.js 跨域中间件
+- [caniuse-lite](https://github.com/browserslist/caniuse-lite) 精简版 caniuse 数据库，仅保留核心内容
+- [dotenv-cli](https://github.com/entropitor/dotenv-cli) 用于加载 dotenv 配置文件的命令行工具
 - [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
 - [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
 - [hookable](https://github.com/unjs/hookable) 异步钩子

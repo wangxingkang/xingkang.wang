@@ -120,6 +120,8 @@
 
 ## 其他
 
+- [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
+- [vinext](https://github.com/cloudflare/vinext) 复刻 Next.js API 接口的 Vite 插件，可部署至任意平台
 - [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集

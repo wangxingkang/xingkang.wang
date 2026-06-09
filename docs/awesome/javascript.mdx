@@ -13,6 +13,7 @@
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+- [ai-sdk-ollama](https://github.com/jagreehal/ai-sdk-ollama)
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
 - [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
@@ -563,6 +564,7 @@
 
 ## 其他
 
+- [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
 - [html-tags](https://github.com/sindresorhus/html-tags)
 - [iso-639-1](https://github.com/meikidd/iso-639-1) 用于 [ISO-639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 语言代码的简易操作接口
