@@ -221,6 +221,7 @@
 - [chroma-js](https://github.com/gka/chroma.js) 用于各类颜色操作的 JavaScript 库
 - [fast-average-color](https://github.com/fast-average-color/fast-average-color) 快速获取平均颜色
 - [culori](https://github.com/Evercoder/culori) 一款功能全面的 JavaScript 颜色处理工具库
+- [tinycolor2](https://github.com/bgrins/TinyColor)
 
 ### 音视频
 
@@ -230,6 +231,7 @@
 
 ### 其他
 
+- [jieba-wasm](https://github.com/fengkx/jieba-wasm) 绑定 [jieba-rs](https://github.com/fengkx/jieba-rs) 的 WebAssembly 封装
 - [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
 - [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器
 - [ghostty-web](https://github.com/coder/ghostty-web) 基于 xterm.js API 兼容实现的网页版 Ghostty 终端

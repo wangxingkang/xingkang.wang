@@ -76,6 +76,7 @@
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) 轻松为 React 组件添加倾斜悬浮动画效果
 - [border-beam](https://github.com/Jakubantalik/border-beam) 适用于 React 的边框流光动画效果
+- [metal-fx](https://github.com/Jakubantalik/metal-fx) 适用于 React 按钮及界面组件的 WebGL 液态金属动画效果
 - [lenis](https://github.com/darkroomengineering/lenis) 本该如此顺滑的滚动体验
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) 一款零配置、即用型动画工具，可为你的网页应用添加流畅过渡效果。可用于 React、Vue 或任意其他 JavaScript 框架。
 - [motion](https://github.com/motiondivision/motion) 一款适用于 React 与 JavaScript 的现代动画库
@@ -85,6 +86,9 @@
 - [@galacean/effects](https://github.com/galacean/engine) 一款基于 WebGL 和 glTF 构建的 TypeScript 交互式引擎，支持 2D、3D、动画与物理效果
 - [lottie-web](https://github.com/airbnb/lottie-web) 原生渲染由 After Effects 制作的动画，支持 Web、Android、iOS 及 React Native 平台
 - [lottie-react](https://github.com/Gamote/lottie-react) 用于通过 Lottie 实时渲染复杂的 After Effects 动画
+- [transitions.dev](https://github.com/Jakubantalik/transitions.dev) 网页应用必备动效合集，涵盖各类产品交互动效技巧
+- [cursify](https://github.com/ui-layouts/cursify) 适用于 React 与 Next.js 的鼠标光标动画库
+- [@tsparticles/react](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## Hooks
 
@@ -307,6 +311,7 @@
 
 ### 文件相关
 
+- [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
@@ -346,6 +351,7 @@
 
 ### 其他
 
+- [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
 - [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
@@ -425,6 +431,7 @@
 
 ## 其他
 
+- [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
 - [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK
 - [react-rewrite](https://github.com/donghaxkim/react-rewrite) 用于运行 React 应用的可视化编辑器，可实时编辑界面元素并直接修改源文件，不含人工智能功能

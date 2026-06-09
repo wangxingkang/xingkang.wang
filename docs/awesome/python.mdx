@@ -6,6 +6,7 @@
 
 ## AI
 
+- [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
 - [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
 - [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
@@ -52,6 +53,7 @@
 
 ## 其他
 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
@@ -68,3 +70,4 @@
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
 - [TheAlgorithms](https://github.com/TheAlgorithms/Python) 所有算法均使用 Python 实现
+- [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
