@@ -24,6 +24,8 @@
 
 ## 其他
 
+- [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
+- [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
@@ -71,3 +73,4 @@
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) 采用 ActivityPub 联邦协议、可在浏览器内直接通过 P2P 点对点 传输的视频流媒体平台
 - [joplin](https://github.com/laurent22/joplin) 一款注重隐私的笔记应用，支持多端同步
+- [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)

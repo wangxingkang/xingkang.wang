@@ -981,6 +981,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
+- [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
@@ -1028,6 +1030,7 @@ url: /awesome/github.md
 - [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) 采用 ActivityPub 联邦协议、可在浏览器内直接通过 P2P 点对点 传输的视频流媒体平台
 - [joplin](https://github.com/laurent22/joplin) 一款注重隐私的笔记应用，支持多端同步
+- [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
 
 
 
@@ -1054,6 +1057,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
 - [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
@@ -1096,6 +1100,7 @@ url: /awesome/go.md
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
 - [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
+- [minio](https://github.com/minio/minio) 对象存储系统
 
 
 
@@ -1364,6 +1369,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@mozilla/readability](https://github.com/mozilla/readability) Firefox 阅读视图所使用的可读性解析库独立版本
+- [emnapi](https://github.com/toyobayashi/emnapi) 适配 Emscripten、wasi-sdk、clang wasm32 与 napi-rs 的 Node-API 实现方案
 - [jieba-wasm](https://github.com/fengkx/jieba-wasm) 绑定 [jieba-rs](https://github.com/fengkx/jieba-rs) 的 WebAssembly 封装
 - [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
 - [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器
@@ -2033,6 +2040,8 @@ url: /awesome/ops.md
 
 ## 其他
 
+- [gitea](https://github.com/go-gitea/gitea) 代码托管
+- [databasus](https://github.com/databasus/databasus) 数据库备份系统
 - [certimate](https://github.com/certimate-go/certimate) 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商
 - [certd](https://github.com/certd/certd) 开源SSL证书管理工具
 
@@ -2773,6 +2782,11 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
+- [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
+- [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
+- [lapce](https://github.com/lapce/lapce) 代码编辑器
+- [zoxide](https://github.com/ajeetdsouza/zoxide) 更智能的切换目录命令，兼容主流终端
 - [jieba-rs](https://github.com/messense/jieba-rs) 中文分词
 - [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
 - [sem](https://github.com/Ataraxy-Labs/sem) 基于 Git 实现实体级差异对比、代码追溯与影响分析；借助 tree-sitter 支持 26 种编程语言，专为代码智能代理打造
