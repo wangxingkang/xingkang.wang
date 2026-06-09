@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
 - [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
@@ -59,3 +60,4 @@
 - [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
 - [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
+- [minio](https://github.com/minio/minio) 对象存储系统

@@ -231,6 +231,8 @@
 
 ### 其他
 
+- [@mozilla/readability](https://github.com/mozilla/readability) Firefox 阅读视图所使用的可读性解析库独立版本
+- [emnapi](https://github.com/toyobayashi/emnapi) 适配 Emscripten、wasi-sdk、clang wasm32 与 napi-rs 的 Node-API 实现方案
 - [jieba-wasm](https://github.com/fengkx/jieba-wasm) 绑定 [jieba-rs](https://github.com/fengkx/jieba-rs) 的 WebAssembly 封装
 - [@replit/codemirror-vim](https://github.com/replit/codemirror-vim) 适配 CM6 的 Vim 快捷键绑定
 - [emittery](https://github.com/sindresorhus/emittery) 简洁现代的异步事件触发器

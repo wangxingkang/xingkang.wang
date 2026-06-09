@@ -27,6 +27,11 @@
 
 ## 其他
 
+- [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
+- [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
+- [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
+- [lapce](https://github.com/lapce/lapce) 代码编辑器
+- [zoxide](https://github.com/ajeetdsouza/zoxide) 更智能的切换目录命令，兼容主流终端
 - [jieba-rs](https://github.com/messense/jieba-rs) 中文分词
 - [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
 - [sem](https://github.com/Ataraxy-Labs/sem) 基于 Git 实现实体级差异对比、代码追溯与影响分析；借助 tree-sitter 支持 26 种编程语言，专为代码智能代理打造
