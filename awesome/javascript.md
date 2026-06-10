@@ -232,6 +232,9 @@
 
 ### 其他
 
+- [rrule](https://github.com/jkbrzt/rrule) 用于处理遵循 iCalendar RFC 等规范定义的日历日期重复规则
+- [sanitize-html](https://github.com/apostrophecms/apostrophe/tree/main/packages/sanitize-html) HTML 清洗工具
+- [schema-dts](https://github.com/google/schema-dts) 适配 Schema.org 词汇表的 JSON-LD TypeScript 类型定义
 - [@mozilla/readability](https://github.com/mozilla/readability) Firefox 阅读视图所使用的可读性解析库独立版本
 - [emnapi](https://github.com/toyobayashi/emnapi) 适配 Emscripten、wasi-sdk、clang wasm32 与 napi-rs 的 Node-API 实现方案
 - [jieba-wasm](https://github.com/fengkx/jieba-wasm) 绑定 [jieba-rs](https://github.com/fengkx/jieba-rs) 的 WebAssembly 封装
@@ -462,6 +465,7 @@
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
+- [short-uuid](https://github.com/oculus42/short-uuid) 将标准 UUID 转换为更简短的格式，并支持反向还原
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度

@@ -32,6 +32,7 @@
   - [embla-carousel-react](https://github.com/davidjerleke/embla-carousel) 轮播图库
   - [@tanstack/react-virtual](https://tanstack.com/virtual/latest) 虚拟列表
   - [react-virtuoso](https://github.com/petyosi/react-virtuoso) 虚拟列表(支持无限滚动)
+  - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 监测元素进入或离开可视区域的时机
   - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 滚动条
     - [overlayscrollbars](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars)
 

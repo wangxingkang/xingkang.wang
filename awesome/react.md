@@ -117,10 +117,11 @@
 - [custom-react-hooks](https://github.com/djkepa/custom-react-hooks)
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) React 的useEffect钩子，区别在于对依赖项进行深度对比，而非引用相等判断
 - [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
+- [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
 
 ## 组件库
 
-- [coss](https://github.com/cosscom/coss)
+- [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
@@ -351,6 +352,10 @@
 
 ### 其他
 
+- [react-schemaorg](https://github.com/google/react-schemaorg) 为 React 提供经过类型校验的Schema.org JSON-LD 结构
+- [react-select](https://github.com/JedWatson/react-select) 适用于 React.js 的下拉选择组件
+- [react-timezone-select](https://github.com/ndom91/react-timezone-select) 一款易用性极高、支持动态切换的 React 时区选择组件
+- [react-turnstile](https://github.com/Le0developer/react-turnstile) Cloudflare Turnstile 人机验证服务
 - [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
 - [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
