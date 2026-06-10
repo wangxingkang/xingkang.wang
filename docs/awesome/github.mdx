@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [opencv](https://github.com/opencv/opencv) 计算机视觉库
 - [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
 - [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
 - [readest](https://github.com/readest/readest) 电子书阅读器
