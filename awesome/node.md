@@ -6,6 +6,7 @@
 
 ## AI
 
+- [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
 - [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
