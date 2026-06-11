@@ -6,6 +6,7 @@
 
 ## AI
 
+- [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
 - [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
 - [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
@@ -53,6 +54,9 @@
 
 ## 其他
 
+- [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
+- [tornado](https://github.com/tornadoweb/tornado) 网页框架与异步网络库
 - [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架

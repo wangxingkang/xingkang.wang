@@ -35,6 +35,7 @@
 
 ### 图表
 
+- [plotly.js](https://github.com/plotly/plotly.js) 支撑 Plotly 与 Dash 的开源 JavaScript 图表库
 - [LogicFlow](https://github.com/didi/LogicFlow) 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) 基于 HTML5 Canvas 构建的高性能金融图表
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
@@ -134,6 +135,7 @@
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
 - [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
+  - [jspdf-autotable](https://github.com/simonbengtsson/jsPDF-AutoTable)
 - [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
 - [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
 - [imagemin](https://github.com/imagemin/imagemin) 图像压缩
@@ -232,6 +234,15 @@
 
 ### 其他
 
+- [@apidevtools/json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser) 解析、寻址并解引用 JSON Schema 中的 $ref 引用指针
+- [acorn](https://github.com/acornjs/acorn) 一款轻量、高速、基于 JavaScript 实现的 JavaScript 解析器
+- [flatted](https://github.com/WebReflection/flatted) 一款高速轻量的循环 JSON 解析器
+- [read-excel-file](https://gitlab.com/catamphetamine/read-excel-file) 在浏览器或 Node.js 环境读取.xlsx 文件，依据严格的校验解析规则转换为 JSON 格式数据
+- [rfdc](https://github.com/davidmarkclements/rfdc) 极速深度克隆
+- [url-join](https://github.com/jfromaniello/url-join) 将所有参数拼接在一起，并对生成的 URL 进行标准化处理
+- [scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) 为 Element.scrollIntoView 补充兼容垫片，支持 if-needed、smooth 等参数
+- [smooth-scroll-into-view-if-needed](https://github.com/scroll-into-view/smooth-scroll-into-view-if-needed) 平滑滚动元素至可视区域
+- [compute-scroll-into-view](https://github.com/scroll-into-view/compute-scroll-into-view) 用于计算滚动目标位置的工具
 - [@rexa-developer/tiks](https://github.com/rexa-developer/tiks) 网页端程序化界面音效，无需音频文件，完全合成生成
 - [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
 - [attr-accept](https://github.com/react-dropzone/attr-accept) HTML5 input 输入框 accept 属性的 JavaScript 实现
@@ -313,6 +324,7 @@
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
   - [y-protocols](https://github.com/yjs/y-protocols)
+  - [y-websocket](https://github.com/yjs/y-websocket)
   - [y-prosemirror](https://github.com/yjs/y-prosemirror)
   - [y-indexeddb](https://github.com/yjs/y-indexeddb)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺

@@ -413,6 +413,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
@@ -984,6 +985,9 @@ url: /awesome/github.md
 
 ## 其他
 
+- [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
+- [filepizza](https://github.com/kern/filepizza) 浏览器内点对点文件传输
+- [plane](https://github.com/makeplane/plane) 现代化项目管理平台，可用于管理任务、迭代周期、文档和问题分类处理
 - [opencv](https://github.com/opencv/opencv) 计算机视觉库
 - [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
 - [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
@@ -1177,6 +1181,7 @@ url: /awesome/javascript.md
 
 ### 图表
 
+- [plotly.js](https://github.com/plotly/plotly.js) 支撑 Plotly 与 Dash 的开源 JavaScript 图表库
 - [LogicFlow](https://github.com/didi/LogicFlow) 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) 基于 HTML5 Canvas 构建的高性能金融图表
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
@@ -1276,6 +1281,7 @@ url: /awesome/javascript.md
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
 - [jspdf](https://github.com/parallax/jsPDF) 面向所有人的客户端 JavaScript PDF 生成方案
+  - [jspdf-autotable](https://github.com/simonbengtsson/jsPDF-AutoTable)
 - [file-saver](https://github.com/eligrey/FileSaver.js) 一款 HTML5 saveAs() FileSaver 实现方案
 - [jszip](https://github.com/Stuk/jszip) 借助 JavaScript 创建、读取和编辑 ZIP 文件
 - [imagemin](https://github.com/imagemin/imagemin) 图像压缩
@@ -1374,6 +1380,15 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@apidevtools/json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser) 解析、寻址并解引用 JSON Schema 中的 $ref 引用指针
+- [acorn](https://github.com/acornjs/acorn) 一款轻量、高速、基于 JavaScript 实现的 JavaScript 解析器
+- [flatted](https://github.com/WebReflection/flatted) 一款高速轻量的循环 JSON 解析器
+- [read-excel-file](https://gitlab.com/catamphetamine/read-excel-file) 在浏览器或 Node.js 环境读取.xlsx 文件，依据严格的校验解析规则转换为 JSON 格式数据
+- [rfdc](https://github.com/davidmarkclements/rfdc) 极速深度克隆
+- [url-join](https://github.com/jfromaniello/url-join) 将所有参数拼接在一起，并对生成的 URL 进行标准化处理
+- [scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) 为 Element.scrollIntoView 补充兼容垫片，支持 if-needed、smooth 等参数
+- [smooth-scroll-into-view-if-needed](https://github.com/scroll-into-view/smooth-scroll-into-view-if-needed) 平滑滚动元素至可视区域
+- [compute-scroll-into-view](https://github.com/scroll-into-view/compute-scroll-into-view) 用于计算滚动目标位置的工具
 - [@rexa-developer/tiks](https://github.com/rexa-developer/tiks) 网页端程序化界面音效，无需音频文件，完全合成生成
 - [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
 - [attr-accept](https://github.com/react-dropzone/attr-accept) HTML5 input 输入框 accept 属性的 JavaScript 实现
@@ -1455,6 +1470,7 @@ url: /awesome/javascript.md
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
 - [yjs](https://github.com/yjs/yjs) 用于构建协作软件的共享数据类型
   - [y-protocols](https://github.com/yjs/y-protocols)
+  - [y-websocket](https://github.com/yjs/y-websocket)
   - [y-prosemirror](https://github.com/yjs/y-prosemirror)
   - [y-indexeddb](https://github.com/yjs/y-indexeddb)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
@@ -1839,6 +1855,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [export-to-csv](https://github.com/alexcaza/export-to-csv) 将 JS 数据集导出为 CSV 文件
+- [serve](https://github.com/vercel/serve) 静态文件托管与目录列表展示
 - [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
 - [cors](https://github.com/expressjs/cors) Node.js 跨域中间件
 - [caniuse-lite](https://github.com/browserslist/caniuse-lite) 精简版 caniuse 数据库，仅保留核心内容
@@ -2080,6 +2098,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
 - [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
 - [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
@@ -2127,6 +2146,9 @@ url: /awesome/python.md
 
 ## 其他
 
+- [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
+- [tornado](https://github.com/tornadoweb/tornado) 网页框架与异步网络库
 - [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
@@ -2617,6 +2639,7 @@ url: /awesome/react.md
 
 - [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
+  - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 react-pdf 中渲染 HTML 内容
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
@@ -2655,6 +2678,15 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) 日期范围选择器
+- [react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) 日期时间范围选择器
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) 侧边滑出组件
+- [react-accessible-treeview](https://github.com/dgreene1/react-accessible-treeview) 一款遵循 WAI-ARIA 创作规范、实现树形视图模式的 React 组件
+- [react-checkbox-tree](https://github.com/jakezatecky/react-checkbox-tree) 一款简洁美观的 React 复选框树形组件
+- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) 环形进度条
+- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
+- [react-selecto](https://github.com/daybrush/selecto) 通过鼠标或触屏在拖拽区域内框选元素
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 构建的简易 HTML5 拖拽上传区域
 - [react-schemaorg](https://github.com/google/react-schemaorg) 为 React 提供经过类型校验的Schema.org JSON-LD 结构
 - [react-select](https://github.com/JedWatson/react-select) 适用于 React.js 的下拉选择组件
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) 一款易用性极高、支持动态切换的 React 时区选择组件
@@ -2811,6 +2843,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
 - [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
 - [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
@@ -2892,6 +2925,7 @@ url: /awesome/rust.md
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
 - [tock](https://github.com/tock/tock) 面向微控制器的安全嵌入式操作系统
 - [unrs-resolver](https://github.com/unrs/unrs-resolver) 支持 PNP 的 webpack 增强解析库 Rust 移植版
+- [meatshell](https://github.com/jeff141/meatshell) 一个轻量级、低内存占用的 SSH / 终端客户端
 
 
 
