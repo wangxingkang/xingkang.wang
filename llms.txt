@@ -22,7 +22,7 @@
 - [IDE](/awesome/ide.md)
 - [Java](/awesome/java.md)
 - [JavaScript](/awesome/javascript.md)
-- [Node](/awesome/node.md)
+- [Node](/awesome/node.md): awesome-nodejs
 - [运维](/awesome/ops.md)
 - [Python](/awesome/python.md)
 - [React Native](/awesome/react-native.md)

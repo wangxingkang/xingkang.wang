@@ -1,5 +1,7 @@
 # Node
 
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
 ## 官方资源
 
 - [官网](https://nodejs.org/zh-cn)
