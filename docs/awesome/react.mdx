@@ -315,6 +315,7 @@
 
 - [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
+  - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 react-pdf 中渲染 HTML 内容
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
@@ -353,6 +354,15 @@
 
 ### 其他
 
+- [react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) 日期范围选择器
+- [react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) 日期时间范围选择器
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) 侧边滑出组件
+- [react-accessible-treeview](https://github.com/dgreene1/react-accessible-treeview) 一款遵循 WAI-ARIA 创作规范、实现树形视图模式的 React 组件
+- [react-checkbox-tree](https://github.com/jakezatecky/react-checkbox-tree) 一款简洁美观的 React 复选框树形组件
+- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) 环形进度条
+- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
+- [react-selecto](https://github.com/daybrush/selecto) 通过鼠标或触屏在拖拽区域内框选元素
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 构建的简易 HTML5 拖拽上传区域
 - [react-schemaorg](https://github.com/google/react-schemaorg) 为 React 提供经过类型校验的Schema.org JSON-LD 结构
 - [react-select](https://github.com/JedWatson/react-select) 适用于 React.js 的下拉选择组件
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) 一款易用性极高、支持动态切换的 React 时区选择组件

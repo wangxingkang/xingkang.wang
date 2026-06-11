@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
 - [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
 - [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
@@ -108,3 +109,4 @@
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
 - [tock](https://github.com/tock/tock) 面向微控制器的安全嵌入式操作系统
 - [unrs-resolver](https://github.com/unrs/unrs-resolver) 支持 PNP 的 webpack 增强解析库 Rust 移植版
+- [meatshell](https://github.com/jeff141/meatshell) 一个轻量级、低内存占用的 SSH / 终端客户端

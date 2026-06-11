@@ -103,6 +103,7 @@
 
 ### 其他
 
+- [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
 - [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间

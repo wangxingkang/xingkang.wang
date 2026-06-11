@@ -24,6 +24,9 @@
 
 ## 其他
 
+- [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
+- [filepizza](https://github.com/kern/filepizza) 浏览器内点对点文件传输
+- [plane](https://github.com/makeplane/plane) 现代化项目管理平台，可用于管理任务、迭代周期、文档和问题分类处理
 - [opencv](https://github.com/opencv/opencv) 计算机视觉库
 - [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
 - [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
