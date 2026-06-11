@@ -196,6 +196,7 @@
 
 ### 布局
 
+- [react-photo-album](https://github.com/igordanchenko/react-photo-album) 适用于 React 的响应式图片画廊组件
 - [rc-dock](https://github.com/ticlo/rc-dock) 适用于 React 组件的停靠式布局
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
 - [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
