@@ -24,6 +24,8 @@
 
 ## 其他
 
+- [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
+- [screenity](https://github.com/alyssaxuu/screenity) 无限制、保护隐私的免费屏幕录制工具
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
 - [filepizza](https://github.com/kern/filepizza) 浏览器内点对点文件传输
 - [plane](https://github.com/makeplane/plane) 现代化项目管理平台，可用于管理任务、迭代周期、文档和问题分类处理
