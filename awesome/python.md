@@ -53,6 +53,7 @@
 
 ## 其他
 
+- [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架

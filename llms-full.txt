@@ -1374,6 +1374,10 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@rexa-developer/tiks](https://github.com/rexa-developer/tiks) 网页端程序化界面音效，无需音频文件，完全合成生成
+- [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
+- [attr-accept](https://github.com/react-dropzone/attr-accept) HTML5 input 输入框 accept 属性的 JavaScript 实现
+- [file-selector](https://github.com/react-dropzone/file-selector) 将拖拽事件或文件输入转换为 File 对象列表
 - [rrule](https://github.com/jkbrzt/rrule) 用于处理遵循 iCalendar RFC 等规范定义的日历日期重复规则
 - [sanitize-html](https://github.com/apostrophecms/apostrophe/tree/main/packages/sanitize-html) HTML 清洗工具
 - [schema-dts](https://github.com/google/schema-dts) 适配 Schema.org 词汇表的 JSON-LD TypeScript 类型定义
@@ -2121,6 +2125,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 功能齐全的命令行音视频下载工具
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
@@ -2803,6 +2808,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
+- [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库

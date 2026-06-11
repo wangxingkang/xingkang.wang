@@ -232,6 +232,10 @@
 
 ### 其他
 
+- [@rexa-developer/tiks](https://github.com/rexa-developer/tiks) 网页端程序化界面音效，无需音频文件，完全合成生成
+- [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
+- [attr-accept](https://github.com/react-dropzone/attr-accept) HTML5 input 输入框 accept 属性的 JavaScript 实现
+- [file-selector](https://github.com/react-dropzone/file-selector) 将拖拽事件或文件输入转换为 File 对象列表
 - [rrule](https://github.com/jkbrzt/rrule) 用于处理遵循 iCalendar RFC 等规范定义的日历日期重复规则
 - [sanitize-html](https://github.com/apostrophecms/apostrophe/tree/main/packages/sanitize-html) HTML 清洗工具
 - [schema-dts](https://github.com/google/schema-dts) 适配 Schema.org 词汇表的 JSON-LD TypeScript 类型定义
