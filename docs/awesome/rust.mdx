@@ -27,6 +27,8 @@
 
 ## 其他
 
+- [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
+- [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
