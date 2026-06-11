@@ -199,7 +199,7 @@
 - [localspace](https://github.com/unadlib/localspace) 一款可将 IndexedDB、localStorage 及其他存储方式的 API 统一为一套标准化接口的库
 - [universal-cookie](https://github.com/bendotcodes/cookies/tree/main/packages/universal-cookie) JavaScript 通用 cookie
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
-- [localForage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
+- [localforage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 - [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
