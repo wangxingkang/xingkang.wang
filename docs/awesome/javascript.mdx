@@ -228,6 +228,7 @@
 
 ### 音视频
 
+- [mediainfo.js](https://github.com/buzz/mediainfo.js) 借助 WebAssembly 在浏览器中提取媒体文件元数据
 - ffmpeg.wasm
   - [@ffmpeg/ffmpeg](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/ffmpeg)
   - [@ffmpeg/util](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/util)

@@ -67,6 +67,15 @@
 
 ## 其他
 
+- [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
+  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
+  - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
+  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/core.js)
+- [console-table-printer](https://github.com/console-table-printer/console-table-printer) 在控制台打印美观的表格
+- [hls-parser](https://github.com/kuu/hls-parser) 一款用于读写 HLS 播放列表的简易库
+- [iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) 基础 IPTV 播放列表解析器
+- [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/socks-proxy-agent) 适用于 HTTP 与 HTTPS 的 SOCKS 代理 http.Agent 实现
+- [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
 - [export-to-csv](https://github.com/alexcaza/export-to-csv) 将 JS 数据集导出为 CSV 文件
 - [serve](https://github.com/vercel/serve) 静态文件托管与目录列表展示
 - [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
