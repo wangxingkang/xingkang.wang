@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
 - [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
 - [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
 - [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
