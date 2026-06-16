@@ -67,6 +67,9 @@
 
 ## 其他
 
+- [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
+- [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
+- [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
 - [node-redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)

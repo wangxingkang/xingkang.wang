@@ -413,6 +413,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
@@ -1861,6 +1862,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
+- [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
+- [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
 - [node-redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
@@ -2413,6 +2417,7 @@ url: /awesome/react.md
 
 ## 动画
 
+- [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) 轻松为 React 组件添加倾斜悬浮动画效果
@@ -2862,6 +2867,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
 - [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
 - [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
 - [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
@@ -3076,6 +3082,7 @@ url: /awesome/test.md
 
 ## 其他
 
+- [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
 - [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现

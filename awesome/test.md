@@ -47,6 +47,7 @@
 
 ## 其他
 
+- [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
 - [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现

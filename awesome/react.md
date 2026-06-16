@@ -72,6 +72,7 @@
 
 ## 动画
 
+- [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) 轻松为 React 组件添加倾斜悬浮动画效果
