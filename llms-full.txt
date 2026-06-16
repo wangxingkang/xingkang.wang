@@ -1861,6 +1861,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
   - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
@@ -2113,6 +2114,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
 - [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
 - [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
 - [mem0](https://github.com/mem0ai/mem0) 面向 AI 智能体的通用内存层

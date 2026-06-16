@@ -67,6 +67,7 @@
 
 ## 其他
 
+- [node-redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
   - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
