@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
 - [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
 - [nalgebra](https://github.com/dimforge/nalgebra) 线性代数库
