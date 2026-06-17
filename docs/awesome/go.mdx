@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
 - [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
