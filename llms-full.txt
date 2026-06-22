@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
@@ -1281,6 +1282,7 @@ url: /awesome/javascript.md
 - [class-variance-authority](https://github.com/joe-bell/cva) 类变体管理器
 - [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) 合并 Tailwind CSS 类名，且不会产生样式冲突
+- [cnfast](https://github.com/aidenybai/cnfast) 可快速直接替代 `cn` 的工具
 
 ### 文件相关
 
@@ -2119,6 +2121,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
 - [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
 - [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
@@ -2848,6 +2851,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
@@ -2868,6 +2872,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
 - [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
