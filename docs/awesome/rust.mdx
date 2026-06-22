@@ -7,6 +7,7 @@
 
 ## AI
 
+- [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
@@ -27,6 +28,7 @@
 
 ## 其他
 
+- [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
 - [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具

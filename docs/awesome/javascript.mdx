@@ -128,6 +128,7 @@
 - [class-variance-authority](https://github.com/joe-bell/cva) 类变体管理器
 - [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) 合并 Tailwind CSS 类名，且不会产生样式冲突
+- [cnfast](https://github.com/aidenybai/cnfast) 可快速直接替代 `cn` 的工具
 
 ### 文件相关
 
