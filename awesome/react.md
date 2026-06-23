@@ -451,6 +451,8 @@
 
 ## 其他
 
+- [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
+- [bippy](https://github.com/aidenybai/bippy) 可侵入 React 底层内部逻辑的工具集
 - [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
 - [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK

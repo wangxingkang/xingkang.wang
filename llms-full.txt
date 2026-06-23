@@ -482,6 +482,7 @@ url: /awesome/ai.md
 - [deepagents](https://github.com/langchain-ai/deepagents) 基于 LangChain 和 LangGraph 构建的智能体管控框架。配备规划工具、文件系统后端，并支持创建子智能体，功能完备，可处理各类复杂的智能体任务
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
+- [ds4](https://github.com/antirez/ds4) 适配 Metal、CUDA、ROCm 的 DeepSeek 4 Flash 与专业版本地推理引擎
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) 使用 C/C++ 进行大语言模型（LLM）推理
 - [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
@@ -781,6 +782,7 @@ url: /awesome/desktop.md
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 - [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
 - [@electron/packager](https://github.com/electron/packager) 通过 JavaScript 代码或命令行工具，自定义并打包 Electron 应用
+- [electron-settings](https://github.com/nathanbuchar/electron-settings) 一款适用于 Electron 的轻量持久化用户配置框架
 
 ## Tauri
 
@@ -987,6 +989,10 @@ url: /awesome/github.md
 
 ## 其他
 
+- [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
+- [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
+- [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
+- [type-review](https://github.com/xiaolai/type-review) 一款自适应式打字练习网页应用，简洁无干扰 —— 无需注册账号、不连接服务器、无任何数据采集
 - [iptv](https://github.com/iptv-org/iptv) 汇集全球各地公开可用的网络电视（IPTV）频道资源
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
 - [screenity](https://github.com/alyssaxuu/screenity) 无限制、保护隐私的免费屏幕录制工具
@@ -1070,6 +1076,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
 - [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
@@ -1117,6 +1124,7 @@ url: /awesome/go.md
 - [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
 - [minio](https://github.com/minio/minio) 对象存储系统
+- [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖
 
 
 
@@ -1230,6 +1238,7 @@ url: /awesome/javascript.md
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-fs-backend](https://github.com/i18next/i18next-fs-backend) 适用于 Node.js 和 Deno 的 i18next 后端模块，用于从文件系统加载翻译资源
   - [i18next-resources-for-ts](https://github.com/i18next/i18next-resources-for-ts) 该工具包可将资源转换为可用于类型安全的 i18next 项目的格式
   - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
   - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件
@@ -1806,6 +1815,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
@@ -1865,6 +1875,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
+- [socket.io](https://github.com/socketio/socket.io) 适用于全平台的双向低延迟通信方案
 - [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
 - [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
 - [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
@@ -1927,6 +1939,7 @@ url: /awesome/node.md
 - [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
 - [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
+- [detect-port](https://github.com/node-modules/detect-port) 用于检测系统可用端口
 - [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
 - [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
@@ -2800,6 +2813,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
+- [bippy](https://github.com/aidenybai/bippy) 可侵入 React 底层内部逻辑的工具集
 - [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
 - [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [flags](https://github.com/vercel/flags) Vercel 推出的功能标记 SDK
@@ -2872,6 +2887,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
@@ -3160,6 +3176,7 @@ url: /awesome/vibe-coding.md
 ### 其他
 
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
+- [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 
 ## OpenCode
 
@@ -3189,6 +3206,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具

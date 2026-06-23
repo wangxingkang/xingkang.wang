@@ -76,6 +76,7 @@
 ## 多语言
 
 - [i18next](https://github.com/i18next/i18next)
+  - [i18next-fs-backend](https://github.com/i18next/i18next-fs-backend) 适用于 Node.js 和 Deno 的 i18next 后端模块，用于从文件系统加载翻译资源
   - [i18next-resources-for-ts](https://github.com/i18next/i18next-resources-for-ts) 该工具包可将资源转换为可用于类型安全的 i18next 项目的格式
   - [i18next-http-backend](https://github.com/i18next/i18next-http-backend) 适用于 i18next 的后端层，可在 Node.js、浏览器及 Deno 中使用
   - [i18next-icu](https://github.com/i18next/i18next-icu) 用于在 i18next 中使用 ICU 格式的 i18nFormat 插件

@@ -8,6 +8,7 @@
 
 ## AI
 
+- [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
@@ -67,6 +68,8 @@
 
 ## 其他
 
+- [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
+- [socket.io](https://github.com/socketio/socket.io) 适用于全平台的双向低延迟通信方案
 - [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
 - [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
 - [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
@@ -129,6 +132,7 @@
 - [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
 - [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
+- [detect-port](https://github.com/node-modules/detect-port) 用于检测系统可用端口
 - [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
 - [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
