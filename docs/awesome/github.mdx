@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析

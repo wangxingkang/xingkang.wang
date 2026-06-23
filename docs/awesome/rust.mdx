@@ -7,6 +7,7 @@
 
 ## AI
 
+- [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息

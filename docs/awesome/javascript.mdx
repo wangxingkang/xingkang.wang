@@ -230,6 +230,7 @@
 
 ### 音视频
 
+- [mpegts.js](https://github.com/xqq/mpegts.js) HTML5 MPEG2-TS / FLV 流媒体播放器
 - [mediainfo.js](https://github.com/buzz/mediainfo.js) 借助 WebAssembly 在浏览器中提取媒体文件元数据
 - ffmpeg.wasm
   - [@ffmpeg/ffmpeg](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/ffmpeg)
@@ -237,6 +238,7 @@
 
 ### 其他
 
+- [prop-for-that](https://github.com/argyleink/prop-for-that) JS 能实现的效果，如今 CSS 也能做到
 - [@apidevtools/json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser) 解析、寻址并解引用 JSON Schema 中的 $ref 引用指针
 - [acorn](https://github.com/acornjs/acorn) 一款轻量、高速、基于 JavaScript 实现的 JavaScript 解析器
 - [flatted](https://github.com/WebReflection/flatted) 一款高速轻量的循环 JSON 解析器

@@ -68,6 +68,7 @@
 
 ## 其他
 
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
 - [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
 - [socket.io](https://github.com/socketio/socket.io) 适用于全平台的双向低延迟通信方案
 - [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
