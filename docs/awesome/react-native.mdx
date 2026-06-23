@@ -74,6 +74,7 @@
 
 ## 其他
 
+- [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
 - [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
 - [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web/tree/HEAD/packages/react) 基于 dotlottie-web 库封装的 React 组件

@@ -24,6 +24,7 @@
 
 ## 其他
 
+- [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
 - [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
