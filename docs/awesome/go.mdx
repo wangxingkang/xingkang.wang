@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
 - [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
@@ -64,3 +65,4 @@
 - [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
 - [minio](https://github.com/minio/minio) 对象存储系统
+- [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖

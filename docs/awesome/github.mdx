@@ -24,6 +24,10 @@
 
 ## 其他
 
+- [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
+- [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
+- [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
+- [type-review](https://github.com/xiaolai/type-review) 一款自适应式打字练习网页应用，简洁无干扰 —— 无需注册账号、不连接服务器、无任何数据采集
 - [iptv](https://github.com/iptv-org/iptv) 汇集全球各地公开可用的网络电视（IPTV）频道资源
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
 - [screenity](https://github.com/alyssaxuu/screenity) 无限制、保护隐私的免费屏幕录制工具

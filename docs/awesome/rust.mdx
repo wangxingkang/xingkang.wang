@@ -28,6 +28,7 @@
 
 ## 其他
 
+- [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
