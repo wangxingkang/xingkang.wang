@@ -414,6 +414,8 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
+- [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
@@ -989,6 +991,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
 - [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
@@ -2289,6 +2292,7 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
 - [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
 - [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web/tree/HEAD/packages/react) 基于 dotlottie-web 库封装的 React 组件
@@ -2717,6 +2721,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@open-file-viewer/react](https://github.com/xushanpei/open-file-viewer) 面向浏览器的文件预览库
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
 - [react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) 日期范围选择器
