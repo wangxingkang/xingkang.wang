@@ -355,6 +355,7 @@
 
 ### 其他
 
+- [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
 - [@open-file-viewer/react](https://github.com/xushanpei/open-file-viewer) 面向浏览器的文件预览库
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件

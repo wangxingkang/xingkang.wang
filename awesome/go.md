@@ -17,6 +17,7 @@
 
 ## 其他
 
+- [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆

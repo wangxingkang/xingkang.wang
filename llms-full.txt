@@ -991,6 +991,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
@@ -1079,6 +1080,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
@@ -1395,6 +1397,7 @@ url: /awesome/javascript.md
 
 ### 音视频
 
+- [mpegts.js](https://github.com/xqq/mpegts.js) HTML5 MPEG2-TS / FLV 流媒体播放器
 - [mediainfo.js](https://github.com/buzz/mediainfo.js) 借助 WebAssembly 在浏览器中提取媒体文件元数据
 - ffmpeg.wasm
   - [@ffmpeg/ffmpeg](https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/packages/ffmpeg)
@@ -1402,6 +1405,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [prop-for-that](https://github.com/argyleink/prop-for-that) JS 能实现的效果，如今 CSS 也能做到
 - [@apidevtools/json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser) 解析、寻址并解引用 JSON Schema 中的 $ref 引用指针
 - [acorn](https://github.com/acornjs/acorn) 一款轻量、高速、基于 JavaScript 实现的 JavaScript 解析器
 - [flatted](https://github.com/WebReflection/flatted) 一款高速轻量的循环 JSON 解析器
@@ -1878,6 +1882,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
 - [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
 - [socket.io](https://github.com/socketio/socket.io) 适用于全平台的双向低延迟通信方案
 - [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
@@ -2721,6 +2726,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
 - [@open-file-viewer/react](https://github.com/xushanpei/open-file-viewer) 面向浏览器的文件预览库
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
@@ -2871,6 +2877,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
@@ -3256,6 +3263,7 @@ url: /awesome/vue.md
 
 ## 组件库
 
+- [naive-ui](https://github.com/tusen-ai/naive-ui)
 - [@nuxt/ui](https://github.com/nuxt/ui) 由 Reka UI 与 Tailwind CSS 驱动的简约易用型 Vue UI 组件库
 - [tiny-vue](https://github.com/opentiny/tiny-vue) OpenTiny 社区的企业级 UI 组件库，同时支持 Vue.js 2 和 Vue.js 3，以及 PC 端和移动端。
 - [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
