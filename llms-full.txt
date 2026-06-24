@@ -1512,7 +1512,6 @@ url: /awesome/javascript.md
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
-- [scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) 为 if-needed、smooth 等属性提供 Element.scrollIntoView 的 Ponyfill 兼容垫片
 - [bwip-js](https://github.com/metafloor/bwip-js) 纯 JavaScript 条形码生成器
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库
@@ -2589,7 +2588,7 @@ url: /awesome/react.md
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
-  - [@thesvg/react](https://github.com/glincker/thesvg)
+  - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
 
 ### 布局
 
@@ -2636,7 +2635,6 @@ url: /awesome/react.md
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
 - [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) 一个简洁易用、可复用的 React 日期选择器组件
-- [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
 - [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
 - [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面
@@ -3323,7 +3321,7 @@ url: /awesome/vue.md
 
 - 图标
   - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
-  - [@thesvg/react](https://github.com/glincker/thesvg)
+  - [@thesvg/vue](https://github.com/glincker/thesvg/tree/main/packages/vue)
 
 ### 布局
 

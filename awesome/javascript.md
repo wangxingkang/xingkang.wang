@@ -338,7 +338,6 @@
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
-- [scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) 为 if-needed、smooth 等属性提供 Element.scrollIntoView 的 Ponyfill 兼容垫片
 - [bwip-js](https://github.com/metafloor/bwip-js) 纯 JavaScript 条形码生成器
 - [final-form](https://github.com/final-form/final-form) 框架无关、高性能、基于订阅式的表单状态管理
 - [survey](https://github.com/surveyjs/survey-library) 表单构建库

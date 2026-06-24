@@ -193,7 +193,7 @@
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
-  - [@thesvg/react](https://github.com/glincker/thesvg)
+  - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
 
 ### 布局
 
@@ -240,7 +240,6 @@
 - [emoji-picker-react](https://github.com/ealush/emoji-picker-react) 最受欢迎的 React 表情选择器
 - [react-day-picker](https://github.com/gpbl/react-day-picker) 一款可定制的 React 日期选择器组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) 一个简洁易用、可复用的 React 日期选择器组件
-- [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 实现的轻量 HTML5 拖放上传区域
 - [react-international-phone](https://github.com/ybrusentsov/react-international-phone) 国际电话输入组件
 - [input-otp](https://github.com/guilhermerodz/input-otp) 一个用于输入一次性密码(OTP)的 React 组件
 - [leva](https://github.com/pmndrs/leva) 基于 React 优先的组件化图形界面

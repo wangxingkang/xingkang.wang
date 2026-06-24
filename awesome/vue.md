@@ -65,7 +65,7 @@
 
 - 图标
   - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
-  - [@thesvg/react](https://github.com/glincker/thesvg)
+  - [@thesvg/vue](https://github.com/glincker/thesvg/tree/main/packages/vue)
 
 ### 布局
 
