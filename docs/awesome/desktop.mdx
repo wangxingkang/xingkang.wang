@@ -33,6 +33,7 @@
 
 ### 其他
 
+- [@electron/get](https://github.com/electron/get) 下载 Electron 发行版制品
 - [@electron/devtron](https://github.com/electron/devtron) 一款 Electron 开发者工具扩展
 - [update-electron-app](https://github.com/electron/update-electron-app) 自动更新
 - [custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) 借鉴 VS Code 风格的自定义 Electron 标题栏
