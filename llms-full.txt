@@ -943,6 +943,8 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [fast-ignore](https://github.com/fabiospampinato/fast-ignore) 一款高性能的 `.gitignore` 文件解析与处理工具
+- [lightningcss](https://github.com/parcel-bundler/lightningcss) 一款采用 Rust 编写、速度极快的 CSS 解析器、转换器、打包器与压缩工具
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
 - [vinext](https://github.com/cloudflare/vinext) 复刻 Next.js API 接口的 Vite 插件，可部署至任意平台
 - [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
@@ -1409,8 +1411,11 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [filenamify](https://github.com/sindresorhus/filenamify) 将字符串转换为合法安全的文件名
+- [typed-query-selector](https://github.com/g-plane/typed-query-selector) 类型更完善的 querySelector 与 querySelectorAll
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
 - [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
+- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
 - [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
 - [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
@@ -1898,6 +1903,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
 - [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口

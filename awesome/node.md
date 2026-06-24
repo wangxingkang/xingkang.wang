@@ -68,6 +68,7 @@
 
 ## 其他
 
+- [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
 - [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
