@@ -2711,6 +2711,7 @@ url: /awesome/react.md
 
 ### 文件相关
 
+- [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [@open-file-viewer/react](https://github.com/xushanpei/open-file-viewer) 面向浏览器的文件预览库
 - [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
@@ -2721,6 +2722,7 @@ url: /awesome/react.md
 - [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
 - [@mdxeditor/editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
 - [@cyntler/react-doc-viewer](https://github.com/cyntler/react-doc-viewer) React 文件预览组件
+- [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 
 ### 富文本
 
@@ -2733,6 +2735,9 @@ url: /awesome/react.md
 
 ### 音视频
 
+- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
+- [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
+- [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
 - [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
   - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
@@ -2742,6 +2747,7 @@ url: /awesome/react.md
 - [@mux/mux-player-react](https://github.com/muxinc/elements/tree/main/packages/mux-video-react) 一款适配 Mux 平台风格的 React 视频组件
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 - [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
+- [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 
 ### 拖拽
 
@@ -2754,26 +2760,21 @@ url: /awesome/react.md
 ### 其他
 
 - [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
-- [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
 - [react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) 日期范围选择器
 - [react-datetimerange-picker](https://github.com/wojtekmaj/react-datetimerange-picker) 日期时间范围选择器
 - [react-accessible-treeview](https://github.com/dgreene1/react-accessible-treeview) 一款遵循 WAI-ARIA 创作规范、实现树形视图模式的 React 组件
 - [react-checkbox-tree](https://github.com/jakezatecky/react-checkbox-tree) 一款简洁美观的 React 复选框树形组件
 - [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) 环形进度条
-- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
 - [react-selecto](https://github.com/daybrush/selecto) 通过鼠标或触屏在拖拽区域内框选元素
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) 基于 React.js 构建的简易 HTML5 拖拽上传区域
 - [react-schemaorg](https://github.com/google/react-schemaorg) 为 React 提供经过类型校验的Schema.org JSON-LD 结构
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) 一款易用性极高、支持动态切换的 React 时区选择组件
 - [react-turnstile](https://github.com/Le0developer/react-turnstile) Cloudflare Turnstile 人机验证服务
 - [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
-- [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
 - [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
 - [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
-- [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
-- [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
 - [@samasante/liquid-glass](https://github.com/samasante/liquid-glass) 网页端苹果风格液态玻璃效果
@@ -2784,6 +2785,9 @@ url: /awesome/react.md
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
+- [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
+- [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
 - [react-logviewer](https://github.com/melloware/react-logviewer) React 日志查看器
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
@@ -2806,25 +2810,21 @@ url: /awesome/react.md
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
 - [react-device-detect](https://github.com/duskload/react-device-detect) 检测设备，并根据检测到的设备类型渲染视图。
 - [@unhead/react](https://github.com/unjs/unhead/tree/main/packages/react) 适用于任意框架的全栈 `<head>` 工具包
-- [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
 - [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
 - [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
-- [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [@pierre/diffs](https://github.com/pierrecomputer/pierre/tree/main/packages/diffs)
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
 - [@use-gesture/react](https://github.com/pmndrs/use-gesture) 手势库
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
 - [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
-- [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [@react-oauth/google](https://github.com/MomenSherif/react-oauth) 谷歌登录
 - [@react-oauth/github](https://github.com/MomenSherif/react-oauth) GitHub 登录
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) 简洁可复用的 React 错误边界组件
 - [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-- [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
 - [react-archer](https://github.com/pierpo/react-archer) 在 React 元素之间绘制箭头
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
   - [@rjsf/core](https://github.com/rjsf-team/react-jsonschema-form/tree/main/packages/core) 核心包
