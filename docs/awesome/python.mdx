@@ -6,6 +6,7 @@
 
 ## AI
 
+- [PixelRAG](https://github.com/StarTrail-org/PixelRAG) PixelRAG 将网页、PDF、图片等文档渲染为截图，并直接基于图像完成检索
 - [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
 - [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
