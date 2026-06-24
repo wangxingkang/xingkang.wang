@@ -12,3 +12,7 @@
 ## 开发模版
 
 - [vite-web-extension](https://github.com/JohnBra/vite-web-extension) 可快速开发 Chrome 与 Firefox 浏览器扩展的网页扩展模板，集成 React 19、TypeScript 及 TailwindCSS
+
+## 案例
+
+- [refined-github](https://github.com/refined-github/refined-github) 一款简化 GitHub 界面并增添实用功能的浏览器扩展程序
