@@ -238,8 +238,11 @@
 
 ### 其他
 
+- [filenamify](https://github.com/sindresorhus/filenamify) 将字符串转换为合法安全的文件名
+- [typed-query-selector](https://github.com/g-plane/typed-query-selector) 类型更完善的 querySelector 与 querySelectorAll
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
 - [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
+- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
 - [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
 - [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
