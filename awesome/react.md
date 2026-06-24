@@ -381,6 +381,7 @@
 - [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
+- [@samasante/liquid-glass](https://github.com/samasante/liquid-glass) 网页端苹果风格液态玻璃效果
 - [react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued) 基于 Diff 与 React 实现的简洁美观的文本对比查看组件
 - [react-mosaic-component](https://github.com/nomcopter/react-mosaic) 基于 React 实现的平铺式窗口管理器
 - [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
