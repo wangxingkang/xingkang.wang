@@ -238,6 +238,18 @@
 
 ### 其他
 
+- [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
+- [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
+- [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
+- [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
+- [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
+- [strip-indent](https://github.com/sindresorhus/strip-indent) 去除字符串每一行开头的空白字符
+- [ts-extras](https://github.com/sindresorhus/ts-extras) 适用于 TypeScript 项目的基础工具库
+- [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) 用于处理 Uint8Array（以及 Buffer）的实用工具函数
+- [element-ready](https://github.com/sindresorhus/element-ready) 检测元素何时在 DOM 中加载完成
+- [delegate-it](https://github.com/fregante/delegate-it) DOM 事件委托
+- [batched-function](https://github.com/Richienb/batched-function) 将多次函数调用批量合并为单次调用
+- [abort-utils](https://github.com/fregante/abort-utils) 用于结合 Promise 使用 `AbortSignal` 和 `AbortController` 的工具函数
 - [prop-for-that](https://github.com/argyleink/prop-for-that) JS 能实现的效果，如今 CSS 也能做到
 - [@apidevtools/json-schema-ref-parser](https://github.com/APIDevTools/json-schema-ref-parser) 解析、寻址并解引用 JSON Schema 中的 $ref 引用指针
 - [acorn](https://github.com/acornjs/acorn) 一款轻量、高速、基于 JavaScript 实现的 JavaScript 解析器
