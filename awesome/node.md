@@ -68,6 +68,11 @@
 
 ## 其他
 
+- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
+- [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
+- [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具
+- [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
+- [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
 - [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口

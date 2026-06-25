@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
@@ -981,6 +982,7 @@ url: /awesome/github.md
 
 ## 工具
 
+- [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
@@ -1076,6 +1078,7 @@ url: /awesome/go.md
 
 ## AI
 
+- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
@@ -1412,6 +1415,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 经典的 SVG、字体与 CSS 工具库
+- [cheerio](https://github.com/cheeriojs/cheerio) 一款高效、灵活且简洁优雅的库，用于解析和处理 HTML 与 XML
+- [psl](https://github.com/lupomontero/psl) 基于公共后缀列表实现的 JavaScript 域名解析器
 - [filenamify](https://github.com/sindresorhus/filenamify) 将字符串转换为合法安全的文件名
 - [typed-query-selector](https://github.com/g-plane/typed-query-selector) 类型更完善的 querySelector 与 querySelectorAll
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
@@ -1903,6 +1909,11 @@ url: /awesome/node.md
 
 ## 其他
 
+- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
+- [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
+- [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具
+- [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
+- [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
 - [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
@@ -2165,6 +2176,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
 - [PixelRAG](https://github.com/StarTrail-org/PixelRAG) PixelRAG 将网页、PDF、图片等文档渲染为截图，并直接基于图像完成检索
 - [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
@@ -2740,6 +2752,7 @@ url: /awesome/react.md
 - [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
 - [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
+  - [remocn](https://github.com/kapishdima/remocn) 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件
   - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
   - [@remotion/webcodecs](https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs) 浏览器端媒体转换
 - [react-player](https://github.com/CookPete/react-player)
@@ -2923,6 +2936,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
+- [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
 - [googleworkspace-cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
@@ -3142,6 +3157,7 @@ url: /awesome/test.md
 
 ## 其他
 
+- [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
 - [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
 - [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库

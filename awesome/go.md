@@ -6,6 +6,7 @@
 
 ## AI
 
+- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型

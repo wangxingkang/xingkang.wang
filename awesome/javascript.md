@@ -238,6 +238,9 @@
 
 ### 其他
 
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 经典的 SVG、字体与 CSS 工具库
+- [cheerio](https://github.com/cheeriojs/cheerio) 一款高效、灵活且简洁优雅的库，用于解析和处理 HTML 与 XML
+- [psl](https://github.com/lupomontero/psl) 基于公共后缀列表实现的 JavaScript 域名解析器
 - [filenamify](https://github.com/sindresorhus/filenamify) 将字符串转换为合法安全的文件名
 - [typed-query-selector](https://github.com/g-plane/typed-query-selector) 类型更完善的 querySelector 与 querySelectorAll
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
