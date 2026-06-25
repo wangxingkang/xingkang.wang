@@ -290,6 +290,7 @@
 
 ### 其他
 
+- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
 - [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员

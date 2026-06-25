@@ -59,5 +59,9 @@
 ## 其他
 
 - [135editor](https://www.135editor.com) 公众号编辑器
+
 - [processon](https://www.processon.com) 思维导图
+
 - [convertio](https://convertio.co/zh/) 文件转换器
+
+- [bewildcard](https://bewildcard.com) 订阅 ChatGPT/Claude
