@@ -29,6 +29,8 @@
 
 ## 其他
 
+- [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
+- [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
 - [googleworkspace-cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent

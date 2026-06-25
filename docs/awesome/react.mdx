@@ -345,6 +345,7 @@
 - [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
 - [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
 - [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
+  - [remocn](https://github.com/kapishdima/remocn) 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件
   - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
   - [@remotion/webcodecs](https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs) 浏览器端媒体转换
 - [react-player](https://github.com/CookPete/react-player)
