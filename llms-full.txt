@@ -1002,6 +1002,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
@@ -1911,6 +1912,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
 - [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
 - [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
 - [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具
@@ -2528,6 +2530,7 @@ url: /awesome/react.md
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) React 的useEffect钩子，区别在于对依赖项进行深度对比，而非引用相等判断
 - [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
 - [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
+- [dexie-react-hooks](https://github.com/dexie/Dexie.js)
 
 ## 组件库
 
@@ -2763,6 +2766,7 @@ url: /awesome/react.md
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 - [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
+- [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
 
 ### 拖拽
 
