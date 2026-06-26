@@ -25,6 +25,7 @@
 
 ## 其他
 
+- [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造

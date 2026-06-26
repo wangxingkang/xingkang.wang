@@ -119,6 +119,7 @@
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) React 的useEffect钩子，区别在于对依赖项进行深度对比，而非引用相等判断
 - [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
 - [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
+- [dexie-react-hooks](https://github.com/dexie/Dexie.js)
 
 ## 组件库
 
@@ -354,6 +355,7 @@
 - [media-chrome](https://github.com/muxinc/media-chrome) 用于打造音视频播放器控件的自定义元素 (web components)
 - [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
+- [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
 
 ### 拖拽
 
