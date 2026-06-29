@@ -1591,6 +1591,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
+- [nanoevents](https://github.com/ai/nanoevents) 极简轻量（仅 107 字节）JavaScript 事件派发库
 - [@chenglou/pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
 - [dedent](https://github.com/dmnd/dedent) 用于去除多行字符串缩进的 ES6 字符串标签函数
 - [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) 可在浏览器运行的 SVG 转 PDF 转换工具
@@ -2732,6 +2734,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
@@ -3025,6 +3028,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
 - [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
 - [node-html-parser](https://github.com/taoqf/node-html-parser) 一款极速 HTML 解析器，可生成简化版文档对象模型，并支持基础元素查询功能

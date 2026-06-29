@@ -120,6 +120,7 @@
 
 ## 其他
 
+- [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具

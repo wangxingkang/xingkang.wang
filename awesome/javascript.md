@@ -241,6 +241,8 @@
 
 ### 其他
 
+- [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
+- [nanoevents](https://github.com/ai/nanoevents) 极简轻量（仅 107 字节）JavaScript 事件派发库
 - [@chenglou/pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
 - [dedent](https://github.com/dmnd/dedent) 用于去除多行字符串缩进的 ES6 字符串标签函数
 - [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) 可在浏览器运行的 SVG 转 PDF 转换工具

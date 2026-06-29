@@ -77,6 +77,7 @@
 
 ## 其他
 
+- [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
 - [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
 - [node-html-parser](https://github.com/taoqf/node-html-parser) 一款极速 HTML 解析器，可生成简化版文档对象模型，并支持基础元素查询功能
