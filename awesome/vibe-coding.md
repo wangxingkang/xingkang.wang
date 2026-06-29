@@ -41,6 +41,8 @@
 
 ## Skill
 
+> [www.skills.sh](https://www.skills.sh)  `skills` 资源库
+
 - [skills](https://github.com/vercel-labs/skills) 开源智能体技能工具 — `npx skills`
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
