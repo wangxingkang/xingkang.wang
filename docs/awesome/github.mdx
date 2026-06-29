@@ -7,6 +7,8 @@
 
 ## 工具
 
+- [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
+- [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
