@@ -93,6 +93,7 @@
 
 ## Hooks
 
+- [use-mask-input](https://github.com/eduardoborges/use-mask-input) 一款用于构建优雅输入掩码的 React Hook，兼容 React Hook Form
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
   - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
   - [query-key-factory](https://github.com/lukemorales/query-key-factory) 用于创建类型安全标准化查询键的库

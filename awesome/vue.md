@@ -10,6 +10,7 @@
 ## AI
 
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
+- [vue-stream-markdown](https://github.com/jinghaihan/vue-stream-markdown) 流式输出 Markdown，适用于大模型输出等文本流场景
 - [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
@@ -27,7 +28,7 @@
 
 ## 动画
 
-- [motion-vue](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
+- [motion-v](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
 - [@tsparticles/vue3](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## 组件库

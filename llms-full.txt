@@ -789,6 +789,7 @@ url: /awesome/react.md
 
 ## Hooks
 
+- [use-mask-input](https://github.com/eduardoborges/use-mask-input) 一款用于构建优雅输入掩码的 React Hook，兼容 React Hook Form
 - [@tanstack/react-query](https://github.com/TanStack/query/tree/HEAD/packages/react-query) 🤖 功能强大的异步状态管理工具，同时提供服务端状态处理能力与网页端数据请求方案
   - [@tanstack/react-query-persist-client](https://github.com/TanStack/query/tree/HEAD/packages/react-query-persist-client)
   - [query-key-factory](https://github.com/lukemorales/query-key-factory) 用于创建类型安全标准化查询键的库
@@ -1409,6 +1410,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [skia](https://github.com/google/skia) 2D 图形库，可用于绘制文字、几何图形与图像
 - [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
@@ -1589,6 +1591,12 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@chenglou/pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
+- [dedent](https://github.com/dmnd/dedent) 用于去除多行字符串缩进的 ES6 字符串标签函数
+- [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) 可在浏览器运行的 SVG 转 PDF 转换工具
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) 快捷键绑定工具库
+- [uqr](https://github.com/unjs/uqr) 跨运行时通用生成二维码，支持输出 ANSI、Unicode 字符图或 SVG 格式
+- [geometric](https://github.com/HarryStevens/geometric) 几何运算
 - [discord-rpc](https://github.com/Khaomi/discord-rpc)  是 discordjs/RPC 的分支版本，具备类型安全特性并新增多项附加功能
 - [bgutils-js](https://github.com/LuanRT/BgUtils) 用于对接 Botguard 的 JavaScript 库
 - [opencc](https://github.com/BYVoid/OpenCC) 简繁中文转换工具库
@@ -1836,7 +1844,7 @@ url: /awesome/javascript.md
 - [web-vitals](https://github.com/GoogleChrome/web-vitals) 保障网站健康的核心指标
 - [autohue.js](https://github.com/auto-plugin/autohue.js) 一个自动提取图片主题色让图片和背景融为一体的工具
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) 最先进的开源浏览器指纹库
-- [prism](https://github.com/PrismJS/prism) 语法高亮
+- [prismjs](https://github.com/PrismJS/prism) 语法高亮
 - [refractor](https://github.com/wooorm/refractor) 基于 Prism 打造的轻量、稳定、优雅的虚拟语法高亮工具
 - [hastscript](https://github.com/syntax-tree/hastscript) 用于创建 hast 语法树的实用工具
 - [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) 一款将 hast 序列化为 HTML 的实用工具
@@ -1941,7 +1949,8 @@ url: /awesome/javascript.md
 
 ### 拖拽
 
-- [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
+- [@atlaskit/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
+  - [@atlaskit/pragmatic-drag-and-drop-hitbox](https://github.com/atlassian/pragmatic-drag-and-drop)
 
 ### 其他
 
@@ -2048,6 +2057,7 @@ url: /awesome/vue.md
 ## AI
 
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
+- [vue-stream-markdown](https://github.com/jinghaihan/vue-stream-markdown) 流式输出 Markdown，适用于大模型输出等文本流场景
 - [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
@@ -2065,7 +2075,7 @@ url: /awesome/vue.md
 
 ## 动画
 
-- [motion-vue](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
+- [motion-v](https://github.com/motiondivision/motion-vue) 适用于 Vue 的现代动画库
 - [@tsparticles/vue3](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 
 ## 组件库
@@ -2722,6 +2732,9 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
+- [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
+- [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
 - [fast-ignore](https://github.com/fabiospampinato/fast-ignore) 一款高性能的 `.gitignore` 文件解析与处理工具
 - [lightningcss](https://github.com/parcel-bundler/lightningcss) 一款采用 Rust 编写、速度极快的 CSS 解析器、转换器、打包器与压缩工具
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
@@ -2943,7 +2956,10 @@ url: /awesome/node.md
 
 ## AI
 
+- [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
+- [@openrouter/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) Vercel AI SDK 的 OpenRouter 适配器通过 OpenRouter 对话与补全 API，支持数百种大模型
 - [eve](https://github.com/vercel/eve) 智能体构建框架
+- [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
@@ -2995,6 +3011,7 @@ url: /awesome/node.md
 
 ### 其他
 
+- [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
 - [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
@@ -3182,7 +3199,6 @@ url: /awesome/node.md
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
-- [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
