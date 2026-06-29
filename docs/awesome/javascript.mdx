@@ -60,6 +60,7 @@
 
 ### 其他
 
+- [skia](https://github.com/google/skia) 2D 图形库，可用于绘制文字、几何图形与图像
 - [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [vega](https://github.com/vega/vega) 一套可视化语法
 - [konva](https://github.com/konvajs/konva) 基于 HTML5 Canvas 的 JavaScript 框架
@@ -240,6 +241,12 @@
 
 ### 其他
 
+- [@chenglou/pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
+- [dedent](https://github.com/dmnd/dedent) 用于去除多行字符串缩进的 ES6 字符串标签函数
+- [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) 可在浏览器运行的 SVG 转 PDF 转换工具
+- [tinykeys](https://github.com/jamiebuilds/tinykeys) 快捷键绑定工具库
+- [uqr](https://github.com/unjs/uqr) 跨运行时通用生成二维码，支持输出 ANSI、Unicode 字符图或 SVG 格式
+- [geometric](https://github.com/HarryStevens/geometric) 几何运算
 - [discord-rpc](https://github.com/Khaomi/discord-rpc)  是 discordjs/RPC 的分支版本，具备类型安全特性并新增多项附加功能
 - [bgutils-js](https://github.com/LuanRT/BgUtils) 用于对接 Botguard 的 JavaScript 库
 - [opencc](https://github.com/BYVoid/OpenCC) 简繁中文转换工具库
@@ -487,7 +494,7 @@
 - [web-vitals](https://github.com/GoogleChrome/web-vitals) 保障网站健康的核心指标
 - [autohue.js](https://github.com/auto-plugin/autohue.js) 一个自动提取图片主题色让图片和背景融为一体的工具
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) 最先进的开源浏览器指纹库
-- [prism](https://github.com/PrismJS/prism) 语法高亮
+- [prismjs](https://github.com/PrismJS/prism) 语法高亮
 - [refractor](https://github.com/wooorm/refractor) 基于 Prism 打造的轻量、稳定、优雅的虚拟语法高亮工具
 - [hastscript](https://github.com/syntax-tree/hastscript) 用于创建 hast 语法树的实用工具
 - [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) 一款将 hast 序列化为 HTML 的实用工具
@@ -592,7 +599,8 @@
 
 ### 拖拽
 
-- [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
+- [@atlaskit/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
+  - [@atlaskit/pragmatic-drag-and-drop-hitbox](https://github.com/atlassian/pragmatic-drag-and-drop)
 
 ### 其他
 

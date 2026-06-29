@@ -120,6 +120,9 @@
 
 ## 其他
 
+- [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
+- [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
+- [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
 - [fast-ignore](https://github.com/fabiospampinato/fast-ignore) 一款高性能的 `.gitignore` 文件解析与处理工具
 - [lightningcss](https://github.com/parcel-bundler/lightningcss) 一款采用 Rust 编写、速度极快的 CSS 解析器、转换器、打包器与压缩工具
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中

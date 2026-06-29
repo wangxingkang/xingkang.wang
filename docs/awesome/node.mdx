@@ -8,7 +8,10 @@
 
 ## AI
 
+- [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
+- [@openrouter/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) Vercel AI SDK 的 OpenRouter 适配器通过 OpenRouter 对话与补全 API，支持数百种大模型
 - [eve](https://github.com/vercel/eve) 智能体构建框架
+- [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
@@ -60,6 +63,7 @@
 
 ### 其他
 
+- [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
 - [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
 - [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
@@ -247,7 +251,6 @@
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
-- [pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
