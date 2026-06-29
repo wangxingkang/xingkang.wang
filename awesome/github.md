@@ -25,6 +25,7 @@
 
 ## 其他
 
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库

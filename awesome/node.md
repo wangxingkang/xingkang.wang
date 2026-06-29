@@ -8,6 +8,7 @@
 
 ## AI
 
+- [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
@@ -68,6 +69,15 @@
 
 ## 其他
 
+- [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
+- [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
+- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 用于在 Node 项目中调用微软 ripgrep 预编译包内的 ripgrep 二进制程序
+- [dugite](https://github.com/desktop/dugite) 用于在 Node 应用中操作 Git 的简洁易用绑定库
+- [fix-path](https://github.com/sindresorhus/fix-path) 修复 macOS 与 Linux 系统下图形界面应用启动时的 $PATH 环境变量问题
+- [benjamn](https://github.com/benjamn/recast) JavaScript 语法树转换器、无损格式化打印器以及自动源码映射生成器
+- [shell-env](https://github.com/sindresorhus/shell-env) 从 Shell 中获取环境变量
+- [automd](https://github.com/unjs/automd) 自动化 Markdown 维护工具
+- [ethers.js](https://github.com/ethers-io/ethers.js) 基于 JavaScript 实现的完整以太坊库与钱包工具
 - [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
 - [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
 - [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集

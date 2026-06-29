@@ -816,6 +816,7 @@ url: /awesome/desktop.md
 
 ## 其他
 
+- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
 - [Pake](https://github.com/tw93/Pake) 一条命令即可将任意网页转为桌面应用
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 
@@ -1002,6 +1003,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
@@ -1783,7 +1785,19 @@ url: /awesome/javascript.md
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
-- [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
+- [@xterm/xterm](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
+  - [@xterm/addon-attach](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-attach)
+  - [@xterm/addon-clipboard](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-clipboard)
+  - [@xterm/addon-fit](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-fit)
+  - [@xterm/addon-image](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-image)
+  - [@xterm/addon-ligatures](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-ligatures)
+  - [@xterm/addon-progress](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-progress)
+  - [@xterm/addon-search](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-search)
+  - [@xterm/addon-serialize](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-serialize)
+  - [@xterm/addon-unicode-graphemes](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-unicode-graphemes)
+  - [@xterm/addon-web-fonts](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-web-fonts)
+  - [@xterm/addon-web-links](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-web-links)
+  - [@xterm/addon-webgl](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-webgl)
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
 - [@stripe/stripe-js](https://github.com/stripe/stripe-js) Stripe.js 加载封装器
@@ -1858,6 +1872,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
@@ -1918,6 +1933,15 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
+- [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
+- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 用于在 Node 项目中调用微软 ripgrep 预编译包内的 ripgrep 二进制程序
+- [dugite](https://github.com/desktop/dugite) 用于在 Node 应用中操作 Git 的简洁易用绑定库
+- [fix-path](https://github.com/sindresorhus/fix-path) 修复 macOS 与 Linux 系统下图形界面应用启动时的 $PATH 环境变量问题
+- [benjamn](https://github.com/benjamn/recast) JavaScript 语法树转换器、无损格式化打印器以及自动源码映射生成器
+- [shell-env](https://github.com/sindresorhus/shell-env) 从 Shell 中获取环境变量
+- [automd](https://github.com/unjs/automd) 自动化 Markdown 维护工具
+- [ethers.js](https://github.com/ethers-io/ethers.js) 基于 JavaScript 实现的完整以太坊库与钱包工具
 - [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
 - [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
 - [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
@@ -2757,7 +2781,7 @@ url: /awesome/react.md
 - [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
 - [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
-- [lexical](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
 
@@ -2789,6 +2813,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-shiki](https://github.com/AVGVSTVS96/react-shiki) 基于 Shiki 实现、适用于 React 的代码语法高亮钩子与组件
 - [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
 - [react-daterange-picker](https://github.com/wojtekmaj/react-daterange-picker) 日期范围选择器
@@ -2828,7 +2853,7 @@ url: /awesome/react.md
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
-- [monaco-react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
+- [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
 - [react-offscreen](https://github.com/IVLIU/react-offscreen) 类似 Vue 中 keep-alive 效果的 React 离屏组件
 - [keepalive-for-react](https://github.com/finedaybreak/keepalive-for-react) 一个类似 Vue 中 keep-alive 的 React KeepAlive 组件
@@ -2932,6 +2957,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 构建的向量索引
@@ -3235,7 +3261,7 @@ url: /awesome/uni.md
 url: /awesome/vibe-coding.md
 ---
 
-# 氛围编程
+# Vibe Coding
 
 ## Codex
 
@@ -3277,6 +3303,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台

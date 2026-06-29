@@ -601,7 +601,19 @@
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [markdown-it](https://github.com/markdown-it/markdown-it) Markdown 解析器
 - [jsoneditor](https://github.com/josdejong/jsoneditor) JSON 编辑器
-- [xterm.js](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
+- [@xterm/xterm](https://github.com/xtermjs/xterm.js) 一款面向网页端的终端工具
+  - [@xterm/addon-attach](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-attach)
+  - [@xterm/addon-clipboard](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-clipboard)
+  - [@xterm/addon-fit](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-fit)
+  - [@xterm/addon-image](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-image)
+  - [@xterm/addon-ligatures](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-ligatures)
+  - [@xterm/addon-progress](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-progress)
+  - [@xterm/addon-search](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-search)
+  - [@xterm/addon-serialize](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-serialize)
+  - [@xterm/addon-unicode-graphemes](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-unicode-graphemes)
+  - [@xterm/addon-web-fonts](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-web-fonts)
+  - [@xterm/addon-web-links](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-web-links)
+  - [@xterm/addon-webgl](https://github.com/xtermjs/xterm.js/tree/master/addons/addon-webgl)
 - [posthog-js](https://github.com/PostHog/posthog-js) 将你的网络应用或网站的使用数据发送至 PostHog，并支持自动捕获功能
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
 - [@stripe/stripe-js](https://github.com/stripe/stripe-js) Stripe.js 加载封装器
