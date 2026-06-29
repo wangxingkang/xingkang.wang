@@ -45,6 +45,10 @@
 - [官网](https://playwright.dev)
 - [playwright](https://github.com/microsoft/playwright) playwright 仓库
 
+### 其他
+
+- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
+
 ## 其他
 
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium

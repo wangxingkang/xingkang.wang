@@ -33,6 +33,7 @@
 
 ### 其他
 
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) 捕获 Electron 应用中未处理的错误与 Promise 拒绝异常
 - [@electron/get](https://github.com/electron/get) 下载 Electron 发行版制品
 - [@electron/devtron](https://github.com/electron/devtron) 一款 Electron 开发者工具扩展
 - [update-electron-app](https://github.com/electron/update-electron-app) 自动更新
@@ -67,10 +68,16 @@
 - [electronmon](https://github.com/catdad/electronmon) 借助简易工具运行、监听并重启 Electron 应用
 - [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
 - [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
+  - [@ghostery/adblocker-electron-preload](https://github.com/ghostery/adblocker/tree/HEAD/packages/adblocker-electron-preload)
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 - [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
 - [@electron/packager](https://github.com/electron/packager) 通过 JavaScript 代码或命令行工具，自定义并打包 Electron 应用
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) 一款适用于 Electron 的轻量持久化用户配置框架
+- [electron-is](https://github.com/delvedor/electron-is) 一款面向 Electron 的判断工具库
+
+### 开源项目
+
+- [pear-desktop](https://github.com/pear-devs/pear-desktop) 音乐播放器扩展插件
 
 ## Tauri
 
@@ -94,6 +101,5 @@
 
 ## 其他
 
-- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
 - [Pake](https://github.com/tw93/Pake) 一条命令即可将任意网页转为桌面应用
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用

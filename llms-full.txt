@@ -344,6 +344,8 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
+- [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
@@ -600,6 +602,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
 - [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
@@ -755,6 +758,7 @@ url: /awesome/desktop.md
 
 ### 其他
 
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) 捕获 Electron 应用中未处理的错误与 Promise 拒绝异常
 - [@electron/get](https://github.com/electron/get) 下载 Electron 发行版制品
 - [@electron/devtron](https://github.com/electron/devtron) 一款 Electron 开发者工具扩展
 - [update-electron-app](https://github.com/electron/update-electron-app) 自动更新
@@ -789,10 +793,16 @@ url: /awesome/desktop.md
 - [electronmon](https://github.com/catdad/electronmon) 借助简易工具运行、监听并重启 Electron 应用
 - [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
 - [@ghostery/adblocker-electron](https://github.com/ghostery/adblocker/tree/master/packages/adblocker-electron) 广告拦截器
+  - [@ghostery/adblocker-electron-preload](https://github.com/ghostery/adblocker/tree/HEAD/packages/adblocker-electron-preload)
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段
 - [forge](https://github.com/electron/forge) 一套用于打包与发布 Electron 应用的完整工具
 - [@electron/packager](https://github.com/electron/packager) 通过 JavaScript 代码或命令行工具，自定义并打包 Electron 应用
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) 一款适用于 Electron 的轻量持久化用户配置框架
+- [electron-is](https://github.com/delvedor/electron-is) 一款面向 Electron 的判断工具库
+
+### 开源项目
+
+- [pear-desktop](https://github.com/pear-devs/pear-desktop) 音乐播放器扩展插件
 
 ## Tauri
 
@@ -816,7 +826,6 @@ url: /awesome/desktop.md
 
 ## 其他
 
-- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
 - [Pake](https://github.com/tw93/Pake) 一条命令即可将任意网页转为桌面应用
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 
@@ -1036,7 +1045,6 @@ url: /awesome/github.md
 - [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
 - [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
-- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
@@ -1084,6 +1092,7 @@ url: /awesome/go.md
 
 ## AI
 
+- [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
 - [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
@@ -1187,7 +1196,6 @@ url: /awesome/javascript.md
 ## AI
 
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
-- [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
 - [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
@@ -1415,6 +1423,8 @@ url: /awesome/javascript.md
 
 ### 音视频
 
+- [@foobar404/wave](https://github.com/foobar404/wave.js) 音频可视化库，可创建响应音频文件或音频流的动态动画效果
+- [youtubei.js](https://github.com/LuanRT/YouTube.js) 一款用于 YouTube 内部 API（即 InnerTube）的 JavaScript 客户端
 - [mpegts.js](https://github.com/xqq/mpegts.js) HTML5 MPEG2-TS / FLV 流媒体播放器
 - [mediainfo.js](https://github.com/buzz/mediainfo.js) 借助 WebAssembly 在浏览器中提取媒体文件元数据
 - ffmpeg.wasm
@@ -1423,6 +1433,12 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [discord-rpc](https://github.com/Khaomi/discord-rpc)  是 discordjs/RPC 的分支版本，具备类型安全特性并新增多项附加功能
+- [bgutils-js](https://github.com/LuanRT/BgUtils) 用于对接 Botguard 的 JavaScript 库
+- [opencc](https://github.com/BYVoid/OpenCC) 简繁中文转换工具库
+- [chinese-conv](https://github.com/aqzhyi/chinese-conv) 简繁中文转换工具库
+- [deepmerge-ts](https://github.com/RebeccaStevens/deepmerge-ts) 深度合并两个及以上对象，同时保留类型信息
+- [es-hangul](https://github.com/toss/es-hangul) 用于处理韩文字符的现代 JavaScript 库
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) 不依赖任何框架的思维导图 JavaScript 核心库
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 经典的 SVG、字体与 CSS 工具库
 - [cheerio](https://github.com/cheeriojs/cheerio) 一款高效、灵活且简洁优雅的库，用于解析和处理 HTML 与 XML
@@ -1620,6 +1636,7 @@ url: /awesome/javascript.md
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [crashcat](https://github.com/isaac-mason/crashcat) 适用于 JavaScript 的物理引擎，专为游戏、模拟仿真和创意网站开发而构建
 - [fast-copy](https://github.com/planttheidea/fast-copy) 一款极速的深度对象复制器
+- [fast-equals](https://github.com/planttheidea/fast-equals) 一款速度极快的相等性对比工具，支持浅对比与深对比
 - [satori](https://github.com/vercel/satori) 实现 HTML 与 CSS 到 SVG 的转换
 - [pixi.js](https://github.com/pixijs/pixijs) HTML5 创作引擎：借助最快、最灵活的 2D WebGL 渲染器，打造精美的数字内容
 - [fix-webm-duration](https://github.com/yusitnikov/fix-webm-duration) navigator.mediaDevices.getUserMedia + MediaRecorder 生成的 WEBM 文件缺少时长元数据。该库会直接在文件二进制大对象（Blob）中补充缺失的元数据段
@@ -1772,6 +1789,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [mdui](https://github.com/zdhxiong/mdui) 基于 Web 组件实现的 Material Design 3（Material You）界面组件库
 - [ej2-javascript-ui-controls](https://github.com/syncfusion/ej2-javascript-ui-controls) 50 余款跨浏览器、响应式、轻量型 HTML5 UI 控件
 - [cobe](https://github.com/shuding/cobe) 仅 5KB 大小的 WebGL 地球仪库
 - [monaco-editor](https://github.com/microsoft/monaco-editor) 基于浏览器的代码编辑器
@@ -1872,6 +1890,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [eve](https://github.com/vercel/eve) 智能体构建框架
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
@@ -1889,6 +1908,9 @@ url: /awesome/node.md
 
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
   - [@hono/node-server](https://github.com/honojs/node-server) 基于 Node.js 的 Hono 服务端
+  - [@hono/zod-openapi](https://github.com/honojs/middleware/tree/HEAD/packages/zod-openapi)
+  - [@hono/zod-validator](https://github.com/honojs/middleware/tree/HEAD/packages/zod-validator)
+  - [@hono/swagger-ui](https://github.com/honojs/middleware/tree/HEAD/packages/swagger-ui)
 - [fastify](https://github.com/fastify/fastify)
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
@@ -1933,6 +1955,11 @@ url: /awesome/node.md
 
 ## 其他
 
+- [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
+- [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
+- [node-html-parser](https://github.com/taoqf/node-html-parser) 一款极速 HTML 解析器，可生成简化版文档对象模型，并支持基础元素查询功能
+- [node-id3](https://github.com/Zazama/node-id3) 纯 JavaScript ID3 标签解析库
+- [peerjs](https://github.com/peers/peerjs) 基于 WebRTC 实现简易点对点通信
 - [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
 - [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
 - [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 用于在 Node 项目中调用微软 ripgrep 预编译包内的 ripgrep 二进制程序
@@ -2980,6 +3007,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
 - [googleworkspace-cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
@@ -3199,6 +3227,10 @@ url: /awesome/test.md
 - [官网](https://playwright.dev)
 - [playwright](https://github.com/microsoft/playwright) playwright 仓库
 
+### 其他
+
+- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
+
 ## 其他
 
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
@@ -3274,6 +3306,7 @@ url: /awesome/vibe-coding.md
 
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
+- [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 
 ## OpenCode
 
@@ -3303,6 +3336,11 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
+- [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
+- [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 高性能代码智能 MCP 服务端。可将代码库索引为持久化知识图谱，普通仓库索引耗时仅毫秒级
+- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统

@@ -11,6 +11,7 @@
 
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
+- [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 
 ## OpenCode
 
@@ -40,6 +41,11 @@
 
 ## 其他
 
+- [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
+- [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
+- [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 高性能代码智能 MCP 服务端。可将代码库索引为持久化知识图谱，普通仓库索引耗时仅毫秒级
+- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
