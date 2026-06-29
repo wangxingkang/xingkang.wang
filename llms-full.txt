@@ -416,10 +416,10 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [BrowserOS](https://github.com/browseros-ai/BrowserOS) 开源智能体浏览器，可替代 ChatGPT Atlas、Perplexity Comet、Dia
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
 - [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台
-- [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
@@ -677,6 +677,8 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
+- [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
@@ -1065,6 +1067,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
 - [react-shiki](https://github.com/AVGVSTVS96/react-shiki) 基于 Shiki 实现、适用于 React 的代码语法高亮钩子与组件
 - [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
@@ -1156,6 +1159,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
 - [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
 - [bippy](https://github.com/aidenybai/bippy) 可侵入 React 底层内部逻辑的工具集
 - [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
@@ -1352,6 +1356,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [officeparser](https://github.com/harshankur/officeParser) 将各类办公文件解析为结构完整的抽象语法树（AST），并能高精度导出多种格式文件
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
 - [fetch-event-stream](https://github.com/lukeed/fetch-event-stream) 一个轻量小巧（741字节）的工具库，用于通过 `fetch` 和 Web Streams API 实现服务器发送事件（SSE）流式传输
@@ -1591,6 +1596,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [pdf-parse](https://github.com/mehmet-kozan/pdf-parse) 从 PDF 中提取文本、图片与表格数据
 - [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
 - [nanoevents](https://github.com/ai/nanoevents) 极简轻量（仅 107 字节）JavaScript 事件派发库
 - [@chenglou/pretext](https://github.com/chenglou/pretext) 一款用于多行文本测量与布局的纯 JavaScript/TypeScript 库
@@ -1956,6 +1962,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [file-viewer](https://github.com/flyfish-dev/file-viewer) 纯前端文件预览组件
 - [mdui](https://github.com/zdhxiong/mdui) 基于 Web 组件实现的 Material Design 3（Material You）界面组件库
 - [ej2-javascript-ui-controls](https://github.com/syncfusion/ej2-javascript-ui-controls) 50 余款跨浏览器、响应式、轻量型 HTML5 UI 控件
 - [cobe](https://github.com/shuding/cobe) 仅 5KB 大小的 WebGL 地球仪库
@@ -2844,6 +2851,8 @@ url: /awesome/github.md
 
 ## 工具
 
+- [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
+- [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
@@ -2959,6 +2968,12 @@ url: /awesome/node.md
 
 ## AI
 
+- [js-genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
+- [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
+- [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
+- [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
+- [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
+- [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
 - [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
 - [@openrouter/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) Vercel AI SDK 的 OpenRouter 适配器通过 OpenRouter 对话与补全 API，支持数百种大模型
 - [eve](https://github.com/vercel/eve) 智能体构建框架
@@ -3014,6 +3029,7 @@ url: /awesome/node.md
 
 ### 其他
 
+- [rfc6902](https://github.com/chbrown/rfc6902) 基于 TypeScript 完整实现 RFC6902 标准
 - [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
 - [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
@@ -3028,6 +3044,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
 - [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
@@ -3320,6 +3337,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
@@ -3439,6 +3457,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
@@ -3504,6 +3523,9 @@ url: /awesome/python.md
 
 ## AI
 
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
 - [FunASR](https://github.com/modelscope/FunASR) 工业级语音识别
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
@@ -3558,6 +3580,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
 - [dust3r](https://github.com/naver/dust3r) 简易几何三维视觉框架
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件

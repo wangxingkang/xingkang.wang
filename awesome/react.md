@@ -369,6 +369,7 @@
 
 ### 其他
 
+- [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
 - [react-shiki](https://github.com/AVGVSTVS96/react-shiki) 基于 Shiki 实现、适用于 React 的代码语法高亮钩子与组件
 - [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
@@ -460,6 +461,7 @@
 
 ## 其他
 
+- [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
 - [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
 - [bippy](https://github.com/aidenybai/bippy) 可侵入 React 底层内部逻辑的工具集
 - [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法

@@ -106,10 +106,10 @@
 
 ### 其他
 
+- [BrowserOS](https://github.com/browseros-ai/BrowserOS) 开源智能体浏览器，可替代 ChatGPT Atlas、Perplexity Comet、Dia
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
 - [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台
-- [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具

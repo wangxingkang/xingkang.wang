@@ -6,6 +6,9 @@
 
 ## AI
 
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
 - [FunASR](https://github.com/modelscope/FunASR) 工业级语音识别
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
@@ -60,6 +63,7 @@
 
 ## 其他
 
+- [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
 - [dust3r](https://github.com/naver/dust3r) 简易几何三维视觉框架
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
