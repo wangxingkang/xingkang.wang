@@ -349,7 +349,6 @@ url: /awesome/ai.md
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
-- [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
@@ -3333,6 +3332,11 @@ url: /awesome/vibe-coding.md
 
 - [官网](https://codewhale.net/zh)
 - [CodeWhale](https://github.com/Hmbown/CodeWhale) 为 DeepSeek V4 而生的终端编程智能体
+
+## Skill
+
+- [skills](https://github.com/vercel-labs/skills) 开源智能体技能工具 — `npx skills`
+- [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 
 ## 其他
 
