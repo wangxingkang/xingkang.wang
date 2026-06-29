@@ -34,6 +34,8 @@
 
 ## Skill
 
+- [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
+- [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
@@ -290,6 +292,7 @@
 
 ### 其他
 
+- [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
 - [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
