@@ -161,6 +161,7 @@
 - [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 适用于 ApexCharts 的 React 组件
 - [bklit-ui](https://github.com/bklit/bklit-ui)
+- [@billboard.js/react](https://github.com/naver/billboard.js) 基于 D3.js、支持 SVG 与 Canvas 双渲染模式的可复用、轻量易用型 JavaScript 图表库
 
 ### 3D
 
@@ -392,6 +393,7 @@
 - [react-ace](https://github.com/securingsincity/react-ace) React Ace 组件
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
+- [@egjs/react-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件

@@ -133,6 +133,7 @@
 
 ### 文件相关
 
+- [ag-psd](https://github.com/Agamnentzar/ag-psd) 用于读写 PSD 文件的 JavaScript 库
 - [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
@@ -238,6 +239,7 @@
 
 ### 其他
 
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) 不依赖任何框架的思维导图 JavaScript 核心库
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 经典的 SVG、字体与 CSS 工具库
 - [cheerio](https://github.com/cheeriojs/cheerio) 一款高效、灵活且简洁优雅的库，用于解析和处理 HTML 与 XML
 - [psl](https://github.com/lupomontero/psl) 基于公共后缀列表实现的 JavaScript 域名解析器
@@ -544,9 +546,11 @@
 
 ### 文件相关
 
+- [vditor](https://github.com/Vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式
 - [@cantoo/pdf-lib](https://github.com/cantoo-scribe/pdf-lib) 在任意 JavaScript 环境中创建和编辑 PDF 文档
 - [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器
 - [pdf.js](http://github.com/mozilla/pdf.js) PDF 查看器
+- [epub.js](https://github.com/futurepress/epub.js) 浏览器端增强版电子书阅读器
 
 ### 音视频
 

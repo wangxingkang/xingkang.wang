@@ -68,6 +68,7 @@
 
 ## 其他
 
+- [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
 - [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
 - [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
 - [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
