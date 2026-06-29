@@ -1002,6 +1002,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
@@ -1156,6 +1157,7 @@ url: /awesome/ide.md
 
 ### 插件
 
+- [vscode-office](https://github.com/cweijan/vscode-office) 让 VS Code 支持预览 PDF、Excel、Word 等格式文件，并新增所见即所得的 Markdown 编辑器
 - [turbo-console-log](https://github.com/Chakroun-Anas/turbo-console-log) 自动化日志工具
 
 
@@ -1313,6 +1315,7 @@ url: /awesome/javascript.md
 
 ### 文件相关
 
+- [ag-psd](https://github.com/Agamnentzar/ag-psd) 用于读写 PSD 文件的 JavaScript 库
 - [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
@@ -1418,6 +1421,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) 不依赖任何框架的思维导图 JavaScript 核心库
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 经典的 SVG、字体与 CSS 工具库
 - [cheerio](https://github.com/cheeriojs/cheerio) 一款高效、灵活且简洁优雅的库，用于解析和处理 HTML 与 XML
 - [psl](https://github.com/lupomontero/psl) 基于公共后缀列表实现的 JavaScript 域名解析器
@@ -1724,9 +1728,11 @@ url: /awesome/javascript.md
 
 ### 文件相关
 
+- [vditor](https://github.com/Vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式
 - [@cantoo/pdf-lib](https://github.com/cantoo-scribe/pdf-lib) 在任意 JavaScript 环境中创建和编辑 PDF 文档
 - [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) 一款可与任何 JavaScript 项目无缝集成的 PDF 查看器
 - [pdf.js](http://github.com/mozilla/pdf.js) PDF 查看器
+- [epub.js](https://github.com/futurepress/epub.js) 浏览器端增强版电子书阅读器
 
 ### 音视频
 
@@ -1912,6 +1918,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
 - [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
 - [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
 - [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
@@ -2180,6 +2187,8 @@ url: /awesome/python.md
 
 ## AI
 
+- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
+- [FunASR](https://github.com/modelscope/FunASR) 工业级语音识别
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
 - [PixelRAG](https://github.com/StarTrail-org/PixelRAG) PixelRAG 将网页、PDF、图片等文档渲染为截图，并直接基于图像完成检索
 - [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
@@ -2232,6 +2241,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [dust3r](https://github.com/naver/dust3r) 简易几何三维视觉框架
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
 - [tornado](https://github.com/tornadoweb/tornado) 网页框架与异步网络库
@@ -2572,6 +2582,7 @@ url: /awesome/react.md
 - [@tremor/react](https://github.com/tremorlabs/tremor-npm) 用于构建图表和数据看板的 React 组件
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 适用于 ApexCharts 的 React 组件
 - [bklit-ui](https://github.com/bklit/bklit-ui)
+- [@billboard.js/react](https://github.com/naver/billboard.js) 基于 D3.js、支持 SVG 与 Canvas 双渲染模式的可复用、轻量易用型 JavaScript 图表库
 
 ### 3D
 
@@ -2803,6 +2814,7 @@ url: /awesome/react.md
 - [react-ace](https://github.com/securingsincity/react-ace) React Ace 组件
 - [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 React 组件
+- [@egjs/react-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
 - [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
@@ -3393,6 +3405,7 @@ url: /awesome/vue.md
 ### 其他
 
 - [@egjs/vue3-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Vue 组件
+- [@egjs/vue3-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 - [@wterm/vue](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/vue) 一款适用于网页端的终端模拟器
 - [@visual-json/vue](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性

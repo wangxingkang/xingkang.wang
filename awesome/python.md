@@ -6,6 +6,8 @@
 
 ## AI
 
+- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
+- [FunASR](https://github.com/modelscope/FunASR) 工业级语音识别
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
 - [PixelRAG](https://github.com/StarTrail-org/PixelRAG) PixelRAG 将网页、PDF、图片等文档渲染为截图，并直接基于图像完成检索
 - [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
@@ -58,6 +60,7 @@
 
 ## 其他
 
+- [dust3r](https://github.com/naver/dust3r) 简易几何三维视觉框架
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox) 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
 - [tornado](https://github.com/tornadoweb/tornado) 网页框架与异步网络库
