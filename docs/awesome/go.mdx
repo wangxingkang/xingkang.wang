@@ -19,6 +19,7 @@
 
 ## 其他
 
+- [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器

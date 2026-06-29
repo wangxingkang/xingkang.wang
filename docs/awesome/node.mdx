@@ -8,6 +8,12 @@
 
 ## AI
 
+- [js-genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
+- [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
+- [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
+- [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
+- [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
+- [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
 - [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
 - [@openrouter/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) Vercel AI SDK 的 OpenRouter 适配器通过 OpenRouter 对话与补全 API，支持数百种大模型
 - [eve](https://github.com/vercel/eve) 智能体构建框架
@@ -63,6 +69,7 @@
 
 ### 其他
 
+- [rfc6902](https://github.com/chbrown/rfc6902) 基于 TypeScript 完整实现 RFC6902 标准
 - [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
 - [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
@@ -77,6 +84,7 @@
 
 ## 其他
 
+- [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
 - [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
