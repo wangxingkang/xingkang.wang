@@ -232,6 +232,9 @@
 
 ### 音视频
 
+- [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
+- [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频
+- [turbores](https://github.com/Vanilagy/turbores) 一款极速 WebAssembly 版 Apple ProRes 视频解码器
 - [@foobar404/wave](https://github.com/foobar404/wave.js) 音频可视化库，可创建响应音频文件或音频流的动态动画效果
 - [youtubei.js](https://github.com/LuanRT/YouTube.js) 一款用于 YouTube 内部 API（即 InnerTube）的 JavaScript 客户端
 - [mpegts.js](https://github.com/xqq/mpegts.js) HTML5 MPEG2-TS / FLV 流媒体播放器
