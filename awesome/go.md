@@ -6,6 +6,7 @@
 
 ## AI
 
+- [higress](https://github.com/higress-group/higress) AI 网关｜原生 AI 专用 API 网关
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
 - [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
@@ -19,6 +20,7 @@
 
 ## 其他
 
+- [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作

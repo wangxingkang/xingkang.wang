@@ -58,6 +58,8 @@
 
 ## 其他
 
+- [mobbin](https://mobbin.com) 专注于移动界面设计的网站
+
 - [135editor](https://www.135editor.com) 公众号编辑器
 
 - [processon](https://www.processon.com) 思维导图

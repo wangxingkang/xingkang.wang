@@ -46,7 +46,6 @@
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
 - [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
-- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
 - [context7](https://context7.com) 面向大语言模型与 AI 代码编辑器的最新代码文档
@@ -106,7 +105,10 @@
 
 ### 其他
 
+- [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
+- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 强大的AI提示词优化工具，帮助你编写更好的AI提示词，提升AI输出质量
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS) 开源智能体浏览器，可替代 ChatGPT Atlas、Perplexity Comet、Dia
+- [Browser-BC](https://github.com/Einsia/Browser-BC) 面向浏览器场景的智能体行为复刻方案，适配通用图形界面操作，支持分布式操作轨迹采集
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
 - [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台

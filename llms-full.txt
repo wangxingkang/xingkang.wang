@@ -356,7 +356,6 @@ url: /awesome/ai.md
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
 - [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
-- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
 - [context7](https://context7.com) 面向大语言模型与 AI 代码编辑器的最新代码文档
@@ -416,7 +415,10 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
+- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 强大的AI提示词优化工具，帮助你编写更好的AI提示词，提升AI输出质量
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS) 开源智能体浏览器，可替代 ChatGPT Atlas、Perplexity Comet、Dia
+- [Browser-BC](https://github.com/Einsia/Browser-BC) 面向浏览器场景的智能体行为复刻方案，适配通用图形界面操作，支持分布式操作轨迹采集
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
 - [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台
@@ -677,6 +679,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
@@ -1998,6 +2001,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [fast](https://github.com/microsoft/fast) 专注于原生网页组件与现代网页标准的兼容支持(Web Components)
 - [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
 - [html-tags](https://github.com/sindresorhus/html-tags)
@@ -2605,6 +2609,8 @@ url: /awesome/website.md
 
 ## 其他
 
+- [mobbin](https://mobbin.com) 专注于移动界面设计的网站
+
 - [135editor](https://www.135editor.com) 公众号编辑器
 
 - [processon](https://www.processon.com) 思维导图
@@ -2871,6 +2877,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) 一份包含免费套餐的SaaS、PaaS、IaaS服务清单，面向运维与基础设施开发人员
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
@@ -3207,6 +3215,7 @@ url: /awesome/node.md
 - [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
+- [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
 - [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
@@ -3444,6 +3453,7 @@ url: /awesome/go.md
 
 ## AI
 
+- [higress](https://github.com/higress-group/higress) AI 网关｜原生 AI 专用 API 网关
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
 - [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 \*\* 模型上下文协议（MCP）\*\* 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
@@ -3457,6 +3467,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
@@ -3580,6 +3591,8 @@ url: /awesome/python.md
 
 ## 其他
 
+- [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 自媒体平台爬虫
 - [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
 - [dust3r](https://github.com/naver/dust3r) 简易几何三维视觉框架
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器

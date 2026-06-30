@@ -644,6 +644,7 @@
 
 ## 其他
 
+- [fast](https://github.com/microsoft/fast) 专注于原生网页组件与现代网页标准的兼容支持(Web Components)
 - [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
 - [html-tags](https://github.com/sindresorhus/html-tags)
