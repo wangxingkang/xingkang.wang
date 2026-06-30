@@ -247,6 +247,7 @@
 - [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
+- [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
 - [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK

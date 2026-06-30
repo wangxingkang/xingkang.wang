@@ -27,6 +27,8 @@
 
 ## 其他
 
+- [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) 一份包含免费套餐的SaaS、PaaS、IaaS服务清单，面向运维与基础设施开发人员
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
