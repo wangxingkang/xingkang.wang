@@ -6,6 +6,7 @@
 
 ## AI
 
+- [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
@@ -63,6 +64,8 @@
 
 ## 其他
 
+- [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
+- [ipcheck](https://github.com/stormzhang/ipcheck) 网络环境诊断工具，一键检测 IP/DNS/代理/风控/时区，确保 AI 工具流畅运行
 - [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 自媒体平台爬虫
 - [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON

@@ -27,6 +27,8 @@
 
 ## 其他
 
+- [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
+- [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频
 - [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) 一份包含免费套餐的SaaS、PaaS、IaaS服务清单，面向运维与基础设施开发人员
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用

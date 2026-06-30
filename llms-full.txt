@@ -679,6 +679,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
@@ -1589,6 +1590,9 @@ url: /awesome/javascript.md
 
 ### 音视频
 
+- [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
+- [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频
+- [turbores](https://github.com/Vanilagy/turbores) 一款极速 WebAssembly 版 Apple ProRes 视频解码器
 - [@foobar404/wave](https://github.com/foobar404/wave.js) 音频可视化库，可创建响应音频文件或音频流的动态动画效果
 - [youtubei.js](https://github.com/LuanRT/YouTube.js) 一款用于 YouTube 内部 API（即 InnerTube）的 JavaScript 客户端
 - [mpegts.js](https://github.com/xqq/mpegts.js) HTML5 MPEG2-TS / FLV 流媒体播放器
@@ -2877,6 +2881,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
+- [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频
 - [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) 一份包含免费套餐的SaaS、PaaS、IaaS服务清单，面向运维与基础设施开发人员
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
@@ -3346,6 +3352,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
@@ -3534,6 +3541,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
@@ -3591,6 +3599,8 @@ url: /awesome/python.md
 
 ## 其他
 
+- [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
+- [ipcheck](https://github.com/stormzhang/ipcheck) 网络环境诊断工具，一键检测 IP/DNS/代理/风控/时区，确保 AI 工具流畅运行
 - [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 自媒体平台爬虫
 - [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
