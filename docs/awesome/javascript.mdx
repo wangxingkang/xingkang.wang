@@ -696,7 +696,6 @@
 - [linkedom](https://github.com/WebReflection/linkedom) 基于三向链表的 DOM 实现
 - [long](https://github.com/dcodeIO/long.js) 一个用于表示 64 位二进制补码整数值的 Long 类
 - [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
-- [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
 - [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
 - [json-server](https://github.com/typicode/json-server) 不用写代码就能模拟接口数据

@@ -30,13 +30,14 @@
 
 ## 其他
 
+- [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具
 - [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
-- [googleworkspace-cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
+- [Google Workspace Cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
