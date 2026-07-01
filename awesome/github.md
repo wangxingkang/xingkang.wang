@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
 - [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频
 - [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例

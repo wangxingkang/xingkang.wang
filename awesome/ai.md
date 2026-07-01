@@ -34,11 +34,11 @@
 
 ## Skill
 
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
@@ -177,6 +177,7 @@
 - [ds4](https://github.com/antirez/ds4) 适配 Metal、CUDA、ROCm 的 DeepSeek 4 Flash 与专业版本地推理引擎
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) 使用 C/C++ 进行大语言模型（LLM）推理
 - [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
+- [LocalAI](https://github.com/mudler/LocalAI) 开源 AI 推理引擎
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。

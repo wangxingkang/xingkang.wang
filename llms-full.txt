@@ -344,11 +344,11 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
@@ -487,6 +487,7 @@ url: /awesome/ai.md
 - [ds4](https://github.com/antirez/ds4) 适配 Metal、CUDA、ROCm 的 DeepSeek 4 Flash 与专业版本地推理引擎
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) 使用 C/C++ 进行大语言模型（LLM）推理
 - [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
+- [LocalAI](https://github.com/mudler/LocalAI) 开源 AI 推理引擎
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
@@ -669,14 +670,15 @@ url: /awesome/vibe-coding.md
 - [skills](https://github.com/vercel-labs/skills) 开源智能体技能工具 — `npx skills`
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 
 ## 开发工作流
 
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
 - [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
-- [Everything Claude Code](https://github.com/affaan-m/ECC) 智能体性能优化系统
 - [Matt Pocock Skills](https://github.com/mattpocock/skills)
+- [Everything Claude Code](https://github.com/affaan-m/ECC) 智能体性能优化系统
 - [gsd](https://github.com/open-gsd/gsd-core) 一套轻量级的元提示、上下文工程与规范驱动开发系统
 - [agent-skills](https://github.com/addyosmani/agent-skills) 面向 AI 编码智能体的生产级工程能力套件
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向 AI 代码助手的规约驱动开发
@@ -687,6 +689,8 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
+- [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
 - [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
@@ -2070,7 +2074,6 @@ url: /awesome/javascript.md
 - [linkedom](https://github.com/WebReflection/linkedom) 基于三向链表的 DOM 实现
 - [long](https://github.com/dcodeIO/long.js) 一个用于表示 64 位二进制补码整数值的 Long 类
 - [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
-- [logto](https://github.com/logto-io/logto) 🧑‍🚀 面向 SaaS 与 AI 应用的认证鉴权基础设施，基于 OIDC 和 OAuth 2.1 构建，支持多租户、单点登录（SSO）及基于角色的访问控制（RBAC）。
 - [waline](https://github.com/walinejs/waline) 💬 简洁安全的评论系统
 - [@juggle/resize-observer](https://github.com/juggle/resize-observer) 为 ResizeObserver API 提供兼容性补丁
 - [json-server](https://github.com/typicode/json-server) 不用写代码就能模拟接口数据
@@ -2905,6 +2908,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
 - [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频
 - [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
@@ -3082,6 +3086,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
@@ -3376,13 +3381,14 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具
 - [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [rune](https://github.com/rune-rs/rune) 可嵌入 Rust 的动态编程语言
-- [googleworkspace-cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
+- [Google Workspace Cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
@@ -3624,6 +3630,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 开源、免费的离线OCR软件
 - [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
 - [ipcheck](https://github.com/stormzhang/ipcheck) 网络环境诊断工具，一键检测 IP/DNS/代理/风控/时区，确保 AI 工具流畅运行
 - [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流

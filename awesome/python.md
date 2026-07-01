@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 开源、免费的离线OCR软件
 - [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
 - [ipcheck](https://github.com/stormzhang/ipcheck) 网络环境诊断工具，一键检测 IP/DNS/代理/风控/时区，确保 AI 工具流畅运行
 - [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流
