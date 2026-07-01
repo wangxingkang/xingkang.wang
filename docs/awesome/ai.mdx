@@ -102,6 +102,7 @@
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
+- [Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases) 精选适配 AI 影视创作的 Blender 与 Seedance 工作流：涵盖预可视化、相机控制、Blender MCP、参考视频以及智能体驱动实操案例
 
 ### 其他
 

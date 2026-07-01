@@ -137,6 +137,8 @@
 
 ## 其他
 
+- [vee-validate](https://github.com/logaretm/vee-validate) 极简 Vue 表单开发
+- [vuefire](https://github.com/vuejs/vuefire) Vue.js 的 Firebase 绑定库
 - [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印
 - [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包

@@ -30,6 +30,7 @@
 
 ## 其他
 
+- [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器

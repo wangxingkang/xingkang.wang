@@ -74,6 +74,11 @@
 
 ## 其他
 
+- [react-native-pulsar](https://github.com/software-mansion/pulsar/tree/main/react-native/react-native-pulsar) 一款适用于 React Native 的触感反馈开发工具包
+- [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) 适用于 React Native 的高性能音频引擎
+- [react-native-enriched-html](https://github.com/software-mansion/react-native-enriched-html) 基于 HTML 的 React Native 富文本解决方案
+- [react-native-executorch](https://github.com/software-mansion/react-native-executorch)  基于 ExecuTorch，在 React Native 设备端以声明式方式运行 AI 模型
+- [react-native-enriched-markdown](https://github.com/software-mansion/react-native-enriched-markdown) React Native 平台的 Markdown 输入与文本渲染组件
 - [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
 - [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
 - [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
