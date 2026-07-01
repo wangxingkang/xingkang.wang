@@ -1543,6 +1543,7 @@ url: /awesome/javascript.md
 ### 富文本
 
 - [tiptap](https://github.com/ueberdosis/tiptap) 专为 Web 开发者打造的无渲染富文本编辑器框架
+  - [tiptap-markdown](https://github.com/aguingand/tiptap-markdown)
 - [tinymce](https://github.com/tinymce/tinymce)
 - [Squire](https://github.com/fastmail/Squire)
 - [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的富文本编辑器构建框架
@@ -1612,6 +1613,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [extendable-media-recorder](https://github.com/chrisguttandin/extendable-media-recorder) 可扩展、开箱即用的原生 MediaRecorder 替代方案
+  - [extendable-media-recorder-wav-encoder](https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder) 适配可扩展媒体录制工具包的 WAV 文件编码器
+- [jsonata](https://github.com/jsonata-js/jsonata) JSONata 查询与转换语言
 - [typegpu](https://github.com/software-mansion/TypeGPU) 一套模块化、可无限扩展的 WebGPU 工具集，具备高级类型推导能力，支持使用 TypeScript 编写着色器
 - [pdf-parse](https://github.com/mehmet-kozan/pdf-parse) 从 PDF 中提取文本、图片与表格数据
 - [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
