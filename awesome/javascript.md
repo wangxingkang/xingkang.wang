@@ -148,6 +148,7 @@
 ### 数据校验
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
+  - [zod-validation-error](https://github.com/causaly/zod-validation-error) 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
 - [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
 - [sury](https://github.com/DZakh/sury)
@@ -245,6 +246,7 @@
 
 ### 其他
 
+- [typegpu](https://github.com/software-mansion/TypeGPU) 一套模块化、可无限扩展的 WebGPU 工具集，具备高级类型推导能力，支持使用 TypeScript 编写着色器
 - [pdf-parse](https://github.com/mehmet-kozan/pdf-parse) 从 PDF 中提取文本、图片与表格数据
 - [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
 - [nanoevents](https://github.com/ai/nanoevents) 极简轻量（仅 107 字节）JavaScript 事件派发库

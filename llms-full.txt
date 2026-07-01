@@ -412,6 +412,7 @@ url: /awesome/ai.md
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
+- [Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases) 精选适配 AI 影视创作的 Blender 与 Seedance 工作流：涵盖预可视化、相机控制、Blender MCP、参考视频以及智能体驱动实操案例
 
 ### 其他
 
@@ -1163,6 +1164,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [pulsar-haptics](https://github.com/software-mansion/pulsar/tree/main/web/Pulsar) 一款用于在网页设备上播放触感振动效果的 TypeScript 库
+- [react-freeze](https://github.com/software-mansion/react-freeze) 阻止 React 组件子树重新渲染
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
 - [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
 - [bippy](https://github.com/aidenybai/bippy) 可侵入 React 底层内部逻辑的工具集
@@ -1284,6 +1287,11 @@ url: /awesome/react-native.md
 
 ## 其他
 
+- [react-native-pulsar](https://github.com/software-mansion/pulsar/tree/main/react-native/react-native-pulsar) 一款适用于 React Native 的触感反馈开发工具包
+- [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) 适用于 React Native 的高性能音频引擎
+- [react-native-enriched-html](https://github.com/software-mansion/react-native-enriched-html) 基于 HTML 的 React Native 富文本解决方案
+- [react-native-executorch](https://github.com/software-mansion/react-native-executorch)  基于 ExecuTorch，在 React Native 设备端以声明式方式运行 AI 模型
+- [react-native-enriched-markdown](https://github.com/software-mansion/react-native-enriched-markdown) React Native 平台的 Markdown 输入与文本渲染组件
 - [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
 - [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
 - [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
@@ -1506,6 +1514,7 @@ url: /awesome/javascript.md
 ### 数据校验
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
+  - [zod-validation-error](https://github.com/causaly/zod-validation-error) 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
 - [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
 - [sury](https://github.com/DZakh/sury)
@@ -1603,6 +1612,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [typegpu](https://github.com/software-mansion/TypeGPU) 一套模块化、可无限扩展的 WebGPU 工具集，具备高级类型推导能力，支持使用 TypeScript 编写着色器
 - [pdf-parse](https://github.com/mehmet-kozan/pdf-parse) 从 PDF 中提取文本、图片与表格数据
 - [fontoxpath](https://github.com/FontoXML/fontoxpath) 纯 JavaScript 实现的极简 XPath 3.1 解析库
 - [nanoevents](https://github.com/ai/nanoevents) 极简轻量（仅 107 字节）JavaScript 事件派发库
@@ -2201,6 +2211,8 @@ url: /awesome/vue.md
 
 ## 其他
 
+- [vee-validate](https://github.com/logaretm/vee-validate) 极简 Vue 表单开发
+- [vuefire](https://github.com/vuejs/vuefire) Vue.js 的 Firebase 绑定库
 - [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印
 - [lynxjs](https://vue.lynxjs.org/zh/) 使用熟悉的 Vue 3 开发 [Lynx](https://lynxjs.org/zh/index.html) 应用
 - [@unhead/vue](https://github.com/unjs/unhead/tree/main/packages/vue) 适用于任意框架的全栈 `<head>` 工具包
@@ -3352,6 +3364,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
@@ -3541,6 +3554,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
