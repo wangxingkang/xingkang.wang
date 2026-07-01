@@ -354,7 +354,6 @@ url: /awesome/ai.md
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
-- [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
@@ -363,7 +362,6 @@ url: /awesome/ai.md
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA
 - [antfu skills](https://github.com/antfu/skills) Anthony Fu 精心整理的智能体技能合集
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可在 Reddit、X、YouTube、黑客新闻（HN）、Polymarket 及全网对任意主题进行调研，然后合成一份有据可依的总结
-- [skills](https://github.com/mattpocock/skills) 这是我的个人技能目录，直接来自我的 `.claude` 目录。
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
 - [skills](https://skills.sh)
@@ -372,7 +370,6 @@ url: /awesome/ai.md
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
 - [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
-- [superpowers](https://github.com/obra/superpowers) Skill精选，从脑暴、写需求文档、开发、测试全包含
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
@@ -471,18 +468,15 @@ url: /awesome/ai.md
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 智能体性能优化系统。为 Claude Code、Codex、Opencode、Cursor 及其他工具提供技能、本能、记忆、安全保障与研究优先的开发能力
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
-- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
 - [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
 - [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
-- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) claude-code 最佳实践
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
@@ -517,7 +511,6 @@ url: /awesome/ai.md
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
-- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
@@ -538,7 +531,6 @@ url: /awesome/ai.md
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
-- [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
 - [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
@@ -678,8 +670,24 @@ url: /awesome/vibe-coding.md
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 
+## 开发工作流
+
+- [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
+- [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
+- [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
+- [Everything Claude Code](https://github.com/affaan-m/ECC) 智能体性能优化系统
+- [Matt Pocock Skills](https://github.com/mattpocock/skills)
+- [gsd](https://github.com/open-gsd/gsd-core) 一套轻量级的元提示、上下文工程与规范驱动开发系统
+- [agent-skills](https://github.com/addyosmani/agent-skills) 面向 AI 编码智能体的生产级工程能力套件
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向 AI 代码助手的规约驱动开发
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 敏捷 AI 驱动开发突破性方法论
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
+- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
+- [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
+
 ## 其他
 
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
 - [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
@@ -3440,7 +3448,7 @@ url: /awesome/rust.md
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [mise](https://github.com/jdx/mise) 开发工具、环境变量、任务运行器
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
-- [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱 👨‍🍳🐀
+- [ratatui](https://github.com/ratatui/ratatui) 一个用于打造终端用户界面（TUI）的 Rust 工具箱
 - [xilem](https://github.com/linebender/xilem) 一款实验性的 Rust 原生 UI 框架
 - [pi\_agent\_rust](https://github.com/Dicklesworthstone/pi_agent_rust) 用 Rust 编写的高性能 AI 编程智能体命令行工具，**零不安全代码**
 - [OpenShell](https://github.com/NVIDIA/OpenShell) OpenShell 是专为自主 AI 智能体打造的安全、私密运行时
@@ -3604,7 +3612,6 @@ url: /awesome/python.md
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
-- [spec-kit](https://github.com/github/spec-kit) 用于帮助你入门规范驱动开发的工具包
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费

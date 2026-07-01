@@ -44,7 +44,6 @@
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
-- [agent-skills](https://github.com/addyosmani/agent-skills) 面向AI编码智能体的**生产级工程能力**
 - [colleague-skill](https://github.com/titanwings/colleague-skill) 冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
@@ -53,7 +52,6 @@
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA
 - [antfu skills](https://github.com/antfu/skills) Anthony Fu 精心整理的智能体技能合集
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可在 Reddit、X、YouTube、黑客新闻（HN）、Polymarket 及全网对任意主题进行调研，然后合成一份有据可依的总结
-- [skills](https://github.com/mattpocock/skills) 这是我的个人技能目录，直接来自我的 `.claude` 目录。
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
 - [skills](https://skills.sh)
@@ -62,7 +60,6 @@
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
 - [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
-- [superpowers](https://github.com/obra/superpowers) Skill精选，从脑暴、写需求文档、开发、测试全包含
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
@@ -161,18 +158,15 @@
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 智能体性能优化系统。为 Claude Code、Codex、Opencode、Cursor 及其他工具提供技能、本能、记忆、安全保障与研究优先的开发能力
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
-- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
 - [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
 - [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
-- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) claude-code 最佳实践
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
@@ -207,7 +201,6 @@
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
-- [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex 等工具的**Office 复合工程插件**
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
@@ -228,7 +221,6 @@
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
-- [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
 - [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
