@@ -32,8 +32,15 @@
 
 - [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
 
+### 开源模型
+
+- [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
+
 ## Skill
 
+- [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
+- [humanizer](https://github.com/blader/humanizer) 可消除文本中 AI 写作痕迹的 Claude Code 智能技能
+- [humanizer-zh](https://github.com/op7418/Humanizer-zh) Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
@@ -164,7 +171,6 @@
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
 - [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现
-- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) GitNexus 是一款客户端知识图谱生成工具，完全在浏览器中运行。只需导入 GitHub 仓库或 ZIP 文件，即可获得带有内置图谱 RAG 智能体的交互式知识图谱，非常适合代码探索
 - [omlx](https://github.com/jundot/omlx) 面向苹果芯片的大语言模型推理服务器，支持持续批处理与 SSD 缓存，可通过 macOS 菜单栏进行管理
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
@@ -287,6 +293,7 @@
 
 ### 其他
 
+- [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台

@@ -6,11 +6,11 @@
 
 ## AI
 
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆
-- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
 - [FunASR](https://github.com/modelscope/FunASR) 工业级语音识别
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 像训练神经网络一样，通过一套科学的流程来“训练”智能体的提示词（Skills），而不需要修改模型本身的参数（Weights）
@@ -51,7 +51,6 @@
 - [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
-- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
