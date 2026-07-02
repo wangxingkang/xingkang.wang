@@ -369,7 +369,6 @@ url: /awesome/ai.md
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 一份独立的 CLAUDE.md 文件，用于优化 Claude Code 的表现，该文件基于安德烈・卡帕西对大语言模型编码陷阱的观察总结而成
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA
 - [antfu skills](https://github.com/antfu/skills) Anthony Fu 精心整理的智能体技能合集
-- [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可在 Reddit、X、YouTube、黑客新闻（HN）、Polymarket 及全网对任意主题进行调研，然后合成一份有据可依的总结
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
 - [skills](https://skills.sh)
@@ -770,7 +769,7 @@ url: /awesome/react.md
 
 - [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
-- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
+- [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
   - [@streamdown/code](https://github.com/vercel/streamdown/tree/main/packages/streamdown-code)
   - [@streamdown/math](https://github.com/vercel/streamdown/tree/main/packages/streamdown-math)
@@ -2125,7 +2124,7 @@ url: /awesome/vue.md
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
-- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
+- [@comark/vue](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 
 ## 多语言
 
@@ -3123,11 +3122,9 @@ url: /awesome/node.md
 - [peerjs](https://github.com/peers/peerjs) 基于 WebRTC 实现简易点对点通信
 - [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
 - [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
-- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 用于在 Node 项目中调用微软 ripgrep 预编译包内的 ripgrep 二进制程序
 - [dugite](https://github.com/desktop/dugite) 用于在 Node 应用中操作 Git 的简洁易用绑定库
 - [fix-path](https://github.com/sindresorhus/fix-path) 修复 macOS 与 Linux 系统下图形界面应用启动时的 $PATH 环境变量问题
 - [benjamn](https://github.com/benjamn/recast) JavaScript 语法树转换器、无损格式化打印器以及自动源码映射生成器
-- [shell-env](https://github.com/sindresorhus/shell-env) 从 Shell 中获取环境变量
 - [automd](https://github.com/unjs/automd) 自动化 Markdown 维护工具
 - [ethers.js](https://github.com/ethers-io/ethers.js) 基于 JavaScript 实现的完整以太坊库与钱包工具
 - [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
@@ -3445,7 +3442,6 @@ url: /awesome/rust.md
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [rust\_minifb](https://github.com/emoon/rust_minifb) 适用于 Rust 语言的跨平台窗口与帧缓冲区库
-- [yazi](https://github.com/sxyazi/yazi) 基于异步 I/O、用 Rust 编写的极速终端文件管理器
 - [bevy](https://github.com/bevyengine/bevy) 一款用 Rust 语言构建、简洁易用的数据驱动型游戏引擎
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
