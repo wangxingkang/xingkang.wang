@@ -358,6 +358,7 @@
 - [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
+- [@applemusic-like-lyrics/react](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
 
 ### 拖拽
 

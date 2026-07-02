@@ -421,6 +421,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [webclaw](https://github.com/0xMassi/webclaw) 面向大语言模型、高性能优先本地运行的网页内容提取工具
 - [aisuite](https://github.com/andrewyng/aisuite) 为多款生成式 AI 服务商提供简洁统一的调用界面
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) 可安装的 GitHub 代码库，内置 1600 余款智能体技能，适配 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等多款工具
 - [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架
@@ -1088,6 +1089,7 @@ url: /awesome/react.md
 - [@cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) 基于 JSMpeg 的 MPEG1 视频播放器
 - [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
 - [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
+- [@applemusic-like-lyrics/react](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
 
 ### 拖拽
 
@@ -1627,6 +1629,7 @@ url: /awesome/javascript.md
 
 ### 音视频
 
+- [music-metadata](https://github.com/Borewit/music-metadata) 音视频媒体文件元数据解析器
 - [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频
 - [turbores](https://github.com/Vanilagy/turbores) 一款极速 WebAssembly 版 Apple ProRes 视频解码器
@@ -1640,6 +1643,9 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [WanaKana](https://github.com/WaniKani/WanaKana) 一款用于识别平假名、片假名、罗马音并在三者之间相互转换的 JavaScript 库
+- [opencc-js](https://github.com/nk2028/opencc-js) 开放中文转换库（OpenCC）的 JavaScript 版本
+- [xmldom](https://github.com/xmldom/xmldom) 基于 W3C 标准（XML DOM 2 级核心规范）实现 DOMParser 与 XMLSerializer
 - [extendable-media-recorder](https://github.com/chrisguttandin/extendable-media-recorder) 可扩展、开箱即用的原生 MediaRecorder 替代方案
   - [extendable-media-recorder-wav-encoder](https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder) 适配可扩展媒体录制工具包的 WAV 文件编码器
 - [jsonata](https://github.com/jsonata-js/jsonata) JSONata 查询与转换语言
@@ -2241,6 +2247,7 @@ url: /awesome/vue.md
 
 ## 其他
 
+- [@applemusic-like-lyrics/vue](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
 - [vee-validate](https://github.com/logaretm/vee-validate) 极简 Vue 表单开发
 - [vuefire](https://github.com/vuejs/vuefire) Vue.js 的 Firebase 绑定库
 - [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印
@@ -3029,7 +3036,7 @@ url: /awesome/node.md
 
 ## AI
 
-- [js-genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
+- [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
 - [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
 - [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
@@ -3105,6 +3112,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
