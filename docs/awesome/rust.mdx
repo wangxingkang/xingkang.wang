@@ -30,6 +30,7 @@
 
 ## 其他
 
+- [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具
 - [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
