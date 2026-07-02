@@ -3524,6 +3524,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
 - [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
