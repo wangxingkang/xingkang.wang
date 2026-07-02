@@ -115,6 +115,9 @@
 
 ### 其他
 
+- [qrcode.vue](https://github.com/scopewu/qrcode.vue) 二维码组件
+- [vue-json-pretty](https://github.com/leezng/vue-json-pretty) 一款易用且支持数据选中功能的 JSON 树形展示组件
+- [vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) 适用于 Vue.js 3.x 的简洁 JSON 查看组件
 - [@egjs/vue3-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Vue 组件
 - [@egjs/vue3-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库

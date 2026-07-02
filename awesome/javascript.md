@@ -248,6 +248,8 @@
 
 ### 其他
 
+- [@zxcvbn-ts/core](https://github.com/zxcvbn-ts/zxcvbn) 密码强度评估工具
+- [ts-md5](https://github.com/cotag/ts-md5) TypeScript 版 MD5 实现
 - [WanaKana](https://github.com/WaniKani/WanaKana) 一款用于识别平假名、片假名、罗马音并在三者之间相互转换的 JavaScript 库
 - [opencc-js](https://github.com/nk2028/opencc-js) 开放中文转换库（OpenCC）的 JavaScript 版本
 - [xmldom](https://github.com/xmldom/xmldom) 基于 W3C 标准（XML DOM 2 级核心规范）实现 DOMParser 与 XMLSerializer
@@ -431,6 +433,7 @@
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
 - [driver.js](https://github.com/nilbuild/driver.js) 用户引导
+- [intro.js](https://github.com/usablica/intro.js) 用户引导
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁

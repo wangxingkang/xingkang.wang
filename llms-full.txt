@@ -1642,6 +1642,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [@zxcvbn-ts/core](https://github.com/zxcvbn-ts/zxcvbn) 密码强度评估工具
+- [ts-md5](https://github.com/cotag/ts-md5) TypeScript 版 MD5 实现
 - [WanaKana](https://github.com/WaniKani/WanaKana) 一款用于识别平假名、片假名、罗马音并在三者之间相互转换的 JavaScript 库
 - [opencc-js](https://github.com/nk2028/opencc-js) 开放中文转换库（OpenCC）的 JavaScript 版本
 - [xmldom](https://github.com/xmldom/xmldom) 基于 W3C 标准（XML DOM 2 级核心规范）实现 DOMParser 与 XMLSerializer
@@ -1825,6 +1827,7 @@ url: /awesome/javascript.md
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
 - [streamsaver](https://github.com/jimmywarting/StreamSaver.js) StreamSaver 可**直接异步将流写入文件系统**
 - [driver.js](https://github.com/nilbuild/driver.js) 用户引导
+- [intro.js](https://github.com/usablica/intro.js) 用户引导
 - [shepherd](https://github.com/shipshapecode/shepherd) 引导用户逐步熟悉/体验你的应用功能
 - [fastdom](https://github.com/wilsonpage/fastdom) 通过批量处理 DOM 测量与修改任务，**消除布局抖动**。
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
@@ -2225,6 +2228,9 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [qrcode.vue](https://github.com/scopewu/qrcode.vue) 二维码组件
+- [vue-json-pretty](https://github.com/leezng/vue-json-pretty) 一款易用且支持数据选中功能的 JSON 树形展示组件
+- [vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) 适用于 Vue.js 3.x 的简洁 JSON 查看组件
 - [@egjs/vue3-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Vue 组件
 - [@egjs/vue3-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [@floating-ui/vue](https://github.com/floating-ui/floating-ui/tree/master/packages/vue) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
@@ -3112,6 +3118,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
 - [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
 - [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施

@@ -84,6 +84,7 @@
 
 ## 其他
 
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
 - [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
 - [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
