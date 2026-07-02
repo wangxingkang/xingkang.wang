@@ -38,6 +38,7 @@
 
 ## Skill
 
+- [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [humanizer](https://github.com/blader/humanizer) 可消除文本中 AI 写作痕迹的 Claude Code 智能技能
 - [humanizer-zh](https://github.com/op7418/Humanizer-zh) Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹
