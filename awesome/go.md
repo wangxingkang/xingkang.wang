@@ -20,6 +20,10 @@
 
 ## 其他
 
+- [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
+- [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
+- [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
+- [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
 - [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码

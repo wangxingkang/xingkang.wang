@@ -1,5 +1,9 @@
 # Test
 
+## AI
+
+- [strix](https://github.com/usestrix/strix) 开源 AI 渗透测试工具，用于检测并修复应用程序漏洞
+
 ## Vitest
 
 ### 官方资源

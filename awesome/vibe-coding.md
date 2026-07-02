@@ -65,6 +65,8 @@
 
 ## 其他
 
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) 零服务端代码智能引擎
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
