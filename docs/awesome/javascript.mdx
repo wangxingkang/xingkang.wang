@@ -621,6 +621,8 @@
 
 ### 其他
 
+- [pdfjs-dist](https://github.com/mozilla/pdf.js) 基于 JavaScript 实现的 PDF 阅读器
+- [pdf-lib](https://github.com/Hopding/pdf-lib) 可在任意 JavaScript 运行环境中创建与编辑 PDF 文档
 - [file-viewer](https://github.com/flyfish-dev/file-viewer) 纯前端文件预览组件
 - [mdui](https://github.com/zdhxiong/mdui) 基于 Web 组件实现的 Material Design 3（Material You）界面组件库
 - [ej2-javascript-ui-controls](https://github.com/syncfusion/ej2-javascript-ui-controls) 50 余款跨浏览器、响应式、轻量型 HTML5 UI 控件
@@ -689,7 +691,6 @@
 - [relationship-ts](https://github.com/ExploringTheCodeWorld/relationship-ts) 中国亲戚关系计算器
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
 - [js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) 基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
-- [pdfjs-dist](https://github.com/mozilla/pdf.js)
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
 - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
