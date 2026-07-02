@@ -39,7 +39,7 @@
 
 - [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
-- [comark](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
+- [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
   - [@streamdown/code](https://github.com/vercel/streamdown/tree/main/packages/streamdown-code)
   - [@streamdown/math](https://github.com/vercel/streamdown/tree/main/packages/streamdown-math)
