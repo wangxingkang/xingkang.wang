@@ -111,6 +111,7 @@
 
 ### 其他
 
+- [webclaw](https://github.com/0xMassi/webclaw) 面向大语言模型、高性能优先本地运行的网页内容提取工具
 - [aisuite](https://github.com/andrewyng/aisuite) 为多款生成式 AI 服务商提供简洁统一的调用界面
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) 可安装的 GitHub 代码库，内置 1600 余款智能体技能，适配 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等多款工具
 - [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架

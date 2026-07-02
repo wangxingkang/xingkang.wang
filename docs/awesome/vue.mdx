@@ -137,6 +137,7 @@
 
 ## 其他
 
+- [@applemusic-like-lyrics/vue](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
 - [vee-validate](https://github.com/logaretm/vee-validate) 极简 Vue 表单开发
 - [vuefire](https://github.com/vuejs/vuefire) Vue.js 的 Firebase 绑定库
 - [vue-print-next](https://github.com/Alessandro-Pang/vue-print-next) 打印

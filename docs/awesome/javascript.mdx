@@ -234,6 +234,7 @@
 
 ### 音视频
 
+- [music-metadata](https://github.com/Borewit/music-metadata) 音视频媒体文件元数据解析器
 - [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频
 - [turbores](https://github.com/Vanilagy/turbores) 一款极速 WebAssembly 版 Apple ProRes 视频解码器
@@ -247,6 +248,9 @@
 
 ### 其他
 
+- [WanaKana](https://github.com/WaniKani/WanaKana) 一款用于识别平假名、片假名、罗马音并在三者之间相互转换的 JavaScript 库
+- [opencc-js](https://github.com/nk2028/opencc-js) 开放中文转换库（OpenCC）的 JavaScript 版本
+- [xmldom](https://github.com/xmldom/xmldom) 基于 W3C 标准（XML DOM 2 级核心规范）实现 DOMParser 与 XMLSerializer
 - [extendable-media-recorder](https://github.com/chrisguttandin/extendable-media-recorder) 可扩展、开箱即用的原生 MediaRecorder 替代方案
   - [extendable-media-recorder-wav-encoder](https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder) 适配可扩展媒体录制工具包的 WAV 文件编码器
 - [jsonata](https://github.com/jsonata-js/jsonata) JSONata 查询与转换语言
