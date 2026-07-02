@@ -110,6 +110,10 @@
 
 ### 其他
 
+- [aisuite](https://github.com/andrewyng/aisuite) 为多款生成式 AI 服务商提供简洁统一的调用界面
+- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) 可安装的 GitHub 代码库，内置 1600 余款智能体技能，适配 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等多款工具
+- [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架
+- [opensquilla](https://github.com/opensquilla/opensquilla) 高效令牌 AI 智能体，同等算力成本下拥有更高智能密度
 - [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 强大的AI提示词优化工具，帮助你编写更好的AI提示词，提升AI输出质量
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS) 开源智能体浏览器，可替代 ChatGPT Atlas、Perplexity Comet、Dia

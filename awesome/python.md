@@ -23,7 +23,6 @@
 - [whisper](https://github.com/openai/whisper) 依托大规模弱监督学习实现高鲁棒性语音识别
 - [OpenHands](https://github.com/OpenHands/OpenHands) AI 驱动的开发工具
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) 依托现有公开研究文献，从基础原理出发，对克劳德神话架构进行理论重构
-- [headroom](https://github.com/chopratejas/headroom) 在送入大模型前，对工具输出内容、日志、文件以及检索增强知识库分片进行压缩。Token 消耗量降低 60%\~95%，回答效果保持不变。提供类库、代理服务、MCP 服务端三种部署形态
 - [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
 - [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 这是一个开源插件仓库，插件主要面向知识工作者，供其在 Claude Cowork 中使用
 - [rotorquant](https://github.com/scrya-com/rotorquant) 采用分块对角旋转实现键值缓存压缩，性能优于极速量化：困惑度 6.91，优于 7.07；解码速度提升 28%，预填充速度提升 5.3 倍，参数量缩减至原有的 1/44，可直接无缝接入 llama.cpp 使用
