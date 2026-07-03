@@ -296,11 +296,15 @@
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [writehuman](https://writehuman.ai) 去除 AI 味
 
+### 设计
+
+- [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
+- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
+
 ### 其他
 
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
-- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
 - [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
