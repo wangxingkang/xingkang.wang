@@ -69,6 +69,8 @@
 
 ### 其他
 
+- [basic-auth](https://github.com/jshttp/basic-auth) 通用基础认证 Authorization 请求头解析器
+- [ssh2](https://github.com/mscdex/ssh2) 适用于 Node.js 的 SSH2 客户端与服务端模块
 - [rfc6902](https://github.com/chbrown/rfc6902) 基于 TypeScript 完整实现 RFC6902 标准
 - [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
 - [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
@@ -84,6 +86,10 @@
 
 ## 其他
 
+- [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
+- [body-parser](https://github.com/expressjs/body-parser) 请求体解析中间件
+- [express-session](https://github.com/expressjs/session) 适用于 Express 的简易会话中间件
+- [webssh2](https://github.com/billchurch/webssh2) 基于 ssh2、socket.io、xterm.js 与 Express 搭建的网页版 SSH 客户端
 - [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
 - [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
 - [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口

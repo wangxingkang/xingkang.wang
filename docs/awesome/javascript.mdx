@@ -248,6 +248,7 @@
 
 ### 其他
 
+- [jsmasker](https://github.com/billchurch/jsmasker) 对对象与数组中的敏感字段进行脱敏处理，使用自定义掩码内容替换原始敏感数据
 - [@zxcvbn-ts/core](https://github.com/zxcvbn-ts/zxcvbn) 密码强度评估工具
 - [ts-md5](https://github.com/cotag/ts-md5) TypeScript 版 MD5 实现
 - [WanaKana](https://github.com/WaniKani/WanaKana) 一款用于识别平假名、片假名、罗马音并在三者之间相互转换的 JavaScript 库
