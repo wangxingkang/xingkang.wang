@@ -370,6 +370,7 @@
 
 ### 其他
 
+- [react-moveable](https://github.com/daybrush/moveable/tree/master/packages/react-moveable) 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！
 - [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
 - [react-shiki](https://github.com/AVGVSTVS96/react-shiki) 基于 Shiki 实现、适用于 React 的代码语法高亮钩子与组件
 - [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
