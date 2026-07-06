@@ -8,6 +8,8 @@
 
 ## AI
 
+- [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
+- [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
 - [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
@@ -86,6 +88,9 @@
 
 ## 其他
 
+- [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
+- [scalar](https://github.com/scalar/scalar) 开源 API 平台
+- [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器
 - [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
 - [body-parser](https://github.com/expressjs/body-parser) 请求体解析中间件
 - [express-session](https://github.com/expressjs/session) 适用于 Express 的简易会话中间件

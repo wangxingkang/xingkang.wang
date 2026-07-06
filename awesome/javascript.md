@@ -615,8 +615,10 @@
 
 ## 图标
 
+- [logos](https://github.com/gilbarbara/logos) 海量 SVG 标志图标合集
 - [lucide](https://lucide.dev/guide/packages/lucide)
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
+- [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
 
 ### 拖拽
 

@@ -1197,6 +1197,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
 - [pulsar-haptics](https://github.com/software-mansion/pulsar/tree/main/web/Pulsar) 一款用于在网页设备上播放触感振动效果的 TypeScript 库
 - [react-freeze](https://github.com/software-mansion/react-freeze) 阻止 React 组件子树重新渲染
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
@@ -2014,8 +2015,10 @@ url: /awesome/javascript.md
 
 ## 图标
 
+- [logos](https://github.com/gilbarbara/logos) 海量 SVG 标志图标合集
 - [lucide](https://lucide.dev/guide/packages/lucide)
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
+- [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
 
 ### 拖拽
 
@@ -3048,6 +3051,8 @@ url: /awesome/node.md
 
 ## AI
 
+- [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
+- [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
 - [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
@@ -3126,6 +3131,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
+- [scalar](https://github.com/scalar/scalar) 开源 API 平台
+- [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器
 - [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
 - [body-parser](https://github.com/expressjs/body-parser) 请求体解析中间件
 - [express-session](https://github.com/expressjs/session) 适用于 Express 的简易会话中间件
@@ -3677,6 +3685,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [pdf-craft](https://github.com/oomol-lab/pdf-craft) 将 PDF 文件转换为多种其他格式, 本项目将专注处理扫描版书籍 PDF 文件
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) 对 PDF 及其他格式文档进行数据提取、分析、格式转换与编辑处理
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) 一款借助 ReportLab 将 HTML 转换为 PDF 的程序库
 - [llama\_index](https://github.com/run-llama/llama_index) 主流文档智能体与光学字符识别平台
