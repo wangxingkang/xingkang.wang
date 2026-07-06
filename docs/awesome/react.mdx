@@ -463,6 +463,7 @@
 
 ## 其他
 
+- [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
 - [pulsar-haptics](https://github.com/software-mansion/pulsar/tree/main/web/Pulsar) 一款用于在网页设备上播放触感振动效果的 TypeScript 库
 - [react-freeze](https://github.com/software-mansion/react-freeze) 阻止 React 组件子树重新渲染
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
