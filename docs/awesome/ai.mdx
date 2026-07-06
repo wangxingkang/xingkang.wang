@@ -202,7 +202,6 @@
 - [claudecodeui](https://github.com/siteboon/claudecodeui) 借助 CloudCLI（又名 Claude Code UI），您可以在移动端和网页端使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费开源的网页用户界面 / 图形界面，可帮助您远程管理 Claude Code 会话和项目
 - [puck](https://github.com/puckeditor/puck) 打造属于你自己的 AI 页面生成器
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
-- [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
 - [agent-os](https://github.com/rivet-dev/agent-os) 一款面向智能体的便携开源操作系统。冷启动速度约 6 毫秒，成本比沙箱低 32 倍。基于 WebAssembly 与 V8 隔离环境驱动
 - [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
@@ -226,7 +225,6 @@
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [opencli](https://github.com/jackwener/opencli) 把任何网站或 Electron 应用变成你的命令行工具
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
-- [hrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
