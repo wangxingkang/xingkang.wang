@@ -686,6 +686,7 @@ url: /awesome/vibe-coding.md
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 
 ## 开发工作流
 
@@ -775,6 +776,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [@ai-sdk/react](https://github.com/vercel/ai/tree/main/packages/react)
 - [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
 - [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
@@ -802,6 +804,7 @@ url: /awesome/react.md
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
   - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
+  - [jotai-family](https://github.com/jotaijs/jotai-family) 用于原子状态集合的 Jōtai 工具包
 - [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
   - [valtio-reactive](https://github.com/valtiojs/valtio-reactive) 适用于 Valtio 的派生工具函数
@@ -928,6 +931,7 @@ url: /awesome/react.md
 ### 通用
 
 - 图标
+  - [@remixicon/react](https://github.com/Remix-Design/RemixIcon)
   - [@icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons)
   - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
   - [react-icons](https://github.com/react-icons/react-icons)
@@ -1102,7 +1106,7 @@ url: /awesome/react.md
 
 ### 拖拽
 
-- [@dnd-kit/react](https://github.com/clauderic/dnd-kit)
+- [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react)
 - [react-dnd](https://github.com/react-dnd/react-dnd)
   - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
@@ -1151,6 +1155,7 @@ url: /awesome/react.md
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+  - [@uiw/codemirror-extensions-color](https://github.com/uiwjs/react-codemirror/tree/master/extensions/color)
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
@@ -1203,6 +1208,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
+- [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
 - [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
 - [pulsar-haptics](https://github.com/software-mansion/pulsar/tree/main/web/Pulsar) 一款用于在网页设备上播放触感振动效果的 TypeScript 库
 - [react-freeze](https://github.com/software-mansion/react-freeze) 阻止 React 组件子树重新渲染
@@ -1419,6 +1426,26 @@ url: /awesome/javascript.md
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+  - [@ai-sdk/alibaba](https://github.com/vercel/ai/tree/HEAD/packages/alibaba)
+  - [@ai-sdk/amazon-bedrock](https://github.com/vercel/ai/tree/HEAD/packages/amazon-bedrock)
+  - [@ai-sdk/anthropic](https://github.com/vercel/ai/tree/HEAD/packages/anthropic)
+  - [@ai-sdk/azure](https://github.com/vercel/ai/tree/HEAD/packages/azure)
+  - [@ai-sdk/cerebras](https://github.com/vercel/ai/tree/HEAD/packages/cerebras)
+  - [@ai-sdk/cohere](https://github.com/vercel/ai/tree/HEAD/packages/cohere)
+  - [@ai-sdk/deepinfra](https://github.com/vercel/ai/tree/HEAD/packages/deepinfra)
+  - [@ai-sdk/deepseek](https://github.com/vercel/ai/tree/HEAD/packages/deepseek)
+  - [@ai-sdk/google](https://github.com/vercel/ai/tree/HEAD/packages/google)
+  - [@ai-sdk/groq](https://github.com/vercel/ai/tree/HEAD/packages/groq)
+  - [@ai-sdk/huggingface](https://github.com/vercel/ai/tree/HEAD/packages/huggingface)
+  - [@ai-sdk/mistral](https://github.com/vercel/ai/tree/HEAD/packages/mistral)
+  - [@ai-sdk/moonshotai](https://github.com/vercel/ai/tree/HEAD/packages/moonshotai)
+  - [@ai-sdk/openai](https://github.com/vercel/ai/tree/HEAD/packages/openai)
+  - [@ai-sdk/openai-compatible](https://github.com/vercel/ai/tree/HEAD/packages/openai-compatible)
+  - [@ai-sdk/perplexity](https://github.com/vercel/ai/tree/HEAD/packages/perplexity)
+  - [@ai-sdk/replicate](https://github.com/vercel/ai/tree/HEAD/packages/replicate)
+  - [@ai-sdk/togetherai](https://github.com/vercel/ai/tree/HEAD/packages/togetherai)
+  - [@ai-sdk/vercel](https://github.com/vercel/ai/tree/HEAD/packages/vercel)
+  - [@ai-sdk/xai](https://github.com/vercel/ai/tree/HEAD/packages/xai)
 - [ai-sdk-ollama](https://github.com/jagreehal/ai-sdk-ollama)
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
@@ -1653,6 +1680,11 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [orpc](https://github.com/middleapi/orpc) 轻松实现类型安全接口
+  - [@orpc/tanstack-query](https://github.com/middleapi/orpc/tree/main/packages/tanstack-query)
+- [case-anything](https://github.com/mesqueeb/case-anything) 小驼峰、短横线命名、大驼峰…… 轻量集成，包体体积极小
+- [csstree](https://github.com/csstree/csstree) 一套 CSS 工具集，包含基于 W3C 规范与浏览器实现构建的高速精细解析器、遍历器、生成器及词法分析器
+- [defuddle](https://github.com/kepano/defuddle) 将任意网页的主体内容提取为 Markdown 格式
 - [jsmasker](https://github.com/billchurch/jsmasker) 对对象与数组中的敏感字段进行脱敏处理，使用自定义掩码内容替换原始敏感数据
 - [@zxcvbn-ts/core](https://github.com/zxcvbn-ts/zxcvbn) 密码强度评估工具
 - [ts-md5](https://github.com/cotag/ts-md5) TypeScript 版 MD5 实现
@@ -1755,6 +1787,7 @@ url: /awesome/javascript.md
 - [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
+- [@tanstack/hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/hotkeys)
 - [fflate](https://github.com/101arrowz/fflate) 8KB 大小的高性能（解）压缩工具
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
@@ -1954,6 +1987,7 @@ url: /awesome/javascript.md
 - [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
 - [short-uuid](https://github.com/oculus42/short-uuid) 将标准 UUID 转换为更简短的格式，并支持反向还原
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
+- [debounce](https://github.com/sindresorhus/debounce)
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
 - [instant.page](https://github.com/instantpage/instant.page) 一分钟内让你的网站页面实现秒开，转化率提升 1%。
@@ -2079,6 +2113,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
 - [@fontsource-variable/inter](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/inter) 用于本地部署「Inter」可变字体的 CSS 与网页字体文件
 - [border-beam-vanilla](https://github.com/jqueryscript/border-beam-vanilla) 原生 JavaScript 实现的动画边框光束特效
@@ -2158,6 +2193,7 @@ url: /awesome/vue.md
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
 - [@comark/vue](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
+- [@ai-sdk/vue](https://github.com/vercel/ai/tree/main/packages/vue)
 
 ## 多语言
 
@@ -2248,6 +2284,7 @@ url: /awesome/vue.md
 
 ### 拖拽
 
+- [@dnd-kit/vue](https://github.com/clauderic/dnd-kit/tree/main/packages/vue)
 - [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) 一款支持 Vue 3 和 Vue 2 双版本的通用拖拽组件
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 一款基于 Sortable.js 开发的 Vue 拖拽组件
 
@@ -2257,6 +2294,7 @@ url: /awesome/vue.md
 
 ### 其他
 
+- [@tanstack/vue-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/vue-hotkeys) 快捷键
 - [qrcode.vue](https://github.com/scopewu/qrcode.vue) 二维码组件
 - [vue-json-pretty](https://github.com/leezng/vue-json-pretty) 一款易用且支持数据选中功能的 JSON 树形展示组件
 - [vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) 适用于 Vue.js 3.x 的简洁 JSON 查看组件
@@ -2563,6 +2601,9 @@ url: /awesome/svelte.md
 
 ### 其他
 
+- [@ai-sdk/svelte](https://github.com/vercel/ai/tree/main/packages/svelte)
+- [@dnd-kit/svelte](https://github.com/clauderic/dnd-kit/tree/main/packages/svelte)
+- [@tanstack/svelte-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/svelte-hotkeys) 快捷键
 - [@egjs/svelte-infinitegrid](https://github.com/naver/egjs-infinitegrid) 一款可根据网格类型无限排列元素的 Svelte 组件
 - [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) 一款有固定设计风格的 Svelte 消息提示（Toast）组件
 - [paneforge](https://github.com/svecosystem/paneforge) 适用于 Svelte 的可缩放面板组件
@@ -2603,6 +2644,8 @@ url: /awesome/solid.md
 
 ## 其他
 
+- [@dnd-kit/solid](https://github.com/clauderic/dnd-kit/tree/main/packages/solid)
+- [@tanstack/solid-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/solid-hotkeys) 快捷键
 - [@solidjs/router](https://github.com/solidjs/solid-router) 路由库
 - [@unhead/solid-js](https://github.com/unjs/unhead/tree/main/packages/solid-js) 适用于任意框架的全栈 `<head>` 工具包
 
@@ -2616,6 +2659,8 @@ url: /awesome/browser-extension.md
 
 ## 开发
 
+- [wxt](https://github.com/wxt-dev/wxt) 下一代浏览器扩展开发框架
+- [webext-core](https://github.com/aklinker1/webext-core) 一套用于开发浏览器扩展的核心库与工具合集
 - [transliteration](https://github.com/yf-hk/transliteration) 适用于 Node.js、浏览器、Web Worker、React Native、Electron 及命令行的 UTF‑8 转 ASCII 音译 / URL 友好字符串转换模块
 - [raycast](https://github.com/raycast/extensions) 扩展 Raycast 所需的一切
 - [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 一款适用于 Chrome 中基于 Promise 的网页扩展 API 的轻量级垫片库
@@ -2626,6 +2671,10 @@ url: /awesome/browser-extension.md
 ## 开发模版
 
 - [vite-web-extension](https://github.com/JohnBra/vite-web-extension) 可快速开发 Chrome 与 Firefox 浏览器扩展的网页扩展模板，集成 React 19、TypeScript 及 TailwindCSS
+
+## 其他
+
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
 
 ## 案例
 
@@ -2969,6 +3018,8 @@ url: /awesome/github.md
 
 ## 其他
 
+- [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 适配 Photoshop 用户的 GIMP 3 及以上版本补丁
 - [zhuque](https://github.com/TrionesType/zhuque) 朱雀仿宋/朱雀宋朝/Zhuque
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
@@ -3154,6 +3205,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@t3-oss/env-core](https://github.com/t3-oss/t3-env) 简易实现类型安全环境变量
 - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
 - [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
@@ -3726,6 +3778,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) 可在普通 CPU（乃至便携设备）流畅运行的语音合成工具
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) 将 PDF 文件转换为多种其他格式, 本项目将专注处理扫描版书籍 PDF 文件
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) 对 PDF 及其他格式文档进行数据提取、分析、格式转换与编辑处理
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) 一款借助 ReportLab 将 HTML 转换为 PDF 的程序库

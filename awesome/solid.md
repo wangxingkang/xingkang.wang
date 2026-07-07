@@ -19,5 +19,7 @@
 
 ## 其他
 
+- [@dnd-kit/solid](https://github.com/clauderic/dnd-kit/tree/main/packages/solid)
+- [@tanstack/solid-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/solid-hotkeys) 快捷键
 - [@solidjs/router](https://github.com/solidjs/solid-router) 路由库
 - [@unhead/solid-js](https://github.com/unjs/unhead/tree/main/packages/solid-js) 适用于任意框架的全栈 `<head>` 工具包

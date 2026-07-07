@@ -27,6 +27,8 @@
 
 ## 其他
 
+- [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 适配 Photoshop 用户的 GIMP 3 及以上版本补丁
 - [zhuque](https://github.com/TrionesType/zhuque) 朱雀仿宋/朱雀宋朝/Zhuque
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本

@@ -16,6 +16,7 @@
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
 - [@comark/vue](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
+- [@ai-sdk/vue](https://github.com/vercel/ai/tree/main/packages/vue)
 
 ## 多语言
 
@@ -106,6 +107,7 @@
 
 ### 拖拽
 
+- [@dnd-kit/vue](https://github.com/clauderic/dnd-kit/tree/main/packages/vue)
 - [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) 一款支持 Vue 3 和 Vue 2 双版本的通用拖拽组件
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 一款基于 Sortable.js 开发的 Vue 拖拽组件
 
@@ -115,6 +117,7 @@
 
 ### 其他
 
+- [@tanstack/vue-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/vue-hotkeys) 快捷键
 - [qrcode.vue](https://github.com/scopewu/qrcode.vue) 二维码组件
 - [vue-json-pretty](https://github.com/leezng/vue-json-pretty) 一款易用且支持数据选中功能的 JSON 树形展示组件
 - [vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) 适用于 Vue.js 3.x 的简洁 JSON 查看组件
