@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [zhuque](https://github.com/TrionesType/zhuque) 朱雀仿宋/朱雀宋朝/Zhuque
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
 - [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频

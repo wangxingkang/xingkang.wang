@@ -72,6 +72,7 @@
 
 ## 动画
 
+- [@gsap/react](https://github.com/greensock/react) 用于在 React 中使用 GSAP 的工具
 - [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
 - [tegaki](https://github.com/KurtGokhan/tegaki) 适用于网页的手写动画，支持任意字体与文本
@@ -124,6 +125,7 @@
 
 ## 组件库
 
+- [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）

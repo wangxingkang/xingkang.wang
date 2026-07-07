@@ -49,10 +49,9 @@
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
   - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) 用于加速光线投射、并支持对 three.js 网格进行空间查询的 BVH（边界体积层次结构）实现
-- PlayCanvas
+- [playcanvas](https://github.com/playcanvas/engine) 基于 WebGL2 和 WebGPU 构建的开源游戏引擎
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
-  - [engine](https://github.com/playcanvas/engine) 基于 WebGL、WebGPU、WebXR 和 glTF 构建的**高性能网页图形运行时**
 
 ### 地理
 
@@ -674,6 +673,9 @@
 
 ## 其他
 
+- [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
+- [@fontsource-variable/inter](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/inter) 用于本地部署「Inter」可变字体的 CSS 与网页字体文件
+- [border-beam-vanilla](https://github.com/jqueryscript/border-beam-vanilla) 原生 JavaScript 实现的动画边框光束特效
 - [barcode-detector](https://github.com/Sec-ant/barcode-detector) 一款条码检测 API 兼容填充库（ponyfill/polyfill），底层基于 ZXing-C++ WebAssembly 实现
 - [xss](https://github.com/leizongmin/js-xss) 通过白名单配置对不可信 HTML 进行安全净化（防止跨站脚本攻击 XSS）
 - [@azure/msal-browser](https://github.com/AzureAD/microsoft-authentication-library-for-js) 适用于 JavaScript 的微软身份验证库
