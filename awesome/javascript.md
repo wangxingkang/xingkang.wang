@@ -373,7 +373,7 @@
 - [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 用 JavaScript 实现截图功能
 - [html-entities](https://github.com/mdevils/html-entities) 极速 HTML 实体编码/解码库
 - [highlight.js](https://github.com/highlightjs/highlight.js) 自带语言自动检测、**零依赖**的 JavaScript 代码语法高亮库
-- [alpine](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
+- [alpinejs](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
@@ -429,6 +429,12 @@
 - [cornerstonejs](https://github.com/cornerstonejs) 交互式医学图像工具
 - [nzh](https://github.com/cnwhy/nzh) 数字转中文（大写，小写）数字，金额
 - [workbox](https://github.com/GoogleChrome/workbox) 用于构建渐进式 Web 应用（PWA）的 JavaScript 库
+  - [workbox-core](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-core)
+  - [workbox-expiration](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-expiration)
+  - [workbox-precaching](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-precaching)
+  - [workbox-routing](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-routing)
+  - [workbox-strategies](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-strategies)
+  - [workbox-cacheable-response](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-cacheable-response)
 - [comlink](https://github.com/GoogleChromeLabs/comlink) Comlink 让 WebWorker 变得易用又愉悦
 - [sysend](https://github.com/jcubic/sysend) 跨标签页通信
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
@@ -524,7 +530,7 @@
 - [property-information](https://github.com/wooorm/property-information) Web 平台各类属性与特性的参考说明
 - [parse5](https://github.com/inikulin/parse5) 适用于 Node.js 的 HTML 解析 / 序列化工具集，完全遵循 WHATWG HTML 实时标准（亦称 HTML5）规范
 - [micromark](https://github.com/micromark/micromark) 轻量、安全、高性能的通用 Markdown 解析器，兼容 CommonMark 标准（可选兼容 GFM、MDX 语法）
-- [KaTeX](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
+- [katex](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
 - [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
 - [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
@@ -576,6 +582,7 @@
 
 ### 数据展示
 
+- [cally](https://github.com/WickyNilliams/cally) 轻量且功能完备的日历组件
 - [Swiper](https://github.com/nolimits4web/Swiper) 搭载硬件加速过渡动效的新一代移动端触摸滑动组件
 - [number-flow](https://github.com/barvian/number-flow) 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) 一款可自定义、模块化、响应式的灯箱画廊插件
@@ -627,6 +634,8 @@
 
 ### 其他
 
+- [color-name](https://github.com/colorjs/color-name) 包含 CSS 颜色名称的 JSON 文件
+- [element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) Element Internals 规范的兼容填充库
 - [pdfjs-dist](https://github.com/mozilla/pdf.js) 基于 JavaScript 实现的 PDF 阅读器
 - [pdf-lib](https://github.com/Hopding/pdf-lib) 可在任意 JavaScript 运行环境中创建与编辑 PDF 文档
 - [file-viewer](https://github.com/flyfish-dev/file-viewer) 纯前端文件预览组件
@@ -665,6 +674,9 @@
 
 ## 其他
 
+- [barcode-detector](https://github.com/Sec-ant/barcode-detector) 一款条码检测 API 兼容填充库（ponyfill/polyfill），底层基于 ZXing-C++ WebAssembly 实现
+- [xss](https://github.com/leizongmin/js-xss) 通过白名单配置对不可信 HTML 进行安全净化（防止跨站脚本攻击 XSS）
+- [@azure/msal-browser](https://github.com/AzureAD/microsoft-authentication-library-for-js) 适用于 JavaScript 的微软身份验证库
 - [fast](https://github.com/microsoft/fast) 专注于原生网页组件与现代网页标准的兼容支持(Web Components)
 - [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言

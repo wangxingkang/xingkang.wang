@@ -88,6 +88,9 @@
 
 ## 其他
 
+- [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
+- [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
+- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
 - [scalar](https://github.com/scalar/scalar) 开源 API 平台
 - [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器

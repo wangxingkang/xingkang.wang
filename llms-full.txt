@@ -512,7 +512,6 @@ url: /awesome/ai.md
 - [claudecodeui](https://github.com/siteboon/claudecodeui) 借助 CloudCLI（又名 Claude Code UI），您可以在移动端和网页端使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费开源的网页用户界面 / 图形界面，可帮助您远程管理 Claude Code 会话和项目
 - [puck](https://github.com/puckeditor/puck) 打造属于你自己的 AI 页面生成器
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
-- [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
 - [agent-os](https://github.com/rivet-dev/agent-os) 一款面向智能体的便携开源操作系统。冷启动速度约 6 毫秒，成本比沙箱低 32 倍。基于 WebAssembly 与 V8 隔离环境驱动
 - [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
@@ -536,7 +535,6 @@ url: /awesome/ai.md
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [opencli](https://github.com/jackwener/opencli) 把任何网站或 Electron 应用变成你的命令行工具
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
-- [hrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
@@ -705,6 +703,9 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
+- [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus) 零服务端代码智能引擎
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
@@ -1773,7 +1774,7 @@ url: /awesome/javascript.md
 - [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 用 JavaScript 实现截图功能
 - [html-entities](https://github.com/mdevils/html-entities) 极速 HTML 实体编码/解码库
 - [highlight.js](https://github.com/highlightjs/highlight.js) 自带语言自动检测、**零依赖**的 JavaScript 代码语法高亮库
-- [alpine](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
+- [alpinejs](https://github.com/alpinejs/alpine) 一个简洁稳固的轻量框架，可在标签结构中编写 JavaScript 交互逻辑
 - [monaco-yaml](https://github.com/remcohaszing/monaco-yaml) 适用于 Monaco Editor 的 YAML 语言支持
 - [js-yaml](https://github.com/nodeca/js-yaml) JavaScript YAML 解析与导出库
 - [NoSleep.js](https://github.com/richtr/NoSleep.js) 防止屏幕休眠，在任意安卓或 iOS 网页浏览器中启用唤醒锁定
@@ -1829,6 +1830,12 @@ url: /awesome/javascript.md
 - [cornerstonejs](https://github.com/cornerstonejs) 交互式医学图像工具
 - [nzh](https://github.com/cnwhy/nzh) 数字转中文（大写，小写）数字，金额
 - [workbox](https://github.com/GoogleChrome/workbox) 用于构建渐进式 Web 应用（PWA）的 JavaScript 库
+  - [workbox-core](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-core)
+  - [workbox-expiration](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-expiration)
+  - [workbox-precaching](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-precaching)
+  - [workbox-routing](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-routing)
+  - [workbox-strategies](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-strategies)
+  - [workbox-cacheable-response](https://github.com/GoogleChrome/workbox/tree/v7/packages/workbox-cacheable-response)
 - [comlink](https://github.com/GoogleChromeLabs/comlink) Comlink 让 WebWorker 变得易用又愉悦
 - [sysend](https://github.com/jcubic/sysend) 跨标签页通信
 - [broadcast-channel](https://github.com/pubkey/broadcast-channel) 📡 基于 BroadcastChannel 实现不同浏览器标签页 / Node.js 进程间的数据传输
@@ -1924,7 +1931,7 @@ url: /awesome/javascript.md
 - [property-information](https://github.com/wooorm/property-information) Web 平台各类属性与特性的参考说明
 - [parse5](https://github.com/inikulin/parse5) 适用于 Node.js 的 HTML 解析 / 序列化工具集，完全遵循 WHATWG HTML 实时标准（亦称 HTML5）规范
 - [micromark](https://github.com/micromark/micromark) 轻量、安全、高性能的通用 Markdown 解析器，兼容 CommonMark 标准（可选兼容 GFM、MDX 语法）
-- [KaTeX](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
+- [katex](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
 - [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
 - [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
@@ -1976,6 +1983,7 @@ url: /awesome/javascript.md
 
 ### 数据展示
 
+- [cally](https://github.com/WickyNilliams/cally) 轻量且功能完备的日历组件
 - [Swiper](https://github.com/nolimits4web/Swiper) 搭载硬件加速过渡动效的新一代移动端触摸滑动组件
 - [number-flow](https://github.com/barvian/number-flow) 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) 一款可自定义、模块化、响应式的灯箱画廊插件
@@ -2027,6 +2035,8 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [color-name](https://github.com/colorjs/color-name) 包含 CSS 颜色名称的 JSON 文件
+- [element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) Element Internals 规范的兼容填充库
 - [pdfjs-dist](https://github.com/mozilla/pdf.js) 基于 JavaScript 实现的 PDF 阅读器
 - [pdf-lib](https://github.com/Hopding/pdf-lib) 可在任意 JavaScript 运行环境中创建与编辑 PDF 文档
 - [file-viewer](https://github.com/flyfish-dev/file-viewer) 纯前端文件预览组件
@@ -2065,6 +2075,9 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [barcode-detector](https://github.com/Sec-ant/barcode-detector) 一款条码检测 API 兼容填充库（ponyfill/polyfill），底层基于 ZXing-C++ WebAssembly 实现
+- [xss](https://github.com/leizongmin/js-xss) 通过白名单配置对不可信 HTML 进行安全净化（防止跨站脚本攻击 XSS）
+- [@azure/msal-browser](https://github.com/AzureAD/microsoft-authentication-library-for-js) 适用于 JavaScript 的微软身份验证库
 - [fast](https://github.com/microsoft/fast) 专注于原生网页组件与现代网页标准的兼容支持(Web Components)
 - [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)
 - [twoslash](https://github.com/twoslashes/twoslash) 用于提前在文档中生成完备类型信息的标记语言
@@ -3131,6 +3144,9 @@ url: /awesome/node.md
 
 ## 其他
 
+- [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
+- [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
+- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
 - [scalar](https://github.com/scalar/scalar) 开源 API 平台
 - [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器
@@ -3629,6 +3645,8 @@ url: /awesome/python.md
 
 ## AI
 
+- [open-webui](https://github.com/open-webui/open-webui) 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行
+- [pytorch](https://github.com/pytorch/pytorch) 深度学习框架
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
@@ -3674,7 +3692,6 @@ url: /awesome/python.md
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
-- [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo) 一款可扩展的生成式 AI 框架，专为从事大语言模型、多模态及语音 AI（自动语音识别与文本转语音）研究与开发的研究人员和开发者打造。
@@ -3704,7 +3721,6 @@ url: /awesome/python.md
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
-- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
 - [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
@@ -3729,6 +3745,7 @@ url: /awesome/ops.md
 
 ## 其他
 
+- [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 - [databasus](https://github.com/databasus/databasus) 数据库备份系统
 - [certimate](https://github.com/certimate-go/certimate) 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商

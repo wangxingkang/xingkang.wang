@@ -6,6 +6,8 @@
 
 ## AI
 
+- [open-webui](https://github.com/open-webui/open-webui) 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行
+- [pytorch](https://github.com/pytorch/pytorch) 深度学习框架
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
@@ -51,7 +53,6 @@
 - [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
-- [caveman](https://github.com/JuliusBrussee/caveman) 🪨 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [mempalace](https://github.com/milla-jovovich/mempalace) 这是目前评测中得分最高的 AI 记忆系统，并且完全免费
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架
 - [NeMo](https://github.com/NVIDIA-NeMo/NeMo) 一款可扩展的生成式 AI 框架，专为从事大语言模型、多模态及语音 AI（自动语音识别与文本转语音）研究与开发的研究人员和开发者打造。
@@ -81,7 +82,6 @@
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
-- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
 - [kokoro](https://github.com/hexgrad/kokoro) 适用于 Kokoro-82M 的推理库
 - [@pyscript/core](https://github.com/pyscript/pyscript) 面向浏览器端 Python 的开源平台
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
