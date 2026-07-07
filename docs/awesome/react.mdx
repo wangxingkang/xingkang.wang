@@ -37,6 +37,7 @@
 
 ### 其他
 
+- [@ai-sdk/react](https://github.com/vercel/ai/tree/main/packages/react)
 - [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
 - [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
@@ -64,6 +65,7 @@
 - [zustand](https://github.com/pmndrs/zustand) 🐻 React 状态管理的核心基础套件
   - [zundo](https://github.com/charkour/zundo) 适用于 Zustand 的撤销 / 重做中间件，体积不足 700 字节
 - [jotai](https://github.com/pmndrs/jotai) 👻 轻量简洁、灵活易用的 React 状态管理
+  - [jotai-family](https://github.com/jotaijs/jotai-family) 用于原子状态集合的 Jōtai 工具包
 - [bunja](https://github.com/disjukr/bunja) 状态生命周期管理器
 - [valtio](https://github.com/pmndrs/valtio) 🧙 Valtio 让 React 与原生 JS 的代理状态变得简单易用
   - [valtio-reactive](https://github.com/valtiojs/valtio-reactive) 适用于 Valtio 的派生工具函数
@@ -190,6 +192,7 @@
 ### 通用
 
 - 图标
+  - [@remixicon/react](https://github.com/Remix-Design/RemixIcon)
   - [@icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons)
   - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
   - [react-icons](https://github.com/react-icons/react-icons)
@@ -364,7 +367,7 @@
 
 ### 拖拽
 
-- [@dnd-kit/react](https://github.com/clauderic/dnd-kit)
+- [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react)
 - [react-dnd](https://github.com/react-dnd/react-dnd)
   - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
@@ -413,6 +416,7 @@
 - [@wterm/react](https://github.com/vercel-labs/wterm/tree/main/packages/@wterm/react) 一款适用于网页端的终端模拟器
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
+  - [@uiw/codemirror-extensions-color](https://github.com/uiwjs/react-codemirror/tree/master/extensions/color)
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
@@ -465,6 +469,8 @@
 
 ## 其他
 
+- [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
+- [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
 - [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
 - [pulsar-haptics](https://github.com/software-mansion/pulsar/tree/main/web/Pulsar) 一款用于在网页设备上播放触感振动效果的 TypeScript 库
 - [react-freeze](https://github.com/software-mansion/react-freeze) 阻止 React 组件子树重新渲染

@@ -64,6 +64,7 @@
 
 ## 其他
 
+- [pocket-tts](https://github.com/kyutai-labs/pocket-tts) 可在普通 CPU（乃至便携设备）流畅运行的语音合成工具
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) 将 PDF 文件转换为多种其他格式, 本项目将专注处理扫描版书籍 PDF 文件
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) 对 PDF 及其他格式文档进行数据提取、分析、格式转换与编辑处理
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) 一款借助 ReportLab 将 HTML 转换为 PDF 的程序库

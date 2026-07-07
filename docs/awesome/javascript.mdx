@@ -13,6 +13,26 @@
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
 - [ai](https://github.com/vercel/ai) 面向 TypeScript 的 AI 开发工具集
+  - [@ai-sdk/alibaba](https://github.com/vercel/ai/tree/HEAD/packages/alibaba)
+  - [@ai-sdk/amazon-bedrock](https://github.com/vercel/ai/tree/HEAD/packages/amazon-bedrock)
+  - [@ai-sdk/anthropic](https://github.com/vercel/ai/tree/HEAD/packages/anthropic)
+  - [@ai-sdk/azure](https://github.com/vercel/ai/tree/HEAD/packages/azure)
+  - [@ai-sdk/cerebras](https://github.com/vercel/ai/tree/HEAD/packages/cerebras)
+  - [@ai-sdk/cohere](https://github.com/vercel/ai/tree/HEAD/packages/cohere)
+  - [@ai-sdk/deepinfra](https://github.com/vercel/ai/tree/HEAD/packages/deepinfra)
+  - [@ai-sdk/deepseek](https://github.com/vercel/ai/tree/HEAD/packages/deepseek)
+  - [@ai-sdk/google](https://github.com/vercel/ai/tree/HEAD/packages/google)
+  - [@ai-sdk/groq](https://github.com/vercel/ai/tree/HEAD/packages/groq)
+  - [@ai-sdk/huggingface](https://github.com/vercel/ai/tree/HEAD/packages/huggingface)
+  - [@ai-sdk/mistral](https://github.com/vercel/ai/tree/HEAD/packages/mistral)
+  - [@ai-sdk/moonshotai](https://github.com/vercel/ai/tree/HEAD/packages/moonshotai)
+  - [@ai-sdk/openai](https://github.com/vercel/ai/tree/HEAD/packages/openai)
+  - [@ai-sdk/openai-compatible](https://github.com/vercel/ai/tree/HEAD/packages/openai-compatible)
+  - [@ai-sdk/perplexity](https://github.com/vercel/ai/tree/HEAD/packages/perplexity)
+  - [@ai-sdk/replicate](https://github.com/vercel/ai/tree/HEAD/packages/replicate)
+  - [@ai-sdk/togetherai](https://github.com/vercel/ai/tree/HEAD/packages/togetherai)
+  - [@ai-sdk/vercel](https://github.com/vercel/ai/tree/HEAD/packages/vercel)
+  - [@ai-sdk/xai](https://github.com/vercel/ai/tree/HEAD/packages/xai)
 - [ai-sdk-ollama](https://github.com/jagreehal/ai-sdk-ollama)
 - [a2ui](https://a2ui.org)
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
@@ -247,6 +267,11 @@
 
 ### 其他
 
+- [orpc](https://github.com/middleapi/orpc) 轻松实现类型安全接口
+  - [@orpc/tanstack-query](https://github.com/middleapi/orpc/tree/main/packages/tanstack-query)
+- [case-anything](https://github.com/mesqueeb/case-anything) 小驼峰、短横线命名、大驼峰…… 轻量集成，包体体积极小
+- [csstree](https://github.com/csstree/csstree) 一套 CSS 工具集，包含基于 W3C 规范与浏览器实现构建的高速精细解析器、遍历器、生成器及词法分析器
+- [defuddle](https://github.com/kepano/defuddle) 将任意网页的主体内容提取为 Markdown 格式
 - [jsmasker](https://github.com/billchurch/jsmasker) 对对象与数组中的敏感字段进行脱敏处理，使用自定义掩码内容替换原始敏感数据
 - [@zxcvbn-ts/core](https://github.com/zxcvbn-ts/zxcvbn) 密码强度评估工具
 - [ts-md5](https://github.com/cotag/ts-md5) TypeScript 版 MD5 实现
@@ -349,6 +374,7 @@
 - [fontsource](https://github.com/fontsource/fontsource) 以规整打包的 NPM 包形式，自托管开源字体
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) 一款用于捕获键盘输入的高性能 JavaScript 库，无任何依赖项
+- [@tanstack/hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/hotkeys)
 - [fflate](https://github.com/101arrowz/fflate) 8KB 大小的高性能（解）压缩工具
 - [@zip.js/zip.js](https://github.com/gildas-lormeau/zip.js) 用于压缩和解压文件的 JavaScript 库
 - [js-beautify](https://github.com/beautifier/js-beautify) JavaScript 代码美化工具
@@ -548,6 +574,7 @@
 - [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
 - [short-uuid](https://github.com/oculus42/short-uuid) 将标准 UUID 转换为更简短的格式，并支持反向还原
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
+- [debounce](https://github.com/sindresorhus/debounce)
 - [throttle-debounce](https://github.com/niksy/throttle-debounce) 防抖节流
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) 在浏览器空闲时预加载视口内的链接，加快后续页面加载速度
 - [instant.page](https://github.com/instantpage/instant.page) 一分钟内让你的网站页面实现秒开，转化率提升 1%。
@@ -673,6 +700,7 @@
 
 ## 其他
 
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
 - [@fontsource-variable/inter](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/inter) 用于本地部署「Inter」可变字体的 CSS 与网页字体文件
 - [border-beam-vanilla](https://github.com/jqueryscript/border-beam-vanilla) 原生 JavaScript 实现的动画边框光束特效

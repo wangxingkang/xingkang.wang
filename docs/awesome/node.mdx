@@ -90,6 +90,7 @@
 
 ## 其他
 
+- [@t3-oss/env-core](https://github.com/t3-oss/t3-env) 简易实现类型安全环境变量
 - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
 - [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
 - [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
