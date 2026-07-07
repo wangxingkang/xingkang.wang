@@ -20,6 +20,19 @@
 
 ## 其他
 
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
+- [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
+- [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
+- [freeze](https://github.com/charmbracelet/freeze) 生成代码与终端输出的图像
+- [soft-serve](https://github.com/charmbracelet/soft-serve) 功能强大、可自建部署的命令行 Git 服务器
+- [bubbles](https://github.com/charmbracelet/bubbles) 适用于 Bubble Tea 的终端交互界面（TUI）组件
+- [vhs](https://github.com/charmbracelet/vhs) 命令行版本地视频录制工具
+- [lipgloss](https://github.com/charmbracelet/lipgloss) 用于美化终端布局的样式定义
+- [gum](https://github.com/charmbracelet/gum) 打造精致 Shell 脚本的工具
+- [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
+- [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
+- [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
+- [glow](https://github.com/charmbracelet/glow) 在命令行中精美渲染 Markdown 文档
 - [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统

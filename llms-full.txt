@@ -685,6 +685,7 @@ url: /awesome/vibe-coding.md
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
+- [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 
 ## 开发工作流
 
@@ -703,6 +704,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
@@ -726,6 +728,7 @@ url: /awesome/vibe-coding.md
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
+- [claude-video](https://github.com/bradautomates/claude-video) 赋予 Claude 观看任意视频的能力
 
 
 
@@ -3064,6 +3067,7 @@ url: /awesome/node.md
 
 ## AI
 
+- [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
 - [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
 - [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
@@ -3573,6 +3577,19 @@ url: /awesome/go.md
 
 ## 其他
 
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
+- [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
+- [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
+- [freeze](https://github.com/charmbracelet/freeze) 生成代码与终端输出的图像
+- [soft-serve](https://github.com/charmbracelet/soft-serve) 功能强大、可自建部署的命令行 Git 服务器
+- [bubbles](https://github.com/charmbracelet/bubbles) 适用于 Bubble Tea 的终端交互界面（TUI）组件
+- [vhs](https://github.com/charmbracelet/vhs) 命令行版本地视频录制工具
+- [lipgloss](https://github.com/charmbracelet/lipgloss) 用于美化终端布局的样式定义
+- [gum](https://github.com/charmbracelet/gum) 打造精致 Shell 脚本的工具
+- [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
+- [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
+- [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
+- [glow](https://github.com/charmbracelet/glow) 在命令行中精美渲染 Markdown 文档
 - [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
@@ -3645,6 +3662,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
 - [open-webui](https://github.com/open-webui/open-webui) 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行
 - [pytorch](https://github.com/pytorch/pytorch) 深度学习框架
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
