@@ -8,6 +8,7 @@
 
 ## AI
 
+- [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
 - [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
 - [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
