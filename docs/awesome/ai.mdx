@@ -114,6 +114,7 @@
 
 ### 其他
 
+- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 - [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 支持 GPT Image 2、Seedance 以及 ComfyUI，内置 1400 + 精心撰写的提示词库、定制钩子与多任务编排系统

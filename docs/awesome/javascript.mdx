@@ -705,6 +705,7 @@
 
 ## 其他
 
+- [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
 - [@fontsource-variable/jetbrains-mono](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/jetbrains-mono)

@@ -99,3 +99,4 @@
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
+- [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
