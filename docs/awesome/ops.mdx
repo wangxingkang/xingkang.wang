@@ -2,6 +2,7 @@
 
 ## 其他
 
+- [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 - [databasus](https://github.com/databasus/databasus) 数据库备份系统

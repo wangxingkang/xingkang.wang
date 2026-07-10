@@ -68,6 +68,7 @@
 
 ## 其他
 
+- [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
@@ -87,6 +88,7 @@
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 高性能代码智能 MCP 服务端。可将代码库索引为持久化知识图谱，普通仓库索引耗时仅毫秒级
+- [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
@@ -96,3 +98,4 @@
 - [claude-video](https://github.com/bradautomates/claude-video) 赋予 Claude 观看任意视频的能力
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
+- [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
