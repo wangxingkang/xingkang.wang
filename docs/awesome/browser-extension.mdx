@@ -18,6 +18,7 @@
 ## 其他
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
+- [read-frog](https://github.com/mengxi-ream/read-frog) 陪读蛙 - 开源沉浸式翻译
 
 ## 案例
 

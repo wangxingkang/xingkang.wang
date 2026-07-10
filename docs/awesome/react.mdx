@@ -49,7 +49,7 @@
 ## 多语言
 
 - [react-i18next](https://github.com/i18next/react-i18next)
-- [js-lingui](https://github.com/lingui/js-lingui)
+- [@lingui/react](https://github.com/lingui/js-lingui)
 - [react-intl](https://github.com/formatjs/formatjs)
 
 ## 框架
@@ -339,6 +339,7 @@
 
 ### 富文本
 
+- [@tiptap/react](https://github.com/ueberdosis/tiptap/tree/main/packages/react) 面向网页开发者的无界面富文本编辑器框架
 - [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
 - [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
@@ -375,6 +376,9 @@
 
 ### 其他
 
+- [frimousse](https://github.com/liveblocks/frimousse) 一款轻量、无内置样式、可组合式 React 表情选择器
+- [react-force-graph](https://github.com/vasturiano/react-force-graph) 适用于 2D、3D、VR 及 AR 力导向图的 React 组件
+- [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件
 - [react-moveable](https://github.com/daybrush/moveable/tree/master/packages/react-moveable) 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！
 - [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
 - [react-shiki](https://github.com/AVGVSTVS96/react-shiki) 基于 Shiki 实现、适用于 React 的代码语法高亮钩子与组件
@@ -397,6 +401,7 @@
 - [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
 - [@samasante/liquid-glass](https://github.com/samasante/liquid-glass) 网页端苹果风格液态玻璃效果
+- [react-diff-view](https://github.com/otakustay/react-diff-view) Git 差异对比组件
 - [react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued) 基于 Diff 与 React 实现的简洁美观的文本对比查看组件
 - [react-mosaic-component](https://github.com/nomcopter/react-mosaic) 基于 React 实现的平铺式窗口管理器
 - [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
@@ -417,6 +422,7 @@
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) 自带预览功能的轻量 Markdown 编辑器
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [@uiw/codemirror-extensions-color](https://github.com/uiwjs/react-codemirror/tree/master/extensions/color)
+  - [@uiw/codemirror-theme-basic](https://github.com/uiwjs/react-codemirror/tree/master/themes/basic)
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
