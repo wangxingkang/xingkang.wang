@@ -422,6 +422,13 @@ url: /awesome/ai.md
 
 - [harness-engineering](https://github.com/deusyu/harness-engineering) Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 
+### 本地模型
+
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [ollama](https://github.com/ollama/ollama)
+- [LocalAI](https://github.com/mudler/LocalAI)
+- [LM Studio](https://lmstudio.ai)
+
 ### 其他
 
 - [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
@@ -501,9 +508,6 @@ url: /awesome/ai.md
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
 - [ds4](https://github.com/antirez/ds4) 适配 Metal、CUDA、ROCm 的 DeepSeek 4 Flash 与专业版本地推理引擎
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) 使用 C/C++ 进行大语言模型（LLM）推理
-- [ollama](https://github.com/ollama/ollama) 快速启动并运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、通义千问（Qwen）、Gemma 及其他模型
-- [LocalAI](https://github.com/mudler/LocalAI) 开源 AI 推理引擎
 - [bb-browser](https://github.com/epiral/bb-browser) 你的浏览器就是 API
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [skills-hub](https://github.com/qufei1993/skills-hub) 一款跨平台桌面应用，可在统一位置管理智能体技能，并将其同步至多款AI编程工具的全局技能目录 —— “一次安装，随处同步”。
@@ -795,6 +799,7 @@ url: /awesome/react.md
 - [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
   - [@streamdown/code](https://github.com/vercel/streamdown/tree/main/packages/streamdown-code)
+  - [@streamdown/cjk](https://github.com/vercel/streamdown/tree/main/packages/streamdown-cjk)
   - [@streamdown/math](https://github.com/vercel/streamdown/tree/main/packages/streamdown-math)
   - [@streamdown/mermaid](https://github.com/vercel/streamdown/tree/main/packages/streamdown-mermaid)
 
@@ -1227,6 +1232,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [ansi-to-react](https://github.com/nteract/ansi-to-react)
 - [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
 - [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
 - [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
@@ -3157,6 +3163,7 @@ url: /awesome/node.md
 
 ### 其他
 
+- [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
 - [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
 - [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
@@ -3241,6 +3248,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [analytics](http://github.com/DavidWells/analytics) 轻量级数据分析抽象层，用于统计页面访问量、自定义事件以及访客识别
+- [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
 - [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
 - [picomatch](https://github.com/micromatch/picomatch) 一款使用 JavaScript 编写、速度极快且匹配精准的 glob 匹配库
 - [vscode-jsonrpc](https://github.com/Microsoft/vscode-languageserver-node/tree/HEAD/jsonrpc) VS Code 语言服务器与 VS Code 语言客户端之间通信的基础消息协议
@@ -3472,7 +3481,7 @@ url: /awesome/node.md
 - [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
 - [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
-- [grammY](https://github.com/grammyjs/grammY) Telegram 机器人框架
+- [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
 - [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
 - [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
 - [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库

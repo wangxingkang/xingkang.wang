@@ -43,6 +43,7 @@
 - [@comark/react](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [streamdown](https://github.com/vercel/streamdown) 一个可直接替换 react-markdown 的组件，专为AI 驱动的流式输出场景设计
   - [@streamdown/code](https://github.com/vercel/streamdown/tree/main/packages/streamdown-code)
+  - [@streamdown/cjk](https://github.com/vercel/streamdown/tree/main/packages/streamdown-cjk)
   - [@streamdown/math](https://github.com/vercel/streamdown/tree/main/packages/streamdown-math)
   - [@streamdown/mermaid](https://github.com/vercel/streamdown/tree/main/packages/streamdown-mermaid)
 
@@ -475,6 +476,7 @@
 
 ## 其他
 
+- [ansi-to-react](https://github.com/nteract/ansi-to-react)
 - [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
 - [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
 - [react-xtermjs](https://github.com/Qovery/react-xtermjs) Xterm.js for React
