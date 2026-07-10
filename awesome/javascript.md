@@ -195,8 +195,9 @@
 
 ### 富文本
 
-- [tiptap](https://github.com/ueberdosis/tiptap) 专为 Web 开发者打造的无渲染富文本编辑器框架
+- [@tiptap/core](https://github.com/ueberdosis/tiptap) 专为 Web 开发者打造的无渲染富文本编辑器框架
   - [tiptap-markdown](https://github.com/aguingand/tiptap-markdown)
+  - [@tiptap/y-tiptap](https://github.com/ueberdosis/y-tiptap)
 - [tinymce](https://github.com/tinymce/tinymce)
 - [Squire](https://github.com/fastmail/Squire)
 - [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的富文本编辑器构建框架
@@ -267,6 +268,8 @@
 
 ### 其他
 
+- [@opentui/keymap](https://github.com/anomalyco/opentui/tree/main/packages/keymap) 一款可脱离宿主环境、适用于终端与网页 DOM 应用的按键映射引擎
+- [@panzoom/panzoom](https://github.com/timmywil/panzoom) 借助 CSS 变换实现元素平移、缩放功能的工具库
 - [orpc](https://github.com/middleapi/orpc) 轻松实现类型安全接口
   - [@orpc/tanstack-query](https://github.com/middleapi/orpc/tree/main/packages/tanstack-query)
 - [case-anything](https://github.com/mesqueeb/case-anything) 小驼峰、短横线命名、大驼峰…… 轻量集成，包体体积极小
@@ -410,6 +413,7 @@
   - [y-websocket](https://github.com/yjs/y-websocket)
   - [y-prosemirror](https://github.com/yjs/y-prosemirror)
   - [y-indexeddb](https://github.com/yjs/y-indexeddb)
+  - [y-codemirror.next](https://github.com/yjs/y-codemirror.next)
 - [capo.js](https://github.com/rviscomi/capo.js) 把你的 `<head>` 理顺
 - [ufo](https://github.com/unjs/ufo) 面向开发者的简易 URL 工具库
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
@@ -662,6 +666,7 @@
 
 - [color-name](https://github.com/colorjs/color-name) 包含 CSS 颜色名称的 JSON 文件
 - [element-internals-polyfill](https://github.com/calebdwilliams/element-internals-polyfill) Element Internals 规范的兼容填充库
+- [scheduler-polyfill](https://github.com/GoogleChromeLabs/scheduler-polyfill) self.scheduler 的垫片兼容库
 - [pdfjs-dist](https://github.com/mozilla/pdf.js) 基于 JavaScript 实现的 PDF 阅读器
 - [pdf-lib](https://github.com/Hopding/pdf-lib) 可在任意 JavaScript 运行环境中创建与编辑 PDF 文档
 - [file-viewer](https://github.com/flyfish-dev/file-viewer) 纯前端文件预览组件
@@ -702,6 +707,7 @@
 
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
+- [@fontsource-variable/jetbrains-mono](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/jetbrains-mono)
 - [@fontsource-variable/inter](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/inter) 用于本地部署「Inter」可变字体的 CSS 与网页字体文件
 - [border-beam-vanilla](https://github.com/jqueryscript/border-beam-vanilla) 原生 JavaScript 实现的动画边框光束特效
 - [barcode-detector](https://github.com/Sec-ant/barcode-detector) 一款条码检测 API 兼容填充库（ponyfill/polyfill），底层基于 ZXing-C++ WebAssembly 实现

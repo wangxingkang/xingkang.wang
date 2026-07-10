@@ -8,6 +8,14 @@
 
 ## AI
 
+### 学习
+
+- [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
+
+### 其他
+
+- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
+- [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
 - [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
 - [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
@@ -90,6 +98,12 @@
 
 ## 其他
 
+- [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
+- [picomatch](https://github.com/micromatch/picomatch) 一款使用 JavaScript 编写、速度极快且匹配精准的 glob 匹配库
+- [vscode-jsonrpc](https://github.com/Microsoft/vscode-languageserver-node/tree/HEAD/jsonrpc) VS Code 语言服务器与 VS Code 语言客户端之间通信的基础消息协议
+- [mrmime](https://github.com/lukeed/mrmime) 一款轻量（仅 2.8 千字节）、高性能工具，可通过文件后缀或文件名获取对应的 MIME 类型
+- [sirv](https://github.com/lukeed/sirv) 一款经过性能优化、用于托管静态资源的中间件与命令行工具
+- [hocuspocus](https://github.com/ueberdosis/hocuspocus) 基于 Yjs CRDT 的 WebSocket 后端，为应用提供无冲突实时协同能力
 - [@t3-oss/env-core](https://github.com/t3-oss/t3-env) 简易实现类型安全环境变量
 - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
 - [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
@@ -175,6 +189,7 @@
 - [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
 - [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
 - [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
+- [ignore](https://github.com/kaelzhang/node-ignore) 用于管理和过滤 .gitignore 规则的工具
 - [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) 用于劫持 ESM import 函数的模块
 - [require-in-the-middle](https://github.com/nodejs/require-in-the-middle) 用于劫持 Node.js require 函数的模块
 - [rimraf](https://github.com/isaacs/rimraf) 适用于 Node.js 的 rm -rf 风格文件删除工具
@@ -290,10 +305,12 @@
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
+  - [pino-pretty](https://github.com/pinojs/pino-pretty) Pino 日志行基础美化工具
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
 - [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
-- [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+- [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+  - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
 - [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
 - [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
 - [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库

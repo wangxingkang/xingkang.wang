@@ -108,8 +108,13 @@
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
 - [Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases) 精选适配 AI 影视创作的 Blender 与 Seedance 工作流：涵盖预可视化、相机控制、Blender MCP、参考视频以及智能体驱动实操案例
 
+### 学习
+
+- [harness-engineering](https://github.com/deusyu/harness-engineering) Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
+
 ### 其他
 
+- [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 支持 GPT Image 2、Seedance 以及 ComfyUI，内置 1400 + 精心撰写的提示词库、定制钩子与多任务编排系统
 - [webclaw](https://github.com/0xMassi/webclaw) 面向大语言模型、高性能优先本地运行的网页内容提取工具
 - [aisuite](https://github.com/andrewyng/aisuite) 为多款生成式 AI 服务商提供简洁统一的调用界面
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) 可安装的 GitHub 代码库，内置 1600 余款智能体技能，适配 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等多款工具
@@ -230,7 +235,6 @@
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
-- [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
 - [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境

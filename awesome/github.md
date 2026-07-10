@@ -7,6 +7,7 @@
 
 ## 工具
 
+- [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 字幕编辑器
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
