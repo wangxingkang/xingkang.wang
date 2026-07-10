@@ -14,6 +14,7 @@
 
 ### 其他
 
+- [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
 - [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
 - [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
@@ -98,6 +99,8 @@
 
 ## 其他
 
+- [analytics](http://github.com/DavidWells/analytics) 轻量级数据分析抽象层，用于统计页面访问量、自定义事件以及访客识别
+- [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
 - [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
 - [picomatch](https://github.com/micromatch/picomatch) 一款使用 JavaScript 编写、速度极快且匹配精准的 glob 匹配库
 - [vscode-jsonrpc](https://github.com/Microsoft/vscode-languageserver-node/tree/HEAD/jsonrpc) VS Code 语言服务器与 VS Code 语言客户端之间通信的基础消息协议
@@ -329,7 +332,7 @@
 - [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
 - [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
-- [grammY](https://github.com/grammyjs/grammY) Telegram 机器人框架
+- [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
 - [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
 - [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
 - [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
