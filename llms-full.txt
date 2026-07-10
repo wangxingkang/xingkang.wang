@@ -424,6 +424,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 - [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 支持 GPT Image 2、Seedance 以及 ComfyUI，内置 1400 + 精心撰写的提示词库、定制钩子与多任务编排系统
@@ -741,6 +742,7 @@ url: /awesome/vibe-coding.md
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
+- [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 
 
 
@@ -2135,6 +2137,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
 - [@fontsource-variable/jetbrains-mono](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/jetbrains-mono)
