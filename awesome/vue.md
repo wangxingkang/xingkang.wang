@@ -35,7 +35,6 @@
 ## 组件库
 
 - [naive-ui](https://github.com/tusen-ai/naive-ui)
-- [@nuxt/ui](https://github.com/nuxt/ui) 由 Reka UI 与 Tailwind CSS 驱动的简约易用型 Vue UI 组件库
 - [tiny-vue](https://github.com/opentiny/tiny-vue) OpenTiny 社区的企业级 UI 组件库，同时支持 Vue.js 2 和 Vue.js 3，以及 PC 端和移动端。
 - [reka-ui](https://github.com/unovue/reka-ui) 一款开源 UI 组件库，用于为 Vue 构建高质量、可访问的设计系统与网页应用。前身为 Radix Vue
 - [shadcn-vue](https://github.com/unovue/shadcn-vue) shadcn-ui 的 Vue 版本
@@ -66,6 +65,7 @@
 ### 通用
 
 - 图标
+  - [@lucide/vue](https://github.com/lucide-icons/lucide/tree/main/packages/vue)
   - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
   - [@thesvg/vue](https://github.com/glincker/thesvg/tree/main/packages/vue)
 
@@ -139,7 +139,12 @@
 
 ## Nuxt
 
+- [@nuxt/ui](https://github.com/nuxt/ui) 由 Reka UI 与 Tailwind CSS 驱动的简约易用型 Vue UI 组件库
+- [@vueuse/nuxt](https://github.com/vueuse/vueuse/tree/HEAD/packages/nuxt)
+- [nuxt-umami](https://github.com/ijkml/nuxt-umami) 专为 Nuxt 构建的 Umami 分析工具
 - [nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) 适用于 Nuxt 的高度可配置 Cookie 提示栏
+- [nuxt-monaco-editor](https://github.com/e-chan1007/nuxt-monaco-editor) 将 Monaco 编辑器与 Nuxt 集成
+- [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss) Nuxt 的 Tailwind CSS 模块
 
 ## 其他
 

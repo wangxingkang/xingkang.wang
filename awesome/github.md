@@ -29,6 +29,7 @@
 
 ## 其他
 
+- [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) 一款在线的 微信公众号文章批量下载 工具
 - [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 适配 Photoshop 用户的 GIMP 3 及以上版本补丁
 - [zhuque](https://github.com/TrionesType/zhuque) 朱雀仿宋/朱雀宋朝/Zhuque
