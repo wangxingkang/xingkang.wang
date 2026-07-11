@@ -714,6 +714,11 @@ url: /awesome/vibe-coding.md
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
+## 模型聚合平台
+
+- [ZenMux](https://zenmux.ai)
+- [OpenRouter](https://openrouter.ai)
+
 ## 其他
 
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
@@ -3060,6 +3065,10 @@ url: /awesome/github.md
 
 ## 其他
 
+- [zsh](https://github.com/zsh-users/zsh)
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
+  - [zsh-completions](https://github.com/zsh-users/zsh-completions)
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) 一款在线的 微信公众号文章批量下载 工具
 - [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 适配 Photoshop 用户的 GIMP 3 及以上版本补丁
