@@ -16,11 +16,19 @@
 - [Responsively](https://github.com/responsively-org/responsively-app) - 响应式网页开发
 - 终端
   - [iTerm2](https://iterm2.com)
+    - [starship](https://github.com/starship/starship)
+    - [zsh](https://github.com/zsh-users/zsh)
+      - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+      - [zsh-completions](https://github.com/zsh-users/zsh-completions)
+      - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
+    - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   - [Ghostty](https://ghostty.org)
   - [Warp](https://github.com/warpdotdev/warp)
 
 ## 应用程序
 
+- [Mole](https://github.com/tw93/Mole) - 深度清理并优化 Mac
+- [Gas Mask](https://github.com/2ndalpha/gasmask) 管理 hosts 文件
 - [Raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
 - [Tailscale](https://tailscale.com) - 内网穿透
 - [Espanso](https://github.com/espanso/espanso) - 文本快捷扩展
