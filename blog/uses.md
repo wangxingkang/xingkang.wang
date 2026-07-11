@@ -2,18 +2,29 @@
 
 ## AI Coding
 
-- [Claude Code](https://github.com/anthropics/claude-code)
+- [ClaudeCode](https://github.com/anthropics/claude-code)
 - [Codex](https://chatgpt.com/zh-Hans-CN/codex)
+- [OpenCode](https://opencode.ai/zh)
 - [Cmux](https://cmux.com/zh-CN) - 多会话管理
 - [LM Studio](https://lmstudio.ai) - 本地模型
 
 ## 编程工具
 
+- [Cursor](https://cursor.com/cn)
+- [Visual Studio Code](https://code.visualstudio.com)
 - [Source Tree](https://www.sourcetreeapp.com) - Git GUI
+- [Responsively](https://github.com/responsively-org/responsively-app) - 响应式网页开发
+- 终端
+  - [iTerm2](https://iterm2.com)
+  - [Ghostty](https://ghostty.org)
+  - [Warp](https://github.com/warpdotdev/warp)
 
 ## 应用程序
 
-- [raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
-- [tailscale](https://tailscale.com) - 内网穿透
-- [espanso](https://github.com/espanso/espanso) - 文本快捷扩展
+- [Raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
+- [Tailscale](https://tailscale.com) - 内网穿透
+- [Espanso](https://github.com/espanso/espanso) - 文本快捷扩展
 - [PixPin](https://pixpin.cn) - 截图(支持贴图)
+- [滴答清单](https://dida365.com) - 任务管理
+- [微信](https://weixin.qq.com/)
+  - 语音输入(跨应用可用)

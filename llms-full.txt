@@ -716,6 +716,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
 - [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
@@ -3574,7 +3575,6 @@ url: /awesome/rust.md
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
-- [warp](https://github.com/warpdotdev/warp) Warp 是一款**智能体化开发环境**，源自终端而生
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
@@ -4225,21 +4225,32 @@ url: /blog/uses.md
 
 ## AI Coding
 
-- [Claude Code](https://github.com/anthropics/claude-code)
+- [ClaudeCode](https://github.com/anthropics/claude-code)
 - [Codex](https://chatgpt.com/zh-Hans-CN/codex)
+- [OpenCode](https://opencode.ai/zh)
 - [Cmux](https://cmux.com/zh-CN) - 多会话管理
 - [LM Studio](https://lmstudio.ai) - 本地模型
 
 ## 编程工具
 
+- [Cursor](https://cursor.com/cn)
+- [Visual Studio Code](https://code.visualstudio.com)
 - [Source Tree](https://www.sourcetreeapp.com) - Git GUI
+- [Responsively](https://github.com/responsively-org/responsively-app) - 响应式网页开发
+- 终端
+  - [iTerm2](https://iterm2.com)
+  - [Ghostty](https://ghostty.org)
+  - [Warp](https://github.com/warpdotdev/warp)
 
 ## 应用程序
 
-- [raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
-- [tailscale](https://tailscale.com) - 内网穿透
-- [espanso](https://github.com/espanso/espanso) - 文本快捷扩展
+- [Raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
+- [Tailscale](https://tailscale.com) - 内网穿透
+- [Espanso](https://github.com/espanso/espanso) - 文本快捷扩展
 - [PixPin](https://pixpin.cn) - 截图(支持贴图)
+- [滴答清单](https://dida365.com) - 任务管理
+- [微信](https://weixin.qq.com/)
+  - 语音输入(跨应用可用)
 
 
 
