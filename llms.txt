@@ -53,6 +53,7 @@
 - [博客](/blog/index.md)
 - [移动端调试](/blog/mobile-debug.md): 在 WEB 应用开发过程中, 如何在移动端调试？
 - [App Webview 如何开启缓存？](/blog/open-app-cache.md): 如何开启 App Webview 缓存？有哪些坑？
+- [装了啥 2026](/blog/uses.md): 装了啥 2026
 
 ## Others
 

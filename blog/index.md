@@ -1,6 +1,20 @@
 # 博客
 
 
+## [装了啥 2026](/blog/uses)
+
+*2026年7月10日*
+
+![wangxingkang](https://github.com/wangxingkang.png)
+
+wangxingkang
+
+[](https://github.com/wangxingkang)
+
+装了啥 2026
+
+---
+
 ## [App Webview 如何开启缓存？](/blog/open-app-cache)
 
 *2026年5月8日*

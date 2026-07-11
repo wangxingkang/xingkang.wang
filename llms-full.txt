@@ -3045,6 +3045,7 @@ url: /awesome/github.md
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
+- [Thor](https://github.com/gbammc/Thor) 使用快捷键切换应用
 
 ## 学习
 
@@ -4005,6 +4006,20 @@ url: /blog/index.md
 # 博客
 
 
+## [装了啥 2026](/blog/uses)
+
+*2026年7月10日*
+
+![wangxingkang](https://github.com/wangxingkang.png)
+
+wangxingkang
+
+[](https://github.com/wangxingkang)
+
+装了啥 2026
+
+---
+
 ## [App Webview 如何开启缓存？](/blog/open-app-cache)
 
 *2026年5月8日*
@@ -4179,6 +4194,32 @@ brotli_vary on;
 include       mime.types;
 default_type  application/octet-stream;
 ```
+
+
+
+---
+url: /blog/uses.md
+---
+
+# 装了啥 2026
+
+## AI Coding
+
+- [Claude Code](https://github.com/anthropics/claude-code)
+- [Codex](https://chatgpt.com/zh-Hans-CN/codex)
+- [Cmux](https://cmux.com/zh-CN) - 多会话管理
+- [LM Studio](https://lmstudio.ai) - 本地模型
+
+## 编程工具
+
+- [Source Tree](https://www.sourcetreeapp.com) - Git GUI
+
+## 应用程序
+
+- [raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
+- [tailscale](https://tailscale.com) - 内网穿透
+- [espanso](https://github.com/espanso/espanso) - 文本快捷扩展
+- [PixPin](https://pixpin.cn) - 截图(支持贴图)
 
 
 

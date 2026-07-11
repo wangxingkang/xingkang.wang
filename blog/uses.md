@@ -1,0 +1,19 @@
+# 装了啥 2026
+
+## AI Coding
+
+- [Claude Code](https://github.com/anthropics/claude-code)
+- [Codex](https://chatgpt.com/zh-Hans-CN/codex)
+- [Cmux](https://cmux.com/zh-CN) - 多会话管理
+- [LM Studio](https://lmstudio.ai) - 本地模型
+
+## 编程工具
+
+- [Source Tree](https://www.sourcetreeapp.com) - Git GUI
+
+## 应用程序
+
+- [raycast](https://www.raycast.com) - 极速响应、高度可扩展的启动器
+- [tailscale](https://tailscale.com) - 内网穿透
+- [espanso](https://github.com/espanso/espanso) - 文本快捷扩展
+- [PixPin](https://pixpin.cn) - 截图(支持贴图)
