@@ -66,6 +66,11 @@
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
+## 模型聚合平台
+
+- [ZenMux](https://zenmux.ai)
+- [OpenRouter](https://openrouter.ai)
+
 ## 其他
 
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
