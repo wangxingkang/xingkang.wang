@@ -168,6 +168,7 @@
 
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
   - [zod-validation-error](https://github.com/causaly/zod-validation-error) 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息
+  - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
 - [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
 - [sury](https://github.com/DZakh/sury)
@@ -747,7 +748,6 @@
 - [pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui) Claude.ai 的生成式 UI —— 逆向工程重构，适配 Pi 平台。在原生 macOS 窗口中实现可交互的 HTML / SVG 组件
 - [js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) 基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) OpenAPI 规范仓库
-- [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [js-toml](https://github.com/sunnyadn/js-toml) 一款适用于 JavaScript 的 TOML 解析器
 - [croner](https://github.com/hexagon/croner) 在 JavaScript 或 TypeScript 中触发函数或解析 cron 表达式。
 - [file-type](https://github.com/sindresorhus/file-type) 检测文件、流或数据的文件类型

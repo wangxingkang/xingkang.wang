@@ -14,6 +14,7 @@
 
 ### 其他
 
+- [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
 - [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
 - [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
@@ -32,6 +33,7 @@
 - [eve](https://github.com/vercel/eve) 智能体构建框架
 - [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
+- [@modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) MCP Apps 协议（嵌入 AI 聊天机器人的 UI 标准，由 MCP 服务器提供服务）的规范与 SDK 官方仓库
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
@@ -99,6 +101,17 @@
 
 ## 其他
 
+- [shelljs](https://github.com/shelljs/shelljs) Node.js 便携式 Unix Shell 命令
+- [shx](https://github.com/shelljs/shx) Node.js 便携式 Shell 命令
+- [@opendocsg/pdf2md](https://github.com/opengovsg/pdf2md) 一个 PDF 转 Markdown 转换器
+- [isbinaryfile](https://github.com/gjtorikian/isBinaryFile) 在 Node.js 中检测文件是否为二进制文件
+- [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) 使用 Node.js 和 Headless Chrome 将 Markdown 文件转换为 PDF 的可定制 CLI 工具
+- [open](https://github.com/sindresorhus/open) 跨平台地打开 URL、文件、可执行程序等
+- [@novnc/novnc](https://github.com/novnc/noVNC) VNC 客户端 Web 应用程序
+- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲区工具
+- [convex](https://github.com/get-convex/convex-backend/tree/HEAD/npm-packages/convex) 适用于 Convex 的 TypeScript 后端 SDK、客户端库和 CLI
+- [jsonfile](https://github.com/jprichardson/node-jsonfile) 轻松读写 JSON 文件
+- [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
 - [analytics](http://github.com/DavidWells/analytics) 轻量级数据分析抽象层，用于统计页面访问量、自定义事件以及访客识别
 - [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
 - [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
