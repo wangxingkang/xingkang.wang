@@ -7,13 +7,23 @@
 
 ## 工具
 
+- [](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
+- [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) MacOS 键盘自定义工具
+  - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) 轻松配置 Karabiner
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
+- [KeyCastr](https://github.com/keycastr/keycastr) 按键可视化工具
+- [HandBrake](https://github.com/HandBrake/HandBrake) 开源视频转码器
+- [CotEditor](https://github.com/coteditor/CotEditor) 适用于 MacOS 的轻量级纯文本编辑器
+- [gasmask](https://github.com/2ndalpha/gasmask) MacOS 的 hosts 文件管理器
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) MacOS 菜单栏工具包
 - [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 字幕编辑器
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
-- [Mole](https://github.com/tw93/Mole) 深度清理并优化你的 Mac
+- [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
@@ -29,9 +39,12 @@
 
 ## 其他
 
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [starship](https://github.com/starship/starship)
 - [zsh](https://github.com/zsh-users/zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)
+  - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) 一款在线的 微信公众号文章批量下载 工具
 - [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
@@ -107,3 +120,6 @@
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) 采用 ActivityPub 联邦协议、可在浏览器内直接通过 P2P 点对点 传输的视频流媒体平台
 - [joplin](https://github.com/laurent22/joplin) 一款注重隐私的笔记应用，支持多端同步
 - [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
+- [Catch2](https://github.com/catchorg/Catch2) C++ 测试框架
+- [abseil-cpp](https://github.com/abseil/abseil-cpp) Abseil 通用库（C++）
+- [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器

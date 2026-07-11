@@ -121,6 +121,8 @@
 
 ### 其他
 
+- [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
+- [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
 - [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 - [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
@@ -155,7 +157,6 @@
 - [codexbar](https://github.com/steipete/codexbar) 无需登录，即可查看 OpenAI Codex 与 Claude Code 的使用统计数据
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
-- [ping-island](https://github.com/erha19/ping-island) 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [fallow](https://github.com/fallow-rs/fallow) 面向 TypeScript 和 JavaScript 的代码库智能分析工具
 - [jcode](https://github.com/1jehuang/jcode) 最强 Coding Agent
