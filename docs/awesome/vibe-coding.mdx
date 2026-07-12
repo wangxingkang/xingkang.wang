@@ -66,6 +66,13 @@
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
+## 知识图谱
+
+- [Graphify](https://github.com/safishamsi/graphify)
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [CodeGraph](https://github.com/colbymchenry/codegraph)
+- [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+
 ## 模型聚合平台
 
 - [ZenMux](https://zenmux.ai)
@@ -74,14 +81,12 @@
 ## 其他
 
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
-- [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
-- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) 零服务端代码智能引擎
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
