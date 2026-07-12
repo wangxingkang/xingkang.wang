@@ -38,6 +38,7 @@
 
 ## Skill
 
+- [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [humanizer](https://github.com/blader/humanizer) 可消除文本中 AI 写作痕迹的 Claude Code 智能技能
@@ -152,8 +153,6 @@
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
-- [Understand-Anything](https://github.com/Lum1104/Understand-Anything) 将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱
-  支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等多平台
 - [codexbar](https://github.com/steipete/codexbar) 无需登录，即可查看 OpenAI Codex 与 Claude Code 的使用统计数据
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
@@ -195,7 +194,6 @@
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
-- [graphify](https://github.com/safishamsi/graphify) AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid）。可将任意包含代码、文档、论文或图片的文件夹转换为可检索的知识图谱
 - [deepagents](https://github.com/langchain-ai/deepagents) 基于 LangChain 和 LangGraph 构建的智能体管控框架。配备规划工具、文件系统后端，并支持创建子智能体，功能完备，可处理各类复杂的智能体任务
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能

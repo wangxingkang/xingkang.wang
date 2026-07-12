@@ -7,7 +7,9 @@
 
 ## 工具
 
-- [](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
+- [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
+- [Sparkle](https://github.com/sparkle-project/Sparkle) MacOS 的软件更新框架
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
 - [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) MacOS 键盘自定义工具
   - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) 轻松配置 Karabiner

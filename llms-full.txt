@@ -348,6 +348,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [humanizer](https://github.com/blader/humanizer) 可消除文本中 AI 写作痕迹的 Claude Code 智能技能
@@ -462,8 +463,6 @@ url: /awesome/ai.md
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
-- [Understand-Anything](https://github.com/Lum1104/Understand-Anything) 将任意代码库、知识库或文档转化为可探索、可搜索、可对话的交互式知识图谱
-  支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等多平台
 - [codexbar](https://github.com/steipete/codexbar) 无需登录，即可查看 OpenAI Codex 与 Claude Code 的使用统计数据
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
@@ -505,7 +504,6 @@ url: /awesome/ai.md
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
 - [serena](https://github.com/oraios/serena) 一款功能强大的**MCP 编程工具包**，提供语义检索与编辑能力——专为智能体打造的集成开发环境（IDE）。
 - [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
-- [graphify](https://github.com/safishamsi/graphify) AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid）。可将任意包含代码、文档、论文或图片的文件夹转换为可检索的知识图谱
 - [deepagents](https://github.com/langchain-ai/deepagents) 基于 LangChain 和 LangGraph 构建的智能体管控框架。配备规划工具、文件系统后端，并支持创建子智能体，功能完备，可处理各类复杂的智能体任务
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
 - [free-code](https://github.com/paoloanzn/free-code) 这是 Claude Code 的免费编译版本：已移除所有遥测数据、取消安全提示防护限制、启用全部实验性功能
@@ -715,6 +713,13 @@ url: /awesome/vibe-coding.md
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
+## 知识图谱
+
+- [Graphify](https://github.com/safishamsi/graphify)
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- [CodeGraph](https://github.com/colbymchenry/codegraph)
+- [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+
 ## 模型聚合平台
 
 - [ZenMux](https://zenmux.ai)
@@ -723,14 +728,12 @@ url: /awesome/vibe-coding.md
 ## 其他
 
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
-- [codegraph](https://github.com/colbymchenry/codegraph) 适用于 Claude Code、Codex、Cursor 与 OpenCode 的预索引代码知识图谱 —— 更少令牌消耗、更少工具调用，完全本地运行
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
-- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) 零服务端代码智能引擎
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
@@ -3044,7 +3047,9 @@ url: /awesome/github.md
 
 ## 工具
 
-- [](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
+- [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
+- [Sparkle](https://github.com/sparkle-project/Sparkle) MacOS 的软件更新框架
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
 - [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) MacOS 键盘自定义工具
   - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) 轻松配置 Karabiner
