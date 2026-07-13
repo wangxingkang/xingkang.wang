@@ -13,19 +13,19 @@
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 
-## OpenCode
-
-### 官方资源
-
-- [官网](https://opencode.ai)
-- [opencode](https://github.com/anomalyco/opencode) 代码仓库
-
 ## ClaudeCode
 
 ### 官方资源
 
 - [官网](https://code.claude.com/docs/zh-CN/overview)
 - [claude-code](https://github.com/anthropics/claude-code) 代码仓库
+
+## OpenCode
+
+### 官方资源
+
+- [官网](https://opencode.ai)
+- [opencode](https://github.com/anomalyco/opencode) 代码仓库
 
 ### 其他
 
@@ -68,10 +68,23 @@
 
 ## 知识图谱
 
+- [CodeGraph](https://github.com/colbymchenry/codegraph)
 - [Graphify](https://github.com/safishamsi/graphify)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
-- [CodeGraph](https://github.com/colbymchenry/codegraph)
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- [code-review-graph](https://github.com/tirth8205/code-review-graph)
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
+## 浏览器
+
+- [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
+- [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
+- [browser-use](https://github.com/browser-use/browser-use) 让网站可被 AI 智能体访问。轻松实现线上任务自动化
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
+
+## 原型&设计
+
+- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 
 ## 模型聚合平台
 
@@ -80,34 +93,33 @@
 
 ## 其他
 
-- [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
+- [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
+- [ping-island](https://github.com/erha19/ping-island) MacOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
+- [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
+- [opencli](https://github.com/jackwener/opencli) 把任何网站或 Electron 应用变成你的命令行工具
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) 最佳智能代理工具包
+- [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
-- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 - [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
-- [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
 - [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
+- [codexbar](https://github.com/steipete/codexbar) Token 使用量统计
+- [tokscale](https://github.com/junhoyeo/tokscale) 一款 CLI 工具，用于追踪来自 OpenCode、Claude Code、🦞OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等的 Token 使用量
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
-- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 高性能代码智能 MCP 服务端。可将代码库索引为持久化知识图谱，普通仓库索引耗时仅毫秒级
 - [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
-- [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
-- [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
-- [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
 - [claude-video](https://github.com/bradautomates/claude-video) 赋予 Claude 观看任意视频的能力
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
-- [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
-- [ping-island](https://github.com/erha19/ping-island) MacOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
+- [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。

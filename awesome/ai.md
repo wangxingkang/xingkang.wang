@@ -45,7 +45,6 @@
 - [humanizer-zh](https://github.com/op7418/Humanizer-zh) Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
-- [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
@@ -153,7 +152,6 @@
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
-- [codexbar](https://github.com/steipete/codexbar) 无需登录，即可查看 OpenAI Codex 与 Claude Code 的使用统计数据
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
@@ -233,7 +231,6 @@
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
-- [opencli](https://github.com/jackwener/opencli) 把任何网站或 Electron 应用变成你的命令行工具
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
@@ -261,7 +258,6 @@
 - [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 - [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
 - [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
-- [browser-use](https://github.com/browser-use/browser-use) 🌐 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude 的主流智能体编排平台
 - [edict](https://github.com/cft0808/edict) 三省六部制・OpenClaw 多智能体协同编排系统
@@ -276,7 +272,7 @@
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
 - [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
-- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) 快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 - [BitNet](https://github.com/microsoft/BitNet) 1-bit 大语言模型官方推理框架
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) 让所有软件全部被代理驱动
 - [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
