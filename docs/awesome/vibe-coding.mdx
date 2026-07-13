@@ -37,7 +37,7 @@
 ### 官方资源
 
 - [官网](https://codewhale.net/zh)
-- [CodeWhale](https://github.com/Hmbown/CodeWhale) 为 DeepSeek V4 而生的终端编程智能体
+- [CodeWhale](https://github.com/Hmbown/CodeWhale)
 
 ## Skill
 
@@ -50,6 +50,7 @@
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
+- [anthropics skills](https://github.com/anthropics/skills)
 
 ## 开发工作流
 
@@ -85,6 +86,9 @@
 ## 原型&设计
 
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
+- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
+  - [getdesign.md](https://getdesign.md)
 
 ## 模型聚合平台
 
@@ -109,7 +113,6 @@
 - [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
 - [codexbar](https://github.com/steipete/codexbar) Token 使用量统计
 - [tokscale](https://github.com/junhoyeo/tokscale) 一款 CLI 工具，用于追踪来自 OpenCode、Claude Code、🦞OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等的 Token 使用量
-- [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
