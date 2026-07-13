@@ -97,6 +97,7 @@
 
 ## 其他
 
+- [pi](https://pi.dev) 极简的 Agent 框架
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [ping-island](https://github.com/erha19/ping-island) MacOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
@@ -105,7 +106,7 @@
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
 - [crush](https://github.com/charmbracelet/crush) 面向所有人的酷炫智能编程工具
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
-- [caveman](https://github.com/JuliusBrussee/caveman) 何必用大量令牌，少许够用就好 —— Claude 编码技巧：用极简直白的表述节省 65% 的令牌消耗
+- [caveman](https://github.com/JuliusBrussee/caveman) 摒弃废话，以简洁的原始人语风回答问题
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 为你的 AI 智能体赋予浏览全网的视觉能力
 - [kilocode](https://github.com/Kilo-Org/kilocode) 一体化智能体工程平台
