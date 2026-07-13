@@ -269,6 +269,7 @@
 
 ### 其他
 
+- [get-east-asian-width](https://github.com/sindresorhus/get-east-asian-width) 确定 Unicode 字符的东亚宽度
 - [@opentui/keymap](https://github.com/anomalyco/opentui/tree/main/packages/keymap) 一款可脱离宿主环境、适用于终端与网页 DOM 应用的按键映射引擎
 - [@panzoom/panzoom](https://github.com/timmywil/panzoom) 借助 CSS 变换实现元素平移、缩放功能的工具库
 - [orpc](https://github.com/middleapi/orpc) 轻松实现类型安全接口
