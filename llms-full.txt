@@ -428,6 +428,7 @@ url: /awesome/ai.md
 - [ollama](https://github.com/ollama/ollama)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [LM Studio](https://lmstudio.ai)
+- [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
 
 ### 其他
 
@@ -1128,6 +1129,7 @@ url: /awesome/react.md
 
 ### 音视频
 
+- [flycut-caption](https://github.com/x007xyz/flycut-caption) 智能视频字幕裁剪工具
 - [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
@@ -1462,6 +1464,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [onnxruntime-web](https://github.com/microsoft/onnxruntime/blob/main/js/web) 跨平台、高性能的机器学习推理与训练加速器
 - [officeparser](https://github.com/harshankur/officeParser) 将各类办公文件解析为结构完整的抽象语法树（AST），并能高精度导出多种格式文件
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
@@ -2111,6 +2114,8 @@ url: /awesome/javascript.md
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
+  - [@webav/av-cliper](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-cliper)
+  - [@webav/av-recorder](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-recorder)
 
 ## 图标
 
@@ -3054,6 +3059,7 @@ url: /awesome/github.md
 
 ## 汇总
 
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 中国独立开发者项目列表
 - [awesome](https://github.com/sindresorhus/awesome) 涵盖各类趣味主题的优质精选清单
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目
 

@@ -350,6 +350,7 @@
 
 ### 音视频
 
+- [flycut-caption](https://github.com/x007xyz/flycut-caption) 智能视频字幕裁剪工具
 - [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
 - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
 - [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
