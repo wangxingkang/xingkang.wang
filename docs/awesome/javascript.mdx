@@ -2,6 +2,7 @@
 
 ## AI
 
+- [onnxruntime-web](https://github.com/microsoft/onnxruntime/blob/main/js/web) 跨平台、高性能的机器学习推理与训练加速器
 - [officeparser](https://github.com/harshankur/officeParser) 将各类办公文件解析为结构完整的抽象语法树（AST），并能高精度导出多种格式文件
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [eventsource-parser](https://github.com/rexxars/eventsource-parser) 流式、与数据源无关的 EventSource / 服务器推送事件（SSE）解析器
@@ -651,6 +652,8 @@
 - [demuxer](https://github.com/goldvideo/demuxer) 一款基于 TypeScript 实现的 TS/MP4/FLV 解封装工具，支持 HEVC、AVC、AAC 编码格式
 - [mediabunny](https://github.com/Vanilagy/mediabunny) 纯 TypeScript 媒体工具包，用于直接在浏览器中读取、写入和转换视频和音频文件
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
+  - [@webav/av-cliper](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-cliper)
+  - [@webav/av-recorder](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-recorder)
 
 ## 图标
 

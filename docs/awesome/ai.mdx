@@ -118,6 +118,7 @@
 - [ollama](https://github.com/ollama/ollama)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [LM Studio](https://lmstudio.ai)
+- [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
 
 ### 其他
 
