@@ -125,6 +125,7 @@
 - [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
 - [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
 - [dexie-react-hooks](https://github.com/dexie/Dexie.js)
+- [react-use-measure](https://github.com/pmndrs/react-use-measure) 用于测量视图边界的工具
 
 ## 组件库
 
@@ -378,6 +379,7 @@
 
 ### 其他
 
+- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
 - [frimousse](https://github.com/liveblocks/frimousse) 一款轻量、无内置样式、可组合式 React 表情选择器
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) 适用于 2D、3D、VR 及 AR 力导向图的 React 组件
 - [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件
