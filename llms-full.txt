@@ -348,6 +348,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
 - [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
@@ -2941,7 +2942,9 @@ url: /awesome/engineering.md
 
 ## github action
 
-- [actions/setup-node](https://github.com/actions/setup-node) 安装特定版本的 Node.js
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) 从工作流程运行中上传操作产物
+- [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
+- [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
@@ -3635,6 +3638,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [spacewasm](https://github.com/nasa/spacewasm) SpaceWasm 是一个 Wasm 1.0 规范的实现，旨在航天器上解释执行 Wasm 二进制代码
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具
 - [smelter](https://github.com/software-mansion/smelter) 一套用于实时、低延迟、可编程音视频混流处理的工具库
