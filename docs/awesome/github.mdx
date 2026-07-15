@@ -42,6 +42,7 @@
 
 ## 其他
 
+- [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [starship](https://github.com/starship/starship)
 - [zsh](https://github.com/zsh-users/zsh)

@@ -188,6 +188,7 @@
 
 - [dayjs](https://day.js.org/zh-CN/)
 - [date-fns](https://github.com/date-fns/date-fns)
+  - [@date-fns/utc](https://github.com/date-fns/utc)
 - [luxon](https://github.com/moment/luxon)
 - [ms](https://github.com/vercel/ms) 一款轻量的毫秒值转换工具
 
@@ -270,6 +271,10 @@
 
 ### 其他
 
+- [rrweb](https://github.com/rrweb-io/rrweb) 录制和回放网络
+  - [rrweb-player](https://github.com/rrweb-io/rrweb/tree/main/packages/rrweb-player)
+- [serialize-error](https://github.com/sindresorhus/serialize-error) 将错误对象序列化/反序列化为普通对象
+- [thenby](https://github.com/Teun/thenBy.js) 根据多个键对数组进行排序
 - [get-east-asian-width](https://github.com/sindresorhus/get-east-asian-width) 确定 Unicode 字符的东亚宽度
 - [@opentui/keymap](https://github.com/anomalyco/opentui/tree/main/packages/keymap) 一款可脱离宿主环境、适用于终端与网页 DOM 应用的按键映射引擎
 - [@panzoom/panzoom](https://github.com/timmywil/panzoom) 借助 CSS 变换实现元素平移、缩放功能的工具库
@@ -565,7 +570,6 @@
 - [katex](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
 - [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
-- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
 - [tldts](https://github.com/remusao/tldts) 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库
 - [superjson](https://github.com/flightcontrolhq/superjson) 将 JavaScript 表达式安全序列化为 JSON 超集格式，该格式支持日期（Date）、大整数（BigInt）等类型
 - [serialize-javascript](https://github.com/yahoo/serialize-javascript) 将 JavaScript 序列化为**包含正则表达式和函数的 JSON 超集**。
