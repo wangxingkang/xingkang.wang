@@ -111,7 +111,9 @@
 
 ## github action
 
-- [actions/setup-node](https://github.com/actions/setup-node) 安装特定版本的 Node.js
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) 从工作流程运行中上传操作产物
+- [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
+- [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
