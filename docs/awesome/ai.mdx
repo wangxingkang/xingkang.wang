@@ -34,6 +34,7 @@
 
 ### 开源模型
 
+- [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 
 ## Skill
@@ -243,7 +244,6 @@
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
-- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
