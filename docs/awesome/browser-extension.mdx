@@ -3,6 +3,7 @@
 ## 开发
 
 - [wxt](https://github.com/wxt-dev/wxt) 下一代浏览器扩展开发框架
+  - [@wxt-dev/module-react](https://github.com/wxt-dev/wxt/tree/HEAD/packages/module-react)
 - [webext-core](https://github.com/aklinker1/webext-core) 一套用于开发浏览器扩展的核心库与工具合集
 - [transliteration](https://github.com/yf-hk/transliteration) 适用于 Node.js、浏览器、Web Worker、React Native、Electron 及命令行的 UTF‑8 转 ASCII 音译 / URL 友好字符串转换模块
 - [raycast](https://github.com/raycast/extensions) 扩展 Raycast 所需的一切
