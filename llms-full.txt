@@ -1129,6 +1129,7 @@ url: /awesome/react.md
 - [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
+- [@prosekit/react](https://github.com/prosekit/prosekit/tree/master/packages/react)
 
 ### 音视频
 
@@ -2512,6 +2513,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [reflect-open](https://github.com/team-reflect/reflect-open) 开源的 Reflect 重写版：一个本地优先、对 AI Agent 友好的 Markdown 笔记应用
 - [tolaria](https://github.com/refactoringhq/tolaria) 用于管理 Markdown 知识库的桌面应用程序
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
@@ -2734,6 +2736,7 @@ url: /awesome/browser-extension.md
 ## 开发
 
 - [wxt](https://github.com/wxt-dev/wxt) 下一代浏览器扩展开发框架
+  - [@wxt-dev/module-react](https://github.com/wxt-dev/wxt/tree/HEAD/packages/module-react)
 - [webext-core](https://github.com/aklinker1/webext-core) 一套用于开发浏览器扩展的核心库与工具合集
 - [transliteration](https://github.com/yf-hk/transliteration) 适用于 Node.js、浏览器、Web Worker、React Native、Electron 及命令行的 UTF‑8 转 ASCII 音译 / URL 友好字符串转换模块
 - [raycast](https://github.com/raycast/extensions) 扩展 Raycast 所需的一切

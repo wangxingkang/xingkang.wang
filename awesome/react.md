@@ -348,6 +348,7 @@
 - [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
+- [@prosekit/react](https://github.com/prosekit/prosekit/tree/master/packages/react)
 
 ### 音视频
 
