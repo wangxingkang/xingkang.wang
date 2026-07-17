@@ -103,6 +103,7 @@
 
 ## 其他
 
+- [@clickhouse/client](https://github.com/ClickHouse/clickhouse-js) ClickHouse 数据库的官方 JavaScript 客户端
 - [del](https://github.com/sindresorhus/del) 删除文件和目录
 - [is-ci](https://github.com/watson/is-ci) 检测当前环境是否为 CI 服务器
 - [is-docker](https://github.com/sindresorhus/is-docker) 检查进程是否在 Docker 容器内运行

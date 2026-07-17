@@ -47,6 +47,7 @@
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
+- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)

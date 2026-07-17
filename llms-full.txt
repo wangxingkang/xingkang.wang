@@ -344,6 +344,7 @@ url: /awesome/ai.md
 
 ### 开源模型
 
+- [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 
 ## Skill
@@ -553,7 +554,6 @@ url: /awesome/ai.md
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
-- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [routa](https://github.com/phodal/routa) 解析用户意图为结构化规范，通过 MCP/ACP/A2A 协议进行路由调度，支持 Claude Code/OpenCode/Gemini 并提供统一上下文。
 - [new-api](https://github.com/QuantumNous/new-api)  新一代大模型网关与AI资产管理系统
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
@@ -691,6 +691,7 @@ url: /awesome/vibe-coding.md
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
+- [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
@@ -1697,6 +1698,7 @@ url: /awesome/javascript.md
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 - [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
+  - [pouchdb-find](https://github.com/apache/pouchdb/tree/HEAD/packages/node_modules/pouchdb-find)
 
 ### 安全
 
@@ -2819,14 +2821,11 @@ url: /awesome/website.md
 
 ## 其他
 
+- [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
 - [mobbin](https://mobbin.com) 专注于移动界面设计的网站
-
 - [135editor](https://www.135editor.com) 公众号编辑器
-
 - [processon](https://www.processon.com) 思维导图
-
 - [convertio](https://convertio.co/zh/) 文件转换器
-
 - [bewildcard](https://bewildcard.com) 订阅 ChatGPT/Claude
 
 
@@ -3320,6 +3319,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@clickhouse/client](https://github.com/ClickHouse/clickhouse-js) ClickHouse 数据库的官方 JavaScript 客户端
 - [del](https://github.com/sindresorhus/del) 删除文件和目录
 - [is-ci](https://github.com/watson/is-ci) 检测当前环境是否为 CI 服务器
 - [is-docker](https://github.com/sindresorhus/is-docker) 检查进程是否在 Docker 容器内运行

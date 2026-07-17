@@ -232,6 +232,7 @@
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 - [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
+  - [pouchdb-find](https://github.com/apache/pouchdb/tree/HEAD/packages/node_modules/pouchdb-find)
 
 ### 安全
 
