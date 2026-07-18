@@ -6,6 +6,11 @@
 
 ## AI
 
+- [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
+- [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
+- [langchain](https://github.com/langchain-ai/langchain) 智能体工程平台
+- [presidio](https://github.com/data-privacy-stack/presidio) 一个用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据（PII）的开源框架
+- [chatgpt2api](https://github.com/basketikun/chatgpt2api) ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 - [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
 - [open-webui](https://github.com/open-webui/open-webui) 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行
 - [pytorch](https://github.com/pytorch/pytorch) 深度学习框架

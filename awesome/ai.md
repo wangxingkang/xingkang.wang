@@ -62,8 +62,7 @@
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA
 - [antfu skills](https://github.com/antfu/skills) Anthony Fu 精心整理的智能体技能合集
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
-- [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用 Claude 的前端技术，在网页上创建精美的幻灯片。
-- [skills](https://skills.sh)
+- [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用编码 Agent 的前端技能在网页上创建精美的幻灯片
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 一份精选的优质 Claude 技能、资源与工具清单，用于自定义 Claude AI 工作流
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
@@ -307,6 +306,7 @@
 
 ### 其他
 
+- [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
