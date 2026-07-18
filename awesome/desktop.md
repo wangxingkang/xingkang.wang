@@ -86,6 +86,10 @@
 - [官网](https://tauri.app/zh-cn/)
 - [tauri](https://github.com/tauri-apps/tauri) tauri 仓库
 
+### 其他
+
+- [wry](https://github.com/tauri-apps/wry) 基于 Rust 的跨平台 WebView 库
+
 ### 开源项目
 
 - [reflect-open](https://github.com/team-reflect/reflect-open) 开源的 Reflect 重写版：一个本地优先、对 AI Agent 友好的 Markdown 笔记应用

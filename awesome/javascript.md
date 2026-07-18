@@ -569,6 +569,7 @@
 - [parse5](https://github.com/inikulin/parse5) 适用于 Node.js 的 HTML 解析 / 序列化工具集，完全遵循 WHATWG HTML 实时标准（亦称 HTML5）规范
 - [micromark](https://github.com/micromark/micromark) 轻量、安全、高性能的通用 Markdown 解析器，兼容 CommonMark 标准（可选兼容 GFM、MDX 语法）
 - [katex](https://github.com/KaTeX/KaTeX) 面向 Web 端的高性能数学公式排版工具
+- [mathjax](https://github.com/mathjax/MathJax) 在所有浏览器中呈现美观且可访问的数学公式
 - [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
 - [tldts](https://github.com/remusao/tldts) 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库
@@ -584,6 +585,7 @@
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
 - [uuid](https://github.com/uuidjs/uuid) 在 JavaScript 中生成符合 RFC 标准的 UUID
 - [uuidv7](https://github.com/LiosK/uuidv7) UUID v7 规范的 JavaScript 实现
+- [shortid](https://github.com/dylang/shortid) 短 ID 生成器。对 URL 友好。不可预测。支持集群
 - [short-uuid](https://github.com/oculus42/short-uuid) 将标准 UUID 转换为更简短的格式，并支持反向还原
 - [text-case](https://github.com/idimetrix/text-case) 文本格式转换
 - [debounce](https://github.com/sindresorhus/debounce)
@@ -715,6 +717,14 @@
 
 ## 其他
 
+- [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
+- [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录
+- [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
+- [markmap](https://github.com/markmap/markmap) 用纯文本构建思维导图
+- [pdfobject](https://github.com/pipwerks/PDFObject) 一个轻量级的 JavaScript 工具，用于在 HTML 文档中动态嵌入 PDF
+- [reveal.js](https://github.com/hakimel/reveal.js) HTML 演示框架
+- [typo-js](https://github.com/cfinke/Typo.js) 一个使用 Hunspell 风格词典的客户端 JavaScript 拼写检查器
+- [chance](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机生成器辅助工具
 - [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件

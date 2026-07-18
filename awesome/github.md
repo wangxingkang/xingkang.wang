@@ -42,6 +42,8 @@
 
 ## 其他
 
+- [mattermost](https://github.com/mattermost/mattermost) Mattermost 是一个开源平台，在整个软件开发生命周期中提供安全协作
+- [codimd](https://github.com/hackmdio/codimd) 全平台实时协作 Markdown 笔记工具
 - [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [starship](https://github.com/starship/starship)

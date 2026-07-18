@@ -34,6 +34,7 @@
 
 ### 开源模型
 
+- [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 - [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 

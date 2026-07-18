@@ -55,6 +55,8 @@
 
 ## 其他
 
+- [mocha](https://github.com/mochajs/mocha) 经典、可靠、值得信赖的 Node.js 和浏览器测试框架
+- [sinon](https://github.com/sinonjs/sinon) 适用于 JavaScript 的测试间谍、桩和模拟对象
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
 - [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
 - [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
