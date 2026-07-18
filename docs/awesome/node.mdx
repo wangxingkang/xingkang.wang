@@ -103,6 +103,23 @@
 
 ## 其他
 
+- [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
+- [tedious](https://github.com/tediousjs/tedious) 用于连接 SQL Server 数据库的 Node TDS 模块
+- [morgan](https://github.com/expressjs/morgan) 适用于 Node.js 的 HTTP 请求日志记录中间件
+- [minio](https://github.com/minio/minio-js) 适用于 JavaScript 的 MinIO 客户端 SDK
+- [image-type](https://github.com/sindresorhus/image-type) 检测 Buffer/Uint8Array 的图像类型
+- [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
+- [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
+- [formidable](https://github.com/node-formidable/formidable) 最常用、灵活、快速且支持流式解析的多部分表单数据解析器
+- [ejs](https://github.com/mde/ejs) 嵌入式 JavaScript 模板
+- [cookie](https://github.com/jshttp/cookie) HTTP 服务器 cookie 的解析和序列化
+- [cookie-parser](https://github.com/expressjs/cookie-parser) 解析 HTTP 请求中的 cookies
+- [connect-session-sequelize](https://github.com/mweibel/connect-session-sequelize) 适用于 Express/Connect 的 Sequelize 会话存储
+- [prometheus-api-metrics](https://github.com/PayU/prometheus-api-metrics) 使用 Prometheus 对 Node.js 微服务进行 API 和进程监控
+- [read-chunk](https://github.com/sindresorhus/read-chunk) 从文件中读取一个块
+- [scrypt-kdf](https://github.com/chrisveness/scrypt-kdf) Scrypt 密钥派生函数
+- [sequelize](https://github.com/sequelize/sequelize) 功能丰富的 ORM
+- [wetty](https://github.com/butlerx/wetty) 基于 HTTP/HTTPS 在浏览器中运行的终端
 - [@clickhouse/client](https://github.com/ClickHouse/clickhouse-js) ClickHouse 数据库的官方 JavaScript 客户端
 - [del](https://github.com/sindresorhus/del) 删除文件和目录
 - [is-ci](https://github.com/watson/is-ci) 检测当前环境是否为 CI 服务器
@@ -184,6 +201,7 @@
 - [console-table-printer](https://github.com/console-table-printer/console-table-printer) 在控制台打印美观的表格
 - [hls-parser](https://github.com/kuu/hls-parser) 一款用于读写 HLS 播放列表的简易库
 - [iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) 基础 IPTV 播放列表解析器
+- [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
 - [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/socks-proxy-agent) 适用于 HTTP 与 HTTPS 的 SOCKS 代理 http.Agent 实现
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
 - [export-to-csv](https://github.com/alexcaza/export-to-csv) 将 JS 数据集导出为 CSV 文件
@@ -358,7 +376,6 @@
 - [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
 - [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
-- [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
 - [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
 - [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
 - [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
