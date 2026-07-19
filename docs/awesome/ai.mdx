@@ -124,6 +124,7 @@
 
 ### 其他
 
+- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载

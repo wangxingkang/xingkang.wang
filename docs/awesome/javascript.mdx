@@ -726,6 +726,8 @@
 
 ## 其他
 
+- [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
 - [ol](https://github.com/openlayers/openlayers) 交互式地图
 - [ol-ext](https://github.com/Viglino/ol-ext) OpenLayers 的酷炫扩展——动画聚类、CSS 弹窗、Font Awesome 符号渲染器、统计地图图表（饼图/柱状图）、图层切换器、维基百科图层、动画、Canvas 滤镜
