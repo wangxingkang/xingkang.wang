@@ -124,6 +124,7 @@
 
 ### 其他
 
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
@@ -307,6 +308,7 @@
 
 ### 其他
 
+- [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”

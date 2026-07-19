@@ -1,5 +1,10 @@
 # Java
 
+## 数据库
+
+- [elasticsearch](https://github.com/elastic/elasticsearch) 免费且开源、分布式、RESTful 搜索引擎
+  - [kibana](https://github.com/elastic/kibana) 用于查询、分析、可视化和管理 Elasticsearch 中存储数据的开源界面
+
 ## 其他
 
 - [dbeaver](https://github.com/dbeaver/dbeaver) 免费通用型数据库工具与 SQL 客户端

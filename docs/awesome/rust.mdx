@@ -15,7 +15,6 @@
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
-- [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
@@ -27,6 +26,14 @@
 ## 学习
 
 - [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料
+
+## 数据库
+
+### 向量数据库
+
+- [qdrant](https://github.com/qdrant/qdrant)
+- [chroma](https://github.com/chroma-core/chroma)
+- [lancedb](https://github.com/lancedb/lancedb)
 
 ## 其他
 
@@ -115,7 +122,7 @@
 - [rustler](https://github.com/rusterlium/rustler) 用于创建 Erlang NIF 函数的安全 Rust 桥接层
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
-- [x-algorithm](https://github.com/xai-org/x-algorithm)
+- [x-algorithm](https://github.com/xai-org/x-algorithm) 驱动 X 平台"为你推荐"信息流的算法
 - [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
 - [zed](https://github.com/zed-industries/zed) IDE
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖

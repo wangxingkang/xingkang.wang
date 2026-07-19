@@ -128,3 +128,7 @@
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
+- [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
+- [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
+- [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
