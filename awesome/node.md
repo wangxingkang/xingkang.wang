@@ -103,6 +103,17 @@
 
 ## 其他
 
+- [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
+- [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
+- [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
+- [fast-escape-regexp](https://github.com/SukkaW/fast-escape-regexp) 最快速、基于纯 JavaScript 的正则表达式转义库
+- [fast-uri](https://github.com/fastify/fast-uri) 零依赖的 RFC 3986 URI 工具箱
+- [fdir](https://github.com/thecodrr/fdir) NodeJS 最快的目录爬取与 glob 匹配库
+- [tar-fs](https://github.com/mafintosh/tar-fs) tar-stream 的 fs 绑定
+- [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) 一个快速、极简的 globby 和 fast-glob 替代品
+- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
+- [fast-glob](https://github.com/mrmlnc/fast-glob) 一个适用于 Node.js 的快速高效 glob 库
+- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) Node 在运行但不知道原因
 - [@larksuiteoapi/node-sdk](https://github.com/larksuite/node-sdk) 飞书开放 Node.js SDK
 - [@nodesecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) 开源 SAST 扫描器。一个用于检测最常见恶意模式的静态分析工具
 - [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
@@ -221,7 +232,6 @@
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
 - [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
 - [c12](https://github.com/unjs/c12) 智能配置加载器
-- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档

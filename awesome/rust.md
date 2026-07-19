@@ -37,6 +37,7 @@
 
 ## 其他
 
+- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
 - [spacewasm](https://github.com/nasa/spacewasm) SpaceWasm 是一个 Wasm 1.0 规范的实现，旨在航天器上解释执行 Wasm 二进制代码
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具

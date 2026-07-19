@@ -914,6 +914,7 @@ url: /awesome/react.md
 - [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
 - [dexie-react-hooks](https://github.com/dexie/Dexie.js)
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) 用于测量视图边界的工具
+- [foxact](https://github.com/SukkaW/foxact) React Hooks/工具库
 
 ## 组件库
 
@@ -1755,6 +1756,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [null-prototype-object](https://github.com/kikobeats/null-prototype-object) 在 JavaScript 中创建空原型对象的最快方式
 - [ix](https://github.com/ReactiveX/IxJS) JavaScript 交互式扩展
 - [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON，无需担心丢失数值信息
 - [micro-memoize](https://github.com/planttheidea/micro-memoize) 一个极致快速、小巧但功能丰富的记忆化库
@@ -2063,6 +2065,7 @@ url: /awesome/javascript.md
 - [rxjs](https://github.com/reactivex/rxjs) 一款面向 JavaScript 的响应式编程类库
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
 - [tldts](https://github.com/remusao/tldts) 一款从复杂统一资源标识符（URI）中提取域名、子域名及公共后缀的 JavaScript 工具库
+  - [tldts-experimental](https://github.com/remusao/tldts/tree/master/packages/tldts-experimental)
 - [superjson](https://github.com/flightcontrolhq/superjson) 将 JavaScript 表达式安全序列化为 JSON 超集格式，该格式支持日期（Date）、大整数（BigInt）等类型
 - [serialize-javascript](https://github.com/yahoo/serialize-javascript) 将 JavaScript 序列化为**包含正则表达式和函数的 JSON 超集**。
 - [shiki](https://github.com/shikijs/shiki) 一款颜值出众且功能强大的语法高亮工具
@@ -3375,6 +3378,17 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
+- [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
+- [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
+- [fast-escape-regexp](https://github.com/SukkaW/fast-escape-regexp) 最快速、基于纯 JavaScript 的正则表达式转义库
+- [fast-uri](https://github.com/fastify/fast-uri) 零依赖的 RFC 3986 URI 工具箱
+- [fdir](https://github.com/thecodrr/fdir) NodeJS 最快的目录爬取与 glob 匹配库
+- [tar-fs](https://github.com/mafintosh/tar-fs) tar-stream 的 fs 绑定
+- [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) 一个快速、极简的 globby 和 fast-glob 替代品
+- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
+- [fast-glob](https://github.com/mrmlnc/fast-glob) 一个适用于 Node.js 的快速高效 glob 库
+- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) Node 在运行但不知道原因
 - [@larksuiteoapi/node-sdk](https://github.com/larksuite/node-sdk) 飞书开放 Node.js SDK
 - [@nodesecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) 开源 SAST 扫描器。一个用于检测最常见恶意模式的静态分析工具
 - [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
@@ -3493,7 +3507,6 @@ url: /awesome/node.md
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
 - [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
 - [c12](https://github.com/unjs/c12) 智能配置加载器
-- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
@@ -3740,6 +3753,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
 - [spacewasm](https://github.com/nasa/spacewasm) SpaceWasm 是一个 Wasm 1.0 规范的实现，旨在航天器上解释执行 Wasm 二进制代码
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
 - [dbx](https://github.com/t8y2/dbx) 轻量级跨平台数据库客户端、数据库管理工具
