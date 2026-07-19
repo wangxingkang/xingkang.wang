@@ -6,6 +6,7 @@
 
 ## AI
 
+- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
 - [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
 - [langchain](https://github.com/langchain-ai/langchain) 智能体工程平台

@@ -434,6 +434,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
@@ -617,6 +618,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
@@ -773,6 +775,10 @@ url: /awesome/vibe-coding.md
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
+- [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
+- [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
+- [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 
 
 
@@ -911,6 +917,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
@@ -1162,6 +1169,11 @@ url: /awesome/react.md
 
 ### 其他
 
+- [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
+- [re-resizable](https://github.com/bokuweb/re-resizable) 可调整大小组件
+- [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
+- [@fortune-sheet/react](https://github.com/ruilisi/fortune-sheet) 一个即插即用的 JavaScript 电子表格库，提供类似 Excel 和 Google Sheets 的丰富功能
+- [mapcn](https://github.com/AnmolSaini16/mapcn) 精美地图组件。100% 免费，零配置，一条命令即可完成设置
 - [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
 - [frimousse](https://github.com/liveblocks/frimousse) 一款轻量、无内置样式、可组合式 React 表情选择器
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) 适用于 2D、3D、VR 及 AR 力导向图的 React 组件
@@ -1198,6 +1210,7 @@ url: /awesome/react.md
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) react-virtualized 中 AutoSizer 组件的独立版本
 - [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
 - [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
@@ -1262,6 +1275,8 @@ url: /awesome/react.md
 
 ## 其他
 
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) 通知你关于潜在可避免的重复渲染
+- [@react-awesome-query-builder/ui](https://github.com/ukrbublik/react-awesome-query-builder) 用户友好的 React\*\* 查询构建器\*\*
 - [ansi-to-react](https://github.com/nteract/ansi-to-react)
 - [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
 - [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
@@ -1530,7 +1545,7 @@ url: /awesome/javascript.md
 - [echarts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库
 - [vchart](https://visactor.io/vchart) 字节团队出品的图表库
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
-- [uPlot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
+- [uplot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
 - [chart.js](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
 
 ### 3D
@@ -1740,6 +1755,12 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [ix](https://github.com/ReactiveX/IxJS) JavaScript 交互式扩展
+- [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON，无需担心丢失数值信息
+- [micro-memoize](https://github.com/planttheidea/micro-memoize) 一个极致快速、小巧但功能丰富的记忆化库
+- [@corbe30/fortune-excel](https://github.com/Corbe30/FortuneExcel) FortuneSheet 的 Excel 导入/导出库
+- [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) 开箱即用的高效 Redux 开发工具集
+- [reselect](https://github.com/reduxjs/reselect) Redux 选择器库
 - [rrweb](https://github.com/rrweb-io/rrweb) 录制和回放网络
   - [rrweb-player](https://github.com/rrweb-io/rrweb/tree/main/packages/rrweb-player)
 - [serialize-error](https://github.com/sindresorhus/serialize-error) 将错误对象序列化/反序列化为普通对象
@@ -2023,10 +2044,11 @@ url: /awesome/javascript.md
 - [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
 - [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [fuse.js](https://github.com/krisk/fuse) 模糊搜索
+- [@leeoniya/ufuzzy](https://github.com/leeoniya/uFuzzy) 模糊搜索
 - [smol-toml](https://github.com/squirrelchat/smol-toml) 一款轻量、高速且符合 TOML 1.0.0 规范的解析器与序列化器
 - [web-vitals](https://github.com/GoogleChrome/web-vitals) 保障网站健康的核心指标
 - [autohue.js](https://github.com/auto-plugin/autohue.js) 一个自动提取图片主题色让图片和背景融为一体的工具
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) 最先进的开源浏览器指纹库
+- [@fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) 最先进的开源浏览器指纹库
 - [prismjs](https://github.com/PrismJS/prism) 语法高亮
 - [refractor](https://github.com/wooorm/refractor) 基于 Prism 打造的轻量、稳定、优雅的虚拟语法高亮工具
 - [hastscript](https://github.com/syntax-tree/hastscript) 用于创建 hast 语法树的实用工具
@@ -2185,6 +2207,12 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
+- [ol](https://github.com/openlayers/openlayers) 交互式地图
+- [ol-ext](https://github.com/Viglino/ol-ext) OpenLayers 的酷炫扩展——动画聚类、CSS 弹窗、Font Awesome 符号渲染器、统计地图图表（饼图/柱状图）、图层切换器、维基百科图层、动画、Canvas 滤镜
+- [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
+- [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
+- [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
 - [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
@@ -2249,6 +2277,7 @@ url: /awesome/javascript.md
 - [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) 东京公共交通系统的**实时3D数字地图**
 - [antlr4](https://github.com/antlr/antlr4) 一款功能强大的解析器生成器，用于读取、处理、执行或转换结构化文本与二进制文件
 - [grafana-data](https://github.com/grafana/grafana/tree/main/packages/grafana-data)
+- [centrifuge](https://github.com/centrifugal/centrifuge-js)
 
 
 
@@ -2976,6 +3005,7 @@ url: /awesome/engineering.md
 
 ## 其他
 
+- [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
@@ -3127,6 +3157,10 @@ url: /awesome/github.md
 
 ## 其他
 
+- [grafana](https://github.com/grafana/grafana) 开放、可组合的可观测性与数据可视化平台
+- [lvgl](https://github.com/lvgl/lvgl) 嵌入式图形库，为任何 MCU、MPU 和显示类型创建精美的用户界面
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
+- [redis](https://github.com/redis/redis) 最快、功能最丰富的缓存、数据结构服务器以及文档和向量查询引擎
 - [mattermost](https://github.com/mattermost/mattermost) Mattermost 是一个开源平台，在整个软件开发生命周期中提供安全协作
 - [codimd](https://github.com/hackmdio/codimd) 全平台实时协作 Markdown 笔记工具
 - [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
@@ -3341,6 +3375,8 @@ url: /awesome/node.md
 
 ## 其他
 
+- [@larksuiteoapi/node-sdk](https://github.com/larksuite/node-sdk) 飞书开放 Node.js SDK
+- [@nodesecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) 开源 SAST 扫描器。一个用于检测最常见恶意模式的静态分析工具
 - [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
 - [tedious](https://github.com/tediousjs/tedious) 用于连接 SQL Server 数据库的 Node TDS 模块
 - [morgan](https://github.com/expressjs/morgan) 适用于 Node.js 的 HTTP 请求日志记录中间件
@@ -3554,6 +3590,7 @@ url: /awesome/node.md
 - [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
 - [postgres](https://github.com/porsager/postgres) 适用于 Node.js、Deno、Bun 以及 CloudFlare 平台的高性能全功能 PostgreSQL 客户端
+  - [pgvector](https://github.com/pgvector/pgvector) Postgres 的开源向量相似度搜索
 - [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
 - [zx](https://github.com/google/zx) 一款用于编写更优质脚本的工具
 - [pollyjs](https://github.com/Netflix/pollyjs) 记录、重写和模拟 HTTP 交互
@@ -3681,7 +3718,6 @@ url: /awesome/rust.md
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [forkd](https://github.com/deeplethe/forkd) 面向 AI 智能体微型虚拟机的 Fork 机制
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
-- [rtk](https://github.com/rtk-ai/rtk) 可将常见开发指令的大模型（LLM）令牌消耗量降低 60%–90% 的命令行代理工具
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
 - [abtop](https://github.com/graykode/abtop) 类似 htop，但专为 AI 编码智能体打造。可实时监控 Claude Code、Codex CLI 会话、Token 消耗、上下文窗口、速率限制及端口状态
@@ -3693,6 +3729,14 @@ url: /awesome/rust.md
 ## 学习
 
 - [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料
+
+## 数据库
+
+### 向量数据库
+
+- [qdrant](https://github.com/qdrant/qdrant)
+- [chroma](https://github.com/chroma-core/chroma)
+- [lancedb](https://github.com/lancedb/lancedb)
 
 ## 其他
 
@@ -3781,7 +3825,7 @@ url: /awesome/rust.md
 - [rustler](https://github.com/rusterlium/rustler) 用于创建 Erlang NIF 函数的安全 Rust 桥接层
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
-- [x-algorithm](https://github.com/xai-org/x-algorithm)
+- [x-algorithm](https://github.com/xai-org/x-algorithm) 驱动 X 平台"为你推荐"信息流的算法
 - [Magisk](https://github.com/topjohnwu/Magisk) 安卓魔法面具
 - [zed](https://github.com/zed-industries/zed) IDE
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
@@ -3819,8 +3863,17 @@ url: /awesome/go.md
 
 - [codeforces-go](https://github.com/EndlessCheng/codeforces-go) 算法竞赛模板库
 
+## 数据库
+
+### 向量数据库
+
+- [weaviate](https://github.com/weaviate/weaviate)
+- [milvus](https://github.com/milvus-io/milvus)
+
 ## 其他
 
+- [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
+- [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
 - [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
@@ -3877,8 +3930,6 @@ url: /awesome/go.md
 - [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
-- [weaviate](https://github.com/weaviate/weaviate) 开源向量数据库，可同时存储对象与向量，支持将向量搜索与结构化过滤相结合，并具备云原生数据库的容错能力和可扩展性
-- [milvus](https://github.com/milvus-io/milvus) Milvus 是一款专为可扩展向量近似最近邻（ANN）搜索打造的高性能云原生向量数据库
 - [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
@@ -3906,6 +3957,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
 - [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
 - [langchain](https://github.com/langchain-ai/langchain) 智能体工程平台
@@ -4028,6 +4080,11 @@ url: /awesome/java.md
 ---
 
 # Java
+
+## 数据库
+
+- [elasticsearch](https://github.com/elastic/elasticsearch) 免费且开源、分布式、RESTful 搜索引擎
+  - [kibana](https://github.com/elastic/kibana) 用于查询、分析、可视化和管理 Elasticsearch 中存储数据的开源界面
 
 ## 其他
 

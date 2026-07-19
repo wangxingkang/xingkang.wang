@@ -129,6 +129,7 @@
 
 ## 组件库
 
+- [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
@@ -380,6 +381,11 @@
 
 ### 其他
 
+- [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
+- [re-resizable](https://github.com/bokuweb/re-resizable) 可调整大小组件
+- [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
+- [@fortune-sheet/react](https://github.com/ruilisi/fortune-sheet) 一个即插即用的 JavaScript 电子表格库，提供类似 Excel 和 Google Sheets 的丰富功能
+- [mapcn](https://github.com/AnmolSaini16/mapcn) 精美地图组件。100% 免费，零配置，一条命令即可完成设置
 - [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
 - [frimousse](https://github.com/liveblocks/frimousse) 一款轻量、无内置样式、可组合式 React 表情选择器
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) 适用于 2D、3D、VR 及 AR 力导向图的 React 组件
@@ -416,6 +422,7 @@
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 - [react-window](https://github.com/bvaughn/react-window) 用于高效渲染大型列表和表格数据的 React 组件
 - [@tanstack/react-virtual](https://github.com/TanStack/virtual) 虚拟列表
+- [react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) react-virtualized 中 AutoSizer 组件的独立版本
 - [react-window-infinite-loader](https://github.com/bvaughn/react-window-infinite-loader) 受 react-virtualized 启发、适配 react-window 的无限滚动加载组件
 - [virtua](https://github.com/inokawa/virtua) 虚拟列表（含虚拟网格）组件
 - [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
@@ -480,6 +487,8 @@
 
 ## 其他
 
+- [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) 通知你关于潜在可避免的重复渲染
+- [@react-awesome-query-builder/ui](https://github.com/ukrbublik/react-awesome-query-builder) 用户友好的 React\*\* 查询构建器\*\*
 - [ansi-to-react](https://github.com/nteract/ansi-to-react)
 - [@headless-tree/react](https://github.com/lukasbach/headless-tree/tree/main/packages/react) 树形组件
 - [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键

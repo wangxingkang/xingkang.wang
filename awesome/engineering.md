@@ -122,6 +122,7 @@
 
 ## 其他
 
+- [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
