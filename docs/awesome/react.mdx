@@ -126,6 +126,7 @@
 - [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
 - [dexie-react-hooks](https://github.com/dexie/Dexie.js)
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) 用于测量视图边界的工具
+- [foxact](https://github.com/SukkaW/foxact) React Hooks/工具库
 
 ## 组件库
 
