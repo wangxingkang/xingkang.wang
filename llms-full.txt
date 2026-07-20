@@ -1271,6 +1271,7 @@ url: /awesome/react.md
 
 ## 开发模版
 
+- [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) Next.js 样板工程与启动模板
 - [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
@@ -1279,6 +1280,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [next-themes](https://github.com/pacocoursey/next-themes) 两行代码实现完美的 Next.js 暗黑模式。支持系统偏好和任何其他主题，无闪烁
 - [@electric-sql/pglite-react](https://github.com/electric-sql/pglite/tree/main/packages/pglite-react) 此包基于 PGLite 的实时查询插件实现了 React hooks
 - [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) 通知你关于潜在可避免的重复渲染
 - [@react-awesome-query-builder/ui](https://github.com/ukrbublik/react-awesome-query-builder) 用户友好的 React\*\* 查询构建器\*\*
@@ -3166,6 +3168,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
 - [grafana](https://github.com/grafana/grafana) 开放、可组合的可观测性与数据可视化平台
 - [lvgl](https://github.com/lvgl/lvgl) 嵌入式图形库，为任何 MCU、MPU 和显示类型创建精美的用户界面
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
@@ -3384,6 +3387,7 @@ url: /awesome/node.md
 
 ## 其他
 
+- [logtape](https://github.com/dahlia/logtape) 零依赖、不打扰式日志库，适用于 Deno、Node.js、Bun、浏览器和边缘函数
 - [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
 - [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
 - [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
