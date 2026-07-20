@@ -103,6 +103,7 @@
 
 ## 其他
 
+- [logtape](https://github.com/dahlia/logtape) 零依赖、不打扰式日志库，适用于 Deno、Node.js、Bun、浏览器和边缘函数
 - [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
 - [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
 - [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
