@@ -40,6 +40,7 @@
 
 ## Skill
 
+- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
 - [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
@@ -112,6 +113,7 @@
 
 ### 学习
 
+- [ai-agent-book](https://github.com/bojieli/ai-agent-book)《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）
 - [harness-engineering](https://github.com/deusyu/harness-engineering) Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 
 ### 本地模型
@@ -124,6 +126,7 @@
 
 ### 其他
 
+- [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
@@ -153,7 +156,6 @@
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
-- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端智能代码助手，支持哈希锚定编辑、优化工具调用、语言服务协议、Python、浏览器端、子智能体等多项能力
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
@@ -185,7 +187,6 @@
 - [hunk](https://github.com/modem-dev/hunk) 面向智能编程体的**先评审型终端差异查看器**
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) ChatGPT、Gemini、Grok、Claude、Perplexity、Cursor、Devin、Replit 等多款 AI 的系统提示词泄露！—— 面向所有人的 AI 系统透明度公开！
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
-- [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。

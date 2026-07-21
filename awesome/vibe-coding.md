@@ -32,6 +32,16 @@
 - [claw-code](https://github.com/ultraworkers/claw-code)
 - [open-design](https://github.com/nexu-io/open-design) 本地优先、开源的 Claude Design 替代品
 
+### Pi
+
+- [官网](https://pi.dev)
+- [pi agent](https://github.com/earendil-works/pi/tree/main/packages/coding-agent) 代码仓库
+
+## 其他
+
+- [pi-web](https://github.com/agegr/pi-web) Pi 编码代理的 Web UI
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端 AI 编码代理
+
 ## CodeWhale
 
 ### 官方资源
@@ -52,6 +62,7 @@
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
 - [anthropics skills](https://github.com/anthropics/skills)
+- [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
 
 ## 开发工作流
 
@@ -96,9 +107,16 @@
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
 
+## 联网服务
+
+- [tavily](https://app.tavily.com)
+- [brave](https://brave.com/zh/search/api/)
+
 ## 其他
 
-- [pi](https://pi.dev) 极简的 Agent 框架
+- [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
+- [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 面向 AI 编码代理和长期运行代理任务的持久化文件规划
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [ping-island](https://github.com/erha19/ping-island) MacOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
