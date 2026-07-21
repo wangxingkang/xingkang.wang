@@ -34,12 +34,14 @@
 
 ### 开源模型
 
+- [Sana](https://github.com/NVlabs/Sana) 图像生成模型
 - [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 - [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 
 ## Skill
 
+- [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
 - [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
@@ -283,6 +285,11 @@
 
 ## 产品
 
+## 原型&设计
+
+- [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
+- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
+
 ### 智能体
 
 - [扣子空间](https://www.coze.cn)
@@ -303,13 +310,9 @@
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [writehuman](https://writehuman.ai) 去除 AI 味
 
-### 设计
-
-- [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
-- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
-
 ### 其他
 
+- [blueprint](https://www.blueprint.io) 硬件原型设计
 - [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
