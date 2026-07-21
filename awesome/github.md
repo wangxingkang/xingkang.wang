@@ -42,6 +42,7 @@
 
 ## 其他
 
+- [worldmonitor](https://github.com/koala73/worldmonitor) 实时全球情报面板
 - [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
 - [grafana](https://github.com/grafana/grafana) 开放、可组合的可观测性与数据可视化平台
 - [lvgl](https://github.com/lvgl/lvgl) 嵌入式图形库，为任何 MCU、MPU 和显示类型创建精美的用户界面

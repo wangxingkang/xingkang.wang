@@ -344,12 +344,14 @@ url: /awesome/ai.md
 
 ### 开源模型
 
+- [Sana](https://github.com/NVlabs/Sana) 图像生成模型
 - [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 - [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 
 ## Skill
 
+- [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
 - [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
@@ -593,6 +595,11 @@ url: /awesome/ai.md
 
 ## 产品
 
+## 原型&设计
+
+- [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
+- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
+
 ### 智能体
 
 - [扣子空间](https://www.coze.cn)
@@ -613,13 +620,9 @@ url: /awesome/ai.md
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [writehuman](https://writehuman.ai) 去除 AI 味
 
-### 设计
-
-- [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
-- [calicat](https://www.calicat.cn) 生成原型设计、需求文档
-
 ### 其他
 
+- [blueprint](https://www.blueprint.io) 硬件原型设计
 - [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
@@ -689,7 +692,7 @@ url: /awesome/vibe-coding.md
 ## 其他
 
 - [pi-web](https://github.com/agegr/pi-web) Pi 编码代理的 Web UI
-- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端 AI 编码代理
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端里的 AI 编码代理
 
 ## CodeWhale
 
@@ -761,6 +764,10 @@ url: /awesome/vibe-coding.md
 - [tavily](https://app.tavily.com)
 - [brave](https://brave.com/zh/search/api/)
 
+## 持久记忆
+
+- [agentmemory](https://github.com/rohitg00/agentmemory)
+
 ## 其他
 
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
@@ -787,7 +794,6 @@ url: /awesome/vibe-coding.md
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
-- [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
@@ -799,6 +805,7 @@ url: /awesome/vibe-coding.md
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
+- [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
 
 
 
@@ -2898,6 +2905,8 @@ url: /awesome/website.md
 
 ## 其他
 
+- [dribbble](https://dribbble.com) 全球设计师社区
+- [fmhy](https://fmhy.net) 互联网上最大规模的免费资源集合
 - [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
 - [mobbin](https://mobbin.com) 专注于移动界面设计的网站
 - [135editor](https://www.135editor.com) 公众号编辑器
@@ -3187,6 +3196,7 @@ url: /awesome/github.md
 
 ## 其他
 
+- [worldmonitor](https://github.com/koala73/worldmonitor) 实时全球情报面板
 - [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
 - [grafana](https://github.com/grafana/grafana) 开放、可组合的可观测性与数据可视化平台
 - [lvgl](https://github.com/lvgl/lvgl) 嵌入式图形库，为任何 MCU、MPU 和显示类型创建精美的用户界面
@@ -3782,6 +3792,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
+- [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
 - [spacewasm](https://github.com/nasa/spacewasm) SpaceWasm 是一个 Wasm 1.0 规范的实现，旨在航天器上解释执行 Wasm 二进制代码
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器
@@ -4000,6 +4012,10 @@ url: /awesome/python.md
 
 ## AI
 
+- [RAG-Anything](https://github.com/HKUDS/RAG-Anything) 一体化 RAG 框架
+- [nanobot](https://github.com/HKUDS/nanobot) 轻量级、开源 AI 代理，适用于你的工具、聊天和工作流
+- [ViMax](https://github.com/HKUDS/ViMax) 代理式视频生成（导演、编剧、制片人和视频生成器，四位一体）
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 从原理到上线，一套学完整个 AI 工程
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
 - [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
@@ -4032,7 +4048,6 @@ url: /awesome/python.md
 - [club-3090](https://github.com/noonghunna/club-3090) 面向 RTX 3090 显卡、CUDA 架构显卡的大模型部署社区方案。兼容 vLLM、llama.cpp、ik\_llama 多推理引擎，适配各类模型。现已适配单卡、双卡部署的通义千问 3.6-27B、通义千问 3.6-35B、杰玛 4-26B、杰玛 4-31B 模型配置。
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) lama.cpp 的 Python 绑定库
 - [ollama-python](https://github.com/ollama/ollama-python) Ollama Python 库
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 学以致用，动手搭建，交付成品
 - [unsloth](https://github.com/unslothai/unsloth) Unsloth Studio 是一款网页界面工具，可在本地训练并运行 Gemma 4、通义千问 3.6、DeepSeek、开源版 GPT 等开源模型
 - [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
@@ -4064,6 +4079,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成
 - [rf-detr](https://github.com/roboflow/rf-detr) 实时目标检测与分割模型架构
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts) 可在普通 CPU（乃至便携设备）流畅运行的语音合成工具
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) 将 PDF 文件转换为多种其他格式, 本项目将专注处理扫描版书籍 PDF 文件

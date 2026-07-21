@@ -37,6 +37,8 @@
 
 ## 其他
 
+- [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
+- [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
 - [spacewasm](https://github.com/nasa/spacewasm) SpaceWasm 是一个 Wasm 1.0 规范的实现，旨在航天器上解释执行 Wasm 二进制代码
 - [liteparse](https://github.com/run-llama/liteparse) 一款快速、实用且开源的文档解析器

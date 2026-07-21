@@ -40,7 +40,7 @@
 ## 其他
 
 - [pi-web](https://github.com/agegr/pi-web) Pi 编码代理的 Web UI
-- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端 AI 编码代理
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端里的 AI 编码代理
 
 ## CodeWhale
 
@@ -112,6 +112,10 @@
 - [tavily](https://app.tavily.com)
 - [brave](https://brave.com/zh/search/api/)
 
+## 持久记忆
+
+- [agentmemory](https://github.com/rohitg00/agentmemory)
+
 ## 其他
 
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
@@ -138,7 +142,6 @@
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [html-anything](https://github.com/nexu-io/html-anything) 让本地 Agent 直接写 HTML
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
-- [agentmemory](https://github.com/rohitg00/agentmemory) 基于真实场景基准测试的 AI 编程智能体持久化内存
 - [dyad](https://github.com/dyad-sh/dyad) 面向高阶用户的本地开源 AI 应用搭建工具
 - [improve](https://github.com/shadcn/improve) 使用你性能最强的大模型审计代码库，并生成可交由轻量化低成本模型执行的处理方案
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
@@ -150,3 +153,4 @@
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
+- [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
