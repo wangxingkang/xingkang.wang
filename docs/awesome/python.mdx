@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [scrapy](https://github.com/scrapy/scrapy) 一个快速、高级的 Python 网络爬取与抓取框架
 - [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成
 - [rf-detr](https://github.com/roboflow/rf-detr) 实时目标检测与分割模型架构
 - [pocket-tts](https://github.com/kyutai-labs/pocket-tts) 可在普通 CPU（乃至便携设备）流畅运行的语音合成工具
