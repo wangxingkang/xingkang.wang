@@ -385,7 +385,6 @@
 
 - [spoiled](https://github.com/molefrog/spoiled) 隐藏珍贵秘密。真实的 `<Spoiler />` React 组件
 - [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
-- [re-resizable](https://github.com/bokuweb/re-resizable) 可调整大小组件
 - [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
 - [@fortune-sheet/react](https://github.com/ruilisi/fortune-sheet) 一个即插即用的 JavaScript 电子表格库，提供类似 Excel 和 Google Sheets 的丰富功能
 - [mapcn](https://github.com/AnmolSaini16/mapcn) 精美地图组件。100% 免费，零配置，一条命令即可完成设置
