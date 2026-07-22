@@ -52,7 +52,6 @@
 - [codimd](https://github.com/hackmdio/codimd) 全平台实时协作 Markdown 笔记工具
 - [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- [starship](https://github.com/starship/starship)
 - [zsh](https://github.com/zsh-users/zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)

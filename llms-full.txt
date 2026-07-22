@@ -381,8 +381,6 @@ url: /awesome/ai.md
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
-- [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
-- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
@@ -404,10 +402,6 @@ url: /awesome/ai.md
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
-
-### UI
-
-- [withgoogle](https://stitch.withgoogle.com) AI 赋能，加速设计
 
 ### 图片
 
@@ -483,7 +477,6 @@ url: /awesome/ai.md
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
-- [firecrawl](https://github.com/firecrawl/firecrawl) 面向AI，用于**网页搜索、数据爬取、网页交互**的API
 - [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
@@ -537,7 +530,6 @@ url: /awesome/ai.md
   - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
-- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
@@ -614,7 +606,6 @@ url: /awesome/ai.md
 
 ### 图片
 
-- [jaaz](https://jaaz.app) 内容创作多模态智能体
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
@@ -1200,7 +1191,6 @@ url: /awesome/react.md
 
 - [spoiled](https://github.com/molefrog/spoiled) 隐藏珍贵秘密。真实的 `<Spoiler />` React 组件
 - [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
-- [re-resizable](https://github.com/bokuweb/re-resizable) 可调整大小组件
 - [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
 - [@fortune-sheet/react](https://github.com/ruilisi/fortune-sheet) 一个即插即用的 JavaScript 电子表格库，提供类似 Excel 和 Google Sheets 的丰富功能
 - [mapcn](https://github.com/AnmolSaini16/mapcn) 精美地图组件。100% 免费，零配置，一条命令即可完成设置
@@ -1692,7 +1682,7 @@ url: /awesome/javascript.md
 
 ### 数据生成
 
-- [chancejs](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机数据生成辅助库
+- [chance](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机数据生成辅助库
 
 ### DOM
 
@@ -2076,7 +2066,6 @@ url: /awesome/javascript.md
 - [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
 - [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
 - [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
-- [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [fuse.js](https://github.com/krisk/fuse) 模糊搜索
 - [@leeoniya/ufuzzy](https://github.com/leeoniya/uFuzzy) 模糊搜索
 - [smol-toml](https://github.com/squirrelchat/smol-toml) 一款轻量、高速且符合 TOML 1.0.0 规范的解析器与序列化器
@@ -2257,7 +2246,6 @@ url: /awesome/javascript.md
 - [pdfobject](https://github.com/pipwerks/PDFObject) 一个轻量级的 JavaScript 工具，用于在 HTML 文档中动态嵌入 PDF
 - [reveal.js](https://github.com/hakimel/reveal.js) HTML 演示框架
 - [typo-js](https://github.com/cfinke/Typo.js) 一个使用 Hunspell 风格词典的客户端 JavaScript 拼写检查器
-- [chance](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机生成器辅助工具
 - [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
@@ -2891,8 +2879,8 @@ url: /awesome/website.md
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
 - [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
+  - [mianshiya](https://github.com/liyupi/mianshiya) 开源仓库
 - [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
-- [mianshiya](https://github.com/liyupi/mianshiya) 持续维护的企业面试题库网站
 - [business-util](https://wsafight.github.io/business-util/business/currency/)
 
 ## 素材
@@ -3207,7 +3195,6 @@ url: /awesome/github.md
 - [codimd](https://github.com/hackmdio/codimd) 全平台实时协作 Markdown 笔记工具
 - [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- [starship](https://github.com/starship/starship)
 - [zsh](https://github.com/zsh-users/zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)
@@ -3669,7 +3656,6 @@ url: /awesome/node.md
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
-- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
@@ -3712,7 +3698,6 @@ url: /awesome/node.md
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档
-- [open](https://github.com/sindresorhus/open) 打开 URL、文件、可执行程序等内容，跨平台支持
 - [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
 - [resolve](https://github.com/browserify/resolve) 实现了 node.js 中 `require.resolve()` 算法的功能
 - [spawn-rx](https://github.com/anaisbetts/spawn-rx) child\_process.spawn 的 Observable 版与 Promise 版实现
@@ -3729,7 +3714,6 @@ url: /awesome/node.md
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
-- [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 - [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境
 - [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法

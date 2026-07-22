@@ -71,8 +71,6 @@
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [skillsmp](https://skillsmp.com) skill 集合
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) 宝玉分享的 Claude Code 技能集，提升日常工作效率
-- [anthropics skills](https://github.com/anthropics/skills) Anthropic官方 Skills
-- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 参考 Manus 的 Agent 方法写的 Skill。很适合多步骤任务
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
@@ -94,10 +92,6 @@
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
 - [designprompts](https://www.designprompts.dev) 把这些提示词直接用在任意 AI 助手，几分钟就能做出美观、统一的界面
-
-### UI
-
-- [withgoogle](https://stitch.withgoogle.com) AI 赋能，加速设计
 
 ### 图片
 
@@ -173,7 +167,6 @@
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 全球最大 GPT Image 2 提示词库
 - [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) 精选适配 OpenAI API 的 GPT-Image-2 提示词库
-- [firecrawl](https://github.com/firecrawl/firecrawl) 面向AI，用于**网页搜索、数据爬取、网页交互**的API
 - [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
@@ -227,7 +220,6 @@
   - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
-- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 7×24 小时帮你干活的全场景个人助理，由网易有道开发
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
@@ -304,7 +296,6 @@
 
 ### 图片
 
-- [jaaz](https://jaaz.app) 内容创作多模态智能体
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印

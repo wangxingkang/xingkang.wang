@@ -176,7 +176,7 @@
 
 ### 数据生成
 
-- [chancejs](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机数据生成辅助库
+- [chance](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机数据生成辅助库
 
 ### DOM
 
@@ -560,7 +560,6 @@
 - [almostnode](https://github.com/macaly/almostnode) 浏览器里跑 Node.js, 就这么简单
 - [penpal](https://github.com/Aaronius/penpal) Penpal 基于 postMessage 封装了一套 Promise 风格的调用方法，大幅简化了与 iframe、Web Worker 及窗口（window）之间的通信流程。
 - [entities](https://github.com/fb55/entities) 轻松高效地编解码 HTML 和 XML 实体字符
-- [redi](https://github.com/wzhudev/redi) 一款适用于 TypeScript 和 JavaScript 的依赖注入库，同时提供 React 绑定功能
 - [fuse.js](https://github.com/krisk/fuse) 模糊搜索
 - [@leeoniya/ufuzzy](https://github.com/leeoniya/uFuzzy) 模糊搜索
 - [smol-toml](https://github.com/squirrelchat/smol-toml) 一款轻量、高速且符合 TOML 1.0.0 规范的解析器与序列化器
@@ -741,7 +740,6 @@
 - [pdfobject](https://github.com/pipwerks/PDFObject) 一个轻量级的 JavaScript 工具，用于在 HTML 文档中动态嵌入 PDF
 - [reveal.js](https://github.com/hakimel/reveal.js) HTML 演示框架
 - [typo-js](https://github.com/cfinke/Typo.js) 一个使用 Hunspell 风格词典的客户端 JavaScript 拼写检查器
-- [chance](https://github.com/chancejs/chancejs) 适用于 JavaScript 的随机生成器辅助工具
 - [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
 - [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件

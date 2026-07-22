@@ -355,7 +355,6 @@
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
 - [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
 - [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
-- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲工具库
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 - [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
@@ -398,7 +397,6 @@
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档
-- [open](https://github.com/sindresorhus/open) 打开 URL、文件、可执行程序等内容，跨平台支持
 - [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
 - [resolve](https://github.com/browserify/resolve) 实现了 node.js 中 `require.resolve()` 算法的功能
 - [spawn-rx](https://github.com/anaisbetts/spawn-rx) child\_process.spawn 的 Observable 版与 Promise 版实现
@@ -415,7 +413,6 @@
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
 - [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
 - [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
-- [scalar](https://github.com/scalar/scalar) 🌐 现代 REST API 客户端
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 - [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境
 - [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法
