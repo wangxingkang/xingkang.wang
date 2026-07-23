@@ -490,6 +490,7 @@
 
 ## 其他
 
+- [tunnel-rat](https://github.com/pmndrs/tunnel-rat) 为 React 元素挖出通道，让它们能够出现在其他地方
 - [next-themes](https://github.com/pacocoursey/next-themes) 两行代码实现完美的 Next.js 暗黑模式。支持系统偏好和任何其他主题，无闪烁
 - [@electric-sql/pglite-react](https://github.com/electric-sql/pglite/tree/main/packages/pglite-react) 此包基于 PGLite 的实时查询插件实现了 React hooks
 - [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) 通知你关于潜在可避免的重复渲染
