@@ -797,6 +797,7 @@ url: /awesome/vibe-coding.md
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 - [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 
 
 
@@ -1296,6 +1297,7 @@ url: /awesome/react.md
 
 ## 其他
 
+- [tunnel-rat](https://github.com/pmndrs/tunnel-rat) 为 React 元素挖出通道，让它们能够出现在其他地方
 - [next-themes](https://github.com/pacocoursey/next-themes) 两行代码实现完美的 Next.js 暗黑模式。支持系统偏好和任何其他主题，无闪烁
 - [@electric-sql/pglite-react](https://github.com/electric-sql/pglite/tree/main/packages/pglite-react) 此包基于 PGLite 的实时查询插件实现了 React hooks
 - [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) 通知你关于潜在可避免的重复渲染

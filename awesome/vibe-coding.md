@@ -154,3 +154,4 @@
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 - [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
+- [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
