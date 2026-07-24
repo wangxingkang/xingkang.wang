@@ -63,6 +63,7 @@
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
 - [anthropics skills](https://github.com/anthropics/skills)
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
+- [darwin-skill](https://github.com/alchaincyf/darwin-skill) 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚
 
 ## 开发工作流
 

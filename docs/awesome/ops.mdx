@@ -2,6 +2,7 @@
 
 ## 其他
 
+- [coolify](https://github.com/coollabsio/coolify) 一款开源、可自托管的 PaaS 平台，可作为 Vercel、Heroku 和 Netlify 的替代方案，让你轻松在自己的服务器上部署静态站点、数据库、全栈应用以及 280+ 个一键式服务
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
