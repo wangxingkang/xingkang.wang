@@ -750,6 +750,8 @@ url: /awesome/vibe-coding.md
 
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [硅基流动-国际站](https://www.siliconflow.com)
+- [硅基流动-国内站](https://www.siliconflow.cn)
 
 ## 联网服务
 
@@ -799,6 +801,7 @@ url: /awesome/vibe-coding.md
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 - [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
+- [cline](https://github.com/cline/cline) 自主编码代理，可作为 SDK、IDE 扩展或 CLI 助手使用
 
 
 
