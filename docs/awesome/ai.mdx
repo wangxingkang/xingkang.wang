@@ -304,6 +304,7 @@
 ### 其他
 
 - [blueprint](https://www.blueprint.io) 硬件原型设计
+- [liblib](https://www.liblib.tv) AI 视频创作
 - [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
