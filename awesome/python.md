@@ -73,6 +73,7 @@
 
 ## 其他
 
+- [supervision](https://github.com/roboflow/supervision) 我们帮你编写可复用的计算机视觉工具
 - [scrapy](https://github.com/scrapy/scrapy) 一个快速、高级的 Python 网络爬取与抓取框架
 - [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成
 - [rf-detr](https://github.com/roboflow/rf-detr) 实时目标检测与分割模型架构

@@ -614,6 +614,7 @@ url: /awesome/ai.md
 ### 其他
 
 - [blueprint](https://www.blueprint.io) 硬件原型设计
+- [liblib](https://www.liblib.tv) AI 视频创作
 - [updream](https://www.updream.cn) AI 视频创作
 - [tapnow](https://app.tapnow.ai) 智能体创意画布
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
@@ -4070,6 +4071,7 @@ url: /awesome/python.md
 
 ## 其他
 
+- [supervision](https://github.com/roboflow/supervision) 我们帮你编写可复用的计算机视觉工具
 - [scrapy](https://github.com/scrapy/scrapy) 一个快速、高级的 Python 网络爬取与抓取框架
 - [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成
 - [rf-detr](https://github.com/roboflow/rf-detr) 实时目标检测与分割模型架构
