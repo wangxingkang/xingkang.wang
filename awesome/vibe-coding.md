@@ -107,6 +107,7 @@
 
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [千问系列](https://www.qianwenai.com)
 - [硅基流动-国际站](https://www.siliconflow.com)
 - [硅基流动-国内站](https://www.siliconflow.cn)
 
