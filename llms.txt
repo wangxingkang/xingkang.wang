@@ -40,13 +40,13 @@
 
 - [将二维数组转换为 HTML 表格字符串](/interview/coding/0001.md)
 - [代码分析](/interview/code-analysis.md)
-- [](/interview/algorithm.md)
-- [](/interview/css.md)
-- [](/interview/git.md)
-- [](/interview/javascript.md)
-- [](/interview/react.md)
-- [](/interview/typescript.md)
-- [](/interview/vue.md)
+- [algorithm](/interview/algorithm.md)
+- [css](/interview/css.md)
+- [git](/interview/git.md)
+- [javascript](/interview/javascript.md)
+- [react](/interview/react.md)
+- [typescript](/interview/typescript.md)
+- [vue](/interview/vue.md)
 
 ## 博客
 
