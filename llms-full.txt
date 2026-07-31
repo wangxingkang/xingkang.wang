@@ -768,6 +768,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 面向 AI 编码代理和长期运行代理任务的持久化文件规划
@@ -806,6 +807,7 @@ url: /awesome/vibe-coding.md
 - [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 - [cline](https://github.com/cline/cline) 自主编码代理，可作为 SDK、IDE 扩展或 CLI 助手使用
+- [opensquilla](https://github.com/opensquilla/opensquilla) 微内核 AI Agent——智能路由、持久记忆、安全沙箱、开箱即用的搜索与本地嵌入
 
 
 
@@ -1788,6 +1790,7 @@ url: /awesome/javascript.md
 
 ### 其他
 
+- [atrament](https://github.com/jakubfiala/atrament) 一个简洁的 JS 库，用于在 HTML Canvas 上实现精美的绘图和手写效果
 - [null-prototype-object](https://github.com/kikobeats/null-prototype-object) 在 JavaScript 中创建空原型对象的最快方式
 - [ix](https://github.com/ReactiveX/IxJS) JavaScript 交互式扩展
 - [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON，无需担心丢失数值信息
@@ -3787,6 +3790,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
 - [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
 - [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
@@ -4007,6 +4011,9 @@ url: /awesome/python.md
 
 ## AI
 
+- [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
+- [datasets](https://github.com/huggingface/datasets) 最大的即用型 AI 模型数据集中心，配备快速、易用、高效的数据处理工具
+- [diffusers](https://github.com/huggingface/diffusers) PyTorch 中最先进的扩散模型库，支持图像、视频和音频生成
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything) 一体化 RAG 框架
 - [nanobot](https://github.com/HKUDS/nanobot) 轻量级、开源 AI 代理，适用于你的工具、聊天和工作流
 - [ViMax](https://github.com/HKUDS/ViMax) 代理式视频生成（导演、编剧、制片人和视频生成器，四位一体）

@@ -122,6 +122,7 @@
 
 ## 其他
 
+- [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 面向 AI 编码代理和长期运行代理任务的持久化文件规划
@@ -160,3 +161,4 @@
 - [firecrawl](https://github.com/firecrawl/firecrawl) 大规模搜索、抓取和交互式访问网页的 API
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 - [cline](https://github.com/cline/cline) 自主编码代理，可作为 SDK、IDE 扩展或 CLI 助手使用
+- [opensquilla](https://github.com/opensquilla/opensquilla) 微内核 AI Agent——智能路由、持久记忆、安全沙箱、开箱即用的搜索与本地嵌入

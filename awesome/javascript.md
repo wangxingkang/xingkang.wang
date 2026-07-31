@@ -272,6 +272,7 @@
 
 ### 其他
 
+- [atrament](https://github.com/jakubfiala/atrament) 一个简洁的 JS 库，用于在 HTML Canvas 上实现精美的绘图和手写效果
 - [null-prototype-object](https://github.com/kikobeats/null-prototype-object) 在 JavaScript 中创建空原型对象的最快方式
 - [ix](https://github.com/ReactiveX/IxJS) JavaScript 交互式扩展
 - [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON，无需担心丢失数值信息
