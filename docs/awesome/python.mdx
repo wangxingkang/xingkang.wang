@@ -6,6 +6,9 @@
 
 ## AI
 
+- [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
+- [datasets](https://github.com/huggingface/datasets) 最大的即用型 AI 模型数据集中心，配备快速、易用、高效的数据处理工具
+- [diffusers](https://github.com/huggingface/diffusers) PyTorch 中最先进的扩散模型库，支持图像、视频和音频生成
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything) 一体化 RAG 框架
 - [nanobot](https://github.com/HKUDS/nanobot) 轻量级、开源 AI 代理，适用于你的工具、聊天和工作流
 - [ViMax](https://github.com/HKUDS/ViMax) 代理式视频生成（导演、编剧、制片人和视频生成器，四位一体）
