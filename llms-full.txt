@@ -2905,8 +2905,18 @@ url: /awesome/website.md
 - [fffuel](https://www.fffuel.co)
 - [bgjar](https://bgjar.com)
 
+## 科学上网
+
+- [agentneo](https://agentneo.tech)
+
+## 接码平台
+
+- [5sim](https://5sim.net/zh)
+- [hero-sms](https://hero-sms.com/cn)
+
 ## 其他
 
+- [bewild](https://bewild.ai) 国外模型订阅
 - [dribbble](https://dribbble.com) 全球设计师社区
 - [fmhy](https://fmhy.net) 互联网上最大规模的免费资源集合
 - [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
