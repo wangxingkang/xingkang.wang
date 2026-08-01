@@ -592,6 +592,7 @@ url: /awesome/ai.md
 
 - [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
+- [ardot](https://d.qq.com) AI 设计
 
 ### 智能体
 
@@ -612,23 +613,25 @@ url: /awesome/ai.md
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [writehuman](https://writehuman.ai) 去除 AI 味
 
-### 其他
+### 视频
 
 - [小云雀](https://xyq.jianying.com)
-- [liblib](https://www.liblib.tv) AI 视频创作
-- [updream](https://www.updream.cn) AI 视频创作
-- [tapnow](https://app.tapnow.ai) 智能体创意画布
+- [liblib](https://www.liblib.tv)
+- [updream](https://www.updream.cn)
+- [tapnow](https://app.tapnow.ai)
+- [flova.ai](https://www.flova.ai/zh-CN/)
+- [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
+- [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
+
+### 其他
+
 - [teamorouter](https://teamorouter.com/zh) 为你的 Claude Code 和 Codex 打造的原生 LLM Router
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
-- [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
-- [flova.ai](https://www.flova.ai/zh-CN/) AI视频创作
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
 - [chatexcel](https://www.chatexcel.com)
 - [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
-- [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
 - [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
-- [ardot](https://d.qq.com) AI 设计
 - [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [WPS 灵犀](https://lingxi.wps.cn) AI 办公
 - [蚂蚁阿福](https://chat.antafu.com)
