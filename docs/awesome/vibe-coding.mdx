@@ -44,7 +44,14 @@
 - [pi-web-access](https://github.com/nicobailon/pi-web-access) 适用于 Pi 编码代理的网页搜索与内容提取扩展
 - [rpiv-todo](https://github.com/juicesharp/rpiv-mono/tree/HEAD/packages/rpiv-todo) 给模型一个你能看得见的任务清单
 - [pi-subagents](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
+- [pi-messenger](https://github.com/nicobailon/pi-messenger) 多智能体通信扩展
 - [pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) 为 Pi 编码代理提供 Hermes 风格的持久记忆与学习循环
+- [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) 自主实验循环
+- [pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) 在可观测的覆盖层中自主控制交互式 CLI
+- [pi-agent-browser-native](https://github.com/fitchmultz/pi-agent-browser-native) 将 agent-browser 作为原生工具开放，用于浏览器自动化
+- [pi-tasks](https://github.com/tintinweb/pi-tasks) 为 Pi 带来 Claude Code 风格的任务跟踪与协调能力
+- [pi-studio](https://github.com/omaclaren/pi-studio) 打开本地双栏（two-pane）浏览器工作区，用于处理提示词、回复、Markdown/LaTeX/HTML 文档、代码文件及其他常见文件类型
+- [pi-permission-system](https://github.com/MasuRii/pi-permission-system) Pi 编码代理的权限执行扩展
 - [tmustier pi-extensions](https://github.com//tmustier/pi-extensions) 一套为 Pi 打造的精致扩展
 - [narumiruna pi-extensions](https://github.com/narumiruna/pi-extensions)
   - [@narumitw/pi-goal](https://github.com/narumiruna/pi-extensions/tree/HEAD/extensions/pi-goal) Pi 编码代理的目标模式
@@ -57,6 +64,8 @@
 
 ## 其他
 
+- [pi-powerline-footer](https://github.com/nicobailon/pi-powerline-footer)  Powerline 风格状态栏扩展
+- [pi-config](https://github.com/HazAT/pi-config) 我的个人 Pi 编码代理配置——技能与扩展
 - [pi-web](https://github.com/agegr/pi-web) Pi 编码代理的 Web UI
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) 终端里的 AI 编码代理
 
