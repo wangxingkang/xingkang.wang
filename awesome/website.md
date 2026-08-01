@@ -24,6 +24,7 @@
 - [overreacted](https://overreacted.io)
 - [ishadeed](https://ishadeed.com)
 - [chanhdai](https://chanhdai.com)
+- [翊行代码](https://www.wangyiyang.cc)
 
 ## 图片处理
 
@@ -34,6 +35,7 @@
 
 ## 学习
 
+- [PI Agent 学习指南](https://pistudy.com.cn)
 - [datawhale](https://www.datawhale.cn) 学习 ai
 - [leetcode-master](https://github.com/youngyangyang04/leetcode-master) 《代码随想录》LeetCode 刷题攻略
 - [langshift](https://langshift.dev) 通过比较不同的计算机语言，学习新语言
