@@ -37,6 +37,24 @@
 - [官网](https://pi.dev)
 - [pi agent](https://github.com/earendil-works/pi/tree/main/packages/coding-agent) 代码仓库
 
+## 扩展
+
+- [pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) 适用于 Pi 编码代理的 Token 高效 MCP 适配器
+- [pi-lens](https://github.com/apmantza/pi-lens) 为 pi 提供的实时代码反馈——LSP、代码检查器、格式化器、结构分析
+- [pi-web-access](https://github.com/nicobailon/pi-web-access) 适用于 Pi 编码代理的网页搜索与内容提取扩展
+- [rpiv-todo](https://github.com/juicesharp/rpiv-mono/tree/HEAD/packages/rpiv-todo) 给模型一个你能看得见的任务清单
+- [pi-subagents](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
+- [pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) 为 Pi 编码代理提供 Hermes 风格的持久记忆与学习循环
+- [tmustier pi-extensions](https://github.com//tmustier/pi-extensions) 一套为 Pi 打造的精致扩展
+- [narumiruna pi-extensions](https://github.com/narumiruna/pi-extensions)
+  - [@narumitw/pi-goal](https://github.com/narumiruna/pi-extensions/tree/HEAD/extensions/pi-goal) Pi 编码代理的目标模式
+- [MattDevy pi-extensions](https://github.com/MattDevy/pi-extensions) 一套 pi 扩展，包括 pi-continuous-learning，可持续改善你的 pi 编码代理体验
+  - [pi-simplify](https://github.com/MattDevy/pi-extensions/tree/HEAD/packages/pi-simplify) 用于审查近期变更的代码，提出清晰度、一致性和可维护性方面的改进建议
+- [@vndv/pi-codegraph](https://github.com/vndv/pi-codegraph) 添加 CodeGraph 驱动的代码智能工具的 Pi 扩展
+- [pi-spark](https://github.com/zlliang/pi-spark) 一款打磨你日常体验的 Pi 包
+- [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) pi 的 Command Code API 自定义提供商
+- [pi-opencode-provider](https://github.com/mdsitton/pi-opencode-provider) 适用于 Opencode Zen 和 Opencode Go 的 Pi 提供商
+
 ## 其他
 
 - [pi-web](https://github.com/agegr/pi-web) Pi 编码代理的 Web UI

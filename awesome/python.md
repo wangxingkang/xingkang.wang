@@ -74,6 +74,12 @@
 - [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
 - [inspect\_ai](https://github.com/UKGovernmentBEIS/inspect_ai) 一款面向大语言模型评估的框架
 
+## 案例
+
+### 终端
+
+- [kitty](https://github.com/kovidgoyal/kitty)
+
 ## 其他
 
 - [supervision](https://github.com/roboflow/supervision) 我们帮你编写可复用的计算机视觉工具
