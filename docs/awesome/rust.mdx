@@ -35,6 +35,13 @@
 - [chroma](https://github.com/chroma-core/chroma)
 - [lancedb](https://github.com/lancedb/lancedb)
 
+## 案例
+
+### 终端
+
+- [wezterm](https://github.com/wezterm/wezterm)
+- [alacritty](https://github.com/alacritty/alacritty)
+
 ## 其他
 
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
@@ -74,7 +81,6 @@
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
 - [pingora](https://github.com/cloudflare/pingora) 一款用于构建高性能、稳定可靠且易于迭代扩展的网络服务的开发库
 - [starship](https://github.com/starship/starship) 一款极简、极速、可高度自定义的跨 Shell 命令行提示符工具
-- [wezterm](https://github.com/wezterm/wezterm) 依托 GPU 硬件加速的跨平台终端模拟器与多路复用工具
 - [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具
 - [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
