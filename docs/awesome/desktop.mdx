@@ -92,6 +92,7 @@
 
 ### 开源项目
 
+- [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB
 - [reflect-open](https://github.com/team-reflect/reflect-open) 开源的 Reflect 重写版：一个本地优先、对 AI Agent 友好的 Markdown 笔记应用
 - [tolaria](https://github.com/refactoringhq/tolaria) 用于管理 Markdown 知识库的桌面应用程序
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端

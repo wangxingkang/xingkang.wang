@@ -55,6 +55,7 @@
 
 ## 其他
 
+- [@antithesishq/bombadil](https://github.com/antithesishq/bombadil) 面向 Web 和终端 UI 的基于属性的测试
 - [mocha](https://github.com/mochajs/mocha) 经典、可靠、值得信赖的 Node.js 和浏览器测试框架
 - [sinon](https://github.com/sinonjs/sinon) 适用于 JavaScript 的测试间谍、桩和模拟对象
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium

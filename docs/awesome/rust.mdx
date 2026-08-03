@@ -45,6 +45,8 @@
 
 ## 其他
 
+- [calamine](https://github.com/tafia/calamine) 电子表格读取库
+- [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
 - [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
 - [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
