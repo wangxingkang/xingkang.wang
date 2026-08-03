@@ -41,6 +41,8 @@
 
 ## Skill
 
+- [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
@@ -54,7 +56,6 @@
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
-- [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
@@ -124,6 +125,7 @@
 
 ### 其他
 
+- [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
@@ -131,7 +133,6 @@
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
-- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 - [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 支持 GPT Image 2、Seedance 以及 ComfyUI，内置 1400 + 精心撰写的提示词库、定制钩子与多任务编排系统

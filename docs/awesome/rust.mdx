@@ -7,7 +7,6 @@
 
 ## AI
 
-- [buzz](https://github.com/block/buzz) 一个人类与智能体共同构建的工作空间，运行在你自有的 relay 之上
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告
@@ -23,6 +22,7 @@
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
+- [NIGHTRUN](https://github.com/hardrave/NIGHTRUN) 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行
 
 ## 学习
 
@@ -45,6 +45,7 @@
 
 ## 其他
 
+- [servo](https://github.com/servo/servo) 浏览器引擎
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
 - [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
