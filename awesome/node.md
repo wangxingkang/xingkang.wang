@@ -14,6 +14,7 @@
 
 ### 其他
 
+- [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
 - [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
 - [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
@@ -103,6 +104,7 @@
 
 ## 其他
 
+- [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) 仅凭一块屏幕和一枚摄像头，即可在两台设备之间传输文件
 - [logtape](https://github.com/dahlia/logtape) 零依赖、不打扰式日志库，适用于 Deno、Node.js、Bun、浏览器和边缘函数
 - [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
 - [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息

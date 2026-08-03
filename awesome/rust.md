@@ -7,6 +7,7 @@
 
 ## AI
 
+- [buzz](https://github.com/block/buzz) 一个人类与智能体共同构建的工作空间，运行在你自有的 relay 之上
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告

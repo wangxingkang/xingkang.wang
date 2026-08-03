@@ -312,6 +312,7 @@
 - [flova.ai](https://www.flova.ai/zh-CN/)
 - [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
 - [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
+- [pixmax](https://www.pixmax.cn)
 
 ### 其他
 
