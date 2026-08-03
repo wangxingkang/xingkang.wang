@@ -726,6 +726,7 @@
 
 ## 其他
 
+- [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
 - [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定

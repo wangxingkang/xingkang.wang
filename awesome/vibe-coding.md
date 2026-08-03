@@ -91,6 +91,7 @@
 - [anthropics skills](https://github.com/anthropics/skills)
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚
+- [skill-up](https://github.com/alibaba/skill-up) Agent Skill 的评测与演进工具
 
 ## 开发工作流
 
@@ -149,6 +150,7 @@
 
 ## 其他
 
+- [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信

@@ -430,9 +430,11 @@ url: /awesome/ai.md
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [LM Studio](https://lmstudio.ai)
 - [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
+- [airllm](https://github.com/lyogavin/airllm) 使用 AirLLM 在单张 4GB GPU 上运行 70B 模型推理
 
 ### 其他
 
+- [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
@@ -458,7 +460,6 @@ url: /awesome/ai.md
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
-- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) 自建部署式 AI 工作空间
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
@@ -741,6 +742,7 @@ url: /awesome/vibe-coding.md
 - [anthropics skills](https://github.com/anthropics/skills)
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚
+- [skill-up](https://github.com/alibaba/skill-up) Agent Skill 的评测与演进工具
 
 ## 开发工作流
 
@@ -799,6 +801,7 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
@@ -2275,6 +2278,7 @@ url: /awesome/javascript.md
 
 ## 其他
 
+- [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
 - [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
@@ -2626,6 +2630,7 @@ url: /awesome/desktop.md
 
 ### 开源项目
 
+- [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB
 - [reflect-open](https://github.com/team-reflect/reflect-open) 开源的 Reflect 重写版：一个本地优先、对 AI Agent 友好的 Markdown 笔记应用
 - [tolaria](https://github.com/refactoringhq/tolaria) 用于管理 Markdown 知识库的桌面应用程序
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
@@ -3179,6 +3184,7 @@ url: /awesome/test.md
 
 ## 其他
 
+- [@antithesishq/bombadil](https://github.com/antithesishq/bombadil) 面向 Web 和终端 UI 的基于属性的测试
 - [mocha](https://github.com/mochajs/mocha) 经典、可靠、值得信赖的 Node.js 和浏览器测试框架
 - [sinon](https://github.com/sinonjs/sinon) 适用于 JavaScript 的测试间谍、桩和模拟对象
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
@@ -3843,6 +3849,8 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [calamine](https://github.com/tafia/calamine) 电子表格读取库
+- [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
 - [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
 - [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
