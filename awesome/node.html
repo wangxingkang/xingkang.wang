@@ -5,12 +5,12 @@
 <title>Node - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-261c332bf294.964af08fa4.js" as="script">
+<link rel="preload" href="/static/js/async/route-261c332bf294.37cf03389c.js" as="script">
 <script defer src="/static/js/styles.2da258a1de.js"></script>
 <script defer src="/static/js/lib-react.b323723cf1.js"></script>
 <script defer src="/static/js/lib-router.2df053640f.js"></script>
 <script defer src="/static/js/963.6c30a326ed.js"></script>
-<script defer src="/static/js/index.8daa17cd3e.js"></script>
+<script defer src="/static/js/index.38b355b5c2.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -48,6 +48,8 @@
 <li><a href="https://github.com/dqbd/tiktoken" target="_blank" rel="noopener noreferrer" class="rp-link">js-tiktoken</a> openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库</li>
 <li><a href="https://github.com/ollama/ollama-js" target="_blank" rel="noopener noreferrer" class="rp-link">ollama</a> Ollama JavaScript 库</li>
 <li><a href="https://github.com/openai/openai-node" target="_blank" rel="noopener noreferrer" class="rp-link">openai</a> OpenAI API 官方 JavaScript / TypeScript 开发库</li>
+<li><a href="https://github.com/anthropics/anthropic-sdk-typescript" target="_blank" rel="noopener noreferrer" class="rp-link">@anthropic-ai/sdk</a> Anthropic API 官方 TypeScript / JavaScript 开发库</li>
+<li><a href="https://github.com/WecomGroup/wecom-aibot-node-sdk" target="_blank" rel="noopener noreferrer" class="rp-link">@wecom/aibot-node-sdk</a> 企业微信 AI 机器人官方 Node.js SDK</li>
 <li><a href="https://github.com/gadicc/yahoo-finance2" target="_blank" rel="noopener noreferrer" class="rp-link">yahoo-finance2</a> 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能</li>
 <li><a href="https://github.com/ItzCrazyKns/Vane" target="_blank" rel="noopener noreferrer" class="rp-link">Vane</a> 人工智能驱动的问答引擎</li>
 <li><a href="https://github.com/kucherenko/jscpd" target="_blank" rel="noopener noreferrer" class="rp-link">jscpd</a> 源代码复制粘贴检测工具，支持 223 种文件格式</li>
@@ -153,6 +155,7 @@
 <li><a href="https://github.com/mashpie/i18n-node" target="_blank" rel="noopener noreferrer" class="rp-link">i18n</a> 轻量级简单的 Node.js / Express.js 翻译模块</li>
 <li><a href="https://github.com/helmetjs/helmet" target="_blank" rel="noopener noreferrer" class="rp-link">helmet</a> 使用各种 HTTP 头保护 Express 应用的安全</li>
 <li><a href="https://github.com/node-formidable/formidable" target="_blank" rel="noopener noreferrer" class="rp-link">formidable</a> 最常用、灵活、快速且支持流式解析的多部分表单数据解析器</li>
+<li><a href="https://github.com/expressjs/multer" target="_blank" rel="noopener noreferrer" class="rp-link">multer</a> Express 文件上传中间件</li>
 <li><a href="https://github.com/mde/ejs" target="_blank" rel="noopener noreferrer" class="rp-link">ejs</a> 嵌入式 JavaScript 模板</li>
 <li><a href="https://github.com/jshttp/cookie" target="_blank" rel="noopener noreferrer" class="rp-link">cookie</a> HTTP 服务器 cookie 的解析和序列化</li>
 <li><a href="https://github.com/expressjs/cookie-parser" target="_blank" rel="noopener noreferrer" class="rp-link">cookie-parser</a> 解析 HTTP 请求中的 cookies</li>
@@ -327,6 +330,7 @@
 <li><a href="https://github.com/svg-sprite/svg-sprite" target="_blank" rel="noopener noreferrer" class="rp-link">svg-sprite</a> 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源</li>
 <li><a href="https://github.com/jeffbski/wait-on" target="_blank" rel="noopener noreferrer" class="rp-link">wait-on</a> 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态</li>
 <li><a href="https://github.com/soldair/node-qrcode" target="_blank" rel="noopener noreferrer" class="rp-link">qrcode</a> 二维码生成器</li>
+<li><a href="https://github.com/gtanner/qrcode-terminal" target="_blank" rel="noopener noreferrer" class="rp-link">qrcode-terminal</a> 在终端中直接渲染二维码</li>
 <li><a href="https://github.com/andreizanik/cookies-next" target="_blank" rel="noopener noreferrer" class="rp-link">cookies-next</a> 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie</li>
 <li><a href="https://github.com/tinganho/node-accept-language" target="_blank" rel="noopener noreferrer" class="rp-link">node-accept-language</a></li>
 <li><a href="https://github.com/node-schedule/node-schedule" target="_blank" rel="noopener noreferrer" class="rp-link">node-schedule</a> 任务调度器</li>
@@ -346,6 +350,7 @@
 <li><a href="https://github.com/parcel-bundler/watcher" target="_blank" rel="noopener noreferrer" class="rp-link">@parcel/watcher</a> 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件</li>
 <li><a href="https://github.com/open-cli-tools/concurrently" target="_blank" rel="noopener noreferrer" class="rp-link">concurrently</a> 并行运行命令</li>
 <li><a href="https://github.com/animir/node-rate-limiter-flexible" target="_blank" rel="noopener noreferrer" class="rp-link">rate-limiter-flexible</a> 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问</li>
+<li><a href="https://github.com/express-rate-limit/express-rate-limit" target="_blank" rel="noopener noreferrer" class="rp-link">express-rate-limit</a> 面向 Express 的基础 IP 限流中间件</li>
 <li><a href="https://github.com/patriksimek/vm2" target="_blank" rel="noopener noreferrer" class="rp-link">vm2</a> 虚拟机 / 沙箱</li>
 <li><a href="https://github.com/emn178/js-md5" target="_blank" rel="noopener noreferrer" class="rp-link">js-md5</a> 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码</li>
 <li><a href="https://github.com/cthackers/adm-zip" target="_blank" rel="noopener noreferrer" class="rp-link">adm-zip</a> 压缩&amp;解压缩 ZIP 文件</li>
@@ -378,6 +383,7 @@
 <li><a href="https://github.com/klaudiosinani/signale" target="_blank" rel="noopener noreferrer" class="rp-link">signale</a> 高度可配置的日志库</li>
 <li><a href="https://github.com/jamiepine/voicebox" target="_blank" rel="noopener noreferrer" class="rp-link">voicebox</a> 开源语音合成工作室</li>
 <li><a href="https://github.com/aws/aws-sdk-js-v3" target="_blank" rel="noopener noreferrer" class="rp-link">@aws-sdk/client-dynamodb</a> AWS SDK v3</li>
+<li><a href="https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock" target="_blank" rel="noopener noreferrer" class="rp-link">@aws-sdk/client-bedrock</a> AWS Bedrock 模型调用客户端</li>
 <li><a href="https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3" target="_blank" rel="noopener noreferrer" class="rp-link">@aws-sdk/client-s3</a></li>
 <li><a href="https://github.com/aws/aws-sdk-js" target="_blank" rel="noopener noreferrer" class="rp-link">aws-sdk</a>  AWS SDK v2</li>
 <li><a href="https://github.com/qiniu/nodejs-sdk" target="_blank" rel="noopener noreferrer" class="rp-link">qiniu</a> 七牛云对象存储 SDK</li>
@@ -434,7 +440,11 @@
 <li><a href="https://npmx.dev/package/dotenv" target="_blank" rel="noopener noreferrer" class="rp-link">dotenv</a> 为 Node.js 项目从 .env 文件中加载环境变量</li>
 <li><a href="https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios" target="_blank" rel="noopener noreferrer" class="rp-link">gaxios</a></li>
 <li><a href="https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs" target="_blank" rel="noopener noreferrer" class="rp-link">google-auth-library</a></li>
-<li><a href="https://github.com/grammyjs/grammY" target="_blank" rel="noopener noreferrer" class="rp-link">grammy</a> Telegram 机器人框架</li>
+<li><a href="https://github.com/grammyjs/grammY" target="_blank" rel="noopener noreferrer" class="rp-link">grammy</a> Telegram 机器人框架<!-- -->
+<ul>
+<li><a href="https://github.com/grammyjs/transformer-throttler" target="_blank" rel="noopener noreferrer" class="rp-link">@grammyjs/transformer-throttler</a> 为 grammY 提供频率限制功能</li>
+</ul>
+</li>
 <li><a href="https://github.com/SchneeHertz/node-edge-tts" target="_blank" rel="noopener noreferrer" class="rp-link">node-edge-tts</a> 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能</li>
 <li><a href="https://github.com/steipete/osc-progress" target="_blank" rel="noopener noreferrer" class="rp-link">osc-progress</a> 终端进度条 的轻量级库</li>
 <li><a href="https://github.com/lovell/sharp" target="_blank" rel="noopener noreferrer" class="rp-link">sharp</a> 高性能 Node.js 图像处理库</li>
@@ -443,6 +453,8 @@
 <li><a href="https://github.com/runk/node-chardet" target="_blank" rel="noopener noreferrer" class="rp-link">chardet</a> 适用于 NodeJS 的字符编码检测工具</li>
 <li><a href="https://github.com/unjs/jiti" target="_blank" rel="noopener noreferrer" class="rp-link">jiti</a> 为 Node.js 提供运行时 TypeScript 与 ESM 支持</li>
 <li><a href="https://github.com/josdejong/jsonrepair" target="_blank" rel="noopener noreferrer" class="rp-link">jsonrepair</a> 修复无效的 JSON 文档</li>
+<li><a href="https://github.com/sindresorhus/strip-json-comments" target="_blank" rel="noopener noreferrer" class="rp-link">strip-json-comments</a> 去除 JSON 字符串中的注释，再安全地传给 JSON.parse</li>
+<li><a href="https://github.com/le0nkl/tiny-csrf" target="_blank" rel="noopener noreferrer" class="rp-link">tiny-csrf</a> 极简、零依赖的 CSRF 防护中间件</li>
 <li><a href="http://github.com/unjs/pathe" target="_blank" rel="noopener noreferrer" class="rp-link">pathe</a> 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理</li>
 <li><a href="https://github.com/browserify/resolve" target="_blank" rel="noopener noreferrer" class="rp-link">resolve</a> 实现了 node.js 中 <code>require.resolve()</code> 算法的功能</li>
 <li><a href="https://github.com/anaisbetts/spawn-rx" target="_blank" rel="noopener noreferrer" class="rp-link">spawn-rx</a> child_process.spawn 的 Observable 版与 Promise 版实现</li>

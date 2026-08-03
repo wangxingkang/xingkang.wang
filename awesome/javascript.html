@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.767c1ebf47.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.db5e8827a8.js" as="script">
 <script defer src="/static/js/styles.2da258a1de.js"></script>
 <script defer src="/static/js/lib-react.b323723cf1.js"></script>
 <script defer src="/static/js/lib-router.2df053640f.js"></script>
 <script defer src="/static/js/963.6c30a326ed.js"></script>
-<script defer src="/static/js/index.8daa17cd3e.js"></script>
+<script defer src="/static/js/index.38b355b5c2.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -186,6 +186,7 @@
 <ul>
 <li><a href="https://github.com/joe-bell/cva" target="_blank" rel="noopener noreferrer" class="rp-link">class-variance-authority</a> 类变体管理器</li>
 <li><a href="https://github.com/lukeed/clsx" target="_blank" rel="noopener noreferrer" class="rp-link">clsx</a> 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串</li>
+<li><a href="https://github.com/JedWatson/classnames" target="_blank" rel="noopener noreferrer" class="rp-link">classnames</a> 条件拼接 className 字符串</li>
 <li><a href="https://github.com/dcastil/tailwind-merge" target="_blank" rel="noopener noreferrer" class="rp-link">tailwind-merge</a> 合并 Tailwind CSS 类名，且不会产生样式冲突</li>
 <li><a href="https://github.com/aidenybai/cnfast" target="_blank" rel="noopener noreferrer" class="rp-link">cnfast</a> 可快速直接替代 <code>cn</code> 的工具</li>
 </ul>
@@ -258,6 +259,22 @@
 <li><a href="https://github.com/xdan/jodit" target="_blank" rel="noopener noreferrer" class="rp-link">jodit</a></li>
 <li><a href="https://github.com/wangeditor-next/wangEditor-next" target="_blank" rel="noopener noreferrer" class="rp-link">wangEditor-next</a></li>
 <li><a href="https://github.com/wangeditor-team/wangEditor" target="_blank" rel="noopener noreferrer" class="rp-link">wangEditor</a></li>
+<li><a href="https://github.com/codemirror/dev" target="_blank" rel="noopener noreferrer" class="rp-link">codemirror</a> 可扩展的网页代码编辑器<!-- -->
+<ul>
+<li><a href="https://github.com/codemirror/commands" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/commands</a> 编辑命令</li>
+<li><a href="https://github.com/codemirror/lang-css" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/lang-css</a> CSS 语言支持</li>
+<li><a href="https://github.com/codemirror/lang-html" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/lang-html</a> HTML 语言支持</li>
+<li><a href="https://github.com/codemirror/lang-json" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/lang-json</a> JSON 语言支持</li>
+<li><a href="https://github.com/codemirror/lang-markdown" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/lang-markdown</a> Markdown 语言支持</li>
+<li><a href="https://github.com/codemirror/language" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/language</a> 语言支持基础设施</li>
+<li><a href="https://github.com/codemirror/language-data" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/language-data</a> 语言支持注册表</li>
+<li><a href="https://github.com/codemirror/search" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/search</a> 搜索与替换</li>
+<li><a href="https://github.com/codemirror/state" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/state</a> 编辑器状态模型</li>
+<li><a href="https://github.com/codemirror/view" target="_blank" rel="noopener noreferrer" class="rp-link">@codemirror/view</a> 编辑器视图层</li>
+<li><a href="https://github.com/lezer-parser/highlight" target="_blank" rel="noopener noreferrer" class="rp-link">@lezer/highlight</a> Lezer 语法高亮</li>
+</ul>
+</li>
+<li><a href="https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web" target="_blank" rel="noopener noreferrer" class="rp-link">web-tree-sitter</a> tree-sitter 的 WebAssembly 绑定，支持浏览器中解析代码</li>
 <li><a href="https://prosemirror.net/" target="_blank" rel="noopener noreferrer" class="rp-link">prosemirror</a> ProseMirror 所见即所得含义编辑器</li>
 <li><a href="https://github.com/remarkjs/remark" target="_blank" rel="noopener noreferrer" class="rp-link">remark</a> 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器<!-- -->
 <ul>
@@ -436,6 +453,8 @@
 <li><a href="https://github.com/catdad/canvas-confetti" target="_blank" rel="noopener noreferrer" class="rp-link">canvas-confetti</a> 浏览器端高性能彩带飘落动画</li>
 <li><a href="https://github.com/NTag/dotted-map" target="_blank" rel="noopener noreferrer" class="rp-link">dotted-map</a> 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充</li>
 <li><a href="https://github.com/exceljs/exceljs" target="_blank" rel="noopener noreferrer" class="rp-link">exceljs</a> 读写 XLSX 与 CSV 文件</li>
+<li><a href="https://github.com/x1-/pptx2json" target="_blank" rel="noopener noreferrer" class="rp-link">pptx2json</a> 将 PPTX 文件解析为 JSON</li>
+<li><a href="https://github.com/NoNameProvided/xlsx-republish" target="_blank" rel="noopener noreferrer" class="rp-link">xlsx-republish</a> 纯 JS 读写 Excel（XLSX）文件</li>
 <li><a href="https://github.com/Namide/extract-colors" target="_blank" rel="noopener noreferrer" class="rp-link">extract-colors</a> 从图片中提取主色调</li>
 <li><a href="https://github.com/hjson/hjson-js" target="_blank" rel="noopener noreferrer" class="rp-link">hjson</a> 适用于 JavaScript 的 Hjson</li>
 <li><a href="https://github.com/eKoopmans/html2pdf.js" target="_blank" rel="noopener noreferrer" class="rp-link">html2pdf.js</a> 纯 JavaScript 实现的客户端 HTML 转 PDF渲染方案</li>
@@ -473,6 +492,7 @@
 <li><a href="https://github.com/wandergis/coordtransform" target="_blank" rel="noopener noreferrer" class="rp-link">coordtransform</a> 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换</li>
 <li><a href="https://github.com/jshttp/mime-types" target="_blank" rel="noopener noreferrer" class="rp-link">mime-types</a> 终极版 JavaScript 内容类型工具库</li>
 <li><a href="https://github.com/feross/buffer" target="_blank" rel="noopener noreferrer" class="rp-link">buffer</a> 用于浏览器的 Node.js buffer 模块</li>
+<li><a href="https://github.com/browserify/stream-browserify" target="_blank" rel="noopener noreferrer" class="rp-link">stream-browserify</a> 将 Node.js stream 模块移植到浏览器</li>
 <li><a href="https://github.com/paulmillr/scure-base" target="_blank" rel="noopener noreferrer" class="rp-link">@scure/base</a> 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现</li>
 <li><a href="https://github.com/paulmillr/noble-curves" target="_blank" rel="noopener noreferrer" class="rp-link">noble-curves</a> 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库</li>
 <li><a href="https://github.com/paulmillr/noble-hashes" target="_blank" rel="noopener noreferrer" class="rp-link">noble-hashes</a> 经安全审计、极简实现的哈希函数、消息认证码（MAC）及密钥派生函数（KDF）JavaScript 库</li>

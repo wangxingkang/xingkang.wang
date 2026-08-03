@@ -5,12 +5,12 @@
 <title>React - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.6d0c21737b.js" as="script">
+<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.c62260c95d.js" as="script">
 <script defer src="/static/js/styles.2da258a1de.js"></script>
 <script defer src="/static/js/lib-react.b323723cf1.js"></script>
 <script defer src="/static/js/lib-router.2df053640f.js"></script>
 <script defer src="/static/js/963.6c30a326ed.js"></script>
-<script defer src="/static/js/index.8daa17cd3e.js"></script>
+<script defer src="/static/js/index.38b355b5c2.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -183,6 +183,7 @@
 <li><a href="https://github.com/DavidHDev/react-bits" target="_blank" rel="noopener noreferrer" class="rp-link">react-bits</a> 一款开源的 React 组件合集</li>
 <li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 一套企业级 UI 设计语言和 React 组件库</li>
 <li><a href="https://github.com/ant-design/ant-design-mobile" target="_blank" rel="noopener noreferrer" class="rp-link">antd-mobile</a> ant design 的移动端 Web 组件库</li>
+<li><a href="https://github.com/arco-design/arco-design" target="_blank" rel="noopener noreferrer" class="rp-link">@arco-design/web-react</a> Arco Design 的 React 组件库，字节跳动出品</li>
 <li><a href="https://semi.design/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">semi</a> 字节出品(包含 AI 组件)</li>
 <li><a href="https://github.com/shadcn-ui/ui" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-ui</a> 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放<!-- -->
 <ul>
@@ -250,12 +251,17 @@
 <li><a href="https://github.com/icons-pack/react-simple-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@icons-pack/react-simple-icons</a></li>
 <li><a href="https://github.com/tabler/tabler-icons/tree/main/packages/icons-react" target="_blank" rel="noopener noreferrer" class="rp-link">@tabler/icons-react</a></li>
 <li><a href="https://github.com/react-icons/react-icons" target="_blank" rel="noopener noreferrer" class="rp-link">react-icons</a></li>
-<li><a href="https://github.com/iconify/iconify/tree/HEAD/components/react" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify/react</a></li>
+<li><a href="https://github.com/iconify/iconify/tree/HEAD/components/react" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify/react</a>
+<ul>
+<li><a href="https://github.com/iconify/icon-sets/tree/master/json/vscode-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify-json/vscode-icons</a> VS Code 图标集</li>
+</ul>
+</li>
 <li><a href="https://github.com/ant-design/ant-design-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@ant-design/icons</a></li>
 <li><a href="https://lucide.dev/guide/packages/lucide-react" target="_blank" rel="noopener noreferrer" class="rp-link">lucide-react</a></li>
 <li><a href="https://github.com/hugeicons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@hugeicons/react</a></li>
 <li><a href="https://github.com/phosphor-icons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@phosphor-icons/react</a></li>
 <li><a href="https://github.com/glincker/thesvg/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@thesvg/react</a></li>
+<li><a href="https://github.com/bytedance/IconPark" target="_blank" rel="noopener noreferrer" class="rp-link">@icon-park/react</a> 字节跳动 IconPark 图标库的 React 组件</li>
 </ul>
 </li>
 </ul>
@@ -432,7 +438,13 @@
 </ul>
 <h3 class="rp-toc-include" id="拖拽"><a href="#拖拽" class="rp-header-anchor rp-link" aria-hidden="true">#</a>拖拽</h3>
 <ul>
-<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/react</a></li>
+<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/react</a>
+<ul>
+<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/core" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/core</a> 高性能、可访问的拖拽工具包核心</li>
+<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/sortable" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/sortable</a> 可排序列表功能</li>
+<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/utilities" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/utilities</a> dnd-kit 通用工具函数</li>
+</ul>
+</li>
 <li><a href="https://github.com/react-dnd/react-dnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd</a>
 <ul>
 <li><a href="https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd-html5-backend</a></li>
@@ -498,6 +510,7 @@
 <ul>
 <li><a href="https://github.com/uiwjs/react-codemirror/tree/master/extensions/color" target="_blank" rel="noopener noreferrer" class="rp-link">@uiw/codemirror-extensions-color</a></li>
 <li><a href="https://github.com/uiwjs/react-codemirror/tree/master/themes/basic" target="_blank" rel="noopener noreferrer" class="rp-link">@uiw/codemirror-theme-basic</a></li>
+<li><a href="https://github.com/uiwjs/react-codemirror/tree/master/extensions/langs" target="_blank" rel="noopener noreferrer" class="rp-link">@uiw/codemirror-extensions-langs</a> 预打包的 CodeMirror 语言支持合集</li>
 <li><a href="https://github.com/uiwjs/react-codemirror/tree/master/merge" target="_blank" rel="noopener noreferrer" class="rp-link">react-codemirror-merge</a> 适用于 React 的 CodeMirror 合并视图组件</li>
 </ul>
 </li>

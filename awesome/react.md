@@ -142,6 +142,7 @@
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
+- [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
   - [cult-ui](https://github.com/nolly-studio/cult-ui)
@@ -202,11 +203,13 @@
   - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
   - [react-icons](https://github.com/react-icons/react-icons)
   - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react)
+    - [@iconify-json/vscode-icons](https://github.com/iconify/icon-sets/tree/master/json/vscode-icons) VS Code 图标集
   - [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
   - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
+  - [@icon-park/react](https://github.com/bytedance/IconPark) 字节跳动 IconPark 图标库的 React 组件
 
 ### 布局
 
@@ -376,6 +379,9 @@
 ### 拖拽
 
 - [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react)
+  - [@dnd-kit/core](https://github.com/clauderic/dnd-kit/tree/main/packages/core) 高性能、可访问的拖拽工具包核心
+  - [@dnd-kit/sortable](https://github.com/clauderic/dnd-kit/tree/main/packages/sortable) 可排序列表功能
+  - [@dnd-kit/utilities](https://github.com/clauderic/dnd-kit/tree/main/packages/utilities) dnd-kit 通用工具函数
 - [react-dnd](https://github.com/react-dnd/react-dnd)
   - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
@@ -437,6 +443,7 @@
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [@uiw/codemirror-extensions-color](https://github.com/uiwjs/react-codemirror/tree/master/extensions/color)
   - [@uiw/codemirror-theme-basic](https://github.com/uiwjs/react-codemirror/tree/master/themes/basic)
+  - [@uiw/codemirror-extensions-langs](https://github.com/uiwjs/react-codemirror/tree/master/extensions/langs) 预打包的 CodeMirror 语言支持合集
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文

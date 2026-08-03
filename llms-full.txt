@@ -998,6 +998,7 @@ url: /awesome/react.md
 - [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
+- [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
   - [cult-ui](https://github.com/nolly-studio/cult-ui)
@@ -1058,11 +1059,13 @@ url: /awesome/react.md
   - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
   - [react-icons](https://github.com/react-icons/react-icons)
   - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react)
+    - [@iconify-json/vscode-icons](https://github.com/iconify/icon-sets/tree/master/json/vscode-icons) VS Code 图标集
   - [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
   - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
   - [@hugeicons/react](https://github.com/hugeicons/react)
   - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
   - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
+  - [@icon-park/react](https://github.com/bytedance/IconPark) 字节跳动 IconPark 图标库的 React 组件
 
 ### 布局
 
@@ -1232,6 +1235,9 @@ url: /awesome/react.md
 ### 拖拽
 
 - [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react)
+  - [@dnd-kit/core](https://github.com/clauderic/dnd-kit/tree/main/packages/core) 高性能、可访问的拖拽工具包核心
+  - [@dnd-kit/sortable](https://github.com/clauderic/dnd-kit/tree/main/packages/sortable) 可排序列表功能
+  - [@dnd-kit/utilities](https://github.com/clauderic/dnd-kit/tree/main/packages/utilities) dnd-kit 通用工具函数
 - [react-dnd](https://github.com/react-dnd/react-dnd)
   - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
 - [react-draggable](https://github.com/react-grid-layout/react-draggable)
@@ -1293,6 +1299,7 @@ url: /awesome/react.md
 - [@uiw/react-codemirror](https://github.com/uiwjs/react-codemirror) 适用于 React 的 CodeMirror 6 组件
   - [@uiw/codemirror-extensions-color](https://github.com/uiwjs/react-codemirror/tree/master/extensions/color)
   - [@uiw/codemirror-theme-basic](https://github.com/uiwjs/react-codemirror/tree/master/themes/basic)
+  - [@uiw/codemirror-extensions-langs](https://github.com/uiwjs/react-codemirror/tree/master/extensions/langs) 预打包的 CodeMirror 语言支持合集
   - [react-codemirror-merge](https://github.com/uiwjs/react-codemirror/tree/master/merge) 适用于 React 的 CodeMirror 合并视图组件
 - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) React 版 Monaco 编辑器
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
@@ -1706,6 +1713,7 @@ url: /awesome/javascript.md
 
 - [class-variance-authority](https://github.com/joe-bell/cva) 类变体管理器
 - [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
+- [classnames](https://github.com/JedWatson/classnames) 条件拼接 className 字符串
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) 合并 Tailwind CSS 类名，且不会产生样式冲突
 - [cnfast](https://github.com/aidenybai/cnfast) 可快速直接替代 `cn` 的工具
 
@@ -1766,6 +1774,19 @@ url: /awesome/javascript.md
 - [jodit](https://github.com/xdan/jodit)
 - [wangEditor-next](https://github.com/wangeditor-next/wangEditor-next)
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
+- [codemirror](https://github.com/codemirror/dev) 可扩展的网页代码编辑器
+  - [@codemirror/commands](https://github.com/codemirror/commands) 编辑命令
+  - [@codemirror/lang-css](https://github.com/codemirror/lang-css) CSS 语言支持
+  - [@codemirror/lang-html](https://github.com/codemirror/lang-html) HTML 语言支持
+  - [@codemirror/lang-json](https://github.com/codemirror/lang-json) JSON 语言支持
+  - [@codemirror/lang-markdown](https://github.com/codemirror/lang-markdown) Markdown 语言支持
+  - [@codemirror/language](https://github.com/codemirror/language) 语言支持基础设施
+  - [@codemirror/language-data](https://github.com/codemirror/language-data) 语言支持注册表
+  - [@codemirror/search](https://github.com/codemirror/search) 搜索与替换
+  - [@codemirror/state](https://github.com/codemirror/state) 编辑器状态模型
+  - [@codemirror/view](https://github.com/codemirror/view) 编辑器视图层
+  - [@lezer/highlight](https://github.com/lezer-parser/highlight) Lezer 语法高亮
+- [web-tree-sitter](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web) tree-sitter 的 WebAssembly 绑定，支持浏览器中解析代码
 - [prosemirror](https://prosemirror.net/) ProseMirror 所见即所得含义编辑器
 - [remark](https://github.com/remarkjs/remark) 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
   - [remark-math](https://github.com/remarkjs/remark-math/tree/main/packages/remark-math)
@@ -1926,6 +1947,8 @@ url: /awesome/javascript.md
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
 - [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
+- [pptx2json](https://github.com/x1-/pptx2json) 将 PPTX 文件解析为 JSON
+- [xlsx-republish](https://github.com/NoNameProvided/xlsx-republish) 纯 JS 读写 Excel（XLSX）文件
 - [extract-colors](https://github.com/Namide/extract-colors) 从图片中提取主色调
 - [hjson](https://github.com/hjson/hjson-js) 适用于 JavaScript 的 Hjson
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) 纯 JavaScript 实现的客户端 HTML 转 PDF渲染方案
@@ -1963,6 +1986,7 @@ url: /awesome/javascript.md
 - [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
 - [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
+- [stream-browserify](https://github.com/browserify/stream-browserify) 将 Node.js stream 模块移植到浏览器
 - [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
 - [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
 - [noble-hashes](https://github.com/paulmillr/noble-hashes) 经安全审计、极简实现的哈希函数、消息认证码（MAC）及密钥派生函数（KDF）JavaScript 库
@@ -2593,6 +2617,7 @@ url: /awesome/desktop.md
 - [@electron/remote](https://github.com/electron/remote) 在 Electron 中，将主进程的 JavaScript 对象桥接到渲染进程
 - [electron-debug](https://github.com/sindresorhus/electron-debug) 为你的 Electron 应用增添实用的调试功能
 - [electron-log](https://github.com/megahertz/electron-log) 适用于 Electron / Node.js/ NW\.js 应用的简易日志模块
+- [@sentry/electron](https://github.com/getsentry/sentry-electron) 面向 Electron 应用的 Sentry 错误监控 SDK
 - [electron-serve](https://github.com/sindresorhus/electron-serve) Electron 应用的静态文件服务
 - [electron-store](https://github.com/sindresorhus/electron-store) 为你的 Electron 应用或模块提供简易数据持久化方案
 - [electron-updater](https://github.com/electron-userland/electron-builder/tree/master/packages/electron-updater) 自动更新
@@ -3395,6 +3420,8 @@ url: /awesome/node.md
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
 - [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
 - [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
+- [@anthropic-ai/sdk](https://github.com/anthropics/anthropic-sdk-typescript) Anthropic API 官方 TypeScript / JavaScript 开发库
+- [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
 - [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
 - [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
 - [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
@@ -3495,6 +3522,7 @@ url: /awesome/node.md
 - [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
 - [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
 - [formidable](https://github.com/node-formidable/formidable) 最常用、灵活、快速且支持流式解析的多部分表单数据解析器
+- [multer](https://github.com/expressjs/multer) Express 文件上传中间件
 - [ejs](https://github.com/mde/ejs) 嵌入式 JavaScript 模板
 - [cookie](https://github.com/jshttp/cookie) HTTP 服务器 cookie 的解析和序列化
 - [cookie-parser](https://github.com/expressjs/cookie-parser) 解析 HTTP 请求中的 cookies
@@ -3666,6 +3694,7 @@ url: /awesome/node.md
 - [svg-sprite](https://github.com/svg-sprite/svg-sprite) 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源
 - [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
 - [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
+- [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) 在终端中直接渲染二维码
 - [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
 - [node-accept-language](https://github.com/tinganho/node-accept-language)
 - [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
@@ -3685,6 +3714,7 @@ url: /awesome/node.md
 - [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
+- [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) 面向 Express 的基础 IP 限流中间件
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
 - [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
@@ -3711,6 +3741,7 @@ url: /awesome/node.md
 - [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
+- [@aws-sdk/client-bedrock](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock) AWS Bedrock 模型调用客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
@@ -3759,6 +3790,7 @@ url: /awesome/node.md
 - [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
 - [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
+  - [@grammyjs/transformer-throttler](https://github.com/grammyjs/transformer-throttler) 为 grammY 提供频率限制功能
 - [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
 - [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
 - [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
@@ -3767,6 +3799,8 @@ url: /awesome/node.md
 - [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档
+- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) 去除 JSON 字符串中的注释，再安全地传给 JSON.parse
+- [tiny-csrf](https://github.com/le0nkl/tiny-csrf) 极简、零依赖的 CSRF 防护中间件
 - [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
 - [resolve](https://github.com/browserify/resolve) 实现了 node.js 中 `require.resolve()` 算法的功能
 - [spawn-rx](https://github.com/anaisbetts/spawn-rx) child\_process.spawn 的 Observable 版与 Promise 版实现

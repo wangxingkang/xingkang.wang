@@ -149,6 +149,7 @@
 
 - [class-variance-authority](https://github.com/joe-bell/cva) 类变体管理器
 - [clsx](https://github.com/lukeed/clsx) 超轻量（仅 239 字节）的工具函数：用于按条件拼接 className 字符串
+- [classnames](https://github.com/JedWatson/classnames) 条件拼接 className 字符串
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge) 合并 Tailwind CSS 类名，且不会产生样式冲突
 - [cnfast](https://github.com/aidenybai/cnfast) 可快速直接替代 `cn` 的工具
 
@@ -209,6 +210,19 @@
 - [jodit](https://github.com/xdan/jodit)
 - [wangEditor-next](https://github.com/wangeditor-next/wangEditor-next)
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
+- [codemirror](https://github.com/codemirror/dev) 可扩展的网页代码编辑器
+  - [@codemirror/commands](https://github.com/codemirror/commands) 编辑命令
+  - [@codemirror/lang-css](https://github.com/codemirror/lang-css) CSS 语言支持
+  - [@codemirror/lang-html](https://github.com/codemirror/lang-html) HTML 语言支持
+  - [@codemirror/lang-json](https://github.com/codemirror/lang-json) JSON 语言支持
+  - [@codemirror/lang-markdown](https://github.com/codemirror/lang-markdown) Markdown 语言支持
+  - [@codemirror/language](https://github.com/codemirror/language) 语言支持基础设施
+  - [@codemirror/language-data](https://github.com/codemirror/language-data) 语言支持注册表
+  - [@codemirror/search](https://github.com/codemirror/search) 搜索与替换
+  - [@codemirror/state](https://github.com/codemirror/state) 编辑器状态模型
+  - [@codemirror/view](https://github.com/codemirror/view) 编辑器视图层
+  - [@lezer/highlight](https://github.com/lezer-parser/highlight) Lezer 语法高亮
+- [web-tree-sitter](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web) tree-sitter 的 WebAssembly 绑定，支持浏览器中解析代码
 - [prosemirror](https://prosemirror.net/) ProseMirror 所见即所得含义编辑器
 - [remark](https://github.com/remarkjs/remark) 由 @unifiedjs 技术生态下的插件驱动的 Markdown 处理器
   - [remark-math](https://github.com/remarkjs/remark-math/tree/main/packages/remark-math)
@@ -369,6 +383,8 @@
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
 - [exceljs](https://github.com/exceljs/exceljs) 读写 XLSX 与 CSV 文件
+- [pptx2json](https://github.com/x1-/pptx2json) 将 PPTX 文件解析为 JSON
+- [xlsx-republish](https://github.com/NoNameProvided/xlsx-republish) 纯 JS 读写 Excel（XLSX）文件
 - [extract-colors](https://github.com/Namide/extract-colors) 从图片中提取主色调
 - [hjson](https://github.com/hjson/hjson-js) 适用于 JavaScript 的 Hjson
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) 纯 JavaScript 实现的客户端 HTML 转 PDF渲染方案
@@ -406,6 +422,7 @@
 - [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [mime-types](https://github.com/jshttp/mime-types) 终极版 JavaScript 内容类型工具库
 - [buffer](https://github.com/feross/buffer) 用于浏览器的 Node.js buffer 模块
+- [stream-browserify](https://github.com/browserify/stream-browserify) 将 Node.js stream 模块移植到浏览器
 - [@scure/base](https://github.com/paulmillr/scure-base) 全、经审计、零依赖的 bech32、base64、base32、base16 与 base58 实现
 - [noble-curves](https://github.com/paulmillr/noble-curves) 经安全审计、极简实现的椭圆曲线密码学 JavaScript 库
 - [noble-hashes](https://github.com/paulmillr/noble-hashes) 经安全审计、极简实现的哈希函数、消息认证码（MAC）及密钥派生函数（KDF）JavaScript 库
