@@ -92,6 +92,8 @@
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚
 - [skill-up](https://github.com/alibaba/skill-up) Agent Skill 的评测与演进工具
+- [hallmark](https://github.com/Nutlope/hallmark) 确保生成的作品看起来不像是人工智能生成的
+- [pua](https://github.com/tanweai/pua) 用中西大厂 PUA 话术驱动 AI 穷尽所有方案才允许放弃
 
 ## 开发工作流
 
@@ -147,9 +149,11 @@
 ## 持久记忆
 
 - [agentmemory](https://github.com/rohitg00/agentmemory)
+- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 
 ## 其他
 
+- [buzz](https://github.com/block/buzz) 人机协作的工作空间
 - [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
@@ -181,7 +185,7 @@
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [claude-video](https://github.com/bradautomates/claude-video) 赋予 Claude 观看任意视频的能力
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
-- [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
+- [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%

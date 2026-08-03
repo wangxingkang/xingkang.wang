@@ -6,6 +6,7 @@
 
 ## AI
 
+- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
 - [datasets](https://github.com/huggingface/datasets) 最大的即用型 AI 模型数据集中心，配备快速、易用、高效的数据处理工具
 - [diffusers](https://github.com/huggingface/diffusers) PyTorch 中最先进的扩散模型库，支持图像、视频和音频生成

@@ -351,6 +351,8 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
@@ -364,7 +366,6 @@ url: /awesome/ai.md
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
-- [hallmark](https://github.com/Nutlope/hallmark) 适用于 Claude Code、Cursor 与 Codex 的反低质 AI 生成内容设计技巧
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
@@ -434,6 +435,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
@@ -441,7 +443,6 @@ url: /awesome/ai.md
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [Kami](https://github.com/tw93/Kami) 好内容，值得用好纸承载
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
-- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 - [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) 支持 GPT Image 2、Seedance 以及 ComfyUI，内置 1400 + 精心撰写的提示词库、定制钩子与多任务编排系统
@@ -743,6 +744,8 @@ url: /awesome/vibe-coding.md
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚
 - [skill-up](https://github.com/alibaba/skill-up) Agent Skill 的评测与演进工具
+- [hallmark](https://github.com/Nutlope/hallmark) 确保生成的作品看起来不像是人工智能生成的
+- [pua](https://github.com/tanweai/pua) 用中西大厂 PUA 话术驱动 AI 穷尽所有方案才允许放弃
 
 ## 开发工作流
 
@@ -798,9 +801,11 @@ url: /awesome/vibe-coding.md
 ## 持久记忆
 
 - [agentmemory](https://github.com/rohitg00/agentmemory)
+- [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
 
 ## 其他
 
+- [buzz](https://github.com/block/buzz) 人机协作的工作空间
 - [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
@@ -832,7 +837,7 @@ url: /awesome/vibe-coding.md
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [claude-video](https://github.com/bradautomates/claude-video) 赋予 Claude 观看任意视频的能力
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
-- [AionUi](https://github.com/iOfficeAI/AionUi) 一款免费、本地部署、开源的全天候协同工具
+- [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
@@ -3811,7 +3816,6 @@ url: /awesome/rust.md
 
 ## AI
 
-- [buzz](https://github.com/block/buzz) 一个人类与智能体共同构建的工作空间，运行在你自有的 relay 之上
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告
@@ -3827,6 +3831,7 @@ url: /awesome/rust.md
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 面向 AI 智能体的即时、并发、安全、轻量沙箱环境
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
+- [NIGHTRUN](https://github.com/hardrave/NIGHTRUN) 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行
 
 ## 学习
 
@@ -3849,6 +3854,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [servo](https://github.com/servo/servo) 浏览器引擎
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
 - [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
@@ -4071,6 +4077,7 @@ url: /awesome/python.md
 
 ## AI
 
+- [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
 - [datasets](https://github.com/huggingface/datasets) 最大的即用型 AI 模型数据集中心，配备快速、易用、高效的数据处理工具
 - [diffusers](https://github.com/huggingface/diffusers) PyTorch 中最先进的扩散模型库，支持图像、视频和音频生成
@@ -4195,6 +4202,8 @@ url: /awesome/ops.md
 
 ## 其他
 
+- [prometheus](https://github.com/prometheus/prometheus) 开源系统监控
+- [netdata](https://github.com/netdata/netdata) 实时基础设施监控平台
 - [coolify](https://github.com/coollabsio/coolify) 一款开源、可自托管的 PaaS 平台，可作为 Vercel、Heroku 和 Netlify 的替代方案，让你轻松在自己的服务器上部署静态站点、数据库、全栈应用以及 280+ 个一键式服务
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
