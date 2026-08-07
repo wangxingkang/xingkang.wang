@@ -7,6 +7,7 @@
 
 ## AI
 
+- [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告

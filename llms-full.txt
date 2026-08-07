@@ -365,7 +365,6 @@ url: /awesome/ai.md
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
-- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
@@ -734,6 +733,7 @@ url: /awesome/vibe-coding.md
 
 - [skills](https://github.com/vercel-labs/skills) 开源智能体技能工具 — `npx skills`
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
@@ -1350,6 +1350,7 @@ url: /awesome/react.md
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
 - [south-admin-react](https://github.com/southliu/south-admin-react)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
 
 ## 其他
 
@@ -1720,6 +1721,7 @@ url: /awesome/javascript.md
 ### 文件相关
 
 - [ag-psd](https://github.com/Agamnentzar/ag-psd) 用于读写 PSD 文件的 JavaScript 库
+- [tiff](https://github.com/image-js/tiff) 纯 JavaScript 编写的 TIFF 图像解码器，支持多种压缩格式，可与 [image-js](https://github.com/image-js/image-js) 无缝集成
 - [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
@@ -2892,6 +2894,7 @@ url: /awesome/browser-extension.md
 - [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 借助原生热模块替换（HMR）与零配置搭建，开发跨浏览器扩展程序
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
+- [plasmo](https://github.com/PlasmoHQ/plasmo) 浏览器扩展开发框架
 
 ## 开发模版
 
@@ -3850,6 +3853,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [skills-manager](https://github.com/xingkongliang/skills-manager) 一款轻量桌面应用，可在 Cursor、Claude Code、Codex、Copilot 等 15 余款开发工具间管理、同步和整理 AI 智能体技能
 - [ccusage](https://github.com/ccusage/ccusage) 从代码智能体命令行工具读取本地使用数据，并生成日、周、月以及会话维度的统计报告

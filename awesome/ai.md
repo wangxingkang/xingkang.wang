@@ -55,7 +55,6 @@
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
-- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能

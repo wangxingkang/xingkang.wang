@@ -494,6 +494,7 @@
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
 - [south-admin-react](https://github.com/southliu/south-admin-react)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
 
 ## 其他
 

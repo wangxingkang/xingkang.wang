@@ -156,6 +156,7 @@
 ### 文件相关
 
 - [ag-psd](https://github.com/Agamnentzar/ag-psd) 用于读写 PSD 文件的 JavaScript 库
+- [tiff](https://github.com/image-js/tiff) 纯 JavaScript 编写的 TIFF 图像解码器，支持多种压缩格式，可与 [image-js](https://github.com/image-js/image-js) 无缝集成
 - [unpdf](https://github.com/unjs/unpdf) 跨所有 JavaScript 运行时的 PDF 提取与渲染
 - [docx](https://github.com/dolanmiu/docx) 使用简洁易用的声明式 API，通过 JS/TS 轻松生成和修改 .docx 文件。支持 Node.js 环境和浏览器端运行
 - [docx-preview](https://github.com/VolodymyrBaydalka/docxjs) Docx 渲染库
