@@ -134,6 +134,7 @@
 - [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
+- [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)

@@ -352,6 +352,7 @@ url: /awesome/ai.md
 ## Skill
 
 - [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
@@ -436,6 +437,8 @@ url: /awesome/ai.md
 
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
+- [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
+- [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
@@ -543,13 +546,14 @@ url: /awesome/ai.md
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
+- [AgentENV](https://github.com/kvcache-ai/AgentENV) 用于大规模运行 Agent 环境的分布式平台，基于 Firecracker 微虚拟机并兼容 E2B API
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
-- [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
+- [open-pencil](https://github.com/open-pencil/open-pencil) 开源 AI 原生设计编辑器，可打开 `.fig` / `.pen` 文件，并提供 CLI、MCP 与可编程设计工具链
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
@@ -775,6 +779,7 @@ url: /awesome/vibe-coding.md
 
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
+- [ego-lite](https://github.com/citrolabs/ego-lite) 面向 AI 智能体的浏览器，可共享本机登录态并让 Agent 在独立空间中执行浏览器自动化任务
 - [browser-use](https://github.com/browser-use/browser-use) 让网站可被 AI 智能体访问。轻松实现线上任务自动化
 - [lightpanda](https://github.com/lightpanda-io/browser) 为 AI 智能体与自动化打造的轻量级无头浏览器，基于 Zig 从零构建，内存与执行速度远超 Headless Chrome，支持 CDP 协议与原生 MCP
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
@@ -840,7 +845,7 @@ url: /awesome/vibe-coding.md
 - [agent-scripts](https://github.com/steipete/agent-scripts) 各仓库共用的智能代理脚本
 - [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
-- [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
+- [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向 Kimi K3 等低成本模型优化的 Rust 编码 Agent，兼容 ACP 与 Codex exec 协议
 - [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) 自我改进的 RLM 编码与研究智能体，持久化 IPython 环境、内置子代理调用，专为长期运行的自主任务设计
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
@@ -992,6 +997,7 @@ url: /awesome/react.md
 - [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
+- [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
 - [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
@@ -1640,11 +1646,13 @@ url: /awesome/javascript.md
 - [playcanvas](https://github.com/playcanvas/engine) 基于 WebGL2 和 WebGPU 构建的开源游戏引擎
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
+- [aholo-viewer](https://github.com/manycoretech/aholo-viewer) 高性能 3DGS 与 Mesh 渲染器，支持通过 Chunked Streaming LOD 处理大规模 3D 高斯溅射场景
 
 ### 地理
 
 - [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
+- [GeoLibre](https://github.com/opengeos/GeoLibre) 轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据
 
 ### 其他
 
@@ -2314,6 +2322,7 @@ url: /awesome/javascript.md
 ## 其他
 
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
+- [OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) 基于 WASM 的浏览器离线 ONLYOFFICE 办公套件，无需 Document Server 或后端即可编辑 Word、Excel、PPT 和 PDF
 - [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
@@ -2322,6 +2331,7 @@ url: /awesome/javascript.md
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
 - [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
 - [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
+- [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
 - [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录
@@ -3267,6 +3277,7 @@ url: /awesome/github.md
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
@@ -3312,6 +3323,7 @@ url: /awesome/github.md
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
+- [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
@@ -3784,7 +3796,7 @@ url: /awesome/node.md
 - [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 - [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
-- [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
+- [t3code](https://github.com/pingdotgg/t3code) 面向本机 Coding Agent 的控制台，支持移动端、Web 和桌面端控制 Claude Code、Codex、Cursor、OpenCode 等工具
 - [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
@@ -3942,10 +3954,13 @@ url: /awesome/rust.md
 - [rust-phf](https://github.com/rust-phf/rust-phf) Rust 编译期静态映射表
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [rust\_minifb](https://github.com/emoon/rust_minifb) 适用于 Rust 语言的跨平台窗口与帧缓冲区库
+- [wgpu](https://github.com/gfx-rs/wgpu) 跨平台、安全的纯 Rust 图形 API，基于 WebGPU 标准并支持 Vulkan、Metal、D3D12、OpenGL 等后端
 - [bevy](https://github.com/bevyengine/bevy) 一款用 Rust 语言构建、简洁易用的数据驱动型游戏引擎
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
+- [eza](https://github.com/eza-community/eza) 现代化的 `ls` 替代品，支持彩色输出、图标、Git 状态、扩展属性和树形目录显示
+- [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
 - [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
 - [pastel](https://github.com/sharkdp/pastel) 一款用于生成、分析、转换和处理颜色的命令行工具
 - [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具

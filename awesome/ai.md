@@ -42,6 +42,7 @@
 ## Skill
 
 - [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
@@ -126,6 +127,8 @@
 
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
+- [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
+- [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
@@ -233,13 +236,14 @@
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
+- [AgentENV](https://github.com/kvcache-ai/AgentENV) 用于大规模运行 Agent 环境的分布式平台，基于 Firecracker 微虚拟机并兼容 E2B API
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [MonkeyCode](https://github.com/chaitin/MonkeyCode) 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) 一个能将多种仅客户端内使用的大模型 API（Gemini CLI, Antigravity, Qwen Code, Kiro ...），模拟请求，统一封装为本地 OpenAI 兼容接口的强大代理
 - [genkit](https://github.com/firebase/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [agency-agents](https://github.com/msitarzewski/agency-agents) 触手可及的完整 AI 智能体团队—— 从前端技术高手到 Reddit 社区运营专家，从创意灵感生成器到现实校验员。每个智能体都是独具个性、流程规范、成果可靠的专属专家
-- [open-pencil](https://github.com/open-pencil/open-pencil) AI 原生设计编辑器。开源的 Figma 替代品
+- [open-pencil](https://github.com/open-pencil/open-pencil) 开源 AI 原生设计编辑器，可打开 `.fig` / `.pen` 文件，并提供 CLI、MCP 与可编程设计工具链
 - [executor](https://github.com/RhysSullivan/executor) 优先本地运行的 AI 智能体执行环境
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
