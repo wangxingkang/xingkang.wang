@@ -82,6 +82,7 @@
 
 - [skills](https://github.com/vercel-labs/skills) 开源智能体技能工具 — `npx skills`
 - [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) 当用户需要拓展功能时，可从开源生态中检索并安装专用智能体技能
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
