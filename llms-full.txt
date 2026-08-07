@@ -776,6 +776,7 @@ url: /awesome/vibe-coding.md
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
 - [browser-use](https://github.com/browser-use/browser-use) 让网站可被 AI 智能体访问。轻松实现线上任务自动化
+- [lightpanda](https://github.com/lightpanda-io/browser) 为 AI 智能体与自动化打造的轻量级无头浏览器，基于 Zig 从零构建，内存与执行速度远超 Headless Chrome，支持 CDP 协议与原生 MCP
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 面向智能体开发的 Chrome 开发者工具
 
 ## 原型&设计
@@ -840,6 +841,7 @@ url: /awesome/vibe-coding.md
 - [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [openinterpreter](https://github.com/openinterpreter/openinterpreter) 面向开源模型的编码 Agent
+- [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) 自我改进的 RLM 编码与研究智能体，持久化 IPython 环境、内置子代理调用，专为长期运行的自主任务设计
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
@@ -2265,6 +2267,7 @@ url: /awesome/javascript.md
 
 - [@atlaskit/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
   - [@atlaskit/pragmatic-drag-and-drop-hitbox](https://github.com/atlassian/pragmatic-drag-and-drop)
+- [gridstack.js](https://github.com/gridstack/gridstack.js) 拖拽式网格布局库，可快速构建可拖拽、可缩放、响应式的仪表盘与看板
 
 ### 其他
 
@@ -2318,6 +2321,7 @@ url: /awesome/javascript.md
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
 - [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
 - [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
+- [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
 - [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
