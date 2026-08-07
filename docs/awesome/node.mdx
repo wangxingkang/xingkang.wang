@@ -383,7 +383,7 @@
 - [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 - [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
-- [t3code](https://github.com/pingdotgg/t3code) 面向编程智能体的极简网页界面。目前以 Codex 为主，即将支持 Claude Code。
+- [t3code](https://github.com/pingdotgg/t3code) 面向本机 Coding Agent 的控制台，支持移动端、Web 和桌面端控制 Claude Code、Codex、Cursor、OpenCode 等工具
 - [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 - [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群

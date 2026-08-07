@@ -73,11 +73,13 @@
 - [playcanvas](https://github.com/playcanvas/engine) 基于 WebGL2 和 WebGPU 构建的开源游戏引擎
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
+- [aholo-viewer](https://github.com/manycoretech/aholo-viewer) 高性能 3DGS 与 Mesh 渲染器，支持通过 Chunked Streaming LOD 处理大规模 3D 高斯溅射场景
 
 ### 地理
 
 - [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
+- [GeoLibre](https://github.com/opengeos/GeoLibre) 轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据
 
 ### 其他
 
@@ -747,6 +749,7 @@
 ## 其他
 
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
+- [OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) 基于 WASM 的浏览器离线 ONLYOFFICE 办公套件，无需 Document Server 或后端即可编辑 Word、Excel、PPT 和 PDF
 - [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
@@ -755,6 +758,7 @@
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
 - [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
 - [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
+- [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
 - [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录

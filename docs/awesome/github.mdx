@@ -24,6 +24,7 @@
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
@@ -69,6 +70,7 @@
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
+- [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
