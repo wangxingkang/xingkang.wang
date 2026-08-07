@@ -700,6 +700,7 @@
 
 - [@atlaskit/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 适配任意技术栈的高速拖放功能
   - [@atlaskit/pragmatic-drag-and-drop-hitbox](https://github.com/atlassian/pragmatic-drag-and-drop)
+- [gridstack.js](https://github.com/gridstack/gridstack.js) 拖拽式网格布局库，可快速构建可拖拽、可缩放、响应式的仪表盘与看板
 
 ### 其他
 
@@ -753,6 +754,7 @@
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
 - [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
 - [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
+- [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
 - [doctoc](https://github.com/thlorenz/doctoc) 为本地 Git 仓库中的 Markdown 文件生成目录
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
