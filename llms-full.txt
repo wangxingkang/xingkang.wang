@@ -2220,6 +2220,7 @@ url: /awesome/javascript.md
 - [Swiper](https://github.com/nolimits4web/Swiper) 搭载硬件加速过渡动效的新一代移动端触摸滑动组件
 - [number-flow](https://github.com/barvian/number-flow) 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) 一款可自定义、模块化、响应式的灯箱画廊插件
+- [vlist](https://github.com/floor/vlist) 适用于任何框架的极致高效虚拟列表库，零依赖、体积仅 9.7KB，内置无障碍支持
 
 ### 文件相关
 
