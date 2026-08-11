@@ -3285,6 +3285,8 @@ url: /awesome/github.md
 - [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 面向全家设备的开源 DNS 广告与跟踪拦截服务，支持自托管和网络级过滤
+- [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
@@ -4273,6 +4275,8 @@ url: /awesome/ops.md
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 - [databasus](https://github.com/databasus/databasus) 数据库备份系统
+- [acme.sh](https://github.com/acmesh-official/acme.sh) 纯 Unix Shell 编写的 ACME 客户端，用于自动签发、续期和安装 SSL / TLS 证书
+- [certbot](https://github.com/certbot/certbot) EFF 出品的 ACME 客户端，用于从 Let's Encrypt 获取证书并自动为服务器启用 HTTPS
 - [certimate](https://github.com/certimate-go/certimate) 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商
 - [certd](https://github.com/certd/certd) 开源SSL证书管理工具
 
