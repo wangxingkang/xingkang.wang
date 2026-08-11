@@ -48,6 +48,7 @@
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [animejs](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
+- [canvas-ui](https://github.com/DavidHDev/canvas-ui) 跨框架 Canvas / WebGL 创意组件库，可在真实 HTML 界面上叠加流体、着色器和 3D 交互效果
 - [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
 - [velocity-animate](https://github.com/julianshapiro/velocity) 加速型 JavaScript 动画
 - [torph](https://github.com/lochie/torph) 无依赖的动画文本组件
@@ -750,6 +751,7 @@
 
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
 - [OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) 基于 WASM 的浏览器离线 ONLYOFFICE 办公套件，无需 Document Server 或后端即可编辑 Word、Excel、PPT 和 PDF
+- [v86](https://github.com/copy/v86) 浏览器中的 x86 PC 模拟器，通过运行时 x86 到 WebAssembly 转译运行 Linux、DOS、Windows 等系统
 - [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定

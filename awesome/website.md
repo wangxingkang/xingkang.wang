@@ -14,6 +14,8 @@
 - [ipaddress](https://www.ipaddress.com/website)
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
+- [OpenAlternative](https://openalternative.co/) 开源替代品目录，用于查找常见商业软件的开源替代方案
+- [OpenSourceAlternative.to](https://opensourcealternative.to/) 开源替代品目录，用于用开源软件替换专有软件产品
 
 ## 博客
 
