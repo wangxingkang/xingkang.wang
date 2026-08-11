@@ -490,6 +490,7 @@
 ## 开发模版
 
 - [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) Next.js 样板工程与启动模板
+- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) 基于 Next.js 16、TypeScript、Tailwind CSS v4 与 shadcn/ui 的现代管理后台模板
 - [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
 - [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
 - [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
