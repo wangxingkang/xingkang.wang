@@ -278,6 +278,7 @@
 - [dnd-timeline](https://github.com/samuelarbibe/dnd-timeline) 基于 dnd-kit 时间轴组件库
 - [react-infinite-scroll-component](https://github.com/ankeetmaini/react-infinite-scroll-component) 无限滚动
 - [react-vtree](https://github.com/Lodin/react-vtree) 高效渲染大型树形结构的 React 组件
+- [react-dnd-treeview](https://github.com/minop1205/react-dnd-treeview) 支持拖拽与放置的 React 树形视图组件，可用 render props 自定义节点渲染
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
 - [simpleParallax.js](https://github.com/geosigno/simpleParallax.js) 适用于 React 和 JavaScript 的简易视差效果
 - [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) 用于为横幅、图片或任意其他 DOM 元素创建视差滚动效果的 React Hooks 与组件。
