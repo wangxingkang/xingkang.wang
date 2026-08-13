@@ -81,6 +81,9 @@
 - [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
 - [GeoLibre](https://github.com/opengeos/GeoLibre) 轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据
+- [ol](https://github.com/openlayers/openlayers) 交互式地图
+- [ol-ext](https://github.com/Viglino/ol-ext) OpenLayers 的酷炫扩展——动画聚类、CSS 弹窗、Font Awesome 符号渲染器、统计地图图表（饼图/柱状图）、图层切换器、维基百科图层、动画、Canvas 滤镜
+- [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
 
 ### 其他
 
@@ -94,6 +97,8 @@
 - [leafer-ui](https://github.com/leaferjs/leafer-ui) 好用的 Canvas 引擎
 - [@antv/x6](https://github.com/antvis/x6) 一款采用 SVG 和 HTML 进行渲染的 JavaScript 绘图库
 - [vis-timeline](https://github.com/visjs/vis-timeline) 创建可完全定制的交互式时间线与二维图表，支持项目及范围配置
+- [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
+- [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
 - [fabric](https://github.com/fabricjs/fabric.js) JavaScript Canvas 类库：SVG 与 Canvas 互转解析器（支持 SVG 转 Canvas、Canvas 转 SVG）
 - [cytoscape](https://github.com/cytoscape/cytoscape.js) 用于可视化与分析的图论（网络）库
 
@@ -256,6 +261,7 @@
 
 - [dompurify](https://github.com/cure53/DOMPurify) 一款纯基于 DOM 实现、极致轻速、超高容错性的 XSS 安全净化工具
 - [crypto-js](https://github.com/brix/crypto-js) 加解密
+- [xss](https://github.com/leizongmin/js-xss) 通过白名单配置对不可信 HTML 进行安全净化（防止跨站脚本攻击 XSS）
 
 ### html to image
 
@@ -753,14 +759,8 @@
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
 - [OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) 基于 WASM 的浏览器离线 ONLYOFFICE 办公套件，无需 Document Server 或后端即可编辑 Word、Excel、PPT 和 PDF
 - [v86](https://github.com/copy/v86) 浏览器中的 x86 PC 模拟器，通过运行时 x86 到 WebAssembly 转译运行 Linux、DOS、Windows 等系统
-- [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
-- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
+- [todomvc](https://github.com/tastejs/todomvc) 帮你挑选 JavaScript 框架 —— 包含 React.js、Angular、Vue 等多款框架的待办应用示例
 - [@bsull/augurs](https://github.com/grafana/augurs) 适用于 Rust 的时间序列分析库，提供 Python 和 JavaScript 绑定
-- [ol](https://github.com/openlayers/openlayers) 交互式地图
-- [ol-ext](https://github.com/Viglino/ol-ext) OpenLayers 的酷炫扩展——动画聚类、CSS 弹窗、Font Awesome 符号渲染器、统计地图图表（饼图/柱状图）、图层切换器、维基百科图层、动画、Canvas 滤镜
-- [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) 在 OpenLayers 中使用 Mapbox 样式对象
-- [vis-network](https://github.com/visjs/vis-network) 显示动态、自动组织、可自定义的网络视图
-- [vis-data](https://github.com/visjs/vis-data) 使用 DataSet 管理非结构化数据。添加、更新和删除数据，并监听数据变化
 - [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
 - [bootstrap](https://github.com/twbs/bootstrap) 最流行的 HTML、CSS 和 JavaScript 框架，用于在网页上开发响应式、移动优先的项目
@@ -772,12 +772,8 @@
 - [typo-js](https://github.com/cfinke/Typo.js) 一个使用 Hunspell 风格词典的客户端 JavaScript 拼写检查器
 - [p5](https://github.com/processing/p5.js) 赋能艺术家、设计师、学生以及所有人群学习编程，并在网页上进行创意表达
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 一套完备的 TypeScript 模式匹配库，具备智能类型推导能力
-- [@fontsource-variable/geist](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/geist) 可用于本地部署「Geist」可变字体的 CSS 与网页字体文件
-- [@fontsource-variable/jetbrains-mono](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/jetbrains-mono)
-- [@fontsource-variable/inter](https://github.com/fontsource/font-files/tree/HEAD/fonts/variable/inter) 用于本地部署「Inter」可变字体的 CSS 与网页字体文件
 - [border-beam-vanilla](https://github.com/jqueryscript/border-beam-vanilla) 原生 JavaScript 实现的动画边框光束特效
 - [barcode-detector](https://github.com/Sec-ant/barcode-detector) 一款条码检测 API 兼容填充库（ponyfill/polyfill），底层基于 ZXing-C++ WebAssembly 实现
-- [xss](https://github.com/leizongmin/js-xss) 通过白名单配置对不可信 HTML 进行安全净化（防止跨站脚本攻击 XSS）
 - [@azure/msal-browser](https://github.com/AzureAD/microsoft-authentication-library-for-js) 适用于 JavaScript 的微软身份验证库
 - [fast](https://github.com/microsoft/fast) 专注于原生网页组件与现代网页标准的兼容支持(Web Components)
 - [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill)

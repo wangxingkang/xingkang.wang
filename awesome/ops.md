@@ -19,6 +19,22 @@
 
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+- [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
+- [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
+- [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
+- [filepizza](https://github.com/kern/filepizza) 浏览器内点对点文件传输
+- [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
+## 终端
+
+- [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [zsh](https://github.com/zsh-users/zsh)
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
+  - [zsh-completions](https://github.com/zsh-users/zsh-completions)
+  - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
 
 ## 自动化
 
@@ -39,6 +55,8 @@
 - [redis](https://github.com/redis/redis) 最快、功能最丰富的缓存、数据结构服务器以及文档和向量查询引擎
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
+- [@electric-sql/react](https://github.com/electric-sql/electric/tree/main/packages/react-hooks) 为现代应用打造的 Postgres 同步方案
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
 
 ## 资源
 
