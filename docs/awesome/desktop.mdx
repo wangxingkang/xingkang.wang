@@ -1,5 +1,60 @@
 # Desktop
 
+## 应用与工具
+
+### macOS
+
+- [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
+- [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) MacOS 键盘自定义工具
+  - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) 轻松配置 Karabiner
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
+- [KeyCastr](https://github.com/keycastr/keycastr) 按键可视化工具
+- [CotEditor](https://github.com/coteditor/CotEditor) 适用于 MacOS 的轻量级纯文本编辑器
+- [gasmask](https://github.com/2ndalpha/gasmask) MacOS 的 hosts 文件管理器
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) MacOS 菜单栏工具包
+- [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
+- [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
+- [Thor](https://github.com/gbammc/Thor) 使用快捷键切换应用
+- [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
+- [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
+- [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
+- [GitUp](https://github.com/git-up/GitUp) Git 操作终端
+- [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
+- [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
+- [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器
+
+### 跨平台
+
+- [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
+- [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
+- [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
+- [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
+- [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
+
+### 媒体
+
+- [HandBrake](https://github.com/HandBrake/HandBrake) 开源视频转码器
+- [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 字幕编辑器
+- [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) 适配 Photoshop 用户的 GIMP 3 及以上版本补丁
+- [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
+- [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
+- [screenity](https://github.com/alyssaxuu/screenity) 无限制、保护隐私的免费屏幕录制工具
+- [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
+- [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
+- [readest](https://github.com/readest/readest) 电子书阅读器
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源版剪映平替
+- [openscreen](https://github.com/siddharthvaddem/openscreen) 免费创建精美演示视频。开源、无订阅、无水印，且可免费用于商业用途，是 Screen Studio 的替代方案
+- [Recordly](https://github.com/webadderall/Recordly) 这是一款免费开源的 Screen Studio 替代软件，可为你的屏幕录制添加自动缩放、鼠标动画等功能。它基于 OpenScreen 进行了深度修改。
+
+### 开发组件
+
+- [Sparkle](https://github.com/sparkle-project/Sparkle) MacOS 的软件更新框架
+
 ## Electron
 
 ### 官方资源

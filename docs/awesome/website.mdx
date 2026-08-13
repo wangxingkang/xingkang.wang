@@ -14,6 +14,7 @@
 - [ipaddress](https://www.ipaddress.com/website)
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
+- [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [OpenAlternative](https://openalternative.co/) 开源替代品目录，用于查找常见商业软件的开源替代方案
 - [OpenSourceAlternative.to](https://opensourcealternative.to/) 开源替代品目录，用于用开源软件替换专有软件产品
 
@@ -51,6 +52,7 @@
   - [mianshiya](https://github.com/liyupi/mianshiya) 开源仓库
 - [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
 - [business-util](https://wsafight.github.io/business-util/business/currency/)
+- [type-review](https://github.com/xiaolai/type-review) 一款自适应式打字练习网页应用，简洁无干扰 —— 无需注册账号、不连接服务器、无任何数据采集
 
 ## 素材
 
