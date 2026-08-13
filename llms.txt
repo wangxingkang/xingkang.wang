@@ -35,6 +35,7 @@
 - [Rust](/awesome/rust.md)
 - [GO](/awesome/go.md)
 - [Python](/awesome/python.md)
+- [C/C++ 开发](/awesome/cpp.md)
 - [运维](/awesome/ops.md)
 - [Java](/awesome/java.md)
 

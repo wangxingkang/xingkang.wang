@@ -57,6 +57,7 @@
 
 ## 其他
 
+- [zhuque](https://github.com/TrionesType/zhuque) 朱雀仿宋/朱雀宋朝/Zhuque
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) 复刻 GitHub Markdown 样式所需的最简 CSS 代码
 
 ## 学习

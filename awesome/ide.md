@@ -1,5 +1,9 @@
 # IDE
 
+## 编辑器
+
+- [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
+
 ## VsCode
 
 ### 插件
