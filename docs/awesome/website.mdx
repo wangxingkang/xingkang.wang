@@ -40,6 +40,7 @@
 
 - [PI Agent 学习指南](https://pistudy.com.cn)
 - [datawhale](https://www.datawhale.cn) 学习 ai
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 从零复刻经典技术，精通编程之道
 - [leetcode-master](https://github.com/youngyangyang04/leetcode-master) 《代码随想录》LeetCode 刷题攻略
 - [langshift](https://langshift.dev) 通过比较不同的计算机语言，学习新语言
 - [usehook](https://usehook.cn)
@@ -75,6 +76,7 @@
 ## 其他
 
 - [bewild](https://bewild.ai) 国外模型订阅
+- [iptv](https://github.com/iptv-org/iptv) 汇集全球各地公开可用的网络电视（IPTV）频道资源
 - [dribbble](https://dribbble.com) 全球设计师社区
 - [fmhy](https://fmhy.net) 互联网上最大规模的免费资源集合
 - [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
