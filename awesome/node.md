@@ -182,7 +182,6 @@
 - [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
 - [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
 - [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
-- [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
@@ -370,7 +369,6 @@
   - [winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) 每日生成轮换日志文件
 - [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
-- [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
   - [pino-pretty](https://github.com/pinojs/pino-pretty) Pino 日志行基础美化工具
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现

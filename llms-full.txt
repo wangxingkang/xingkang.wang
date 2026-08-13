@@ -3257,6 +3257,57 @@ url: /awesome/test.md
 
 
 ---
+url: /awesome/security.md
+---
+
+# 安全
+
+## 身份认证
+
+- [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
+- [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
+- [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
+- [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
+- [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
+- [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
+
+## 工具
+
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
+- [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
+
+
+
+---
+url: /awesome/self-hosted.md
+---
+
+# 自托管
+
+## 个人云
+
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
+- [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
+- [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
+- [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
+- [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
+- [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
+
+## 网络
+
+- [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 面向全家设备的开源 DNS 广告与跟踪拦截服务，支持自托管和网络级过滤
+- [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
+
+## 媒体
+
+- [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
+- [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
+- [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
+
+
+
+---
 url: /awesome/github.md
 ---
 
@@ -3286,11 +3337,7 @@ url: /awesome/github.md
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
-- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
-- [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 面向全家设备的开源 DNS 广告与跟踪拦截服务，支持自托管和网络级过滤
-- [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) Caesium 是一款图片压缩软件，可帮助你存储、发送和分享数码照片，支持 JPG、PNG、WebP 及 TIFF 格式。它能在保留图像整体质量的前提下，快速减小文件大小（如需，也可同时降低分辨率）。
@@ -3334,7 +3381,6 @@ url: /awesome/github.md
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
-- [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
 - [zvec](https://github.com/alibaba/zvec) 轻量、极速、进程内矢量数据库
 - [palmier-pro](https://github.com/palmier-io/palmier-pro) 专为 AI 打造的 macOS 视频编辑器
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
@@ -3348,7 +3394,6 @@ url: /awesome/github.md
 - [filepizza](https://github.com/kern/filepizza) 浏览器内点对点文件传输
 - [plane](https://github.com/makeplane/plane) 现代化项目管理平台，可用于管理任务、迭代周期、文档和问题分类处理
 - [opencv](https://github.com/opencv/opencv) 计算机视觉库
-- [ezshare](https://github.com/mifi/ezshare) 可在局域网内轻松共享文件、文件夹与剪贴板 —— 功能类似谷歌云盘，但无需联网
 - [lossless-cut](https://github.com/mifi/lossless-cut) 无损音视频剪辑界的万能工具
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
@@ -3357,12 +3402,9 @@ url: /awesome/github.md
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
-- [WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) 在自己的 NAS / 服务器上运行「服务端微信」，多端浏览器共享同一个微信会话
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
-- [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
-- [immich](https://github.com/immich-app/immich) 高性能自托管照片与视频管理解决方案
 - [box2d](https://github.com/erincatto/box2d) 用于游戏的 2D 物理引擎
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
@@ -3606,7 +3648,6 @@ url: /awesome/node.md
 - [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
 - [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
 - [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
-- [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
@@ -3794,7 +3835,6 @@ url: /awesome/node.md
   - [winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) 每日生成轮换日志文件
 - [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
 - [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
-- [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
   - [pino-pretty](https://github.com/pinojs/pino-pretty) Pino 日志行基础美化工具
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
@@ -4067,7 +4107,6 @@ url: /awesome/go.md
 
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
-- [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
 - [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
 - [freeze](https://github.com/charmbracelet/freeze) 生成代码与终端输出的图像
@@ -4080,23 +4119,16 @@ url: /awesome/go.md
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
 - [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
 - [glow](https://github.com/charmbracelet/glow) 在命令行中精美渲染 Markdown 文档
-- [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
 - [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
-- [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
-- [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
-- [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
-- [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
-- [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
-- [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
 - [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
 - [wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
 - [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
@@ -4106,7 +4138,6 @@ url: /awesome/go.md
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
-- [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
 - [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具

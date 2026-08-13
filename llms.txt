@@ -27,6 +27,8 @@
 - [Website](/awesome/website.md)
 - [工程化](/awesome/engineering.md)
 - [Test](/awesome/test.md)
+- [安全](/awesome/security.md)
+- [自托管](/awesome/self-hosted.md)
 - [GitHub](/awesome/github.md)
 - [IDE](/awesome/ide.md)
 - [Node](/awesome/node.md): awesome-nodejs

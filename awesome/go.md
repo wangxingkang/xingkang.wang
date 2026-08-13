@@ -29,7 +29,6 @@
 
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
-- [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
 - [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
 - [freeze](https://github.com/charmbracelet/freeze) 生成代码与终端输出的图像
@@ -42,23 +41,16 @@
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
 - [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
 - [glow](https://github.com/charmbracelet/glow) 在命令行中精美渲染 Markdown 文档
-- [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
 - [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
-- [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
-- [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
-- [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
-- [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
-- [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
-- [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
 - [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
 - [wx\_channels\_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
 - [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
@@ -68,7 +60,6 @@
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
-- [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
 - [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
