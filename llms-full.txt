@@ -388,6 +388,7 @@ url: /awesome/ai.md
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
 - [agentskills](https://github.com/agentskills/agentskills) 智能体技能的规范与文档
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
+- [diagram-design](https://github.com/cathrynlavery/diagram-design) 面向 Claude Code、Codex 和 Pi 的图示设计 Skill，提供多种可品牌化的编辑型 HTML + SVG 图表模板
 
 ## 学习
 
@@ -2272,6 +2273,7 @@ url: /awesome/javascript.md
 ## 图标
 
 - [logos](https://github.com/gilbarbara/logos) 海量 SVG 标志图标合集
+- [Iconify](https://github.com/iconify/iconify) 通用图标框架，统一使用 200+ 开源图标集，并提供 Web Component、React、Vue、Svelte 等组件
 - [lucide](https://lucide.dev/guide/packages/lucide)
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 - [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
@@ -4084,6 +4086,7 @@ url: /awesome/go.md
 - [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
 - [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
+- [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作

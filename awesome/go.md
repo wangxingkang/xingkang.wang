@@ -48,6 +48,7 @@
 - [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
 - [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品
+- [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 - [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
