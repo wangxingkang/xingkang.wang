@@ -663,6 +663,7 @@
 - [number-flow](https://github.com/barvian/number-flow) 适用于 React、Vue、Svelte 和 TS/JS 的动画数字组件。
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) 一款可自定义、模块化、响应式的灯箱画廊插件
 - [vlist](https://github.com/floor/vlist) 适用于任何框架的极致高效虚拟列表库，零依赖、体积仅 9.7KB，内置无障碍支持
+- [@egjs/infinitegrid](https://github.com/naver/egjs-infinitegrid) 根据网格类型无限排列不同尺寸卡片元素的原生 JavaScript 组件
 
 ### 文件相关
 
