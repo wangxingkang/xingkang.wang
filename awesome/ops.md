@@ -39,6 +39,7 @@
 ## 自动化
 
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
+- [devenv](https://github.com/cachix/devenv) 基于 Nix 的快速、声明式、可复现开发环境工具，内置语言、服务、任务、进程和密钥集成
 
 ## 代码托管
 

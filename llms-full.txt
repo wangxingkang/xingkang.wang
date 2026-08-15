@@ -466,6 +466,7 @@ url: /awesome/ai.md
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
+- [tuicr](https://github.com/agavra/tuicr) 带 Vim 键位的代码评审 TUI，可向 GitHub、GitLab、Bitbucket 或剪贴板导出评审意见
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
@@ -1655,6 +1656,7 @@ url: /awesome/javascript.md
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
   - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) 用于加速光线投射、并支持对 three.js 网格进行空间查询的 BVH（边界体积层次结构）实现
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) 面向 Web 与 Node.js 的 glTF 2.0 JavaScript/TypeScript SDK 和 CLI，用于读取、编辑、优化 3D 模型
 - [playcanvas](https://github.com/playcanvas/engine) 基于 WebGL2 和 WebGPU 构建的开源游戏引擎
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
@@ -3355,6 +3357,7 @@ url: /awesome/security.md
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
+- [secretspec](https://github.com/cachix/secretspec) 声明式密钥配置工具，将密钥需求提交到代码库，实际值存放在 keyring、1Password、Vault、SOPS 等后端
 
 
 
@@ -3979,6 +3982,8 @@ url: /awesome/rust.md
 - [rapier](https://github.com/dimforge/rapier) 主打高性能的 2D 与 3D 物理引擎
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
+- [libkrun](https://github.com/libkrun/libkrun) 提供 KVM/HVF 虚拟化进程隔离能力的动态库，用简单 C API 嵌入轻量 VMM
+- [muvm](https://github.com/AsahiLinux/muvm) 基于 libkrun 在 microVM 中运行本机程序，支持图形应用、GPU 加速和跨架构运行
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zoxide](https://github.com/ajeetdsouza/zoxide) 更智能的切换目录命令，兼容主流终端
@@ -4360,6 +4365,7 @@ url: /awesome/ops.md
 ## 自动化
 
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
+- [devenv](https://github.com/cachix/devenv) 基于 Nix 的快速、声明式、可复现开发环境工具，内置语言、服务、任务、进程和密钥集成
 
 ## 代码托管
 

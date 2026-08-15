@@ -71,6 +71,7 @@
 - [Babylon](https://github.com/BabylonJS/Babylon.js)
 - [three](https://github.com/mrdoob/three.js)
   - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) 用于加速光线投射、并支持对 three.js 网格进行空间查询的 BVH（边界体积层次结构）实现
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) 面向 Web 与 Node.js 的 glTF 2.0 JavaScript/TypeScript SDK 和 CLI，用于读取、编辑、优化 3D 模型
 - [playcanvas](https://github.com/playcanvas/engine) 基于 WebGL2 和 WebGPU 构建的开源游戏引擎
   - [splat-transform](https://github.com/playcanvas/splat-transform) 用于3D 高斯溅射处理与格式转换的命令行工具及程序库
   - [supersplat](https://github.com/playcanvas/supersplat) 3D 高斯溅射编辑器
