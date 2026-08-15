@@ -156,6 +156,7 @@
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
+- [tuicr](https://github.com/agavra/tuicr) 带 Vim 键位的代码评审 TUI，可向 GitHub、GitLab、Bitbucket 或剪贴板导出评审意见
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务

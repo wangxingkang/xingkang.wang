@@ -20,3 +20,4 @@
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
+- [secretspec](https://github.com/cachix/secretspec) 声明式密钥配置工具，将密钥需求提交到代码库，实际值存放在 keyring、1Password、Vault、SOPS 等后端
