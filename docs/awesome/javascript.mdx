@@ -183,6 +183,7 @@
   - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
 - [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
+- [schemastery](https://github.com/shigma/schemastery) 类型驱动的轻量 Schema 校验库，支持 union、intersect、transform 和 JSON 序列化
 - [sury](https://github.com/DZakh/sury)
 
 ### 数据生成
