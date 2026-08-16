@@ -124,6 +124,8 @@
 
 - [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
+- [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
+- [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) 更友好的交互式 pnpm patch 包装器，可在本地 node\_modules 中编辑并自动提交补丁
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具

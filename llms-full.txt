@@ -864,6 +864,7 @@ url: /awesome/vibe-coding.md
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 - [cline](https://github.com/cline/cline) 自主编码代理，可作为 SDK、IDE 扩展或 CLI 助手使用
 - [opensquilla](https://github.com/opensquilla/opensquilla) 微内核 AI Agent——智能路由、持久记忆、安全沙箱、开箱即用的搜索与本地嵌入
+- [gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包
 
 
 
@@ -1768,6 +1769,7 @@ url: /awesome/javascript.md
   - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
 - [yup](https://github.com/jquense/yup) 极简对象模式验证
 - [valibot](https://github.com/open-circle/valibot) 一款模块化、类型安全的结构化数据校验模式库
+- [schemastery](https://github.com/shigma/schemastery) 类型驱动的轻量 Schema 校验库，支持 union、intersect、transform 和 JSON 序列化
 - [sury](https://github.com/DZakh/sury)
 
 ### 数据生成
@@ -3222,6 +3224,8 @@ url: /awesome/engineering.md
 
 - [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
+- [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
+- [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) 更友好的交互式 pnpm patch 包装器，可在本地 node\_modules 中编辑并自动提交补丁
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
@@ -3487,6 +3491,7 @@ url: /awesome/node.md
 - [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
 - [@anthropic-ai/sdk](https://github.com/anthropics/anthropic-sdk-typescript) Anthropic API 官方 TypeScript / JavaScript 开发库
 - [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
+- [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
 - [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
 - [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
@@ -3509,6 +3514,7 @@ url: /awesome/node.md
 
 ## 框架
 
+- [cordis](https://github.com/cordiverse/cordis) 面向时空可组合性的 TypeScript 插件元框架，用于构建可扩展应用
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
   - [@hono/node-server](https://github.com/honojs/node-server) 基于 Node.js 的 Hono 服务端
   - [@hono/zod-openapi](https://github.com/honojs/middleware/tree/HEAD/packages/zod-openapi)

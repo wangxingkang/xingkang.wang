@@ -29,6 +29,7 @@
 - [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
 - [@anthropic-ai/sdk](https://github.com/anthropics/anthropic-sdk-typescript) Anthropic API 官方 TypeScript / JavaScript 开发库
 - [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
+- [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
 - [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
 - [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
@@ -51,6 +52,7 @@
 
 ## 框架
 
+- [cordis](https://github.com/cordiverse/cordis) 面向时空可组合性的 TypeScript 插件元框架，用于构建可扩展应用
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
   - [@hono/node-server](https://github.com/honojs/node-server) 基于 Node.js 的 Hono 服务端
   - [@hono/zod-openapi](https://github.com/honojs/middleware/tree/HEAD/packages/zod-openapi)
