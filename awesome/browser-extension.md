@@ -20,6 +20,7 @@
 ## 其他
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
+- [voyager](https://github.com/Nagi-ovo/voyager) 面向 Gemini、AI Studio、Claude 与 ChatGPT 的浏览器增强套件，提供会话整理、提示词库、同步和导出能力
 - [read-frog](https://github.com/mengxi-ream/read-frog) 陪读蛙 - 开源沉浸式翻译
 
 ## 案例
