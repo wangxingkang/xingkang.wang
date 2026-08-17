@@ -3,6 +3,7 @@
 ## 身份认证
 
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
+- [OpenFGA](https://github.com/openfga/openfga) 受 Google Zanzibar 启发的高性能细粒度授权与权限引擎，支持在应用中建模和执行访问控制
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架
 - [tinyauth](https://github.com/tinyauthapp/tinyauth) 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端
 - [hanko](https://github.com/teamhanko/hanko) 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品

@@ -92,6 +92,7 @@
 - [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) 零依赖、优化的 JavaScript bcrypt 实现，支持 TypeScript
 - [request-ip](https://github.com/pbojinov/request-ip) 一个用于在服务器端获取请求 IP 地址的 Node.js 模块
 - [basic-auth](https://github.com/jshttp/basic-auth) 通用基础认证 Authorization 请求头解析器
+- [node-casbin](https://github.com/apache/casbin-node-casbin) 适用于 Node.js 和浏览器的访问控制库，支持 ACL、RBAC、ABAC 等授权模型
 - [ssh2](https://github.com/mscdex/ssh2) 适用于 Node.js 的 SSH2 客户端与服务端模块
 - [rfc6902](https://github.com/chbrown/rfc6902) 基于 TypeScript 完整实现 RFC6902 标准
 - [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器

@@ -443,6 +443,7 @@
 - [sql.js](https://github.com/sql-js/sql.js) 一个可在网页端运行 SQLite 的 JavaScript 库
 - [socket.io-client](https://github.com/socketio/socket.io)
 - [panzoom](https://github.com/anvaka/panzoom) 通用平移缩放库
+- [svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) 用于在 HTML 中为 SVG 添加平移和缩放能力的 JavaScript 库，支持鼠标事件、自定义钩子和屏幕缩放控件
 - [js-sha256](https://github.com/emn178/js-sha256) 一款简洁的 JavaScript SHA-256 / SHA-224 哈希函数库，支持 UTF-8 编码
 - [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 用 JavaScript 实现截图功能
 - [html-entities](https://github.com/mdevils/html-entities) 极速 HTML 实体编码/解码库
@@ -478,6 +479,7 @@
 - [sugar-high](https://github.com/huozhi/sugar-high) 超轻量级代码语法高亮工具
 - [SoundTouchJS](https://github.com/cutterbl/SoundTouchJS) 一个用于操作 WebAudio 上下文的 JavaScript 库，专门用于处理音调/调性变换
 - [cross-storage](https://github.com/zendesk/cross-storage) 带权限控制的跨域本地存储
+- [CASL](https://github.com/stalniy/casl) 同构 JavaScript 授权库，可在前后端共享基于声明式规则的权限控制
 - [zoid](https://github.com/krakenjs/zoid) 跨域组件
 - [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) 只需调用单个函数，即可打造快速且响应稳定的应用
 - [assemblyscript](https://github.com/AssemblyScript/assemblyscript) 一种面向 WebAssembly、类 TypeScript 的编程语言。
