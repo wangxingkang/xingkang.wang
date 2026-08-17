@@ -5,12 +5,12 @@
 <title>安全 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-bd88eae34ae3.b32edd3939.js" as="script">
+<link rel="preload" href="/static/js/async/route-bd88eae34ae3.14812ebd87.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.fd98b056ff.js"></script>
+<script defer src="/static/js/index.336b34e23a.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -24,6 +24,7 @@
 <h2 class="rp-toc-include" id="身份认证"><a href="#身份认证" class="rp-header-anchor rp-link" aria-hidden="true">#</a>身份认证</h2>
 <ul>
 <li><a href="https://github.com/logto-io/logto" target="_blank" rel="noopener noreferrer" class="rp-link">logto</a> 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施</li>
+<li><a href="https://github.com/openfga/openfga" target="_blank" rel="noopener noreferrer" class="rp-link">OpenFGA</a> 受 Google Zanzibar 启发的高性能细粒度授权与权限引擎，支持在应用中建模和执行访问控制</li>
 <li><a href="https://github.com/better-auth/better-auth" target="_blank" rel="noopener noreferrer" class="rp-link">better-auth</a> 适用于 TypeScript 的最全面身份认证框架</li>
 <li><a href="https://github.com/tinyauthapp/tinyauth" target="_blank" rel="noopener noreferrer" class="rp-link">tinyauth</a> 你所能见到的、体积最小的通过 OpenID Certified™ 认证的授权与身份验证服务端</li>
 <li><a href="https://github.com/teamhanko/hanko" target="_blank" rel="noopener noreferrer" class="rp-link">hanko</a> 自主掌控的现代化身份认证方案，是 Auth0、Clerk、WorkOS、Stytch 的开源替代产品</li>

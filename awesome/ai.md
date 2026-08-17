@@ -136,6 +136,7 @@
 - [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件
 - [dsh-market](https://github.com/dsh-market/dsh-market) DeepSeek Harness 插件市场项目，用于集中发现和分发 DSH 生态插件
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
+- [flowix](https://github.com/text2future/flowix) 本地优先的 Markdown 笔记与 Agent 记忆桌面应用，可把笔记作为 Codex、Claude Code、OpenCode 等工具的上下文
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) 轻量快速的 AI 助手
 - [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
