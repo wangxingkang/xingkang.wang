@@ -954,6 +954,7 @@ url: /awesome/react.md
 
 ## 动画
 
+- [Amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) 基于 Motion 的 React 微交互、过渡组件与卡片布局集合，支持 CLI 和 shadcn/ui Registry 安装
 - [@gsap/react](https://github.com/greensock/react) 用于在 React 中使用 GSAP 的工具
 - [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
 - [react-animate-height](https://github.com/Stanko/react-animate-height) 轻量级 React 组件，借助 CSS 过渡实现高度动画效果
@@ -1018,7 +1019,7 @@ url: /awesome/react.md
 - [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
-- [react-bits](https://github.com/DavidHDev/react-bits) 一款开源的 React 组件合集
+- [react-bits](https://github.com/DavidHDev/react-bits) 开源 React 动画与交互组件合集，提供可定制的文字动画、背景和 UI 组件
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
 - [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
