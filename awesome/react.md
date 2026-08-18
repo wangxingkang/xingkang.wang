@@ -217,6 +217,7 @@
 
 - [react-photo-album](https://github.com/igordanchenko/react-photo-album) 适用于 React 的响应式图片画廊组件
 - [rc-dock](https://github.com/ticlo/rc-dock) 适用于 React 组件的停靠式布局
+- [dockview](https://github.com/dockview/dockview) 零依赖的 Web 停靠式布局管理器，支持标签页、分组、网格、分割视图以及 React/Vue/Angular
 - [react-rnd](https://github.com/bokuweb/react-rnd) 🖱 一款面向 React 的可调整大小且可拖拽组件
 - [re-resizable](https://github.com/bokuweb/re-resizable) 一个适用于 React 的可调整尺寸组件
 - [react-sticky-box](https://github.com/codecks-io/react-sticky-box) 支持各类尺寸内容的粘性容器组件
@@ -264,6 +265,7 @@
 - [tweakpane](https://github.com/cocopon/tweakpane) 用于精细调参与监控数值变化的紧凑图形界面
 - [@visual-json/react](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器
 - [react-select](https://github.com/JedWatson/react-select) 适用于 React.js 的下拉选择组件
+- [chakra-react-select](https://github.com/csandman/chakra-react-select) 基于 Chakra UI 封装的 react-select 组件，提供 Chakra 风格样式与额外表单属性
 
 ### 数据展示
 

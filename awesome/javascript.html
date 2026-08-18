@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.9ada56797c.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.f3cf8feaa7.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.336b34e23a.js"></script>
+<script defer src="/static/js/index.3e26cf061f.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -190,6 +190,7 @@
 <li><a href="https://github.com/sindresorhus/string-length" target="_blank" rel="noopener noreferrer" class="rp-link">string-length</a> 获取字符串的真实长度</li>
 <li><a href="https://github.com/sindresorhus/string-width" target="_blank" rel="noopener noreferrer" class="rp-link">string-width</a> 获取字符串的视觉宽度 —— 即显示该字符串所需的列数</li>
 <li><a href="https://github.com/sindresorhus/humanize-string" target="_blank" rel="noopener noreferrer" class="rp-link">humanize-string</a> 将驼峰式、短横线连接式或下划线连接式字符串转换为更易读的格式：<code>fooBar-Baz_Faz → Foo bar baz faz</code></li>
+<li><a href="https://github.com/Rich-Harris/magic-string" target="_blank" rel="noopener noreferrer" class="rp-link">magic-string</a> 小巧快速的字符串改写工具，适合轻量源码修改并生成 sourcemap</li>
 </ul>
 <h3 class="rp-toc-include" id="样式相关"><a href="#样式相关" class="rp-header-anchor rp-link" aria-hidden="true">#</a>样式相关</h3>
 <ul>
@@ -366,6 +367,7 @@
 <li><a href="https://github.com/planttheidea/micro-memoize" target="_blank" rel="noopener noreferrer" class="rp-link">micro-memoize</a> 一个极致快速、小巧但功能丰富的记忆化库</li>
 <li><a href="https://github.com/Corbe30/FortuneExcel" target="_blank" rel="noopener noreferrer" class="rp-link">@corbe30/fortune-excel</a> FortuneSheet 的 Excel 导入/导出库</li>
 <li><a href="https://github.com/reduxjs/redux-toolkit" target="_blank" rel="noopener noreferrer" class="rp-link">@reduxjs/toolkit</a> 开箱即用的高效 Redux 开发工具集</li>
+<li><a href="https://github.com/zewish/redux-remember" target="_blank" rel="noopener noreferrer" class="rp-link">redux-remember</a> 将 Redux 状态保存到任意键值存储并重新水合，支持选择性持久化和多平台存储驱动</li>
 <li><a href="https://github.com/reduxjs/reselect" target="_blank" rel="noopener noreferrer" class="rp-link">reselect</a> Redux 选择器库</li>
 <li><a href="https://github.com/rrweb-io/rrweb" target="_blank" rel="noopener noreferrer" class="rp-link">rrweb</a> 录制和回放网络<!-- -->
 <ul>
@@ -420,11 +422,13 @@
 <li><a href="https://github.com/sindresorhus/filenamify" target="_blank" rel="noopener noreferrer" class="rp-link">filenamify</a> 将字符串转换为合法安全的文件名</li>
 <li><a href="https://github.com/g-plane/typed-query-selector" target="_blank" rel="noopener noreferrer" class="rp-link">typed-query-selector</a> 类型更完善的 querySelector 与 querySelectorAll</li>
 <li><a href="https://github.com/sindresorhus/linkify-urls" target="_blank" rel="noopener noreferrer" class="rp-link">linkify-urls</a> 将字符串中的 URL 转换为可点击链接</li>
+<li><a href="https://github.com/nfrasser/linkifyjs" target="_blank" rel="noopener noreferrer" class="rp-link">linkifyjs</a> 从纯文本中识别 URL、邮箱、话题和提及，并转换为 HTML 链接的 JavaScript 插件</li>
 <li><a href="https://github.com/sindresorhus/memoize" target="_blank" rel="noopener noreferrer" class="rp-link">memoize</a> 通过缓存相同入参的调用结果，加快重复函数调用的执行速度</li>
 <li><a href="https://github.com/sindresorhus/p-memoize" target="_blank" rel="noopener noreferrer" class="rp-link">p-memoize</a> 对返回 Promise 的函数与异步函数进行记忆缓存</li>
 <li><a href="https://github.com/fregante/one-event" target="_blank" rel="noopener noreferrer" class="rp-link">one-event</a> 添加仅触发一次的事件监听器</li>
 <li><a href="https://github.com/fregante/select-dom" target="_blank" rel="noopener noreferrer" class="rp-link">select-dom</a> 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常</li>
 <li><a href="https://github.com/refined-github/shorten-repo-url" target="_blank" rel="noopener noreferrer" class="rp-link">shorten-repo-url</a> 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接</li>
+<li><a href="https://github.com/sindresorhus/new-github-issue-url" target="_blank" rel="noopener noreferrer" class="rp-link">new-github-issue-url</a> 生成预填充标题、正文、标签等字段的新 GitHub Issue URL</li>
 <li><a href="https://github.com/sindresorhus/strip-indent" target="_blank" rel="noopener noreferrer" class="rp-link">strip-indent</a> 去除字符串每一行开头的空白字符</li>
 <li><a href="https://github.com/sindresorhus/ts-extras" target="_blank" rel="noopener noreferrer" class="rp-link">ts-extras</a> 适用于 TypeScript 项目的基础工具库</li>
 <li><a href="https://github.com/sindresorhus/uint8array-extras" target="_blank" rel="noopener noreferrer" class="rp-link">uint8array-extras</a> 用于处理 Uint8Array（以及 Buffer）的实用工具函数</li>
@@ -461,6 +465,7 @@
 <li><a href="https://github.com/fastify/safe-regex2" target="_blank" rel="noopener noreferrer" class="rp-link">safe-regex2</a> 检测存在潜在灾难性指数耗时问题的正则表达式</li>
 <li><a href="https://github.com/muan/unicode-emoji-json" target="_blank" rel="noopener noreferrer" class="rp-link">unicode-emoji-json</a> 从 unicode.org 获取的 Emoji 数据，整理为便于读取使用的 JSON 文件</li>
 <li><a href="https://github.com/BridgeAR/safe-stable-stringify" target="_blank" rel="noopener noreferrer" class="rp-link">safe-stable-stringify</a> 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify</li>
+<li><a href="https://github.com/shuding/stable-hash" target="_blank" rel="noopener noreferrer" class="rp-link">stable-hash</a> 小巧快速的 JavaScript 值稳定哈希库，支持对象键排序、循环引用和多种 JS 值类型</li>
 <li><a href="https://github.com/graphology/graphology" target="_blank" rel="noopener noreferrer" class="rp-link">graphology</a> 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象</li>
 <li><a href="https://github.com/catdad/canvas-confetti" target="_blank" rel="noopener noreferrer" class="rp-link">canvas-confetti</a> 浏览器端高性能彩带飘落动画</li>
 <li><a href="https://github.com/NTag/dotted-map" target="_blank" rel="noopener noreferrer" class="rp-link">dotted-map</a> 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充</li>
@@ -623,6 +628,7 @@
 <li><a href="https://github.com/atomiks/tippyjs" target="_blank" rel="noopener noreferrer" class="rp-link">tippyjs</a> 工具提示、气泡卡片、下拉菜单与菜单组件库</li>
 <li><a href="https://github.com/pqina/filepond" target="_blank" rel="noopener noreferrer" class="rp-link">filepond</a> 一款灵活易用、体验出色的 JavaScript 文件上传库</li>
 <li><a href="https://github.com/sindresorhus/type-fest" target="_blank" rel="noopener noreferrer" class="rp-link">type-fest</a> 一组必备的 TypeScript 类型集合</li>
+<li><a href="https://github.com/garronej/tsafe" target="_blank" rel="noopener noreferrer" class="rp-link">tsafe</a> TypeScript 工具函数集合，提供类型相等校验、断言函数和穷尽性检查等类型安全辅助能力</li>
 <li><a href="https://github.com/mathiasbynens/emoji-regex" target="_blank" rel="noopener noreferrer" class="rp-link">emoji-regex</a> 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式</li>
 <li><a href="https://github.com/FlowiseAI/FlowiseChatEmbed" target="_blank" rel="noopener noreferrer" class="rp-link">flowise-embed</a> 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库</li>
 <li><a href="https://github.com/showdownjs/showdown" target="_blank" rel="noopener noreferrer" class="rp-link">showdown</a> 一款使用 JavaScript 编写的 Markdown 与 HTML 双向转换器</li>
