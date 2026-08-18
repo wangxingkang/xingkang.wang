@@ -153,6 +153,7 @@
 - [string-length](https://github.com/sindresorhus/string-length) 获取字符串的真实长度
 - [string-width](https://github.com/sindresorhus/string-width) 获取字符串的视觉宽度 —— 即显示该字符串所需的列数
 - [humanize-string](https://github.com/sindresorhus/humanize-string) 将驼峰式、短横线连接式或下划线连接式字符串转换为更易读的格式：`fooBar-Baz_Faz → Foo bar baz faz`
+- [magic-string](https://github.com/Rich-Harris/magic-string) 小巧快速的字符串改写工具，适合轻量源码修改并生成 sourcemap
 
 ### 样式相关
 
@@ -305,6 +306,7 @@
 - [micro-memoize](https://github.com/planttheidea/micro-memoize) 一个极致快速、小巧但功能丰富的记忆化库
 - [@corbe30/fortune-excel](https://github.com/Corbe30/FortuneExcel) FortuneSheet 的 Excel 导入/导出库
 - [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) 开箱即用的高效 Redux 开发工具集
+- [redux-remember](https://github.com/zewish/redux-remember) 将 Redux 状态保存到任意键值存储并重新水合，支持选择性持久化和多平台存储驱动
 - [reselect](https://github.com/reduxjs/reselect) Redux 选择器库
 - [rrweb](https://github.com/rrweb-io/rrweb) 录制和回放网络
   - [rrweb-player](https://github.com/rrweb-io/rrweb/tree/main/packages/rrweb-player)
@@ -350,11 +352,13 @@
 - [filenamify](https://github.com/sindresorhus/filenamify) 将字符串转换为合法安全的文件名
 - [typed-query-selector](https://github.com/g-plane/typed-query-selector) 类型更完善的 querySelector 与 querySelectorAll
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
+- [linkifyjs](https://github.com/nfrasser/linkifyjs) 从纯文本中识别 URL、邮箱、话题和提及，并转换为 HTML 链接的 JavaScript 插件
 - [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
 - [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
 - [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
 - [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
+- [new-github-issue-url](https://github.com/sindresorhus/new-github-issue-url) 生成预填充标题、正文、标签等字段的新 GitHub Issue URL
 - [strip-indent](https://github.com/sindresorhus/strip-indent) 去除字符串每一行开头的空白字符
 - [ts-extras](https://github.com/sindresorhus/ts-extras) 适用于 TypeScript 项目的基础工具库
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) 用于处理 Uint8Array（以及 Buffer）的实用工具函数
@@ -391,6 +395,7 @@
 - [safe-regex2](https://github.com/fastify/safe-regex2) 检测存在潜在灾难性指数耗时问题的正则表达式
 - [unicode-emoji-json](https://github.com/muan/unicode-emoji-json) 从 unicode.org 获取的 Emoji 数据，整理为便于读取使用的 JSON 文件
 - [safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) 一款安全、结果稳定且高效的序列化工具，可替代 JSON.stringify
+- [stable-hash](https://github.com/shuding/stable-hash) 小巧快速的 JavaScript 值稳定哈希库，支持对象键排序、循环引用和多种 JS 值类型
 - [graphology](https://github.com/graphology/graphology) 适用于 JavaScript 和 TypeScript 的功能强大、多用途图结构对象
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) 浏览器端高性能彩带飘落动画
 - [dotted-map](https://github.com/NTag/dotted-map) 制作赛博风格 SVG 地图，呈现特隆光影效果，可搭配点阵或六边形图案填充
@@ -547,6 +552,7 @@
 - [tippyjs](https://github.com/atomiks/tippyjs) 工具提示、气泡卡片、下拉菜单与菜单组件库
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [type-fest](https://github.com/sindresorhus/type-fest) 一组必备的 TypeScript 类型集合
+- [tsafe](https://github.com/garronej/tsafe) TypeScript 工具函数集合，提供类型相等校验、断言函数和穷尽性检查等类型安全辅助能力
 - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) 符合Unicode标准、用于匹配所有仅包含Emoji符号的正则表达式
 - [flowise-embed](https://github.com/FlowiseAI/FlowiseChatEmbed) 用于在您的网站上展示 Flowise 聊天机器人的 JavaScript 库
 - [showdown](https://github.com/showdownjs/showdown) 一款使用 JavaScript 编写的 Markdown 与 HTML 双向转换器

@@ -8,6 +8,7 @@
 
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
+- [LlamaFactory](https://github.com/hiyouga/LlamaFactory) 面向 100+ LLM 与 VLM 的统一高效微调框架，提供零代码 CLI 与 Web UI
 - [datasets](https://github.com/huggingface/datasets) 最大的即用型 AI 模型数据集中心，配备快速、易用、高效的数据处理工具
 - [diffusers](https://github.com/huggingface/diffusers) PyTorch 中最先进的扩散模型库，支持图像、视频和音频生成
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything) 一体化 RAG 框架
@@ -25,6 +26,7 @@
 - [pytorch](https://github.com/pytorch/pytorch) 深度学习框架
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 100 多个可直接运行的 AI Agent 与 RAG 应用——克隆、定制、部署即可使用
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) 面向 Stable Diffusion 等模型的专业视觉生成引擎，提供本地 Web UI、统一画布和节点工作流
 - [DeepSpec](https://github.com/deepseek-ai/DeepSpec) 一套用于训练与评估推测解码算法的全栈代码库
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) 基于连续表征的多语言语音合成、创意音色设计与高保真声音克隆

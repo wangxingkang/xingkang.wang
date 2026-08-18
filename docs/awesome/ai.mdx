@@ -106,6 +106,7 @@
 ### 音视频
 
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
+- [velorn](https://github.com/VelornLabs/velorn) 开源 AI 视频工作站，围绕真实时间线编辑、生成式工作流、本地 ComfyUI 与 MCP 智能体控制构建
 - [sentrysearch](https://github.com/ssrajadh/sentrysearch) 使用 Gemini Embedding 2 或 Qwen3-VL 对视频进行语义检索
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
