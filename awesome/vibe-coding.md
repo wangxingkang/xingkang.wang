@@ -160,6 +160,7 @@
 - [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 - [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
+- [scroll-world](https://github.com/oso95/scroll-world) 面向 Claude Code、Codex 等 Agent 的技能，可把品牌生成滚动穿越式 3D 世界落地页
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 面向 AI 编码代理和长期运行代理任务的持久化文件规划
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统

@@ -117,6 +117,7 @@
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
+- [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) 用 GitHub Actions 将项目同步部署到 FTP/FTPS 服务器
 - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
 - [toolkit](https://github.com/actions/toolkit) 用于开发 GitHub Actions 的 GitHub 工具套件
 
