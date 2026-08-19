@@ -153,6 +153,7 @@
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
 - [knip](https://github.com/webpro-nl/knip) ✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖与导出代码。上线前先清理干净！
 - [signoz](https://github.com/SigNoz/signoz) 基于 OpenTelemetry 的开源可观测性平台，在单一应用内集成日志、链路追踪与指标监控能力
+- [otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) 本地探索 OpenTelemetry traces、metrics 和 logs 的桌面查看器，内置 Collector、DuckDB 与 Svelte Web UI
 
 ## Nginx
 

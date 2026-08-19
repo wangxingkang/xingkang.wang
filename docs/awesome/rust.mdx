@@ -8,6 +8,7 @@
 ## AI
 
 - [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector) 快速 Rust PDF 分类与文本抽取库，可识别扫描件/文本型 PDF、生成 Markdown，并提供 Python、Node.js 与 WASM 绑定
 - [rig](https://github.com/0xPlaygrounds/rig) 用 Rust 构建模块化、可扩展 LLM 应用的开发库，支持智能体工作流、多模型提供商和向量存储集成
 - [rust-genai](https://github.com/jeremychone/rust-genai) Rust 多提供商生成式 AI 客户端库，统一接入 OpenAI、Anthropic、Gemini、Ollama、DeepSeek、xAI 等模型服务
 - [async-openai](https://github.com/64bit/async-openai) 非官方 Rust 异步 OpenAI SDK，支持流式响应、WASM、Azure OpenAI 和 OpenAI 兼容服务
