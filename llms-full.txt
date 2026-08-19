@@ -3272,6 +3272,7 @@ url: /awesome/engineering.md
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
 - [knip](https://github.com/webpro-nl/knip) ✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖与导出代码。上线前先清理干净！
 - [signoz](https://github.com/SigNoz/signoz) 基于 OpenTelemetry 的开源可观测性平台，在单一应用内集成日志、链路追踪与指标监控能力
+- [otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) 本地探索 OpenTelemetry traces、metrics 和 logs 的桌面查看器，内置 Collector、DuckDB 与 Svelte Web UI
 
 ## Nginx
 
@@ -3943,6 +3944,7 @@ url: /awesome/rust.md
 ## AI
 
 - [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
+- [pdf-inspector](https://github.com/firecrawl/pdf-inspector) 快速 Rust PDF 分类与文本抽取库，可识别扫描件/文本型 PDF、生成 Markdown，并提供 Python、Node.js 与 WASM 绑定
 - [rig](https://github.com/0xPlaygrounds/rig) 用 Rust 构建模块化、可扩展 LLM 应用的开发库，支持智能体工作流、多模型提供商和向量存储集成
 - [rust-genai](https://github.com/jeremychone/rust-genai) Rust 多提供商生成式 AI 客户端库，统一接入 OpenAI、Anthropic、Gemini、Ollama、DeepSeek、xAI 等模型服务
 - [async-openai](https://github.com/64bit/async-openai) 非官方 Rust 异步 OpenAI SDK，支持流式响应、WASM、Azure OpenAI 和 OpenAI 兼容服务
