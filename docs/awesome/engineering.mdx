@@ -108,6 +108,7 @@
 - [tsup](https://github.com/egoist/tsup) 打包你的 TypeScript 库的最简、最快方案
 - [father](https://github.com/umijs/father) NPM 包开发工具
 - [unbuild](https://github.com/unjs/unbuild)
+- [parcel](https://github.com/parcel-bundler/parcel) 零配置高性能应用打包与构建工具，支持现代前端项目（JS/TS、React、Vue 等）从开发到生产的一体化流程
 
 ## github action
 
