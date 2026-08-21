@@ -133,6 +133,7 @@
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
+- [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) DeepSeek Harness 桌面端封装，自动管理本地服务并集成窗口、托盘和桌面插件能力
 - [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件
 - [dsh-market](https://github.com/dsh-market/dsh-market) DeepSeek Harness 插件市场项目，用于集中发现和分发 DSH 生态插件
@@ -208,6 +209,7 @@
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
 - [aimock](https://github.com/CopilotKit/aimock) 模拟你的 AI 应用所交互的一切——LLM API、MCP、A2A、AG-UI、向量数据库、搜索引擎。
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
+- [modular](https://github.com/modular/modular) 开源 AI 平台，提供 MAX 推理运行时与 Mojo 语言生态，支持构建与部署 AI 模型服务（含 OpenAI 兼容接口）。
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
 - [Archon](https://github.com/coleam00/Archon) 首款面向 AI 编程的开源测试构建工具，让 AI 编码结果可确定、可复现

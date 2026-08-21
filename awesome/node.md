@@ -421,6 +421,7 @@
 - [glob](https://github.com/isaacs/node-glob) 为 Node.js 提供 glob 模式匹配功能
 - [portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
 - [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
+- [lefthook](https://github.com/evilmartians/lefthook) 高可配置的 Git hooks 管理器，支持跨平台命令生命周期管理
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
