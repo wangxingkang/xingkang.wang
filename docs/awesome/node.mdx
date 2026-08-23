@@ -68,6 +68,8 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理与包发布
 - [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
 - [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
+- [birpc](https://github.com/antfu-collective/birpc) 面向 Node.js 与浏览器的轻量双向 RPC 工具
+- [taze](https://github.com/antfu-collective/taze) 使用智能变更检测并批量更新依赖版本的命令行工具
 - [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 
 ## 运行时
@@ -105,6 +107,8 @@
 - [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
 - [yargs](https://github.com/yargs/yargs) 解析命令行参数
 - [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
+- [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
+- [local-pkg](https://github.com/antfu-collective/local-pkg) 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
 ## 其他
@@ -277,6 +281,7 @@
 - [detect-port](https://github.com/node-modules/detect-port) 用于检测系统可用端口
 - [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
 - [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
@@ -353,6 +358,7 @@
 - [@aws-sdk/client-bedrock](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock) AWS Bedrock 模型调用客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [smithy-typescript](https://github.com/smithy-lang/smithy-typescript) Smithy IDL 的 TypeScript 代码生成器与运行时生态
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
 - [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
 - [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK

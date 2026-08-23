@@ -35,6 +35,7 @@
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
 - [vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) 用于开发 Chrome / 网页扩展程序的 Vite 插件
+- [vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) 可视化插件与源码转换产物，便于诊断 Vite/Rollup 构建过程
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector) 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置
@@ -148,6 +149,7 @@
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
+- [sponsorkit](https://github.com/antfu-collective/sponsorkit) 自动化 GitHub Sponsorship 徽章与赞助页配置工具
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
 - [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
