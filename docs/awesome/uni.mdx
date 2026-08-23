@@ -27,6 +27,7 @@
 - [unibest](https://codercup.github.io/unibest-docs)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
+- [uni-vue3](https://github.com/vue-rookie/uni-vue3) uni-app + Vue 3 项目模板，聚焦跨端开发体验与工程化实践
 - [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)
 
 ## 其他

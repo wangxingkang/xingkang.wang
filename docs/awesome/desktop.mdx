@@ -155,6 +155,7 @@
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 - [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建
+- [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 基于 Tauri 的 Antigravity 账号管理与一键切换工具
 
 ## Electrobun
 
