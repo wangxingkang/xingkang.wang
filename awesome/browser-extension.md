@@ -25,6 +25,7 @@
 - [hls-downloader](https://github.com/puemos/hls-downloader) 浏览器扩展，支持抓取与下载网页内 HLS 流，支持清晰度与音视频轨道选择，下载后本地 ffmpeg.wasm 合并出 MP4/MKV
 - [media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) 一款浏览器插件，可下载网页内音频/视频与流媒体（含 m3u8/mpd），支持媒体列表检测与本地化下载
 - [VideoDownloadHelper](https://github.com/DoctorLai/VideoDownloadHelper) 轻量级浏览器扩展，可一键检测并下载页面视频/音频/图片，并支持解析 m3u8 与常见站点媒体链接
+- [yt\_dlp\_firefox](https://github.com/tyilo/yt_dlp_firefox) 基于 yt-dlp 的 Firefox 浏览器扩展，支持从页面提取可下载媒体并调用 yt-dlp 下载
 
 ## 案例
 
