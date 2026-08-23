@@ -22,6 +22,9 @@
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
 - [voyager](https://github.com/Nagi-ovo/voyager) 面向 Gemini、AI Studio、Claude 与 ChatGPT 的浏览器增强套件，提供会话整理、提示词库、同步和导出能力
 - [read-frog](https://github.com/mengxi-ream/read-frog) 陪读蛙 - 开源沉浸式翻译
+- [hls-downloader](https://github.com/puemos/hls-downloader) 浏览器扩展，支持抓取与下载网页内 HLS 流，支持清晰度与音视频轨道选择，下载后本地 ffmpeg.wasm 合并出 MP4/MKV
+- [media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) 一款浏览器插件，可下载网页内音频/视频与流媒体（含 m3u8/mpd），支持媒体列表检测与本地化下载
+- [VideoDownloadHelper](https://github.com/DoctorLai/VideoDownloadHelper) 轻量级浏览器扩展，可一键检测并下载页面视频/音频/图片，并支持解析 m3u8 与常见站点媒体链接
 
 ## 案例
 
