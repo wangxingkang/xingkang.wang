@@ -79,6 +79,7 @@
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
 - [libkrun](https://github.com/libkrun/libkrun) 提供 KVM/HVF 虚拟化进程隔离能力的动态库，用简单 C API 嵌入轻量 VMM
 - [muvm](https://github.com/AsahiLinux/muvm) 基于 libkrun 在 microVM 中运行本机程序，支持图形应用、GPU 加速和跨架构运行
+- [device-driver](https://github.com/diondokter/device-driver) Rust 设备驱动开发工具集，基于 DSL 与生成流程快速构建高性能驱动与 CLI
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zoxide](https://github.com/ajeetdsouza/zoxide) 更智能的切换目录命令，兼容主流终端

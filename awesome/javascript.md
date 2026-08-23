@@ -715,6 +715,7 @@
 - [logos](https://github.com/gilbarbara/logos) 海量 SVG 标志图标合集
 - [Iconify](https://github.com/iconify/iconify) 通用图标框架，统一使用 200+ 开源图标集，并提供 Web Component、React、Vue、Svelte 等组件
 - [lucide](https://lucide.dev/guide/packages/lucide)
+- [icones](https://github.com/antfu-collective/icones) 为图标设计开发工作流提供快速搜索、预览与复制工具
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 - [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
 

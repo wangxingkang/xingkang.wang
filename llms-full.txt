@@ -2315,6 +2315,7 @@ url: /awesome/javascript.md
 - [logos](https://github.com/gilbarbara/logos) 海量 SVG 标志图标合集
 - [Iconify](https://github.com/iconify/iconify) 通用图标框架，统一使用 200+ 开源图标集，并提供 Web Component、React、Vue、Svelte 等组件
 - [lucide](https://lucide.dev/guide/packages/lucide)
+- [icones](https://github.com/antfu-collective/icones) 为图标设计开发工作流提供快速搜索、预览与复制工具
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 - [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
 
@@ -2605,6 +2606,7 @@ url: /awesome/vue.md
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 - [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
+- [vitesse](https://github.com/antfu-collective/vitesse) 高度可定制的 Vue + Vite 入门脚手架，覆盖 SSR、SSR 与生态整合
 - [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
 
 ## 开源项目
@@ -3158,6 +3160,7 @@ url: /awesome/engineering.md
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
 - [vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) 用于开发 Chrome / 网页扩展程序的 Vite 插件
+- [vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) 可视化插件与源码转换产物，便于诊断 Vite/Rollup 构建过程
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector) 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置
@@ -3271,6 +3274,7 @@ url: /awesome/engineering.md
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
 - [quarkdown](https://github.com/iamgio/quarkdown) 赋能增强版 Markdown：从灵感构思到论文、演示文稿、网站、书籍以及知识库创作全流程通用
+- [sponsorkit](https://github.com/antfu-collective/sponsorkit) 自动化 GitHub Sponsorship 徽章与赞助页配置工具
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
 - [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
 - [serwist](https://github.com/serwist/serwist) 服务工作线程的瑞士军刀
@@ -3557,6 +3561,8 @@ url: /awesome/node.md
 - [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理与包发布
 - [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
 - [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
+- [birpc](https://github.com/antfu-collective/birpc) 面向 Node.js 与浏览器的轻量双向 RPC 工具
+- [taze](https://github.com/antfu-collective/taze) 使用智能变更检测并批量更新依赖版本的命令行工具
 - [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 
 ## 运行时
@@ -3594,6 +3600,8 @@ url: /awesome/node.md
 - [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
 - [yargs](https://github.com/yargs/yargs) 解析命令行参数
 - [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
+- [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
+- [local-pkg](https://github.com/antfu-collective/local-pkg) 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
 ## 其他
@@ -3766,6 +3774,7 @@ url: /awesome/node.md
 - [detect-port](https://github.com/node-modules/detect-port) 用于检测系统可用端口
 - [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
 - [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
@@ -3842,6 +3851,7 @@ url: /awesome/node.md
 - [@aws-sdk/client-bedrock](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock) AWS Bedrock 模型调用客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [smithy-typescript](https://github.com/smithy-lang/smithy-typescript) Smithy IDL 的 TypeScript 代码生成器与运行时生态
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
 - [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
 - [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK
@@ -4021,6 +4031,7 @@ url: /awesome/rust.md
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
 - [libkrun](https://github.com/libkrun/libkrun) 提供 KVM/HVF 虚拟化进程隔离能力的动态库，用简单 C API 嵌入轻量 VMM
 - [muvm](https://github.com/AsahiLinux/muvm) 基于 libkrun 在 microVM 中运行本机程序，支持图形应用、GPU 加速和跨架构运行
+- [device-driver](https://github.com/diondokter/device-driver) Rust 设备驱动开发工具集，基于 DSL 与生成流程快速构建高性能驱动与 CLI
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zoxide](https://github.com/ajeetdsouza/zoxide) 更智能的切换目录命令，兼容主流终端

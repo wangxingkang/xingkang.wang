@@ -162,6 +162,7 @@
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 - [vue3-vite-ts-template](https://github.com/sunniejs/vue-h5-template)
+- [vitesse](https://github.com/antfu-collective/vitesse) 高度可定制的 Vue + Vite 入门脚手架，覆盖 SSR、SSR 与生态整合
 - [vue3-vant4-mobile](https://github.com/xiangshu233/vue3-vant4-mobile)
 
 ## 开源项目

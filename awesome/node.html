@@ -5,12 +5,12 @@
 <title>Node - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-261c332bf294.58b7bf2b6a.js" as="script">
+<link rel="preload" href="/static/js/async/route-261c332bf294.dada453b61.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.5f7d633483.js"></script>
+<script defer src="/static/js/index.b1bbb91484.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -92,6 +92,8 @@
 <li><a href="https://github.com/semantic-release/semantic-release" target="_blank" rel="noopener noreferrer" class="rp-link">semantic-release</a> 全自动化版本管理与包发布</li>
 <li><a href="https://github.com/changesets/changesets" target="_blank" rel="noopener noreferrer" class="rp-link">changesets</a> 🦋 专注于单仓项目的版本控制与变更日志管理方案</li>
 <li><a href="https://github.com/antfu-collective/bumpp" target="_blank" rel="noopener noreferrer" class="rp-link">bumpp</a> 交互式命令行工具，可更新版本号及更多功能</li>
+<li><a href="https://github.com/antfu-collective/birpc" target="_blank" rel="noopener noreferrer" class="rp-link">birpc</a> 面向 Node.js 与浏览器的轻量双向 RPC 工具</li>
+<li><a href="https://github.com/antfu-collective/taze" target="_blank" rel="noopener noreferrer" class="rp-link">taze</a> 使用智能变更检测并批量更新依赖版本的命令行工具</li>
 <li><a href="https://github.com/microsoft/rushstack/tree/main/apps/rush" target="_blank" rel="noopener noreferrer" class="rp-link">@microsoft/rush</a> 高效、专业的单体仓库管理方案</li>
 </ul>
 <h2 class="rp-toc-include" id="运行时"><a href="#运行时" class="rp-header-anchor rp-link" aria-hidden="true">#</a>运行时</h2>
@@ -131,6 +133,8 @@
 <li><a href="https://github.com/cacjs/cac" target="_blank" rel="noopener noreferrer" class="rp-link">cac</a> 一款简洁却强大的框架，用于构建命令行应用程序</li>
 <li><a href="https://github.com/yargs/yargs" target="_blank" rel="noopener noreferrer" class="rp-link">yargs</a> 解析命令行参数</li>
 <li><a href="https://github.com/yargs/yargs-parser" target="_blank" rel="noopener noreferrer" class="rp-link">yargs-parser</a> 💪 为 yargs 提供支持的强大参数解析器</li>
+<li><a href="https://github.com/antfu-collective/ni" target="_blank" rel="noopener noreferrer" class="rp-link">ni</a> 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI</li>
+<li><a href="https://github.com/antfu-collective/local-pkg" target="_blank" rel="noopener noreferrer" class="rp-link">local-pkg</a> 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息</li>
 <li><a href="https://github.com/sindresorhus/terminal-link" target="_blank" rel="noopener noreferrer" class="rp-link">terminal-link</a> 在终端中创建可点击的链接</li>
 </ul>
 <h2 class="rp-toc-include" id="其他-2"><a href="#其他-2" class="rp-header-anchor rp-link" aria-hidden="true">#</a>其他</h2>
@@ -306,6 +310,7 @@
 <li><a href="https://github.com/node-modules/detect-port" target="_blank" rel="noopener noreferrer" class="rp-link">detect-port</a> 用于检测系统可用端口</li>
 <li><a href="https://github.com/sindresorhus/get-port" target="_blank" rel="noopener noreferrer" class="rp-link">get-port</a> 获取一个可用的 TCP 端口</li>
 <li><a href="https://github.com/npm/node-semver" target="_blank" rel="noopener noreferrer" class="rp-link">semver</a> Node.js 语义化版本解析库</li>
+<li><a href="https://github.com/npm/hosted-git-info" target="_blank" rel="noopener noreferrer" class="rp-link">hosted-git-info</a> 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议</li>
 <li><a href="https://github.com/bcomnes/npm-run-all2" target="_blank" rel="noopener noreferrer" class="rp-link">npm-run-all2</a> 一款可并行或串行执行多条 npm 脚本的命令行工具</li>
 <li><a href="https://github.com/paulmillr/readdirp" target="_blank" rel="noopener noreferrer" class="rp-link">readdirp</a> 占用内存与 CPU 资源极低的递归版文件目录读取<code>fs.readdir</code>工具</li>
 <li><a href="https://github.com/mapbox/node-pre-gyp" target="_blank" rel="noopener noreferrer" class="rp-link">node-pre-gyp</a> 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具</li>
@@ -388,6 +393,7 @@
 <li><a href="https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock" target="_blank" rel="noopener noreferrer" class="rp-link">@aws-sdk/client-bedrock</a> AWS Bedrock 模型调用客户端</li>
 <li><a href="https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3" target="_blank" rel="noopener noreferrer" class="rp-link">@aws-sdk/client-s3</a></li>
 <li><a href="https://github.com/aws/aws-sdk-js" target="_blank" rel="noopener noreferrer" class="rp-link">aws-sdk</a>  AWS SDK v2</li>
+<li><a href="https://github.com/smithy-lang/smithy-typescript" target="_blank" rel="noopener noreferrer" class="rp-link">smithy-typescript</a> Smithy IDL 的 TypeScript 代码生成器与运行时生态</li>
 <li><a href="https://github.com/qiniu/nodejs-sdk" target="_blank" rel="noopener noreferrer" class="rp-link">qiniu</a> 七牛云对象存储 SDK</li>
 <li><a href="https://github.com/volcengine/ve-tos-js-sdk" target="_blank" rel="noopener noreferrer" class="rp-link">@volcengine/tos-sdk</a> 火山云对象存储 SDK</li>
 <li><a href="https://github.com/tencentyun/cos-nodejs-sdk-v5" target="_blank" rel="noopener noreferrer" class="rp-link">cos-nodejs-sdk-v5</a> 腾讯云对象存储 SDK</li>
