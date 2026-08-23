@@ -838,6 +838,7 @@ url: /awesome/vibe-coding.md
 - [scroll-world](https://github.com/oso95/scroll-world) 面向 Claude Code、Codex 等 Agent 的技能，可把品牌生成滚动穿越式 3D 世界落地页
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) 面向 AI 编码代理和长期运行代理任务的持久化文件规划
+- [unlazy](https://github.com/Leonxlnx/unlazy) 面向 AI 智能体的任务完成纪律框架，支持可执行门禁核验与可复验交付流程
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [ping-island](https://github.com/erha19/ping-island) MacOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
@@ -2778,6 +2779,7 @@ url: /awesome/desktop.md
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
 - [DTV](https://github.com/chen-zeong/DTV) 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 - [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建
+- [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 基于 Tauri 的 Antigravity 账号管理与一键切换工具
 
 ## Electrobun
 
@@ -2824,6 +2826,7 @@ url: /awesome/uni.md
 - [unibest](https://codercup.github.io/unibest-docs)
 - [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)
 - [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template)
+- [uni-vue3](https://github.com/vue-rookie/uni-vue3) uni-app + Vue 3 项目模板，聚焦跨端开发体验与工程化实践
 - [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)
 
 ## 其他
@@ -3439,6 +3442,7 @@ url: /awesome/self-hosted.md
 
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
+- [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
 - [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
@@ -4111,6 +4115,7 @@ url: /awesome/rust.md
 - [tock](https://github.com/tock/tock) 面向微控制器的安全嵌入式操作系统
 - [unrs-resolver](https://github.com/unrs/unrs-resolver) 支持 PNP 的 webpack 增强解析库 Rust 移植版
 - [meatshell](https://github.com/jeff141/meatshell) 一个轻量级、低内存占用的 SSH / 终端客户端
+- [tesla\_auth](https://github.com/adriankumpf/tesla_auth) Rust 编写的 Tesla 令牌生成工具，支持 MFA 与验证码流程的一键登录，安全产出 API 访问令牌
 
 
 
