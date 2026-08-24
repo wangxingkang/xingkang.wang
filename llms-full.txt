@@ -2648,6 +2648,7 @@ url: /awesome/desktop.md
 - [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器
+- [ego-lite](https://github.com/citrolabs/ego-lite) 一款面向 AI 代理的高效浏览器，支持真人与多个代理并行使用同一浏览器上下文进行自动化任务
 
 ### 跨平台
 
