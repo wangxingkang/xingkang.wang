@@ -3026,6 +3026,7 @@ url: /awesome/browser-extension.md
 - [VideoDownloadHelper](https://github.com/DoctorLai/VideoDownloadHelper) 轻量级浏览器扩展，可一键检测并下载页面视频/音频/图片，并支持解析 m3u8 与常见站点媒体链接
 - [yt\_dlp\_firefox](https://github.com/tyilo/yt_dlp_firefox) 基于 yt-dlp 的 Firefox 浏览器扩展，支持从页面提取可下载媒体并调用 yt-dlp 下载
 - [cat-catch](https://github.com/xifangczy/cat-catch) 一款轻量级媒体下载浏览器扩展，抓取网页可下载资源并一键保存为本地文件
+- [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) 一款浏览器扩展，面向网页 M3U8 流媒体，提供一键解析与下载能力
 
 ## 案例
 
