@@ -112,6 +112,7 @@
 - [nvm](https://github.com/nvm-sh/nvm) 经典的 Node.js 版本管理器，支持安装和切换多个 Node 版本
 - [fnm](https://github.com/Schniz/fnm) 极快的 Node.js 版本管理器，支持快速安装与切换 Node 版本
 - [mise](https://github.com/jdx/mise) 一体化开发者工具版本管理器（Node/Python/Ruby/Java 等）
+- [n](https://github.com/tj/n) 简洁高效的 Node.js 版本管理工具，支持跨版本切换与自动安装
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
 ## 其他
