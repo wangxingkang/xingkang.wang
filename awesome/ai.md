@@ -48,6 +48,7 @@
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
+- [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 一款可编辑网页式 PPT Skill，支持模板化生成与结构化排版，结果可直接在浏览器微调并导出 HTML/PDF/PPTX
 - [seedance-2.0](https://github.com/Emily2040/seedance-2.0) 基于 Seedance 2.0 的四模态 AI 电影制作综合生产管线
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) 用于生成精致 HTML 幻灯片的 AI 智能体技能：支持杂志排版、瑞士极简版式、图片提示词生成、社交封面制作，以及一套低功耗 WebGL 演示运行环境
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
