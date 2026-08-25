@@ -2717,6 +2717,7 @@ url: /awesome/desktop.md
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+- [LiveContainer](https://github.com/LiveContainer/LiveContainer) 在 macOS / Windows 上运行 iOS 应用的开源容器，适用于应用测试与侧载开发调试
 
 ### 其他
 
