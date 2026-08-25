@@ -169,6 +169,7 @@
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
 - [tuicr](https://github.com/agavra/tuicr) 带 Vim 键位的代码评审 TUI，可向 GitHub、GitLab、Bitbucket 或剪贴板导出评审意见
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
+- [OpenBot](https://github.com/CopilotKit/OpenBot) 面向开发者的开源桌面智能体客户端，支持 AI 代理与编程工作流编排
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
