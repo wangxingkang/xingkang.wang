@@ -395,6 +395,7 @@ url: /awesome/ai.md
 
 - [claw0](https://github.com/shareAI-lab/claw0) 从0到1学习 OpenClaw：从零开始构建爪型AI智能体的教程章节
 - [ai-guide](https://github.com/liyupi/ai-guide) 程序员鱼皮的 AI 资源大全与 Vibe Coding 零基础教程，涵盖工具、提示词、AI 编程、Agent、RAG、MCP 和变现指南
+- [postiz-app](https://github.com/gitroomhq/postiz-app) 开源社媒自动化内容发布平台，支持多平台内容分发与发布工作流编排
 
 ## 开源库
 
