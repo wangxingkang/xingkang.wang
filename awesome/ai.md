@@ -126,6 +126,7 @@
 - [LM Studio](https://lmstudio.ai)
 - [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
 - [airllm](https://github.com/lyogavin/airllm) 使用 AirLLM 在单张 4GB GPU 上运行 70B 模型推理
+- [freetoken](https://github.com/FlashML-org/FreeToken) Edge-native 的 MoE 本地推理引擎，支持消费级硬件上运行 frontier 规模模型并提供桌面客户端与 API
 
 ### 其他
 
