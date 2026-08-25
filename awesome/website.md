@@ -17,6 +17,7 @@
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [OpenAlternative](https://openalternative.co/) 开源替代品目录，用于查找常见商业软件的开源替代方案
 - [OpenSourceAlternative.to](https://opensourcealternative.to/) 开源替代品目录，用于用开源软件替换专有软件产品
+- [MetalForge](https://metalforge.xyz/) 用于 SwiftUI 的 Metal Shader 效果资源与实现参考
 
 ## 博客
 
@@ -79,7 +80,6 @@
 - [iptv](https://github.com/iptv-org/iptv) 汇集全球各地公开可用的网络电视（IPTV）频道资源
 - [dribbble](https://dribbble.com) 全球设计师社区
 - [fmhy](https://fmhy.net) 互联网上最大规模的免费资源集合
-- [MetalForge](https://metalforge.xyz/) 裸金属服务器自动化部署平台，提供批量安装与基础设施管理能力
 - [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
 - [mobbin](https://mobbin.com) 专注于移动界面设计的网站
 - [135editor](https://www.135editor.com) 公众号编辑器

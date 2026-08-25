@@ -196,6 +196,8 @@
 - [focus-trap](https://github.com/focus-trap/focus-trap) 将焦点锁定在 DOM 节点内
 - [tabbable](https://github.com/focus-trap/tabbable) 查找 DOM 节点中属于 Tab 导航序列的后代节点
 - [mammoth](https://github.com/mwilliamson/mammoth.js) 将 Word 文档（.docx 文件）转换为 HTML
+- [watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus) 浏览器端水印库，支持文字、图片、富文本和盲水印，以及解码与防篡改
+- [tua-body-scroll-lock](https://github.com/tuax/tua-body-scroll-lock) 跨端锁定页面 body 滚动的 JavaScript 工具，兼容 iOS、Android 与桌面浏览器
 
 ### 时间处理
 
@@ -256,6 +258,7 @@
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
 - [localforage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
+- [secure-ls](https://github.com/softvar/secure-ls) 为 localStorage 和 sessionStorage 提供加密、压缩与键管理的 JavaScript 库
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 - [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
   - [pouchdb-find](https://github.com/apache/pouchdb/tree/HEAD/packages/node_modules/pouchdb-find)

@@ -395,7 +395,6 @@ url: /awesome/ai.md
 
 - [claw0](https://github.com/shareAI-lab/claw0) 从0到1学习 OpenClaw：从零开始构建爪型AI智能体的教程章节
 - [ai-guide](https://github.com/liyupi/ai-guide) 程序员鱼皮的 AI 资源大全与 Vibe Coding 零基础教程，涵盖工具、提示词、AI 编程、Agent、RAG、MCP 和变现指南
-- [postiz-app](https://github.com/gitroomhq/postiz-app) 开源社媒自动化内容发布平台，支持多平台内容分发与发布工作流编排
 
 ## 开源库
 
@@ -490,7 +489,6 @@ url: /awesome/ai.md
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) 去除自有文本和文件中的 AI 来源标记、Unicode 隐写、C2PA 与元数据痕迹
-- [watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus) 浏览器/Node 下的图片水印与文字水印工具，支持生成与移除水印相关场景
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
@@ -1804,6 +1802,8 @@ url: /awesome/javascript.md
 - [focus-trap](https://github.com/focus-trap/focus-trap) 将焦点锁定在 DOM 节点内
 - [tabbable](https://github.com/focus-trap/tabbable) 查找 DOM 节点中属于 Tab 导航序列的后代节点
 - [mammoth](https://github.com/mwilliamson/mammoth.js) 将 Word 文档（.docx 文件）转换为 HTML
+- [watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus) 浏览器端水印库，支持文字、图片、富文本和盲水印，以及解码与防篡改
+- [tua-body-scroll-lock](https://github.com/tuax/tua-body-scroll-lock) 跨端锁定页面 body 滚动的 JavaScript 工具，兼容 iOS、Android 与桌面浏览器
 
 ### 时间处理
 
@@ -1864,6 +1864,7 @@ url: /awesome/javascript.md
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) 一款面向浏览器端的高性能高可靠键值存储库
 - [localforage](https://github.com/localForage/localForage) 增强版离线存储工具。通过一套简洁且强大的 API 封装了 IndexedDB、WebSQL 或 localStorage 等存储方案。
 - [store](https://github.com/nbubna/store) 一种更优的 localStorage 与 sessionStorage 使用方案
+- [secure-ls](https://github.com/softvar/secure-ls) 为 localStorage 和 sessionStorage 提供加密、压缩与键管理的 JavaScript 库
 - [idb](https://github.com/jakearchibald/idb) 基于 IndexedDB 封装、支持 Promise 语法的工具库
 - [pouchdb](https://github.com/apache/pouchdb) 开源的 JavaScript 数据库
   - [pouchdb-find](https://github.com/apache/pouchdb/tree/HEAD/packages/node_modules/pouchdb-find)
@@ -3066,6 +3067,7 @@ url: /awesome/website.md
 - [open-seo](https://github.com/every-app/open-seo) Semrush 和 Ahrefs 的开源替代工具
 - [OpenAlternative](https://openalternative.co/) 开源替代品目录，用于查找常见商业软件的开源替代方案
 - [OpenSourceAlternative.to](https://opensourcealternative.to/) 开源替代品目录，用于用开源软件替换专有软件产品
+- [MetalForge](https://metalforge.xyz/) 用于 SwiftUI 的 Metal Shader 效果资源与实现参考
 
 ## 博客
 
@@ -3128,7 +3130,6 @@ url: /awesome/website.md
 - [iptv](https://github.com/iptv-org/iptv) 汇集全球各地公开可用的网络电视（IPTV）频道资源
 - [dribbble](https://dribbble.com) 全球设计师社区
 - [fmhy](https://fmhy.net) 互联网上最大规模的免费资源集合
-- [MetalForge](https://metalforge.xyz/) 裸金属服务器自动化部署平台，提供批量安装与基础设施管理能力
 - [phet](https://phet.colorado.edu/zh_CN/) 科学与数学的互动式模拟教材
 - [mobbin](https://mobbin.com) 专注于移动界面设计的网站
 - [135editor](https://www.135editor.com) 公众号编辑器
@@ -3459,6 +3460,7 @@ url: /awesome/self-hosted.md
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
 - [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
+- [postiz-app](https://github.com/gitroomhq/postiz-app) 自托管的社媒内容排期与发布平台，支持多平台分发和自动化工作流
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
 - [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
@@ -4083,7 +4085,6 @@ url: /awesome/rust.md
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
 - [eza](https://github.com/eza-community/eza) 现代化的 `ls` 替代品，支持彩色输出、图标、Git 状态、扩展属性和树形目录显示
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
-- [secure-ls](https://github.com/softvar/secure-ls) Rust 安全导向的 `ls` 替代品，强调安全性与权限控制友好的目录列表输出
 - [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
 - [pastel](https://github.com/sharkdp/pastel) 一款用于生成、分析、转换和处理颜色的命令行工具
 - [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具
