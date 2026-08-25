@@ -109,6 +109,7 @@
 - [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
 - [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
 - [local-pkg](https://github.com/antfu-collective/local-pkg) 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息
+- [nvm](https://github.com/nvm-sh/nvm) 经典的 Node.js 版本管理器，支持安装和切换多个 Node 版本
 - [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
 
 ## 其他
