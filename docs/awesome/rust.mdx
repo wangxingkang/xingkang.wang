@@ -106,7 +106,6 @@
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
 - [eza](https://github.com/eza-community/eza) 现代化的 `ls` 替代品，支持彩色输出、图标、Git 状态、扩展属性和树形目录显示
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
-- [secure-ls](https://github.com/softvar/secure-ls) Rust 安全导向的 `ls` 替代品，强调安全性与权限控制友好的目录列表输出
 - [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
 - [pastel](https://github.com/sharkdp/pastel) 一款用于生成、分析、转换和处理颜色的命令行工具
 - [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具

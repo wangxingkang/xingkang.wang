@@ -38,6 +38,7 @@
 - [YOURLS](https://github.com/YOURLS/YOURLS) 短链接工具(PHP)
 - [shlink](https://github.com/shlinkio/shlink) 短链接工具(PHP)
 - [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
+- [postiz-app](https://github.com/gitroomhq/postiz-app) 自托管的社媒内容排期与发布平台，支持多平台分发和自动化工作流
 - [Ghost](https://github.com/TryGhost/Ghost) 为现代出版、会员体系、订阅服务与新闻通讯提供**自主技术**。
 - [tinacms](http://github.com/tinacms/tinacms) 一款完全开源的无头 CMS，支持 Markdown 与可视化编辑。
 - [emdash](https://github.com/emdash-cms/emdash) EmDash 是一款基于 Astro 构建的全栈 TypeScript 内容管理系统，堪称 WordPress 的理念继任者。
