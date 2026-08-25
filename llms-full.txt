@@ -490,6 +490,7 @@ url: /awesome/ai.md
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) 去除自有文本和文件中的 AI 来源标记、Unicode 隐写、C2PA 与元数据痕迹
+- [watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus) 浏览器/Node 下的图片水印与文字水印工具，支持生成与移除水印相关场景
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
