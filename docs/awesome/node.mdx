@@ -268,6 +268,7 @@
 - [require-in-the-middle](https://github.com/nodejs/require-in-the-middle) 用于劫持 Node.js require 函数的模块
 - [rimraf](https://github.com/isaacs/rimraf) 适用于 Node.js 的 rm -rf 风格文件删除工具
 - [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) 基于配置、高效灵活的命令行工具，借助 markdownlint 库对 Markdown/CommonMark 文件进行代码检查
+- [cspell](https://github.com/streetsidesoftware/cspell) 企业级拼写检查工具，支持多语言词典与代码/文档场景下的错字自动检测
 - [log-symbols](https://github.com/sindresorhus/log-symbols) 适配不同日志级别的彩色标识符号
 - [shell-env](https://github.com/sindresorhus/shell-env) 从终端 Shell 中获取环境变量
 - [file-icon](https://github.com/sindresorhus/file-icon) macOS 平台）获取文件或应用程序的图标并导出为 PNG 图片
