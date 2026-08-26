@@ -248,6 +248,7 @@
 - [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
 - [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
 - [c12](https://github.com/unjs/c12) 智能配置加载器
+- [giget](https://github.com/unjs/giget) 从 GitHub、GitLab、Bitbucket 等托管源下载项目模板或仓库的 Node.js CLI 与库
 - [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
