@@ -94,6 +94,7 @@
 
 ### Code
 
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) 面向 macOS 的非官方 Grok Bot 0.18 重构与扩展，支持推理路由、MCP 工具和本地 Docker 沙箱
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) 轻量级 MCP，让代码即刻生效
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
@@ -131,6 +132,7 @@
 
 ### 其他
 
+- [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务

@@ -404,6 +404,7 @@ url: /awesome/ai.md
 
 ### Code
 
+- [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) 面向 macOS 的非官方 Grok Bot 0.18 重构与扩展，支持推理路由、MCP 工具和本地 Docker 沙箱
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) 轻量级 MCP，让代码即刻生效
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) 上传截图，一键转换为规范整洁的代码(HTML/Tailwind/React/Vue)
@@ -441,6 +442,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
@@ -1024,6 +1026,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [ThreeUI](https://github.com/MengTo/threeui) 开源 React 三维交互组件库，提供可实时预览的社区组件与源代码
 - [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
@@ -4451,6 +4454,7 @@ url: /awesome/ops.md
 
 ## 代码托管
 
+- [walgit](https://github.com/tobi/walgit) 基于 S3 或 GCS 对象存储的无状态 Git 服务，支持 Smart HTTP、Git LFS、Web UI 与 API
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 
 ## 备份
@@ -4460,6 +4464,7 @@ url: /awesome/ops.md
 
 ## 数据库
 
+- [DuckDB](https://github.com/duckdb/duckdb) 高性能嵌入式分析型 SQL 数据库
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
 - [redis](https://github.com/redis/redis) 最快、功能最丰富的缓存、数据结构服务器以及文档和向量查询引擎
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
