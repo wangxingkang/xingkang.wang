@@ -622,6 +622,7 @@ url: /awesome/ai.md
 
 ## 原型&设计
 
+- [MotionSites AI](https://motionsites.ai/) 面向 AI 建站的落地页与页面区块提示词库，可直接复制用于生成设计
 - [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [ardot](https://d.qq.com) AI 设计
