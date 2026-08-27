@@ -21,6 +21,7 @@
 
 ## 博客
 
+- [Yadong Xie](https://www.yadongxie.com/) 谢亚东的个人博客，分享产品体验与工程实践
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [sorrycc](https://sorrycc.com)
 - [张鑫旭](https://www.zhangxinxu.com)
