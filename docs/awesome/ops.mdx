@@ -43,6 +43,7 @@
 
 ## 代码托管
 
+- [walgit](https://github.com/tobi/walgit) 基于 S3 或 GCS 对象存储的无状态 Git 服务，支持 Smart HTTP、Git LFS、Web UI 与 API
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 
 ## 备份
@@ -52,6 +53,7 @@
 
 ## 数据库
 
+- [DuckDB](https://github.com/duckdb/duckdb) 高性能嵌入式分析型 SQL 数据库
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
 - [redis](https://github.com/redis/redis) 最快、功能最丰富的缓存、数据结构服务器以及文档和向量查询引擎
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
