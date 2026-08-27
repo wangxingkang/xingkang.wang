@@ -56,6 +56,7 @@
 
 ## 框架
 
+- [GPUIX](https://github.com/remorses/gpuix) Zed GPUI 的 React 绑定，用 React 与 TypeScript 构建无需 Electron 的原生 GPU 加速桌面应用
 - [nextjs](https://nextjs.org) 面向 Web 的 React 框架
 - [onestack](https://onestack.dev)
 - [refine](https://github.com/refinedev/refine) 用于快速构建内部系统、管理后台、仪表盘与 B2B 应用的高灵活度 React 框架
