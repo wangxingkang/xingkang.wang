@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库

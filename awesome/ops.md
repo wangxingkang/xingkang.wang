@@ -29,6 +29,7 @@
 
 ## 终端
 
+- [terminal-browser](https://github.com/zenbu-labs/terminal-browser) 在终端内运行的 Chromium 浏览器，支持 SSH 代理与供智能体交互的 CLI
 - [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [zsh](https://github.com/zsh-users/zsh)
