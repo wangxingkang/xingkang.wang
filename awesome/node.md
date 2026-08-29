@@ -223,6 +223,7 @@
 - [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
 - [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
 - [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
+- [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
   - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)

@@ -973,6 +973,7 @@ url: /awesome/react.md
 
 ## 动画
 
+- [Animate UI](https://github.com/imskyleen/animate-ui) 基于 React、Tailwind CSS 与 Motion 的开源动画组件分发库，支持通过 shadcn CLI 安装
 - [Amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) 基于 Motion 的 React 微交互、过渡组件与卡片布局集合，支持 CLI 和 shadcn/ui Registry 安装
 - [@gsap/react](https://github.com/greensock/react) 用于在 React 中使用 GSAP 的工具
 - [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
@@ -1292,6 +1293,7 @@ url: /awesome/react.md
 
 ### 其他
 
+- [react-remove-scroll](https://github.com/theKashey/react-remove-scroll) 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal
 - [spoiled](https://github.com/molefrog/spoiled) 隐藏珍贵秘密。真实的 `<Spoiler />` React 组件
 - [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
 - [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
@@ -1663,6 +1665,7 @@ url: /awesome/javascript.md
 - [animejs](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
 - [canvas-ui](https://github.com/DavidHDev/canvas-ui) 跨框架 Canvas / WebGL 创意组件库，可在真实 HTML 界面上叠加流体、着色器和 3D 交互效果
+- [Paper Shaders](https://github.com/paper-design/shaders) 零依赖 Canvas 着色器库，支持 Vanilla JS 与 React，可用于网页背景、图形和文字动画
 - [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
 - [velocity-animate](https://github.com/julianshapiro/velocity) 加速型 JavaScript 动画
 - [torph](https://github.com/lochie/torph) 无依赖的动画文本组件
@@ -1825,6 +1828,7 @@ url: /awesome/javascript.md
 ### Markdown
 
 - [cherry-markdown](https://github.com/Tencent/cherry-markdown) Markdown 编辑器
+- [Sätteri](https://github.com/bruits/satteri) 面向 JavaScript 生态的高性能 Markdown 与 MDX 处理器，以 Rust 解析编译并支持 JavaScript 插件
 
 ### 富文本
 
@@ -1886,6 +1890,7 @@ url: /awesome/javascript.md
 
 ### html to image
 
+- [Takumi](https://github.com/kane50613/takumi) 无需无头浏览器即可从 JSX、HTML 与 CSS 渲染 OG 图片、动画和分页 PDF，支持 Node.js、Cloudflare Workers 与浏览器
 - [@zumer/snapdom](https://github.com/zumerlab/snapdom) DOM 捕获引擎 —— 快速精准的 HTML 转换工具
 - [html-to-image](https://github.com/bubkoo/html-to-image) ✂️ 借助 HTML5 Canvas 与 SVG 技术，从 DOM 节点生成图片文件
 - [modern-screenshot](https://github.com/qq15725/modern-screenshot) 使用 HTML5 canvas 和 SVG 从 DOM 节点快速生成图像
@@ -3750,6 +3755,7 @@ url: /awesome/node.md
 - [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
 - [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
 - [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
+- [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
   - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
   - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
