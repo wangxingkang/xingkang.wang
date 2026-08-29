@@ -38,6 +38,7 @@
 
 ### 向量数据库
 
+- [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
 - [qdrant](https://github.com/qdrant/qdrant)
 - [chroma](https://github.com/chroma-core/chroma)
 - [lancedb](https://github.com/lancedb/lancedb)
