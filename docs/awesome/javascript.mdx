@@ -49,6 +49,7 @@
 - [animejs](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
 - [canvas-ui](https://github.com/DavidHDev/canvas-ui) 跨框架 Canvas / WebGL 创意组件库，可在真实 HTML 界面上叠加流体、着色器和 3D 交互效果
+- [Paper Shaders](https://github.com/paper-design/shaders) 零依赖 Canvas 着色器库，支持 Vanilla JS 与 React，可用于网页背景、图形和文字动画
 - [typed](https://github.com/mattboldt/typed.js) 极易上手的 JavaScript 打字动画库
 - [velocity-animate](https://github.com/julianshapiro/velocity) 加速型 JavaScript 动画
 - [torph](https://github.com/lochie/torph) 无依赖的动画文本组件
@@ -211,6 +212,7 @@
 ### Markdown
 
 - [cherry-markdown](https://github.com/Tencent/cherry-markdown) Markdown 编辑器
+- [Sätteri](https://github.com/bruits/satteri) 面向 JavaScript 生态的高性能 Markdown 与 MDX 处理器，以 Rust 解析编译并支持 JavaScript 插件
 
 ### 富文本
 
@@ -272,6 +274,7 @@
 
 ### html to image
 
+- [Takumi](https://github.com/kane50613/takumi) 无需无头浏览器即可从 JSX、HTML 与 CSS 渲染 OG 图片、动画和分页 PDF，支持 Node.js、Cloudflare Workers 与浏览器
 - [@zumer/snapdom](https://github.com/zumerlab/snapdom) DOM 捕获引擎 —— 快速精准的 HTML 转换工具
 - [html-to-image](https://github.com/bubkoo/html-to-image) ✂️ 借助 HTML5 Canvas 与 SVG 技术，从 DOM 节点生成图片文件
 - [modern-screenshot](https://github.com/qq15725/modern-screenshot) 使用 HTML5 canvas 和 SVG 从 DOM 节点快速生成图像

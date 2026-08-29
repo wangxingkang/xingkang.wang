@@ -77,6 +77,7 @@
 
 ## 动画
 
+- [Animate UI](https://github.com/imskyleen/animate-ui) 基于 React、Tailwind CSS 与 Motion 的开源动画组件分发库，支持通过 shadcn CLI 安装
 - [Amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) 基于 Motion 的 React 微交互、过渡组件与卡片布局集合，支持 CLI 和 shadcn/ui Registry 安装
 - [@gsap/react](https://github.com/greensock/react) 用于在 React 中使用 GSAP 的工具
 - [calligraph](https://github.com/raphaelsalaja/calligraph) 由 Motion 驱动的流畅文本过渡动画
@@ -396,6 +397,7 @@
 
 ### 其他
 
+- [react-remove-scroll](https://github.com/theKashey/react-remove-scroll) 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal
 - [spoiled](https://github.com/molefrog/spoiled) 隐藏珍贵秘密。真实的 `<Spoiler />` React 组件
 - [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
 - [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) ReactJS 的 SVG 加载组件
