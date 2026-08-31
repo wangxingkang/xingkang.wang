@@ -24,6 +24,7 @@
 - [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
+- [Sub-Store](https://github.com/sub-store-org/Sub-Store) 面向多种代理客户端的订阅管理、格式转换与聚合服务
 
 ## 媒体
 

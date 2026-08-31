@@ -54,6 +54,7 @@
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [humanizer](https://github.com/blader/humanizer) 可消除文本中 AI 写作痕迹的 Claude Code 智能技能
 - [humanizer-zh](https://github.com/op7418/Humanizer-zh) Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹
+- [webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) 基于 Claude Code 的长篇网文创作插件，提供大纲、章节写作、一致性审查与长期记忆管理
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
@@ -138,6 +139,7 @@
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
+- [Maka](https://github.com/apache/maka) 本地优先的 AI Agent 工作空间，提供桌面端、TUI/CLI、工具沙箱与可恢复的执行记录
 - [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) DeepSeek Harness 桌面端封装，自动管理本地服务并集成窗口、托盘和桌面插件能力
 - [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件

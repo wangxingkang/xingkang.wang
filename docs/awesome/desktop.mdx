@@ -13,6 +13,7 @@
 - [KeyCastr](https://github.com/keycastr/keycastr) 按键可视化工具
 - [CotEditor](https://github.com/coteditor/CotEditor) 适用于 MacOS 的轻量级纯文本编辑器
 - [gasmask](https://github.com/2ndalpha/gasmask) MacOS 的 hosts 文件管理器
+- [LuLu](https://github.com/objective-see/LuLu) 免费开源的 macOS 防火墙，用于控制应用的网络连接
 - [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) MacOS 菜单栏工具包
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
