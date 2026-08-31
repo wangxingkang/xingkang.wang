@@ -33,6 +33,7 @@
 
 ## 图片处理
 
+- [Photopea](https://www.photopea.com/) 免费的在线图像编辑器，支持图层、蒙版、PSD 与多种图像格式
 - [tinypng](https://tinypng.com) 压缩图片
 - [remove](https://www.remove.bg/zh) 去除背景
 - [upyun](https://www.upyun.com/webp) 图片格式转换(WebP)

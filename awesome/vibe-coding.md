@@ -108,6 +108,7 @@
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) 面向 AI 代码助手的规约驱动开发
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 敏捷 AI 驱动开发突破性方法论
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
+- [KiroCrew](https://github.com/kirodotdev/KiroCrew) 持久化的 Kiro 开发工作空间，支持智能体、技能、定时任务与跨会话上下文
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
