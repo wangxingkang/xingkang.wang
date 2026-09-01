@@ -522,6 +522,7 @@ url: /awesome/ai.md
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
 - [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 基于 ESP32 与 MCP 的开源语音聊天机器人固件，支持唤醒词、ASR/LLM/TTS 流水线和多终端控制
+- [microduck](https://github.com/pollen-robotics/microduck) 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机
 - [hunk](https://github.com/modem-dev/hunk) 面向智能编程体的**先评审型终端差异查看器**
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) ChatGPT、Gemini、Grok、Claude、Perplexity、Cursor、Devin、Replit 等多款 AI 的系统提示词泄露！—— 面向所有人的 AI 系统透明度公开！
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
@@ -1050,6 +1051,7 @@ url: /awesome/react.md
 - [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
   - [cult-ui](https://github.com/nolly-studio/cult-ui)
+- [Dice UI](https://github.com/sadmann7/diceui) 基于 React、TypeScript 与 Tailwind CSS 的无障碍 shadcn/ui 组件，可直接复制使用
 - [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
 - [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
