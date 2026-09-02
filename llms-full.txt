@@ -441,6 +441,7 @@ url: /awesome/ai.md
 - [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
 - [airllm](https://github.com/lyogavin/airllm) 使用 AirLLM 在单张 4GB GPU 上运行 70B 模型推理
 - [freetoken](https://github.com/FlashML-org/FreeToken) Edge-native 的 MoE 本地推理引擎，支持消费级硬件上运行 frontier 规模模型并提供桌面客户端与 API
+- [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
 
 ### 其他
 
@@ -574,6 +575,7 @@ url: /awesome/ai.md
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
+- [PRAXIST](https://github.com/sapientinc/PRAXIST) 面向可量化研究问题的自治研究系统，编排并行智能体、评测与持续证据迭代
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
 - [AgentENV](https://github.com/kvcache-ai/AgentENV) 用于大规模运行 Agent 环境的分布式平台，基于 Firecracker 微虚拟机并兼容 E2B API
@@ -676,6 +678,7 @@ url: /awesome/ai.md
 - [蚂蚁阿福](https://chat.antafu.com)
 - [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
 - [meshy](https://www.meshy.ai) 创建3D模型
+- [Tripo Studio](https://studio.tripo3d.ai) AI 3D 工作区，可从图片快速生成 3D 模型
 - [flourish](https://flourish.studio) 图表、地图与交互式内容
 - [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
 - [blueprint](https://www.blueprint.io) 硬件原型设计
@@ -803,6 +806,7 @@ url: /awesome/vibe-coding.md
 ## 知识图谱
 
 - [CodeGraph](https://github.com/colbymchenry/codegraph)
+- [DeepWiki](https://deepwiki.com/) 为代码仓库生成可对话的 AI 文档，用于理解项目结构与实现
 - [Graphify](https://github.com/safishamsi/graphify)
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything)
@@ -824,6 +828,7 @@ url: /awesome/vibe-coding.md
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
   - [getdesign.md](https://getdesign.md)
+- [Refero Styles](https://styles.refero.design/) 收录 2,000+ 可供 AI 编码智能体使用的 DESIGN.md 设计系统示例
 
 ## 模型聚合平台
 
@@ -869,6 +874,7 @@ url: /awesome/vibe-coding.md
 - [claude-mem](https://github.com/thedotmack/claude-mem) 所有智能体均支持跨会话持久上下文
 - [codexbar](https://github.com/steipete/codexbar) Token 使用量统计
 - [tokscale](https://github.com/junhoyeo/tokscale) 一款 CLI 工具，用于追踪来自 OpenCode、Claude Code、🦞OpenClaw、Pi、Codex、Gemini、Cursor、AmpCode、Factory Droid、Kimi 等的 Token 使用量
+- [CodeBurn](https://github.com/getagentseal/codeburn) 本地分析 41 种 AI 编码工具的 Token 用量与成本，支持按模型、项目和任务统计
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
@@ -2901,6 +2907,7 @@ url: /awesome/css.md
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [tailwind-variants](https://github.com/heroui-inc/tailwind-variants) Tailwind CSS 一流变体接口
+- [cn](https://github.com/shadcn-ui/cn) 零依赖的 Tailwind 类名合并与冲突消解工具，兼容 clsx 与 tailwind-merge API
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
 - [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
@@ -4453,6 +4460,7 @@ url: /awesome/ops.md
 ## 网络
 
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
+- [tailcat](https://github.com/tailscale/tailcat) 基于 Tailscale 数据平面的点对点加密网络工具，无需控制面或账号
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网

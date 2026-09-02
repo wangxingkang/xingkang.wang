@@ -27,6 +27,7 @@
 - [tailwindcss-animate](https://npmx.dev/package/tailwindcss-animate)
 - [tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) 兼容 TailwindCSS v4.0 的 `tailwindcss-animate` 替代方案
 - [tailwind-variants](https://github.com/heroui-inc/tailwind-variants) Tailwind CSS 一流变体接口
+- [cn](https://github.com/shadcn-ui/cn) 零依赖的 Tailwind 类名合并与冲突消解工具，兼容 clsx 与 tailwind-merge API
 - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) Tailwind CSS 滚动条插件
 - [tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) 一款为表单样式提供基础重置的插件，便于通过工具类样式自定义表单元素
