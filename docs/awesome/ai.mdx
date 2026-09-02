@@ -131,6 +131,7 @@
 - [colibri](https://github.com/JustVugg/colibri) 在仅有 25GB 内存的消费级机器上运行 GLM-5.2
 - [airllm](https://github.com/lyogavin/airllm) 使用 AirLLM 在单张 4GB GPU 上运行 70B 模型推理
 - [freetoken](https://github.com/FlashML-org/FreeToken) Edge-native 的 MoE 本地推理引擎，支持消费级硬件上运行 frontier 规模模型并提供桌面客户端与 API
+- [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
 
 ### 其他
 
@@ -264,6 +265,7 @@
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
+- [PRAXIST](https://github.com/sapientinc/PRAXIST) 面向可量化研究问题的自治研究系统，编排并行智能体、评测与持续证据迭代
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) 在沙箱中运行代码智能体，通过 HTTP 进行控制。支持 Claude Code、Codex、OpenCode 和 Amp。
 - [AgentENV](https://github.com/kvcache-ai/AgentENV) 用于大规模运行 Agent 环境的分布式平台，基于 Firecracker 微虚拟机并兼容 E2B API
@@ -366,6 +368,7 @@
 - [蚂蚁阿福](https://chat.antafu.com)
 - [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
 - [meshy](https://www.meshy.ai) 创建3D模型
+- [Tripo Studio](https://studio.tripo3d.ai) AI 3D 工作区，可从图片快速生成 3D 模型
 - [flourish](https://flourish.studio) 图表、地图与交互式内容
 - [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
 - [blueprint](https://www.blueprint.io) 硬件原型设计

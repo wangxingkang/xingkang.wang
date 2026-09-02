@@ -18,6 +18,7 @@
 ## 网络
 
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
+- [tailcat](https://github.com/tailscale/tailcat) 基于 Tailscale 数据平面的点对点加密网络工具，无需控制面或账号
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
