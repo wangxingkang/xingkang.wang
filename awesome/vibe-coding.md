@@ -12,6 +12,7 @@
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
+- [codex-acp](https://github.com/agentclientprotocol/codex-acp) 将 Codex CLI 暴露为 ACP 服务，供客户端与 IDE 接入
 
 ## ClaudeCode
 
@@ -88,6 +89,7 @@
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
+- [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) 将 OpenCode、Claude Code 与 Codex 接入 Obsidian 知识库的智能体插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
 - [anthropics skills](https://github.com/anthropics/skills)
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）

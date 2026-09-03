@@ -110,6 +110,7 @@
 - [father](https://github.com/umijs/father) NPM 包开发工具
 - [unbuild](https://github.com/unjs/unbuild)
 - [parcel](https://github.com/parcel-bundler/parcel) 零配置高性能应用打包与构建工具，支持现代前端项目（JS/TS、React、Vue 等）从开发到生产的一体化流程
+- [Trunk](https://github.com/trunk-rs/trunk) Rust WASM Web 应用的构建与打包工具，内置开发服务器与热重载
 
 ## github action
 
@@ -119,6 +120,7 @@
 - [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
 - [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
+- [tauri-action](https://github.com/tauri-apps/tauri-action) 构建 Tauri 多平台原生应用，并可发布构建产物至 GitHub Release
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
 - [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) 用 GitHub Actions 将项目同步部署到 FTP/FTPS 服务器

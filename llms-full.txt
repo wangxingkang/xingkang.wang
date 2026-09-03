@@ -445,6 +445,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
@@ -521,6 +522,7 @@ url: /awesome/ai.md
 - [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
+- [Aden Hive](https://github.com/aden-hive/hive) 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
 - [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 基于 ESP32 与 MCP 的开源语音聊天机器人固件，支持唤醒词、ASR/LLM/TTS 流水线和多终端控制
 - [microduck](https://github.com/pollen-robotics/microduck) 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机
@@ -703,6 +705,7 @@ url: /awesome/vibe-coding.md
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
+- [codex-acp](https://github.com/agentclientprotocol/codex-acp) 将 Codex CLI 暴露为 ACP 服务，供客户端与 IDE 接入
 
 ## ClaudeCode
 
@@ -779,6 +782,7 @@ url: /awesome/vibe-coding.md
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
 - [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) 一套严谨的工程构建、评测、管控与可移植体系，用于打造可复用智能体能力模块
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
+- [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) 将 OpenCode、Claude Code 与 Codex 接入 Obsidian 知识库的智能体插件
 - [emilkowalski skills](https://github.com/emilkowalski/skills)
 - [anthropics skills](https://github.com/anthropics/skills)
 - [pi-skills](https://github.com/badlogic/pi-skills) 适用于 pi 编码代理的技能（兼容 Claude Code 和 Codex CLI）
@@ -2690,6 +2694,7 @@ url: /awesome/desktop.md
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
+- [Lynavo Drive](https://github.com/Lynavo/lynavo-drive) 手机到桌面的局域网增量媒体同步工具，支持 iOS、Android、macOS 与 Windows
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
 
@@ -2806,6 +2811,8 @@ url: /awesome/desktop.md
 ### 其他
 
 - [wry](https://github.com/tauri-apps/wry) 基于 Rust 的跨平台 WebView 库
+- [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) 读取电池、网络、存储、显示与设备信息的跨平台 Tauri 插件
+- [create-tauri-react](https://github.com/MrLightful/create-tauri-react) 基于 Vite、React、TypeScript 与 Tailwind CSS 的 Tauri 应用模板
 
 ### 开源项目
 
@@ -3285,6 +3292,7 @@ url: /awesome/engineering.md
 - [father](https://github.com/umijs/father) NPM 包开发工具
 - [unbuild](https://github.com/unjs/unbuild)
 - [parcel](https://github.com/parcel-bundler/parcel) 零配置高性能应用打包与构建工具，支持现代前端项目（JS/TS、React、Vue 等）从开发到生产的一体化流程
+- [Trunk](https://github.com/trunk-rs/trunk) Rust WASM Web 应用的构建与打包工具，内置开发服务器与热重载
 
 ## github action
 
@@ -3294,6 +3302,7 @@ url: /awesome/engineering.md
 - [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
 - [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
+- [tauri-action](https://github.com/tauri-apps/tauri-action) 构建 Tauri 多平台原生应用，并可发布构建产物至 GitHub Release
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
 - [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) 用 GitHub Actions 将项目同步部署到 FTP/FTPS 服务器
@@ -4051,6 +4060,8 @@ url: /awesome/rust.md
 
 ## 数据库
 
+- [SQLx](https://github.com/transact-rs/sqlx) 支持编译期查询校验的异步 Rust SQL 工具包，兼容 PostgreSQL、MySQL 与 SQLite
+
 ### 向量数据库
 
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
@@ -4068,6 +4079,7 @@ url: /awesome/rust.md
 ## 其他
 
 - [servo](https://github.com/servo/servo) 浏览器引擎
+- [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
 - [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架

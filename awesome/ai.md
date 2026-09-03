@@ -135,6 +135,7 @@
 
 ### 其他
 
+- [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
@@ -211,6 +212,7 @@
 - [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) 在终端、VSCode 扩展程序中，或通过 Discord（类似 OpenClaw 的使用方式）**免费使用 Claude Code**
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
+- [Aden Hive](https://github.com/aden-hive/hive) 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
 - [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 基于 ESP32 与 MCP 的开源语音聊天机器人固件，支持唤醒词、ASR/LLM/TTS 流水线和多终端控制
 - [microduck](https://github.com/pollen-robotics/microduck) 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机
