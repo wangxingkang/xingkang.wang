@@ -33,6 +33,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
+- [Lynavo Drive](https://github.com/Lynavo/lynavo-drive) 手机到桌面的局域网增量媒体同步工具，支持 iOS、Android、macOS 与 Windows
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
 
@@ -149,6 +150,8 @@
 ### 其他
 
 - [wry](https://github.com/tauri-apps/wry) 基于 Rust 的跨平台 WebView 库
+- [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) 读取电池、网络、存储、显示与设备信息的跨平台 Tauri 插件
+- [create-tauri-react](https://github.com/MrLightful/create-tauri-react) 基于 Vite、React、TypeScript 与 Tailwind CSS 的 Tauri 应用模板
 
 ### 开源项目
 

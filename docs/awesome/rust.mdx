@@ -36,6 +36,8 @@
 
 ## 数据库
 
+- [SQLx](https://github.com/transact-rs/sqlx) 支持编译期查询校验的异步 Rust SQL 工具包，兼容 PostgreSQL、MySQL 与 SQLite
+
 ### 向量数据库
 
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
@@ -53,6 +55,7 @@
 ## 其他
 
 - [servo](https://github.com/servo/servo) 浏览器引擎
+- [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
 - [enigo](https://github.com/enigo-rs/enigo) 跨平台输入模拟
 - [candle](https://github.com/huggingface/candle) 极简的 Rust 机器学习框架
