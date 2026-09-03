@@ -375,3 +375,4 @@
 - [flourish](https://flourish.studio) 图表、地图与交互式内容
 - [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
 - [blueprint](https://www.blueprint.io) 硬件原型设计
+- [Wispal](https://wispal.ai/) 为 ChatGPT、Claude 与 Gemini 对话提供高亮和批注的 Chrome 扩展
