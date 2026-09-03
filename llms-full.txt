@@ -348,6 +348,7 @@ url: /awesome/ai.md
 - [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 - [fara](https://github.com/microsoft/fara) Fara-7B：一个高效的计算机操作智能体模型
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
+- [TimesFM](https://github.com/google-research/timesfm) Google Research 开源的预训练时间序列基础模型，用于时间序列预测
 
 ## Skill
 
@@ -805,6 +806,7 @@ url: /awesome/vibe-coding.md
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [KiroCrew](https://github.com/kirodotdev/KiroCrew) 持久化的 Kiro 开发工作空间，支持智能体、技能、定时任务与跨会话上下文
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
+- [herdr-annotate](https://github.com/plannotator/herdr-annotate) 在 Herdr 中批注终端文本、文档与智能体回复，并将反馈直接发送给智能体
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
 ## 知识图谱
@@ -2356,6 +2358,7 @@ url: /awesome/javascript.md
 - [icones](https://github.com/antfu-collective/icones) 为图标设计开发工作流提供快速搜索、预览与复制工具
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 - [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
+- [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 面向仪表盘和应用目录的服务图标库，提供 SVG、PNG 与 WEBP 格式
 
 ### 拖拽
 
@@ -3324,6 +3327,7 @@ url: /awesome/engineering.md
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
 - [vinext](https://github.com/cloudflare/vinext) 复刻 Next.js API 接口的 Vite 插件，可部署至任意平台
 - [changelogen](https://github.com/unjs/changelogen) 依托约定式提交规范，生成精美的更新变更日志
+- [template](https://github.com/unjs/template) UnJS 项目起步模板，预置 TypeScript、pnpm 与构建测试配置
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
@@ -4438,6 +4442,7 @@ url: /awesome/cpp.md
 
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
 - [abseil-cpp](https://github.com/abseil/abseil-cpp) Abseil 通用库（C++）
+- [fmt](https://github.com/fmtlib/fmt) 快速且类型安全的现代 C++ 格式化库
 
 ## 游戏开发
 

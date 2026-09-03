@@ -9,6 +9,7 @@
 
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) 一个仅含头文件的 C++ HTTP/HTTPS 服务端与客户端库
 - [abseil-cpp](https://github.com/abseil/abseil-cpp) Abseil 通用库（C++）
+- [fmt](https://github.com/fmtlib/fmt) 快速且类型安全的现代 C++ 格式化库
 
 ## 游戏开发
 
