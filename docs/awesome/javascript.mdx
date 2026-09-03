@@ -725,6 +725,7 @@
 - [icones](https://github.com/antfu-collective/icones) 为图标设计开发工作流提供快速搜索、预览与复制工具
 - [@lobehub/icons](https://github.com/lobehub/lobe-icons)
 - [simple-icons](https://github.com/simple-icons/simple-icons) 主流品牌专用 SVG 图标
+- [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 面向仪表盘和应用目录的服务图标库，提供 SVG、PNG 与 WEBP 格式
 
 ### 拖拽
 

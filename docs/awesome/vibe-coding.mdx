@@ -112,6 +112,7 @@
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 面向团队优先的 Claude Code 多智能体编排系统
 - [KiroCrew](https://github.com/kirodotdev/KiroCrew) 持久化的 Kiro 开发工作空间，支持智能体、技能、定时任务与跨会话上下文
 - [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 适用于 Claude Code、Codex、Cursor 等工具的官方复合工程插件
+- [herdr-annotate](https://github.com/plannotator/herdr-annotate) 在 Herdr 中批注终端文本、文档与智能体回复，并将反馈直接发送给智能体
 - [humanlayer](https://github.com/humanlayer/humanlayer) 让 AI 编码智能体在复杂代码库中解决疑难问题的最优方案
 
 ## 知识图谱
