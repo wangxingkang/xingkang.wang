@@ -636,6 +636,7 @@ url: /awesome/ai.md
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [ardot](https://d.qq.com) AI 设计
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) 基于 Next.js 与 draw\.io 的 AI 图表工具，可通过自然语言创建、修改和增强流程图、架构图等图表
+- [Superdesign](https://superdesign.dev/) 通过提示词生成产品 UI 的 AI 设计智能体
 
 ### 智能体
 
@@ -841,6 +842,7 @@ url: /awesome/vibe-coding.md
 
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 统一接入多家模型提供商的开源 AI 网关，支持配额感知自动回退
 - [千问系列](https://www.qianwenai.com)
 - [硅基流动-国际站](https://www.siliconflow.com)
 - [硅基流动-国内站](https://www.siliconflow.cn)
