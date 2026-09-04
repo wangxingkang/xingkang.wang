@@ -36,6 +36,7 @@
 - [Lynavo Drive](https://github.com/Lynavo/lynavo-drive) 手机到桌面的局域网增量媒体同步工具，支持 iOS、Android、macOS 与 Windows
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) 一款用于与 iOS 设备通信的跨平台协议库
 - [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
+- [VeloxDB](https://github.com/veloxbase/veloxdb) 支持 PostgreSQL、MySQL、SQLite、DuckDB、MongoDB 与 Redis 的跨平台本地数据库客户端
 
 ### 媒体
 

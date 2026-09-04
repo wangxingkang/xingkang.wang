@@ -47,6 +47,7 @@
 
 - [vap](https://github.com/Tencent/vap) VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
+- [morphicons](https://github.com/guillermolg00/morphicons) 为描边图标提供基于弹簧物理的通用形变动画，支持 React、Vue、Svelte 与 React Native
 - [animejs](https://github.com/juliangarnier/anime) JavaScript 动画引擎
 - [@rive-app/canvas](https://github.com/rive-app/rive-wasm) 适用于 [Rive](https://rive.app) 的 Wasm/JS 运行时环境
 - [canvas-ui](https://github.com/DavidHDev/canvas-ui) 跨框架 Canvas / WebGL 创意组件库，可在真实 HTML 界面上叠加流体、着色器和 3D 交互效果
