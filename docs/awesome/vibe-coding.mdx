@@ -146,6 +146,7 @@
 
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 统一接入多家模型提供商的开源 AI 网关，支持配额感知自动回退
 - [千问系列](https://www.qianwenai.com)
 - [硅基流动-国际站](https://www.siliconflow.com)
 - [硅基流动-国内站](https://www.siliconflow.cn)
