@@ -77,6 +77,8 @@
 - [deno](https://github.com/denoland/deno)
   - [fresh](https://github.com/denoland/fresh) 下一代 Web 框架
   - [std](https://github.com/denoland/std) Deno 标准库
+- [QuickJS](https://github.com/bellard/quickjs) 轻量且可嵌入的 JavaScript 引擎
+- [MQuickJS](https://github.com/bellard/mquickjs) 面向嵌入式系统的 Micro QuickJS JavaScript 引擎，约 10 KB RAM 即可运行
 
 ## 命令行相关
 
