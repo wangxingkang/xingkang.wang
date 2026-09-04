@@ -1645,6 +1645,7 @@ url: /awesome/javascript.md
 - [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
+- [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
@@ -3307,6 +3308,9 @@ url: /awesome/engineering.md
 - [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
 - [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
+- [create-pull-request](https://github.com/peter-evans/create-pull-request) 提交工作流中的变更，并创建或更新拉取请求
+- [repository-dispatch](https://github.com/peter-evans/repository-dispatch) 向当前或远程仓库触发 `repository_dispatch` 事件
+- [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) 创建或更新 Issue、Pull Request 评论
 - [tauri-action](https://github.com/tauri-apps/tauri-action) 构建 Tauri 多平台原生应用，并可发布构建产物至 GitHub Release
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品
@@ -3641,6 +3645,8 @@ url: /awesome/node.md
 - [deno](https://github.com/denoland/deno)
   - [fresh](https://github.com/denoland/fresh) 下一代 Web 框架
   - [std](https://github.com/denoland/std) Deno 标准库
+- [QuickJS](https://github.com/bellard/quickjs) 轻量且可嵌入的 JavaScript 引擎
+- [MQuickJS](https://github.com/bellard/mquickjs) 面向嵌入式系统的 Micro QuickJS JavaScript 引擎，约 10 KB RAM 即可运行
 
 ## 命令行相关
 
@@ -4555,6 +4561,7 @@ url: /awesome/java.md
 - [dbeaver](https://github.com/dbeaver/dbeaver) 免费通用型数据库工具与 SQL 客户端
 - [nacos](https://github.com/alibaba/nacos) 一款易用的动态服务发现、配置管理与服务治理平台，专为构建 AI 云原生应用而设计
 - [flowable-engine](https://github.com/flowable/flowable-engine) 一款精简高效的工作流与业务流程管理（BPM）平台，面向开发者、系统管理员及业务用户
+- [LangChain4j](https://github.com/langchain4j/langchain4j) JVM 上构建 LLM 应用的 Java 库，统一接入模型、向量库、工具调用、MCP、智能体与 RAG
 
 
 

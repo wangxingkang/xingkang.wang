@@ -120,6 +120,9 @@
 - [actions/setup-node](https://github.com/actions/setup-node) 使用特定版本的 Node 设置您的 GitHub Actions 工作流程
 - [actions/setup-python](https://github.com/actions/setup-python) 使用特定版本的 Python 设置您的 GitHub Actions 工作流程
 - [actions/checkout](https://github.com/actions/checkout) 检出代码仓库
+- [create-pull-request](https://github.com/peter-evans/create-pull-request) 提交工作流中的变更，并创建或更新拉取请求
+- [repository-dispatch](https://github.com/peter-evans/repository-dispatch) 向当前或远程仓库触发 `repository_dispatch` 事件
+- [create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) 创建或更新 Issue、Pull Request 评论
 - [tauri-action](https://github.com/tauri-apps/tauri-action) 构建 Tauri 多平台原生应用，并可发布构建产物至 GitHub Release
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) 安装 pnpm 包管理器
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) 通过 SSH 复制文件和制品

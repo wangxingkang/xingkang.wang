@@ -10,6 +10,7 @@
 - [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
+- [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
