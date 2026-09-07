@@ -29,6 +29,7 @@
 
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
+- [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
 - [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力

@@ -107,6 +107,7 @@
 
 - [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
+- [LogoCreator](https://github.com/Nutlope/logocreator) 基于 Together AI 的 FLUX 模型生成和编辑 Logo 的开源工具
 
 ### 音视频
 

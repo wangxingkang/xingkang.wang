@@ -137,6 +137,7 @@
 ## 原型&设计
 
 - [penpot](https://github.com/penpot/penpot) 面向设计与代码协作的开源设计工具
+- [M3E Canvas](https://github.com/lnkiai/m3e-canvas) 在浏览器中拖拽设计 Material 3 Expressive 交互原型，并导出供 AI 编码工具使用的提示词
 - [design](https://github.com/google-labs-code/design.md) 一种用于向智能编码代理描述视觉识别体系的格式规范。DESIGN.md 可为代理提供对设计系统持久化、结构化的理解
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
   - [getdesign.md](https://getdesign.md)

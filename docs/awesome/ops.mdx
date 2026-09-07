@@ -22,6 +22,7 @@
 - [port-killer](https://github.com/productdevbook/port-killer) 端口管理工具
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
+- [MySelf](https://github.com/jnlaoshu/MySelf) 汇集 Egern、Stash、Surge、Loon、Quantumult X、Shadowrocket 等代理客户端的自用配置与脚本，仅供参考
 - [hosts](https://github.com/ineo6/hosts) GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) 一个管理 hosts 文件的应用
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) DigitalPlat 免费域名：面向所有人的免费域名服务
