@@ -348,6 +348,7 @@
   - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 react-pdf 中渲染 HTML 内容
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
 - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
+- [pdfcn](https://github.com/shadcn-labs/pdfcn) 基于 Takumi 和 Forme 的可定制 React PDF 组件库，兼容 shadcn/ui 工作流，提供表格、图表、发票和报告等组件与模板
 - [react-markdown](https://github.com/remarkjs/react-markdown) React Markdown 组件
 - [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite) 一款轻量的基于 React 的 markdown 编辑器
 - [@mdxeditor/editor](https://github.com/mdx-editor/editor) 一个用于 Markdown 的富文本编辑器 React 组件
