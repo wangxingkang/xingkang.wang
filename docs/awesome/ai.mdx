@@ -117,6 +117,7 @@
 - [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
 - [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) 本地运行的开源 AI 语音工作站，支持语音克隆、音色设计、视频配音、语音转写与有声书制作
 - [Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases) 精选适配 AI 影视创作的 Blender 与 Seedance 工作流：涵盖预可视化、相机控制、Blender MCP、参考视频以及智能体驱动实操案例
 
 ### 学习
@@ -345,6 +346,7 @@
 
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
+- [Topaz Labs](https://www.topazlabs.com/) AI 图像与视频增强工具套件，支持降噪、锐化、超分辨率放大与视频补帧，提供桌面应用和云端处理
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [writehuman](https://writehuman.ai) 去除 AI 味
 
