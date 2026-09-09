@@ -189,7 +189,6 @@
 - [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序
 - [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) 用于去除图像中谷歌 Gemini 可见水印，以及 SynthID、C2PA、EXIF 隐形 AI 水印的命令行工具与程序库
 - [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) 去除自有文本和文件中的 AI 来源标记、Unicode 隐写、C2PA 与元数据痕迹
-- [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [onlook](https://github.com/onlook-dev/onlook) 面向设计师的 Cursor・一款开源的优先采用人工智能的设计工具・借助人工智能可视化搭建、美化与编辑你的 React 应用
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
@@ -330,7 +329,6 @@
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
 - [ardot](https://d.qq.com) AI 设计
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) 基于 Next.js 与 draw\.io 的 AI 图表工具，可通过自然语言创建、修改和增强流程图、架构图等图表
-- [Superdesign](https://superdesign.dev/) 通过提示词生成产品 UI 的 AI 设计智能体
 
 ### 智能体
 
