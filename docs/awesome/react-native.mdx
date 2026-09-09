@@ -139,6 +139,7 @@
 
 ## 案例(开源项目)
 
+- [WooCommerce POS](https://github.com/wcpos/monorepo) 基于 React Native 与 Expo 的跨平台收银应用，支持网页、桌面和移动端，通过 WooCommerce POS 插件连接商店后端，提供订单处理与小票打印
 - [OrionTV](https://github.com/orion-lib/OrionTV) 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 - [MusicFree](https://github.com/maotoumao/MusicFree) 插件化、定制化、无广告的免费音乐播放器
 - [JKVideo](https://github.com/tiajinsha/JKVideo) 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS
