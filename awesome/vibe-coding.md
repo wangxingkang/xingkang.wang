@@ -40,6 +40,7 @@
 
 ## 扩展
 
+- [Cursor Plugins](https://github.com/cursor/plugins) Cursor 官方插件规范与插件集合，涵盖开发工具、框架和 SaaS 集成，提供插件创建与校验工具
 - [pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) 适用于 Pi 编码代理的 Token 高效 MCP 适配器
 - [pi-lens](https://github.com/apmantza/pi-lens) 为 pi 提供的实时代码反馈——LSP、代码检查器、格式化器、结构分析
 - [pi-web-access](https://github.com/nicobailon/pi-web-access) 适用于 Pi 编码代理的网页搜索与内容提取扩展

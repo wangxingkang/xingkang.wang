@@ -259,12 +259,14 @@
   - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
   - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
+- [Rakazo](https://github.com/elie222/rakazo) 可自托管的开源 AI 智能体协作平台，支持持久记忆、定时任务与浏览器和桌面操作，可自选模型及沙箱，提供网页、桌面和移动客户端
 - [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 适用于任意网站的逆向工程可复用模板，可借助 Claude Code 将其重建为像素级完美的复刻站点
 - [expect](https://github.com/millionco/expect) 让智能体在真实浏览器中测试你的代码
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [agentscope](https://github.com/agentscope-ai/agentscope) 构建并运行你能看见、理解且信任的智能体。
 - [agent-device](https://github.com/callstackincubator/agent-device) 面向 AI 智能体、用于控制 iOS 与 Android 设备的命令行工具（CLI）
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp) 面向 AI 智能体的移动端自动化 MCP 服务器，支持通过无障碍树与截图操作 iOS、Android 真机及模拟器，用于应用测试、交互与数据提取
 - [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
 - [domscribe](https://github.com/patchorbit/domscribe) 一款像素级转代码的开发工具，可填补运行中的 Web 应用程序与其源代码之间的鸿沟
