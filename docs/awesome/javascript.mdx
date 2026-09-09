@@ -68,6 +68,7 @@
 - [G2](https://g2.antv.antgroup.com/) 蚂蚁金服团队出品的图表库
 - [uplot](https://github.com/leeoniya/uPlot) 一款小巧、快速的图表库，支持时序图、折线图、面积图、K 线图与柱状图
 - [chart.js](https://github.com/chartjs/Chart.js) 使用 `<canvas>` 标签实现的简易 HTML5 图表库
+- [GoJS](https://github.com/NorthwoodsSoftware/GoJS) 用于构建交互式流程图、组织结构图、设计工具、规划工具和视觉化语言的 JavaScript 图表库
 
 ### 3D
 
