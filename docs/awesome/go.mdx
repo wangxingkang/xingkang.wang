@@ -27,6 +27,7 @@
 
 ## 其他
 
+- [croc](https://github.com/schollz/croc) 可以轻松且安全地将文件从一台计算机传输到另一台计算机上
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
