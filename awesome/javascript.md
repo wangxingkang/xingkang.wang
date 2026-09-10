@@ -364,7 +364,6 @@
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
 - [linkifyjs](https://github.com/nfrasser/linkifyjs) 从纯文本中识别 URL、邮箱、话题和提及，并转换为 HTML 链接的 JavaScript 插件
 - [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
-- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
 - [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
 - [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
@@ -553,9 +552,11 @@
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
+- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
 - [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
+- [p-throttle](https://github.com/sindresorhus/p-throttle) 对返回 Promise 的函数与异步函数进行节流处理
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮

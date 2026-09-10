@@ -2012,7 +2012,6 @@ url: /awesome/javascript.md
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) 将字符串中的 URL 转换为可点击链接
 - [linkifyjs](https://github.com/nfrasser/linkifyjs) 从纯文本中识别 URL、邮箱、话题和提及，并转换为 HTML 链接的 JavaScript 插件
 - [memoize](https://github.com/sindresorhus/memoize) 通过缓存相同入参的调用结果，加快重复函数调用的执行速度
-- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [one-event](https://github.com/fregante/one-event) 添加仅触发一次的事件监听器
 - [select-dom](https://github.com/fregante/select-dom) 轻量版 querySelector /querySelectorAll/closest 封装工具，返回数组，可配置在未匹配到元素时抛出异常
 - [shorten-repo-url](https://github.com/refined-github/shorten-repo-url) 像 GitHub 原生缩短工单、提交链接那样精简 GitHub 链接
@@ -2201,9 +2200,11 @@ url: /awesome/javascript.md
 - [colorthief](https://github.com/lokesh/color-thief) 只需使用 JavaScript 即可从图像中提取调色板，支持浏览器与 Node.js 环境
 - [bn.js](https://github.com/indutny/bn.js) 纯 JavaScript 实现的大数运算库
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) 拼音匹配，具备分词、缩写、多音字匹配能力，支持繁体版
+- [p-memoize](https://github.com/sindresorhus/p-memoize) 对返回 Promise 的函数与异步函数进行记忆缓存
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
 - [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
+- [p-throttle](https://github.com/sindresorhus/p-throttle) 对返回 Promise 的函数与异步函数进行节流处理
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
 - [Excalibur](https://github.com/excaliburjs/Excalibur) 面向网页的友好型 TypeScript 2D 游戏引擎
 - [lowlight](https://github.com/wooorm/lowlight) 适用于虚拟 DOM 与非 HTML 场景的虚拟语法高亮
@@ -3335,6 +3336,12 @@ url: /awesome/engineering.md
 - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
 - [toolkit](https://github.com/actions/toolkit) 用于开发 GitHub Actions 的 GitHub 工具套件
 
+## Git
+
+- [lefthook](https://github.com/evilmartians/lefthook) Git 钩子管理器
+- [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) Git 钩子管理器
+- [husky](https://github.com/typicode/husky) Git 钩子管理器
+
 ## 其他
 
 - [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
@@ -4022,7 +4029,6 @@ url: /awesome/node.md
 - [glob](https://github.com/isaacs/node-glob) 为 Node.js 提供 glob 模式匹配功能
 - [portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
 - [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
-- [lefthook](https://github.com/evilmartians/lefthook) 高可配置的 Git hooks 管理器，支持跨平台命令生命周期管理
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 - [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用

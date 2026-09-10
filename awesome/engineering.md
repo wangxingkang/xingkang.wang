@@ -130,6 +130,12 @@
 - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) 检测并自动关闭低质量及 AI 灌水式合并请求（PR）
 - [toolkit](https://github.com/actions/toolkit) 用于开发 GitHub Actions 的 GitHub 工具套件
 
+## Git
+
+- [lefthook](https://github.com/evilmartians/lefthook) Git 钩子管理器
+- [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) Git 钩子管理器
+- [husky](https://github.com/typicode/husky) Git 钩子管理器
+
 ## 其他
 
 - [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
