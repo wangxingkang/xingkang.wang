@@ -6,6 +6,18 @@
 
 ## AI
 
+### 开发框架
+
+- [agno](https://github.com/agno-agi/agno)
+- [langgraph](https://github.com/langchain-ai/langgraph)
+- [langchain](https://github.com/langchain-ai/langchain)
+- [crewAI](https://github.com/crewAIInc/crewAI) 多智能体协作框架
+- [autogen](https://github.com/microsoft/autogen)
+- [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
+### 其他
+
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
 - [LlamaFactory](https://github.com/hiyouga/LlamaFactory) 面向 100+ LLM 与 VLM 的统一高效微调框架，提供零代码 CLI 与 Web UI
@@ -18,7 +30,6 @@
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
 - [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
-- [langchain](https://github.com/langchain-ai/langchain) 智能体工程平台
 - [presidio](https://github.com/data-privacy-stack/presidio) 一个用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据（PII）的开源框架
 - [chatgpt2api](https://github.com/basketikun/chatgpt2api) ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 - [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
