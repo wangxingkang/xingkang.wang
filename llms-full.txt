@@ -352,6 +352,7 @@ url: /awesome/ai.md
 
 ## Skill
 
+- [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
 - [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
@@ -415,6 +416,7 @@ url: /awesome/ai.md
 
 ### 图片
 
+- [sprite-gen](https://github.com/aldegad/sprite-gen) 放进一张画，出来的是游戏可直接使用的精灵
 - [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
 - [LogoCreator](https://github.com/Nutlope/logocreator) 基于 Together AI 的 FLUX 模型生成和编辑 Logo 的开源工具
@@ -1093,6 +1095,7 @@ url: /awesome/react.md
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
 - [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
 - [blueprint](https://github.com/palantir/blueprint)
+- [opensourceui](https://github.com/bidyut10/opensourceui)
 
 ## 数据可视化
 
@@ -4266,6 +4269,7 @@ url: /awesome/go.md
 
 ## 其他
 
+- [croc](https://github.com/schollz/croc) 可以轻松且安全地将文件从一台计算机传输到另一台计算机上
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理

@@ -169,6 +169,7 @@
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
 - [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
 - [blueprint](https://github.com/palantir/blueprint)
+- [opensourceui](https://github.com/bidyut10/opensourceui)
 
 ## 数据可视化
 

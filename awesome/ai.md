@@ -42,6 +42,7 @@
 
 ## Skill
 
+- [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
 - [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
@@ -105,6 +106,7 @@
 
 ### 图片
 
+- [sprite-gen](https://github.com/aldegad/sprite-gen) 放进一张画，出来的是游戏可直接使用的精灵
 - [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
 - [LogoCreator](https://github.com/Nutlope/logocreator) 基于 Together AI 的 FLUX 模型生成和编辑 Logo 的开源工具
