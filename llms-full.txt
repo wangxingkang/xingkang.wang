@@ -3098,6 +3098,7 @@ url: /awesome/browser-extension.md
 
 ## 案例
 
+- [mobileview](https://mobileview.app/zh/) 同时查看网站的桌面与移动端效果
 - [refined-github](https://github.com/refined-github/refined-github) 一款简化 GitHub 界面并增添实用功能的浏览器扩展程序
 
 
