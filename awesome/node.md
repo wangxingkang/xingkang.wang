@@ -8,6 +8,13 @@
 
 ## AI
 
+### 框架
+
+- [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
+- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
+- [voltagent](https://github.com/VoltAgent/voltagent)
+- [genkit](https://github.com/genkit-ai/genkit)
+
 ### 学习
 
 - [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
@@ -45,7 +52,6 @@
 - [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
 - [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
-- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署

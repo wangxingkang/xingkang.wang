@@ -482,7 +482,6 @@ url: /awesome/ai.md
 - [Browser-BC](https://github.com/Einsia/Browser-BC) 面向浏览器场景的智能体行为复刻方案，适配通用图形界面操作，支持分布式操作轨迹采集
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [infinite-canvas](https://github.com/basketikun/infinite-canvas) 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作
-- [voltagen](https://github.com/VoltAgent/voltagen) 端到端的 AI Agent 工程平台
 - [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [open-code-review](https://github.com/alibaba/open-code-review) AI 驱动的代码审查 CLI 工具
@@ -1659,7 +1658,6 @@ url: /awesome/javascript.md
 - [@microsoft/fetch-event-source](https://github.com/Azure/fetch-event-source) 一套更优质的用于发起事件源（Event‑Source）请求的 API，具备 fetch () 的全部功能
 - [aieditor](https://github.com/aieditor-team/AiEditor) 面向 AI 的下一代富文本编辑器
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
-- [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [partial-json](https://github.com/promplate/partial-json-parser-js) 解析由大语言模型（LLM）生成的**不完整 JSON**
 - [page-agent](https://github.com/alibaba/page-agent) 你网站里的 AI 操作员
 - [univer](https://github.com/dream-num/univer) 一个前后端同构的全栈办公套件，具有高扩展性和高性能，旨在帮助开发者自由构建和编辑电子表格、文档和演示文稿
@@ -3602,6 +3600,13 @@ url: /awesome/node.md
 
 ## AI
 
+### 框架
+
+- [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
+- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
+- [voltagent](https://github.com/VoltAgent/voltagent)
+- [genkit](https://github.com/genkit-ai/genkit)
+
 ### 学习
 
 - [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
@@ -3639,7 +3644,6 @@ url: /awesome/node.md
 - [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
 - [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
-- [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
@@ -4340,6 +4344,18 @@ url: /awesome/python.md
 
 ## AI
 
+### 开发框架
+
+- [agno](https://github.com/agno-agi/agno)
+- [langgraph](https://github.com/langchain-ai/langgraph)
+- [langchain](https://github.com/langchain-ai/langchain)
+- [crewAI](https://github.com/crewAIInc/crewAI) 多智能体协作框架
+- [autogen](https://github.com/microsoft/autogen)
+- [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel)
+
+### 其他
+
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [peft](https://github.com/huggingface/peft) 最先进的参数高效微调
 - [LlamaFactory](https://github.com/hiyouga/LlamaFactory) 面向 100+ LLM 与 VLM 的统一高效微调框架，提供零代码 CLI 与 Web UI
@@ -4352,7 +4368,6 @@ url: /awesome/python.md
 - [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
 - [litellm](https://github.com/BerriAI/litellm) Python SDK、代理服务器（AI 网关），以 OpenAI（或原生）格式调用 100+ 个 LLM API，支持成本追踪、护栏、负载均衡和日志记录
-- [langchain](https://github.com/langchain-ai/langchain) 智能体工程平台
 - [presidio](https://github.com/data-privacy-stack/presidio) 一个用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据（PII）的开源框架
 - [chatgpt2api](https://github.com/basketikun/chatgpt2api) ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 - [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
