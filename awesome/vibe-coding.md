@@ -167,6 +167,8 @@
 
 ## 其他
 
+- [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
+- [backpass](https://github.com/kunchenguid/backpass) 让 AGENTS.md 像神经网络一样迭代
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 自动优化 AI Agent 提示词/技能文档的开源框架
 - [teamai-cli](https://github.com/Tencent/teamai-cli) 由 Git 驱动团队 AI 协作

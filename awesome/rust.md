@@ -7,6 +7,7 @@
 
 ## AI
 
+- [boxlite](https://github.com/boxlite-ai/boxlite) 适用于 AI 代理的微型虚拟机
 - [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
 - [pdf-inspector](https://github.com/firecrawl/pdf-inspector) 快速 Rust PDF 分类与文本抽取库，可识别扫描件/文本型 PDF、生成 Markdown，并提供 Python、Node.js 与 WASM 绑定
 - [rig](https://github.com/0xPlaygrounds/rig) 用 Rust 构建模块化、可扩展 LLM 应用的开发库，支持智能体工作流、多模型提供商和向量存储集成
@@ -54,6 +55,7 @@
 
 ## 其他
 
+- [gpui-kit](https://github.com/longbridge/gpui-kit) Rust GUI 组件，用于构建出色的跨平台桌面应用程序，采用 GPUI 技术实现
 - [servo](https://github.com/servo/servo) 浏览器引擎
 - [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库

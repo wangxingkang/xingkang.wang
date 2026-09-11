@@ -98,6 +98,8 @@
 
 ## 其他
 
+- [3b1b/manim](https://github.com/3b1b/manim) 用于制作解释性数学视频的动画引擎
+- [3b1b/videos](https://github.com/3b1b/videos) 用于 3blue1brown 视频中的人工生成场景的代码
 - [supervision](https://github.com/roboflow/supervision) 我们帮你编写可复用的计算机视觉工具
 - [scrapy](https://github.com/scrapy/scrapy) 一个快速、高级的 Python 网络爬取与抓取框架
 - [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成

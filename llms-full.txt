@@ -450,6 +450,7 @@ url: /awesome/ai.md
 
 ### 其他
 
+- [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
@@ -867,6 +868,8 @@ url: /awesome/vibe-coding.md
 
 ## 其他
 
+- [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
+- [backpass](https://github.com/kunchenguid/backpass) 让 AGENTS.md 像神经网络一样迭代
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
 - [SkillOpt](https://github.com/microsoft/SkillOpt) 自动优化 AI Agent 提示词/技能文档的开源框架
 - [teamai-cli](https://github.com/Tencent/teamai-cli) 由 Git 驱动团队 AI 协作
@@ -1061,6 +1064,7 @@ url: /awesome/react.md
 ## 组件库
 
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
+- [originkit](https://www.originkit.dev) 免费动画组件库
 - [ThreeUI](https://github.com/MengTo/threeui) 开源 React 三维交互组件库，提供可实时预览的社区组件与源代码
 - [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
@@ -2711,7 +2715,6 @@ url: /awesome/desktop.md
 - [Deck](https://github.com/yuzeguitarist/Deck) MacOS 剪贴板管理的开源桌面应用
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器
-- [ego-lite](https://github.com/citrolabs/ego-lite) 一款面向 AI 代理的高效浏览器，支持真人与多个代理并行使用同一浏览器上下文进行自动化任务
 
 ### 跨平台
 
@@ -2905,6 +2908,10 @@ url: /awesome/uni.md
 - [uni-use](https://uni-helper.js.org/uni-use/guide/installation) uni-app 组合式工具集
 - [uni-ku-root](https://uni-ku.js.org/projects/root/introduction) 一个模拟 App.vue 原有能力的根组件插件
 - [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer) 🦾 Uniapp Vue3 版本的分包优化实现
+
+## 案例
+
+- [yudao-mall-uniapp](https://github.com/yudaocode/yudao-mall-uniapp) 芋道商城，基于 Vue3 + Uniapp 实现，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面 DIY 等功能，100% 开源
 
 
 
@@ -3615,12 +3622,15 @@ url: /awesome/node.md
 
 - [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
 
+### 案例
+
+- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
+
 ### 其他
 
 - [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
 - [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
-- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
 - [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
 - [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
@@ -4076,6 +4086,7 @@ url: /awesome/rust.md
 
 ## AI
 
+- [boxlite](https://github.com/boxlite-ai/boxlite) 适用于 AI 代理的微型虚拟机
 - [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
 - [pdf-inspector](https://github.com/firecrawl/pdf-inspector) 快速 Rust PDF 分类与文本抽取库，可识别扫描件/文本型 PDF、生成 Markdown，并提供 Python、Node.js 与 WASM 绑定
 - [rig](https://github.com/0xPlaygrounds/rig) 用 Rust 构建模块化、可扩展 LLM 应用的开发库，支持智能体工作流、多模型提供商和向量存储集成
@@ -4123,6 +4134,7 @@ url: /awesome/rust.md
 
 ## 其他
 
+- [gpui-kit](https://github.com/longbridge/gpui-kit) Rust GUI 组件，用于构建出色的跨平台桌面应用程序，采用 GPUI 技术实现
 - [servo](https://github.com/servo/servo) 浏览器引擎
 - [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
@@ -4441,6 +4453,8 @@ url: /awesome/python.md
 
 ## 其他
 
+- [3b1b/manim](https://github.com/3b1b/manim) 用于制作解释性数学视频的动画引擎
+- [3b1b/videos](https://github.com/3b1b/videos) 用于 3blue1brown 视频中的人工生成场景的代码
 - [supervision](https://github.com/roboflow/supervision) 我们帮你编写可复用的计算机视觉工具
 - [scrapy](https://github.com/scrapy/scrapy) 一个快速、高级的 Python 网络爬取与抓取框架
 - [LightRAG](https://github.com/HKUDS/LightRAG) 简单快速的检索增强生成

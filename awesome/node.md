@@ -19,12 +19,15 @@
 
 - [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
 
+### 案例
+
+- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
+
 ### 其他
 
 - [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
 - [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
-- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
 - [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
 - [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
