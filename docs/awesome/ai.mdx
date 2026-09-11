@@ -140,6 +140,7 @@
 
 ### 其他
 
+- [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [treg](https://github.com/superdesigndev/treg) 面向智能体的工具注册与代理服务，统一调用第三方 API、CLI 和 Skill，并在服务端托管凭据
 - [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档

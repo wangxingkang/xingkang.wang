@@ -36,3 +36,7 @@
 - [uni-use](https://uni-helper.js.org/uni-use/guide/installation) uni-app 组合式工具集
 - [uni-ku-root](https://uni-ku.js.org/projects/root/introduction) 一个模拟 App.vue 原有能力的根组件插件
 - [bundle-optimizer](https://github.com/uni-ku/bundle-optimizer) 🦾 Uniapp Vue3 版本的分包优化实现
+
+## 案例
+
+- [yudao-mall-uniapp](https://github.com/yudaocode/yudao-mall-uniapp) 芋道商城，基于 Vue3 + Uniapp 实现，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面 DIY 等功能，100% 开源
