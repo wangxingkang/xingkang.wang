@@ -82,7 +82,6 @@
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
 - [agentskills](https://github.com/agentskills/agentskills) 智能体技能的规范与文档
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
-- [diagram-design](https://github.com/cathrynlavery/diagram-design) 面向 Claude Code、Codex 和 Pi 的图示设计 Skill，提供多种可品牌化的编辑型 HTML + SVG 图表模板
 - [Archify](https://github.com/tt-a1i/archify) 为 AI 智能体生成可验证的交互式架构、流程、时序、数据流与生命周期图
 
 ## 学习
