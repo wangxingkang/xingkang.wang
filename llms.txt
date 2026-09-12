@@ -12,32 +12,32 @@
 
 ## 精选资源
 
-- [AI](/awesome/ai.md)
-- [Vibe Coding](/awesome/vibe-coding.md)
+- [AI](/awesome/ai.md): 按模型、智能体平台、基础设施、工具集成与应用用途收录 AI 资源。编程工具及其开发工作流见 AI 编程与工作流，语言 SDK 见 Node.js、Python、Go、Rust和 Java。
+- [AI 编程与工作流](/awesome/vibe-coding.md): 收录 AI 编程工具、宿主扩展、开发技能与工程工作流。通用智能体平台、模型服务和办公创作技能见 AI。
+- [JavaScript](/awesome/javascript.md): 收录通用 JavaScript / TypeScript 库与浏览器能力。服务端与系统接口见 Node.js，框架绑定包见 React、Vue、Svelte和 Solid。
+- [CSS](/awesome/css.md)
 - [React](/awesome/react.md)
-- [React Native](/awesome/react-native.md)
-- [JavaScript](/awesome/javascript.md)
 - [Vue](/awesome/vue.md)
-- [Desktop](/awesome/desktop.md)
-- [Uni](/awesome/uni.md)
-- [Css](/awesome/css.md)
 - [Svelte](/awesome/svelte.md)
 - [Solid](/awesome/solid.md)
-- [浏览器插件](/awesome/browser-extension.md)
-- [Website](/awesome/website.md)
-- [工程化](/awesome/engineering.md)
-- [Test](/awesome/test.md)
-- [安全](/awesome/security.md)
-- [自托管](/awesome/self-hosted.md)
-- [GitHub](/awesome/github.md)
-- [IDE](/awesome/ide.md)
-- [Node](/awesome/node.md): awesome-nodejs
-- [Rust](/awesome/rust.md)
-- [GO](/awesome/go.md)
-- [Python](/awesome/python.md)
+- [Node.js](/awesome/node.md): 收录 JavaScript 服务端、命令行与系统集成开发库。通用工具见 JavaScript，构建发布工具见工程化，部署服务见运维。 awesome-nodejs
+- [Python](/awesome/python.md): 收录 Python 开发库、框架与学习资源。可直接使用的 AI 应用见 AI，部署服务和系统工具见运维。
+- [Go](/awesome/go.md): 收录 Go 开发库、框架与学习资源。数据库、容器及网络工具见运维，自托管应用见自托管。
+- [Rust](/awesome/rust.md): 收录 Rust 开发库与生态工具。成品软件可按用途查找AI 编程工具、编辑器、终端工具和桌面应用。
+- [Java](/awesome/java.md): 收录 Java / JVM 开发框架。数据库、监控与服务治理平台见运维。
 - [C/C++ 开发](/awesome/cpp.md)
-- [运维](/awesome/ops.md)
-- [Java](/awesome/java.md)
+- [React Native](/awesome/react-native.md)
+- [uni-app 与小程序](/awesome/uni.md)
+- [桌面开发与应用](/awesome/desktop.md): 应用开发收录桌面框架、插件与打包工具；应用与工具按用途收录可直接使用的软件。终端与数据库客户端见运维，代码编辑器见 IDE。
+- [浏览器插件](/awesome/browser-extension.md): 开发收录浏览器扩展框架与工具；应用与工具收录可安装使用的扩展。
+- [IDE](/awesome/ide.md)
+- [工程化](/awesome/engineering.md)
+- [测试](/awesome/test.md)
+- [运维](/awesome/ops.md): 收录数据库、部署、网络、终端和可观测性等基础设施与运维工具。面向个人或团队业务的应用见自托管。
+- [安全](/awesome/security.md)
+- [自托管](/awesome/self-hosted.md): 按使用场景收录可自行运行的个人与团队应用。数据库、网络服务及部署平台见运维，AI 应用见 AI。
+- [网站与学习资源](/awesome/website.md)
+- [开源发现与数据集](/awesome/github.md)
 
 ## 面试题
 

@@ -1,35 +1,52 @@
 # 浏览器插件
 
+[开发](#开发)收录浏览器扩展框架与工具；[应用与工具](#应用与工具)收录可安装使用的扩展。
+
 ## 开发
 
 - [wxt](https://github.com/wxt-dev/wxt) 下一代浏览器扩展开发框架
   - [@wxt-dev/module-react](https://github.com/wxt-dev/wxt/tree/HEAD/packages/module-react)
 - [webext-core](https://github.com/aklinker1/webext-core) 一套用于开发浏览器扩展的核心库与工具合集
-- [transliteration](https://github.com/yf-hk/transliteration) 适用于 Node.js、浏览器、Web Worker、React Native、Electron 及命令行的 UTF‑8 转 ASCII 音译 / URL 友好字符串转换模块
-- [raycast](https://github.com/raycast/extensions) 扩展 Raycast 所需的一切
 - [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) 一款适用于 Chrome 中基于 Promise 的网页扩展 API 的轻量级垫片库
 - [chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) 借助原生热模块替换（HMR）与零配置搭建，开发跨浏览器扩展程序
-- [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
-- [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [plasmo](https://github.com/PlasmoHQ/plasmo) 浏览器扩展开发框架
 
-## 开发模版
+### 项目模板
 
 - [vite-web-extension](https://github.com/JohnBra/vite-web-extension) 可快速开发 Chrome 与 Firefox 浏览器扩展的网页扩展模板，集成 React 19、TypeScript 及 TailwindCSS
 
-## 其他
+## 应用与工具
+
+### 阅读与标注
+
+- [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
+- [Wispal](https://wispal.ai/) 为 ChatGPT、Claude 与 Gemini 对话提供高亮和批注的 Chrome 扩展
+
+### 开发调试
+
+- [websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) 专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
+- [mobileview](https://mobileview.app/zh/) 同时查看网站的桌面与移动端效果
+- [refined-github](https://github.com/refined-github/refined-github) 一款简化 GitHub 界面并增添实用功能的浏览器扩展程序
+
+### 翻译
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
-- [voyager](https://github.com/Nagi-ovo/voyager) 面向 Gemini、AI Studio、Claude 与 ChatGPT 的浏览器增强套件，提供会话整理、提示词库、同步和导出能力
 - [read-frog](https://github.com/mengxi-ream/read-frog) 陪读蛙 - 开源沉浸式翻译
+
+### AI 会话
+
+- [voyager](https://github.com/Nagi-ovo/voyager) 面向 Gemini、AI Studio、Claude 与 ChatGPT 的浏览器增强套件，提供会话整理、提示词库、同步和导出能力
+
+### 媒体下载与录制
+
 - [hls-downloader](https://github.com/puemos/hls-downloader) 浏览器扩展，支持抓取与下载网页内 HLS 流，支持清晰度与音视频轨道选择，下载后本地 ffmpeg.wasm 合并出 MP4/MKV
 - [media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) 一款浏览器插件，可下载网页内音频/视频与流媒体（含 m3u8/mpd），支持媒体列表检测与本地化下载
 - [VideoDownloadHelper](https://github.com/DoctorLai/VideoDownloadHelper) 轻量级浏览器扩展，可一键检测并下载页面视频/音频/图片，并支持解析 m3u8 与常见站点媒体链接
 - [yt\_dlp\_firefox](https://github.com/tyilo/yt_dlp_firefox) 基于 yt-dlp 的 Firefox 浏览器扩展，支持从页面提取可下载媒体并调用 yt-dlp 下载
 - [cat-catch](https://github.com/xifangczy/cat-catch) 一款轻量级媒体下载浏览器扩展，抓取网页可下载资源并一键保存为本地文件
 - [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) 一款浏览器扩展，面向网页 M3U8 流媒体，提供一键解析与下载能力
+- [screenity](https://github.com/alyssaxuu/screenity) 无限制、保护隐私的免费屏幕录制工具
 
-## 案例
+### 自动化
 
-- [mobileview](https://mobileview.app/zh/) 同时查看网站的桌面与移动端效果
-- [refined-github](https://github.com/refined-github/refined-github) 一款简化 GitHub 界面并增添实用功能的浏览器扩展程序
+- [automa](https://github.com/AutomaApp/automa) 一款通过拼接功能模块来实现浏览器自动化的浏览器扩展程序

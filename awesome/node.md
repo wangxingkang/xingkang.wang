@@ -1,4 +1,6 @@
-# Node
+# Node.js
+
+收录 JavaScript 服务端、命令行与系统集成开发库。通用工具见 [JavaScript](/awesome/javascript.md)，构建发布工具见[工程化](/awesome/engineering.md)，部署服务见[运维](/awesome/ops.md)。
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
@@ -6,60 +8,88 @@
 
 - [官网](https://nodejs.org/zh-cn)
 
-## AI
+## 运行时与模块
 
-### 框架
+### 编译与执行
+
+- [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
+- [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
+- [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
+- [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
+- [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
+- [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
+
+### 运行环境
+
+安装与切换 Node.js 版本的工具见[工程化 / 运行时版本管理](/awesome/engineering.md#运行时版本管理)。
+
+- [deno](https://github.com/denoland/deno)
+  - [fresh](https://github.com/denoland/fresh) 下一代 Web 框架
+  - [std](https://github.com/denoland/std) Deno 标准库
+
+### 模块解析
+
+- [local-pkg](https://github.com/antfu-collective/local-pkg) 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息
+- [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
+- [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) 用于劫持 ESM import 函数的模块
+- [require-in-the-middle](https://github.com/nodejs/require-in-the-middle) 用于劫持 Node.js require 函数的模块
+- [resolve](https://github.com/browserify/resolve) 实现了 node.js 中 `require.resolve()` 算法的功能
+
+### 流处理
+
+- [is-stream](https://github.com/sindresorhus/is-stream) 检测对象是否为 Node.js 流
+- [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
+
+## 包管理
+
+- [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
+- [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
+
+## AI 开发
+
+### 智能体框架
 
 - [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
 - [voltagent](https://github.com/VoltAgent/voltagent)
-- [genkit](https://github.com/genkit-ai/genkit)
-
-### 学习
-
-- [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一
-
-### 案例
-
-- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
-
-### 其他
-
 - [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
-- [nexe](https://github.com/nexe/nexe) 将您的 Node.js 应用打包成单个可执行文件
+- [eve](https://github.com/vercel/eve) 智能体构建框架
+- [flue](https://github.com/withastro/flue) 沙箱智能体框架
+- [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
+
+### 模型 SDK 与推理
+
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
-- [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
-- [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
-- [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
-- [openwiki](https://github.com/langchain-ai/openwiki) 一款命令行工具，用于为代码库编写和维护智能体相关文档
-- [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
 - [ollama](https://github.com/ollama/ollama-js) Ollama JavaScript 库
 - [openai](https://github.com/openai/openai-node) OpenAI API 官方 JavaScript / TypeScript 开发库
 - [@anthropic-ai/sdk](https://github.com/anthropics/anthropic-sdk-typescript) Anthropic API 官方 TypeScript / JavaScript 开发库
-- [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
-- [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
-- [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
-- [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
-- [jscpd](https://github.com/kucherenko/jscpd) 源代码复制粘贴检测工具，支持 223 种文件格式
 - [@openrouter/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) Vercel AI SDK 的 OpenRouter 适配器通过 OpenRouter 对话与补全 API，支持数百种大模型
-- [eve](https://github.com/vercel/eve) 智能体构建框架
+- [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
+- [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
+- [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
+- [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
+- [groq-sdk](https://github.com/groq/groq-typescript) Groq API 官方 Node.js/ TypeScript 类库
+- [supermemory](https://github.com/supermemoryai/sdk-ts) 该库可让服务端的 TypeScript 或 JavaScript 代码便捷地调用 Supermemory REST API
+- [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
+- [@aws-sdk/client-bedrock](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock) AWS Bedrock 模型调用客户端
+- [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
+
+### 协议与工具集成
+
+- [just-bash](https://github.com/vercel-labs/just-bash) 面向智能代理的 Bash 工具
+- [open-connector](https://github.com/oomol-lab/open-connector) OpenConnector 是 Composio 的开源替代方案，用于面向 Agent 的 SaaS 鉴权、工具和集成
 - [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) MCP Apps 协议（嵌入 AI 聊天机器人的 UI 标准，由 MCP 服务器提供服务）的规范与 SDK 官方仓库
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
-- [flue](https://github.com/withastro/flue) 沙箱智能体框架
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
-- [replicate](https://github.com/replicate/replicate-javascript) Replicate 平台的 Node.js 客户端
-- [node-llama-cpp](https://github.com/withcatai/node-llama-cpp) 借助适配 llama.cpp 的 Node.js 绑定程序，在本地设备运行人工智能模型，可在生成阶段对模型输出强制执行 JSON 格式规范
-- [assistant-stream](https://github.com/assistant-ui/assistant-ui/tree/HEAD/packages/assistant-stream) 适用于 AI 助手后端、框架无关的流式原语
-- [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
-- [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
-- [markit](https://github.com/Michaelliv/markit) 万物皆可转 Markdown
-- [open-multi-agent](https://github.com/JackChen-me/open-multi-agent) TypeScript 多智能体框架 — 只需调用一次 runTeam ()，即可从目标直达结果。支持自动任务拆解、并行执行。仅 3 个依赖项，可在所有 Node.js 运行环境中部署
+- [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 
-## 框架
+## Web 服务
+
+### 框架与依赖注入
 
 - [cordis](https://github.com/cordiverse/cordis) 面向时空可组合性的 TypeScript 插件元框架，用于构建可扩展应用
 - [hono](https://github.com/honojs/hono) 基于网页标准构建的 Web 框架
@@ -68,402 +98,404 @@
   - [@hono/zod-validator](https://github.com/honojs/middleware/tree/HEAD/packages/zod-validator)
   - [@hono/swagger-ui](https://github.com/honojs/middleware/tree/HEAD/packages/swagger-ui)
 - [fastify](https://github.com/fastify/fastify)
-- [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
+- [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
+- [awilix](https://github.com/jeffijoe/awilix) 适用于 Node.js 的功能极为强大的控制反转（IoC）容器
+- [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) 功能完整的 GraphQL 服务器重写版，专注于简易部署、高性能与极佳的开发者体验。
+- [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
 
-## 版本发布
-
-- [release-it](https://github.com/release-it/release-it) 自动化版本控制和软件包发布
-- [semantic-release](https://github.com/semantic-release/semantic-release) 全自动化版本管理与包发布
-- [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
-- [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
-- [birpc](https://github.com/antfu-collective/birpc) 面向 Node.js 与浏览器的轻量双向 RPC 工具
-- [taze](https://github.com/antfu-collective/taze) 使用智能变更检测并批量更新依赖版本的命令行工具
-- [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
-
-## 运行时
-
-- [deno](https://github.com/denoland/deno)
-  - [fresh](https://github.com/denoland/fresh) 下一代 Web 框架
-  - [std](https://github.com/denoland/std) Deno 标准库
-- [QuickJS](https://github.com/bellard/quickjs) 轻量且可嵌入的 JavaScript 引擎
-- [MQuickJS](https://github.com/bellard/mquickjs) 面向嵌入式系统的 Micro QuickJS JavaScript 引擎，约 10 KB RAM 即可运行
-
-## 命令行相关
-
-### 框架
-
-- [ink](https://github.com/vadimdemedes/ink) 🌈 适用于交互式命令行应用的 React 框架
-
-### 颜色
-
-- [chalk](https://github.com/chalk/chalk) 🖍 终端字符串样式处理，专业又好用
-- [gradient-string](https://github.com/bokub/gradient-string)🌈 在终端输出漂亮的渐变色
-
-### 其他
+### 认证与安全
 
 - [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) 零依赖、优化的 JavaScript bcrypt 实现，支持 TypeScript
+- [node-casbin](https://github.com/apache/casbin-node-casbin) 适用于 Node.js 和浏览器的访问控制库，支持 ACL、RBAC、ABAC 等授权模型
+- [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
+- [scrypt-kdf](https://github.com/chrisveness/scrypt-kdf) Scrypt 密钥派生函数
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) 适用于 Node.js 的 JsonWebToken 实现
+- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
+- [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
+- [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) 面向 Express 的基础 IP 限流中间件
+- [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
+- [tiny-csrf](https://github.com/le0nkl/tiny-csrf) 极简、零依赖的 CSRF 防护中间件
+- [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
+- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
+
+### 请求与会话
+
 - [request-ip](https://github.com/pbojinov/request-ip) 一个用于在服务器端获取请求 IP 地址的 Node.js 模块
 - [basic-auth](https://github.com/jshttp/basic-auth) 通用基础认证 Authorization 请求头解析器
-- [node-casbin](https://github.com/apache/casbin-node-casbin) 适用于 Node.js 和浏览器的访问控制库，支持 ACL、RBAC、ABAC 等授权模型
-- [ssh2](https://github.com/mscdex/ssh2) 适用于 Node.js 的 SSH2 客户端与服务端模块
-- [rfc6902](https://github.com/chbrown/rfc6902) 基于 TypeScript 完整实现 RFC6902 标准
-- [trystero](https://github.com/dmotz/trystero) 快速搭建多人实时网页应用，无需后端服务器
-- [frigate](https://github.com/blakeblackshear/frigate) 支持 IP 摄像头实时本地目标检测的网络视频录像机（NVR）
-- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
-- [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
-- [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
-- [picocolors](https://github.com/alexeyraspopov/picocolors) 一款体积最小、速度最快的终端输出格式化库，支持 ANSI 颜色渲染
-- [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
-- [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
-- [yargs](https://github.com/yargs/yargs) 解析命令行参数
-- [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
-- [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
-- [local-pkg](https://github.com/antfu-collective/local-pkg) 轻量本地包解析工具，辅助在 monorepo 与本地开发环境中稳定读取包元信息
-- [nvm](https://github.com/nvm-sh/nvm) 经典的 Node.js 版本管理器，支持安装和切换多个 Node 版本
-- [fnm](https://github.com/Schniz/fnm) 极快的 Node.js 版本管理器，支持快速安装与切换 Node 版本
-- [mise](https://github.com/jdx/mise) 一体化开发者工具版本管理器（Node/Python/Ruby/Java 等）
-- [n](https://github.com/tj/n) 简洁高效的 Node.js 版本管理工具，支持跨版本切换与自动安装
-- [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
-
-## 其他
-
-- [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) 仅凭一块屏幕和一枚摄像头，即可在两台设备之间传输文件
-- [logtape](https://github.com/dahlia/logtape) 零依赖、不打扰式日志库，适用于 Deno、Node.js、Bun、浏览器和边缘函数
-- [@henrygd/queue](https://github.com/henrygd/queue) 小型的异步队列，带并发控制
-- [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
-- [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
-- [fast-escape-regexp](https://github.com/SukkaW/fast-escape-regexp) 最快速、基于纯 JavaScript 的正则表达式转义库
-- [fast-uri](https://github.com/fastify/fast-uri) 零依赖的 RFC 3986 URI 工具箱
-- [fdir](https://github.com/thecodrr/fdir) NodeJS 最快的目录爬取与 glob 匹配库
-- [tar-fs](https://github.com/mafintosh/tar-fs) tar-stream 的 fs 绑定
-- [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) 一个快速、极简的 globby 和 fast-glob 替代品
-- [globals](https://github.com/sindresorhus/globals) 来自不同 JavaScript 运行环境的全局标识符
-- [fast-glob](https://github.com/mrmlnc/fast-glob) 一个适用于 Node.js 的快速高效 glob 库
-- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) Node 在运行但不知道原因
-- [@larksuiteoapi/node-sdk](https://github.com/larksuite/node-sdk) 飞书开放 Node.js SDK
-- [@nodesecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) 开源 SAST 扫描器。一个用于检测最常见恶意模式的静态分析工具
-- [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
-- [tedious](https://github.com/tediousjs/tedious) 用于连接 SQL Server 数据库的 Node TDS 模块
-- [morgan](https://github.com/expressjs/morgan) 适用于 Node.js 的 HTTP 请求日志记录中间件
-- [minio](https://github.com/minio/minio-js) 适用于 JavaScript 的 MinIO 客户端 SDK
-- [image-type](https://github.com/sindresorhus/image-type) 检测 Buffer/Uint8Array 的图像类型
-- [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
-- [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
 - [formidable](https://github.com/node-formidable/formidable) 最常用、灵活、快速且支持流式解析的多部分表单数据解析器
 - [multer](https://github.com/expressjs/multer) Express 文件上传中间件
-- [ejs](https://github.com/mde/ejs) 嵌入式 JavaScript 模板
 - [cookie](https://github.com/jshttp/cookie) HTTP 服务器 cookie 的解析和序列化
 - [cookie-parser](https://github.com/expressjs/cookie-parser) 解析 HTTP 请求中的 cookies
 - [connect-session-sequelize](https://github.com/mweibel/connect-session-sequelize) 适用于 Express/Connect 的 Sequelize 会话存储
-- [prometheus-api-metrics](https://github.com/PayU/prometheus-api-metrics) 使用 Prometheus 对 Node.js 微服务进行 API 和进程监控
-- [read-chunk](https://github.com/sindresorhus/read-chunk) 从文件中读取一个块
-- [scrypt-kdf](https://github.com/chrisveness/scrypt-kdf) Scrypt 密钥派生函数
-- [sequelize](https://github.com/sequelize/sequelize) 功能丰富的 ORM
-- [wetty](https://github.com/butlerx/wetty) 基于 HTTP/HTTPS 在浏览器中运行的终端
-- [@clickhouse/client](https://github.com/ClickHouse/clickhouse-js) ClickHouse 数据库的官方 JavaScript 客户端
-- [del](https://github.com/sindresorhus/del) 删除文件和目录
-- [is-ci](https://github.com/watson/is-ci) 检测当前环境是否为 CI 服务器
-- [is-docker](https://github.com/sindresorhus/is-docker) 检查进程是否在 Docker 容器内运行
-- [is-localhost-ip](https://github.com/tinovyatkin/is-localhost-ip) 检查给定的主机名/DNS 名称或 IPv4/IPv6 地址是否属于本机
-- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) 适用于 Node.js 的 JsonWebToken 实现
-- [kafkajs](https://github.com/tulios/kafkajs) 适用于 Node.js 的现代 Apache Kafka 客户端
-- [maxmind](https://github.com/runk/node-maxmind) Maxmind 地理位置查询
-- [prisma](https://github.com/prisma/prisma/tree/HEAD/packages/cli) 下一代 ORM
-- [7zip-min](https://github.com/onikienko/7zip-min) 适用于 Node.js 的最小化跨平台 7-zip 打包/解包工具
-- [shelljs](https://github.com/shelljs/shelljs) Node.js 便携式 Unix Shell 命令
-- [shx](https://github.com/shelljs/shx) Node.js 便携式 Shell 命令
-- [@opendocsg/pdf2md](https://github.com/opengovsg/pdf2md) 一个 PDF 转 Markdown 转换器
-- [isbinaryfile](https://github.com/gjtorikian/isBinaryFile) 在 Node.js 中检测文件是否为二进制文件
-- [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) 使用 Node.js 和 Headless Chrome 将 Markdown 文件转换为 PDF 的可定制 CLI 工具
-- [open](https://github.com/sindresorhus/open) 跨平台地打开 URL、文件、可执行程序等
-- [@novnc/novnc](https://github.com/novnc/noVNC) VNC 客户端 Web 应用程序
-- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲区工具
-- [convex](https://github.com/get-convex/convex-backend/tree/HEAD/npm-packages/convex) 适用于 Convex 的 TypeScript 后端 SDK、客户端库和 CLI
-- [jsonfile](https://github.com/jprichardson/node-jsonfile) 轻松读写 JSON 文件
-- [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
-- [analytics](http://github.com/DavidWells/analytics) 轻量级数据分析抽象层，用于统计页面访问量、自定义事件以及访客识别
-- [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
-- [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
-- [picomatch](https://github.com/micromatch/picomatch) 一款使用 JavaScript 编写、速度极快且匹配精准的 glob 匹配库
-- [vscode-jsonrpc](https://github.com/Microsoft/vscode-languageserver-node/tree/HEAD/jsonrpc) VS Code 语言服务器与 VS Code 语言客户端之间通信的基础消息协议
-- [mrmime](https://github.com/lukeed/mrmime) 一款轻量（仅 2.8 千字节）、高性能工具，可通过文件后缀或文件名获取对应的 MIME 类型
-- [sirv](https://github.com/lukeed/sirv) 一款经过性能优化、用于托管静态资源的中间件与命令行工具
-- [hocuspocus](https://github.com/ueberdosis/hocuspocus) 基于 Yjs CRDT 的 WebSocket 后端，为应用提供无冲突实时协同能力
-- [@t3-oss/env-core](https://github.com/t3-oss/t3-env) 简易实现类型安全环境变量
-- [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
-- [kokoro-js](https://github.com/hexgrad/kokoro/tree/main/kokoro.js) 适用于 Kokoro-82M 的推理库
-- [pyodide](https://github.com/pyodide/pyodide) Pyodide 是基于 WebAssembly、可运行在浏览器和 Node.js 环境的 Python 发行版
-- [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
-- [scalar](https://github.com/scalar/scalar) 开源 API 平台
-- [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器
-- [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
 - [body-parser](https://github.com/expressjs/body-parser) 请求体解析中间件
 - [express-session](https://github.com/expressjs/session) 适用于 Express 的简易会话中间件
-- [webssh2](https://github.com/billchurch/webssh2) 基于 ssh2、socket.io、xterm.js 与 Express 搭建的网页版 SSH 客户端
-- [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
-- [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
-- [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
-- [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
-- [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
-- [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
-- [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
-- [node-html-parser](https://github.com/taoqf/node-html-parser) 一款极速 HTML 解析器，可生成简化版文档对象模型，并支持基础元素查询功能
-- [node-id3](https://github.com/Zazama/node-id3) 纯 JavaScript ID3 标签解析库
-- [peerjs](https://github.com/peers/peerjs) 基于 WebRTC 实现简易点对点通信
-- [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
-- [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
-- [dugite](https://github.com/desktop/dugite) 用于在 Node 应用中操作 Git 的简洁易用绑定库
-- [fix-path](https://github.com/sindresorhus/fix-path) 修复 macOS 与 Linux 系统下图形界面应用启动时的 $PATH 环境变量问题
-- [benjamn](https://github.com/benjamn/recast) JavaScript 语法树转换器、无损格式化打印器以及自动源码映射生成器
-- [automd](https://github.com/unjs/automd) 自动化 Markdown 维护工具
-- [ethers.js](https://github.com/ethers-io/ethers.js) 基于 JavaScript 实现的完整以太坊库与钱包工具
-- [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
-- [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
-- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
-- [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
-- [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具
-- [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
-- [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
-- [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
-- [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
-- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
+- [cors](https://github.com/expressjs/cors) Node.js 跨域中间件
+- [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
+- [form-data](https://github.com/form-data/form-data) 生成可读的multipart/form-data格式数据流
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
+- [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
+- [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
+
+### 模板与静态资源
+
+- [ejs](https://github.com/mde/ejs) 嵌入式 JavaScript 模板
+- [sirv](https://github.com/lukeed/sirv) 一款经过性能优化、用于托管静态资源的中间件与命令行工具
+- [serve](https://github.com/vercel/serve) 静态文件托管与目录列表展示
+- [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
+- [serve-index](https://github.com/expressjs/serve-index) 展示目录列表
+
+### 边缘运行环境
+
+- [cfworker](https://github.com/cfworker/cfworker) 一套专为 Cloudflare Workers 与 Service Worker 优化的工具包合集
+
+### API 契约与文档
+
+- [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
+- [smithy-typescript](https://github.com/smithy-lang/smithy-typescript) Smithy IDL 的 TypeScript 代码生成器与运行时生态
+
+## 网络与协议
+
+### 实时通信
+
+- [birpc](https://github.com/antfu-collective/birpc) 面向 Node.js 与浏览器的轻量双向 RPC 工具
+- [ssh2](https://github.com/mscdex/ssh2) 适用于 Node.js 的 SSH2 客户端与服务端模块
+- [kafkajs](https://github.com/tulios/kafkajs) 适用于 Node.js 的现代 Apache Kafka 客户端
+- [bufferutil](https://github.com/websockets/bufferutil) WebSocket 缓冲区工具
+- [vscode-jsonrpc](https://github.com/Microsoft/vscode-languageserver-node/tree/HEAD/jsonrpc) VS Code 语言服务器与 VS Code 语言客户端之间通信的基础消息协议
+- [hocuspocus](https://github.com/ueberdosis/hocuspocus) 基于 Yjs CRDT 的 WebSocket 后端，为应用提供无冲突实时协同能力
 - [@roamhq/wrtc](https://github.com/WonderInventions/node-webrtc) 提供 WebRTC M106 的绑定接口
 - [socket.io](https://github.com/socketio/socket.io) 适用于全平台的双向低延迟通信方案
-- [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
-- [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
-- [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
-- [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
-- [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
-- [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
-  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
-  - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
-  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/core.js)
-- [console-table-printer](https://github.com/console-table-printer/console-table-printer) 在控制台打印美观的表格
-- [hls-parser](https://github.com/kuu/hls-parser) 一款用于读写 HLS 播放列表的简易库
-- [iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) 基础 IPTV 播放列表解析器
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) 适用于 Node.js 后端的 μWebSockets
+- [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
+- [ws](https://github.com/websockets/ws) 一款适用于 Node.js 的 WebSocket 客户端与服务端库，易用性强、速度极快且经过全面测试
+
+### HTTP 与代理
+
+- [fast-uri](https://github.com/fastify/fast-uri) 零依赖的 RFC 3986 URI 工具箱
+- [is-localhost-ip](https://github.com/tinovyatkin/is-localhost-ip) 检查给定的主机名/DNS 名称或 IPv4/IPv6 地址是否属于本机
+- [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具
 - [https-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/https-proxy-agent) 用于 HTTPS 协议的 HTTP (s) 代理 http.Agent 实现
 - [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents/tree/main/packages/socks-proxy-agent) 适用于 HTTP 与 HTTPS 的 SOCKS 代理 http.Agent 实现
-- [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
-- [export-to-csv](https://github.com/alexcaza/export-to-csv) 将 JS 数据集导出为 CSV 文件
-- [serve](https://github.com/vercel/serve) 静态文件托管与目录列表展示
-- [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
-- [cors](https://github.com/expressjs/cors) Node.js 跨域中间件
-- [caniuse-lite](https://github.com/browserslist/caniuse-lite) 精简版 caniuse 数据库，仅保留核心内容
-- [dotenv-cli](https://github.com/entropitor/dotenv-cli) 用于加载 dotenv 配置文件的命令行工具
-- [nunjucks](https://github.com/mozilla/nunjucks) 模板引擎，支持模板继承、异步控制等特性
-- [pkg-types](https://github.com/unjs/pkg-types) 用于解析处理 package.json、tsconfig.json 的 Node.js 工具库与 TypeScript 类型定义
-- [hookable](https://github.com/unjs/hookable) 异步钩子
-- [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
-- [untun](https://github.com/unjs/untun) 借助 Cloudflare 快速隧道，将本地 HTTP/HTTPS 服务暴露至公网
-- [destr](https://github.com/unjs/destr) 一款更快、更安全、更便捷的 JSON.parse 替代品，支持处理任意输入内容
-- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
-- [magicast](https://github.com/unjs/magicast) 基于 recast 和 babel 驱动，使用简洁、优雅且熟悉的语法，以编程方式修改 JavaScript 和 TypeScript 源码
-- [c12](https://github.com/unjs/c12) 智能配置加载器
-- [giget](https://github.com/unjs/giget) 从 GitHub、GitLab、Bitbucket 等托管源下载项目模板或仓库的 Node.js CLI 与库
-- [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
-- [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
-- [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
-- [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
-- [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
-- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
-- [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
-- [native-keymap](https://github.com/Microsoft/node-native-keymap) 获取操作系统底层键盘布局和键位映射
-- [nan](https://github.com/nodejs/nan) Node.js 原生抽象层
-- [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
-- [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本
-- [is-stream](https://github.com/sindresorhus/is-stream) 检测对象是否为 Node.js 流
-- [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
-- [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
-- [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
-- [ignore](https://github.com/kaelzhang/node-ignore) 用于管理和过滤 .gitignore 规则的工具
-- [import-in-the-middle](https://github.com/nodejs/import-in-the-middle) 用于劫持 ESM import 函数的模块
-- [require-in-the-middle](https://github.com/nodejs/require-in-the-middle) 用于劫持 Node.js require 函数的模块
-- [rimraf](https://github.com/isaacs/rimraf) 适用于 Node.js 的 rm -rf 风格文件删除工具
-- [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) 基于配置、高效灵活的命令行工具，借助 markdownlint 库对 Markdown/CommonMark 文件进行代码检查
-- [cspell](https://github.com/streetsidesoftware/cspell) 企业级拼写检查工具，支持多语言词典与代码/文档场景下的错字自动检测
-- [log-symbols](https://github.com/sindresorhus/log-symbols) 适配不同日志级别的彩色标识符号
-- [shell-env](https://github.com/sindresorhus/shell-env) 从终端 Shell 中获取环境变量
-- [file-icon](https://github.com/sindresorhus/file-icon) macOS 平台）获取文件或应用程序的图标并导出为 PNG 图片
-- [iconv-lite](https://github.com/pillarjs/iconv-lite) 纯 JavaScript 实现的字符编码转换工具
-- [plist](https://github.com/TooTallNate/plist.js) 适用于 Node.js 与浏览器的 Apple 属性列表解析 / 构建库，支持 XML、二进制（bplist）以及 OpenStep 格式
 - [got](https://github.com/sindresorhus/got) 一款友好易用且功能强大的 Node.js HTTP 请求库
-- [ini](https://github.com/npm/ini) JavaScript 版 INI 解析与序列化库
-- [atomically](https://github.com/fabiospampinato/atomically) 以原子操作方式可靠地读写文件
-- [fswin](https://github.com/xxoo/node-fswin) 适用于 Windows 系统的 Node.js 文件系统扩展库
-- [serve-index](https://github.com/expressjs/serve-index) 展示目录列表
-- [systeminformation](https://github.com/sebhildebrandt/systeminformation) 系统信息库
-- [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
-- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
 - [detect-port](https://github.com/node-modules/detect-port) 用于检测系统可用端口
 - [get-port](https://github.com/sindresorhus/get-port) 获取一个可用的 TCP 端口
-- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
-- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
-- [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
-- [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
-- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
+- [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
+- [undici](https://github.com/nodejs/undici) 一款为 Node.js 从零构建的 HTTP/1.1 客户端
+- [portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
+
+## 数据库与存储
+
+### 数据库驱动
+
+- [tedious](https://github.com/tediousjs/tedious) 用于连接 SQL Server 数据库的 Node TDS 模块
+- [@clickhouse/client](https://github.com/ClickHouse/clickhouse-js) ClickHouse 数据库的官方 JavaScript 客户端
+- [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
+- [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
+- [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
 - [sqlite3](https://github.com/TryGhost/node-sqlite3) Node.js 的 SQLite3 绑定库
-- [effect](https://github.com/Effect-TS/effect) 给 TypeScript 提供一套“可组合、类型安全、可管理副作用”的运行时框架
-- [otel](https://github.com/kubiks-inc/otel) 专为 TypeScript 可观测性打造的一站式遥测开发工具包
-- [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端
-- [@workos-inc/node](https://github.com/workos/workos-node) 用于对接 WorkOS API 的官方 Node 软件开发工具包
-- [groq-sdk](https://github.com/groq/groq-typescript) Groq API 官方 Node.js/ TypeScript 类库
-- [supermemory](https://github.com/supermemoryai/sdk-ts) 该库可让服务端的 TypeScript 或 JavaScript 代码便捷地调用 Supermemory REST API
-- [ts-rest](https://github.com/ts-rest/ts-rest) 基于纯 REST API 实现的类 RPC 客户端、契约与服务端组件
-- [jsonpath](https://github.com/dchester/jsonpath) 借助 JSONPath 表达式查询和操作 JavaScript 对象
-- [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
-- [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于paddleOCR的nodejs库
-- [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
-- [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库
-- [compression](https://github.com/expressjs/compression) Node.js 压缩中间件
-- [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
-- [mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
-- [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
-- [randomColor](https://github.com/davidmerfield/randomColor) 一款用于生成美观配色的轻量脚本
-- [sax](https://github.com/isaacs/sax-js) 适用于 JavaScript 的 SAX 风格解析器
-- [style-dictionary](https://github.com/style-dictionary/style-dictionary) 用于创建跨平台样式的构建系统
-- [svg-sprite](https://github.com/svg-sprite/svg-sprite) 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源
-- [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
-- [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
-- [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) 在终端中直接渲染二维码
-- [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
-- [node-accept-language](https://github.com/tinganho/node-accept-language)
-- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
-- [form-data](https://github.com/form-data/form-data) 生成可读的multipart/form-data格式数据流
-- [image-size](https://github.com/image-size/image-size) 用于检测图片尺寸的 Node 模块
-- [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
-- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) XML 转 JavaScript 对象转换器
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) 适用于 Node.js 的最快、最简 SQLite3 库
-- [png-to-ico](https://github.com/steambap/png-to-ico) 将 PNG 转换为 ICO 格式
-- [node-pty](https://github.com/microsoft/node-pty) 在 Node.js 中创建伪终端（pty）
-- [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
-- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
-- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具
-- [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
-- [dub](https://github.com/dubinc/dub) 短链接生成、转化追踪以及联盟营销项目管理
-- [kutt](https://github.com/thedevs-network/kutt) 短链接工具
-- [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
-- [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
-- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
-- [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) 面向 Express 的基础 IP 限流中间件
-- [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
-- [js-md5](https://github.com/emn178/js-md5) 适用于 JavaScript 的简易 MD5 哈希函数，支持 UTF-8 编码
-- [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
-- [compressing](https://github.com/node-modules/compressing) 压缩&解压缩
-- [archiver](https://github.com/archiverjs/node-archiver) 用于归档生成的流式接口
-- [toml-node](https://github.com/BinaryMuse/toml-node) 适用于 Node.js 与浏览器的 TOML 解析器，兼容解析 TOML v1.1.0 规范
-- [wechaty](https://github.com/wechaty/wechaty) 面向聊天机器人开发者的对话式RPA软件开发工具包
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) 一款极简单行写法的 Node.js HTTP 代理中间件，适配 Connect、Express、Next.js 等多款框架
-- [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
-- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
-  - [drizzle-kit](https://github.com/drizzle-team/drizzle-orm/tree/main/drizzle-kit) Drizzle ORM 的命令行迁移工具
-- [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
 - [postgres](https://github.com/porsager/postgres) 适用于 Node.js、Deno、Bun 以及 CloudFlare 平台的高性能全功能 PostgreSQL 客户端
   - [pgvector](https://github.com/pgvector/pgvector) Postgres 的开源向量相似度搜索
-- [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
-- [zx](https://github.com/google/zx) 一款用于编写更优质脚本的工具
-- [pollyjs](https://github.com/Netflix/pollyjs) 记录、重写和模拟 HTTP 交互
-- [awilix](https://github.com/jeffijoe/awilix) 适用于 Node.js 的功能极为强大的控制反转（IoC）容器
-- [find-up](https://github.com/sindresorhus/find-up) 通过向上遍历父目录来查找文件或目录
-- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) 适用于 Node.js 后端的 μWebSockets
-- [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) 功能完整的 GraphQL 服务器重写版，专注于简易部署、高性能与极佳的开发者体验。
-- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
-- [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
-- [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
 - [@aws-sdk/client-dynamodb](https://github.com/aws/aws-sdk-js-v3) AWS SDK v3
-- [@aws-sdk/client-bedrock](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-bedrock) AWS Bedrock 模型调用客户端
+- [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
+
+### 对象存储
+
+- [minio](https://github.com/minio/minio-js) 适用于 JavaScript 的 MinIO 客户端 SDK
+- [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
-- [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
-- [smithy-typescript](https://github.com/smithy-lang/smithy-typescript) Smithy IDL 的 TypeScript 代码生成器与运行时生态
 - [qiniu](https://github.com/qiniu/nodejs-sdk) 七牛云对象存储 SDK
 - [@volcengine/tos-sdk](https://github.com/volcengine/ve-tos-js-sdk) 火山云对象存储 SDK
 - [cos-nodejs-sdk-v5](https://github.com/tencentyun/cos-nodejs-sdk-v5) 腾讯云对象存储 SDK
 - [ali-oss](https://github.com/ali-sdk/ali-oss)  阿里云云对象存储 SDK
 - [esdk-obs-nodejs](https://github.com/huaweicloud/huaweicloud-sdk-nodejs-obs) 华为云对象存储 SDK
-- [jsonschema](https://github.com/tdegrunt/jsonschema) JSON Schema 验证
-- [ky](https://github.com/sindresorhus/ky) 🌳 基于 Fetch API 打造的轻量优雅 JavaScript HTTP 客户端
-- [negotiator](https://github.com/jshttp/negotiator) 适用于 Node.js 的 HTTP 内容协商器
-- [pangolin](https://github.com/fosrl/pangolin) 支持身份识别的 VPN 与代理服务，可随时随地远程访问各类资源
+
+### ORM 与查询构建
+
+- [sequelize](https://github.com/sequelize/sequelize) 功能丰富的 ORM
+- [prisma](https://github.com/prisma/prisma/tree/HEAD/packages/cli) 下一代 ORM
+- [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
+- [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
+- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
+  - [drizzle-kit](https://github.com/drizzle-team/drizzle-orm/tree/main/drizzle-kit) Drizzle ORM 的命令行迁移工具
+- [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
+
+### 键值存储
+
+- [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
+
+### 嵌入式数据库
+
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
+
+## 文件系统
+
+### 查找与监听
+
+- [fdir](https://github.com/thecodrr/fdir) NodeJS 最快的目录爬取与 glob 匹配库
+- [tinyglobby](https://github.com/SuperchupuDev/tinyglobby) 一个快速、极简的 globby 和 fast-glob 替代品
+- [fast-glob](https://github.com/mrmlnc/fast-glob) 一个适用于 Node.js 的快速高效 glob 库
+- [isbinaryfile](https://github.com/gjtorikian/isBinaryFile) 在 Node.js 中检测文件是否为二进制文件
+- [picomatch](https://github.com/micromatch/picomatch) 一款使用 JavaScript 编写、速度极快且匹配精准的 glob 匹配库
+- [@vscode/ripgrep](https://github.com/microsoft/vscode-ripgrep) 可在 Node 项目中使用 [ripgrep](https://github.com/BurntSushi/ripgrep) 的 npm 模块
+- [ignore](https://github.com/kaelzhang/node-ignore) 用于管理和过滤 .gitignore 规则的工具
+- [readdirp](https://github.com/paulmillr/readdirp) 占用内存与 CPU 资源极低的递归版文件目录读取`fs.readdir`工具
+- [@parcel/watcher](https://github.com/parcel-bundler/watcher) 一款基于原生 C++ 编写的 Node 模块，用于查询和订阅文件系统事件
+- [find-up](https://github.com/sindresorhus/find-up) 通过向上遍历父目录来查找文件或目录
+- [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
+- [minimatch](https://github.com/isaacs/minimatch) 一款基于 JavaScript 实现的 glob 匹配器
+- [glob](https://github.com/isaacs/node-glob) 为 Node.js 提供 glob 模式匹配功能
+- [fast-ignore](https://github.com/fabiospampinato/fast-ignore) 一款高性能的 `.gitignore` 文件解析与处理工具
+
+### 读写与路径
+
+- [tar-fs](https://github.com/mafintosh/tar-fs) tar-stream 的 fs 绑定
+- [read-chunk](https://github.com/sindresorhus/read-chunk) 从文件中读取一个块
+- [del](https://github.com/sindresorhus/del) 删除文件和目录
+- [jsonfile](https://github.com/jprichardson/node-jsonfile) 轻松读写 JSON 文件
+- [rimraf](https://github.com/isaacs/rimraf) 适用于 Node.js 的 rm -rf 风格文件删除工具
+- [atomically](https://github.com/fabiospampinato/atomically) 以原子操作方式可靠地读写文件
+- [fswin](https://github.com/xxoo/node-fswin) 适用于 Windows 系统的 Node.js 文件系统扩展库
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) 为文件系 `fs` 对象提供 `copy`、`remove`、`mkdirs` 等扩展方法
+- [mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
+- [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
+
+## 文件与媒体
+
+### 文档与数据格式
+
+- [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
+- [@opendocsg/pdf2md](https://github.com/opengovsg/pdf2md) 一个 PDF 转 Markdown 转换器
+- [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) 使用 Node.js 和 Headless Chrome 将 Markdown 文件转换为 PDF 的可定制 CLI 工具
+- [mrmime](https://github.com/lukeed/mrmime) 一款轻量（仅 2.8 千字节）、高性能工具，可通过文件后缀或文件名获取对应的 MIME 类型
+- [rss-parser](https://github.com/rbren/rss-parser) 轻量级 RSS 解析器
+- [hummus](https://github.com/galkahana/HummusJS) 支持 PDF 文件与数据流的创建、修改及解析
+- [html-to-text](https://github.com/html-to-text/node-html-to-text) 高级 HTML 转文本转换器
+- [node-html-parser](https://github.com/taoqf/node-html-parser) 一款极速 HTML 解析器，可生成简化版文档对象模型，并支持基础元素查询功能
+- [node-comment-json](https://github.com/kaelzhang/node-comment-json) 支持解析和序列化带注释的 JSON，保存后注释也会完整保留
+- [iconv-lite](https://github.com/pillarjs/iconv-lite) 纯 JavaScript 实现的字符编码转换工具
+- [plist](https://github.com/TooTallNate/plist.js) 适用于 Node.js 与浏览器的 Apple 属性列表解析 / 构建库，支持 XML、二进制（bplist）以及 OpenStep 格式
+- [ini](https://github.com/npm/ini) JavaScript 版 INI 解析与序列化库
+- [gettext-parser](https://github.com/smhg/gettext-parser) 解析并编译 gettext 的 po 和 mo 文件
+- [sax](https://github.com/isaacs/sax-js) 适用于 JavaScript 的 SAX 风格解析器
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) XML 转 JavaScript 对象转换器
+- [toml-node](https://github.com/BinaryMuse/toml-node) 适用于 Node.js 与浏览器的 TOML 解析器，兼容解析 TOML v1.1.0 规范
+- [feed](https://github.com/jpmonette/feed) 一款适用于 Node.js 的 RSS、Atom 与 JSON Feed 生成器，让内容聚合简单又直观
 - [marknative](https://github.com/liyown/marknative) 一款 Markdown 渲染引擎，可生成分页式 PNG 与 SVG 输出 — 无需浏览器、无需 Chromium、无需 DOM
-- [@paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) 这是经过优化、适用于水平扩展与高性能场景的最安全、抗碰撞唯一 ID 生成方案
-- [tsed](https://github.com/tsedio/tsed) 一款基于 Express 构建的 Node.js 与 TypeScript 框架，用于使用 TypeScript（或 ES6）编写应用程序。它提供大量装饰器与开发规范，让代码更具可读性、更不易出错
+- [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
+- [officeparser](https://github.com/harshankur/officeParser) 将各类办公文件解析为结构完整的抽象语法树（AST），并能高精度导出多种格式文件
+- [pptx2json](https://github.com/x1-/pptx2json) 将 PPTX 文件解析为 JSON
+- [@kreuzberg/html-to-markdown-node](https://github.com/kreuzberg-dev/html-to-markdown) 高性能且符合 CommonMark 标准的 HTML 转 Markdown 转换器
+
+### 图像与字体
+
+- [image-type](https://github.com/sindresorhus/image-type) 检测 Buffer/Uint8Array 的图像类型
+- [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
+- [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖
+- [ipx](https://github.com/unjs/ipx) 高性能、安全且易用的图像优化工具
+- [font-list](https://github.com/oldj/node-font-list) 获取系统中已安装的字体列表
+- [canvas](https://github.com/Automattic/node-canvas) Node canvas 是基于 Cairo 实现的 Node.js 画布库
+- [file-icon](https://github.com/sindresorhus/file-icon) macOS 平台）获取文件或应用程序的图标并导出为 PNG 图片
+- [svg-sprite](https://github.com/svg-sprite/svg-sprite) 海量 SVG 精灵图与堆栈图工具 —— 一款底层 Node.js 模块，可批量处理 SVG 文件，对其进行优化，并生成多种类型的 SVG 精灵图，同时配套输出对应样式表资源
+- [qrcode](https://github.com/soldair/node-qrcode) 二维码生成器
+- [image-size](https://github.com/image-size/image-size) 用于检测图片尺寸的 Node 模块
+- [png-to-ico](https://github.com/steambap/png-to-ico) 将 PNG 转换为 ICO 格式
+- [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
+- [imagemin](https://github.com/imagemin/imagemin) 图像压缩
+
+### 压缩归档
+
+- [7zip-min](https://github.com/onikienko/7zip-min) 适用于 Node.js 的最小化跨平台 7-zip 打包/解包工具
+- [yauzl](https://github.com/thejoshwolfe/yauzl) 解压库
+- [adm-zip](https://github.com/cthackers/adm-zip) 压缩&解压缩 ZIP 文件
+- [compressing](https://github.com/node-modules/compressing) 压缩&解压缩
+- [archiver](https://github.com/archiverjs/node-archiver) 用于归档生成的流式接口
+- [tar](https://github.com/isaacs/node-tar) tar for node
+
+### 音视频
+
+- [node-id3](https://github.com/Zazama/node-id3) 纯 JavaScript ID3 标签解析库
+- [hls-parser](https://github.com/kuu/hls-parser) 一款用于读写 HLS 播放列表的简易库
+- [iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) 基础 IPTV 播放列表解析器
+- [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) 适用于 Mac OSX、Linux 和 Windows 系统的 **FFmpeg 静态二进制文件**
+
+## 命令行开发
+
+### 交互界面
+
+- [ink](https://github.com/vadimdemedes/ink) 🌈 适用于交互式命令行应用的 React 框架
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) 一套常用交互式命令行用户界面合集
+- [opentui](https://github.com/anomalyco/opentui) 用于构建终端用户界面的开发库
+- [node-pty](https://github.com/microsoft/node-pty) 在 Node.js 中创建伪终端（pty）
+- [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
+- [clack](https://github.com/bombshell-dev/clack) 轻松打造高颜值命令行应用
+
+### 终端输出
+
+- [chalk](https://github.com/chalk/chalk) 🖍 终端字符串样式处理，专业又好用
+- [gradient-string](https://github.com/bokub/gradient-string)🌈 在终端输出漂亮的渐变色
+- [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
+- [is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported) 检测终端是否支持 Unicode 编码
+- [marked-terminal](https://github.com/mikaelbr/marked-terminal) marked 项目的专属渲染器，可将 Markdown 内容渲染后输出到终端
+- [picocolors](https://github.com/alexeyraspopov/picocolors) 一款体积最小、速度最快的终端输出格式化库，支持 ANSI 颜色渲染
+- [terminal-link](https://github.com/sindresorhus/terminal-link) 在终端中创建可点击的链接
+- [console-table-printer](https://github.com/console-table-printer/console-table-printer) 在控制台打印美观的表格
+- [@colors/colors](https://github.com/DABH/colors.js) 在 Node.js 控制台中输出彩色文本
+- [log-symbols](https://github.com/sindresorhus/log-symbols) 适配不同日志级别的彩色标识符号
+- [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) 在终端中直接渲染二维码
+- [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
+- [strip-ansi](https://github.com/chalk/strip-ansi) 从字符串中移除 ANSI 转义码
+- [wrap-ansi](https://github.com/chalk/wrap-ansi) 对包含 ANSI 转义码的字符串进行自动换行处理
+
+### 参数解析
+
+- [cac](https://github.com/cacjs/cac) 一款简洁却强大的框架，用于构建命令行应用程序
+- [yargs](https://github.com/yargs/yargs) 解析命令行参数
+- [yargs-parser](https://github.com/yargs/yargs-parser) 💪 为 yargs 提供支持的强大参数解析器
+- [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
+- [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
+
+## 系统集成
+
+### 环境与配置
+
+- [ci-info](https://github.com/watson/ci-info) 获取当前持续集成环境的详细信息
+- [is-ci](https://github.com/watson/is-ci) 检测当前环境是否为 CI 服务器
+- [is-docker](https://github.com/sindresorhus/is-docker) 检查进程是否在 Docker 容器内运行
+- [detect-libc](https://github.com/lovell/detect-libc) 用于检测 Linux 系统所搭载 C 标准库（libc）实现详情的 Node.js 模块
+- [@t3-oss/env-core](https://github.com/t3-oss/t3-env) 简易实现类型安全环境变量
+- [conf](https://github.com/sindresorhus/conf) 为应用或模块提供简洁的配置管理方案
+- [dotenv-cli](https://github.com/entropitor/dotenv-cli) 用于加载 dotenv 配置文件的命令行工具
+- [c12](https://github.com/unjs/c12) 智能配置加载器
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) 系统信息库
+- [@dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) 一款安全版 dotenv—— 由 dotenv 原作者开发
+- [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
+
+### 进程与 Shell
+
+- [shelljs](https://github.com/shelljs/shelljs) Node.js 便携式 Unix Shell 命令
+- [shx](https://github.com/shelljs/shx) Node.js 便携式 Shell 命令
+- [open](https://github.com/sindresorhus/open) 跨平台地打开 URL、文件、可执行程序等
+- [fix-path](https://github.com/sindresorhus/fix-path) 修复 macOS 与 Linux 系统下图形界面应用启动时的 $PATH 环境变量问题
+- [tinypool](https://github.com/tinylibs/tinypool) 极简轻量的 Node.js 工作线程池实现（仅 38KB）
+- [tinyexec](https://github.com/tinylibs/tinyexec) 基于 child\_process 封装的轻量高层接口
+- [execa](https://github.com/sindresorhus/execa) 面向人类的进程执行工具
+- [shell-env](https://github.com/sindresorhus/shell-env) 从终端 Shell 中获取环境变量
+- [zx](https://github.com/google/zx) 一款用于编写更优质脚本的工具
+- [spawn-rx](https://github.com/anaisbetts/spawn-rx) child\_process.spawn 的 Observable 版与 Promise 版实现
+- [kill-port](https://github.com/tiaanduplessis/kill-port) 终止指定端口上运行的进程
+
+### Git
+
+- [dugite](https://github.com/desktop/dugite) 用于在 Node 应用中操作 Git 的简洁易用绑定库
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
+- [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
+
+### 原生模块
+
+- [node-gyp](https://github.com/nodejs/node-gyp) Node.js 原生插件构建工具
+- [node-addon-api](https://github.com/nodejs/node-addon-api) 用于在 C++ 中调用 Node-API 的模块
+- [native-keymap](https://github.com/Microsoft/node-native-keymap) 获取操作系统底层键盘布局和键位映射
+- [nan](https://github.com/nodejs/nan) Node.js 原生抽象层
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) 用于便捷部署 C++ 原生插件二进制包的 Node.js 工具
+- [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
+- [registry-js](https://github.com/desktop/registry-js) 一款简洁、设计风格明确的 Windows 注册表操作库
+
+### 桌面能力
+
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
-- [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
-- [weaviate-client](https://github.com/weaviate/typescript-client) 官方 Weaviate TypeScript 客户端
+
+## 任务调度与同步
+
+- [hookable](https://github.com/unjs/hookable) 异步钩子
+- [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
+- [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
+- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
+- [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
+- [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
+
+## 浏览器自动化
+
+- [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
+- [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
+
+## 基础设施 SDK
+
+- [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
+
+## 第三方服务 SDK
+
+### 通信与机器人
+
+- [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
+- [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
+- [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
+- [wechaty](https://github.com/wechaty/wechaty) 面向聊天机器人开发者的对话式RPA软件开发工具包
+- [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
+- [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
+- [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
+- [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
+  - [@grammyjs/transformer-throttler](https://github.com/grammyjs/transformer-throttler) 为 grammY 提供频率限制功能
+
+### 云平台与支付
+
+- [yahoo-finance2](https://github.com/gadicc/yahoo-finance2) 雅虎财经非官方 API，配套命令行工具、MCP 服务与智能体技能
+- [@larksuiteoapi/node-sdk](https://github.com/larksuite/node-sdk) 飞书开放 Node.js SDK
+- [convex](https://github.com/get-convex/convex-backend/tree/HEAD/npm-packages/convex) 适用于 Convex 的 TypeScript 后端 SDK、客户端库和 CLI
+- [@neteasecloudmusicapienhanced/api](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) 全网最全的网易云音乐 API 接口
+- [@vercel/sdk](https://github.com/vercel/sdk) 具备类型安全特性的 TypeScript 开发工具包，可用于调用 Vercel 提供的 REST 接口
+- [ethers.js](https://github.com/ethers-io/ethers.js) 基于 JavaScript 实现的完整以太坊库与钱包工具
+- [app-store-server-api](https://github.com/agisboye/app-store-server-api) 适用于 App Store 服务器 API 的 Node.js 客户端
+- [@workos-inc/node](https://github.com/workos/workos-node) 用于对接 WorkOS API 的官方 Node 软件开发工具包
+- [aws-sdk](https://github.com/aws/aws-sdk-js)  AWS SDK v2
+- [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
+- [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
+- [google-cloud-node](https://github.com/googleapis/google-cloud-node)
+
+### GitHub
+
+- [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
+- [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
+  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
+  - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
+  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/core.js)
+- [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端
+
+## 日志与可观测性
+
+- [logtape](https://github.com/dahlia/logtape) 零依赖、不打扰式日志库，适用于 Deno、Node.js、Bun、浏览器和边缘函数
+- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) Node 在运行但不知道原因
+- [morgan](https://github.com/expressjs/morgan) 适用于 Node.js 的 HTTP 请求日志记录中间件
+- [prometheus-api-metrics](https://github.com/PayU/prometheus-api-metrics) 使用 Prometheus 对 Node.js 微服务进行 API 和进程监控
+- [stack-trace](https://github.com/felixge/node-stack-trace) 获取 V8 栈追踪信息，并以 CallSite 对象数组形式返回
+- [otel](https://github.com/kubiks-inc/otel) 专为 TypeScript 可观测性打造的一站式遥测开发工具包
+- [consola](https://github.com/unjs/consola) 🐨 适用于 Node.js 和浏览器的优雅控制台日志器
+- [signale](https://github.com/klaudiosinani/signale) 高度可配置的日志库
 - [winston](https://github.com/winstonjs/winston) 一款适用于几乎所有场景的日志工具
   - [winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) 每日生成轮换日志文件
-- [pinyin](https://github.com/hotoo/pinyin) 🇨🇳 汉字拼音
-- [knex](https://github.com/knex/knex) 一款适用于 PostgreSQL、MySQL、CockroachDB、SQL Server、SQLite3 及 Oracle 的查询构建器，设计上追求灵活、可移植且使用愉悦。
 - [pino](https://github.com/pinojs/pino) 🌲 极速、纯原生 JSON 日志库
   - [pino-pretty](https://github.com/pinojs/pino-pretty) Pino 日志行基础美化工具
 - [roarr](https://github.com/gajus/roarr) 适用于 Node.js 与浏览器的 JSON 日志库，支持结构化上下文、环境变量配置和外部传输
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) 一款适用于 Node.js 与浏览器环境的纯 JavaScript 版 Git 实现
-- [unstorage](https://github.com/unjs/unstorage) Unstorage 提供异步键值存储 API，具备多驱动挂载、监听及元数据操作等常规特性，内置数十种驱动，且核心体积小巧
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
   - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
-- [firebase](https://github.com/firebase/firebase-js-sdk) Firebase JavaScript 软件开发工具包
-- [resend](https://github.com/resend/resend-node) Resend 官方 Node.js 软件开发工具包
-- [stripe](https://github.com/stripe/stripe-node) 适用于 Stripe API 的 Node.js 库
-- [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
-- [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
-- [t3code](https://github.com/pingdotgg/t3code) 面向本机 Coding Agent 的控制台，支持移动端、Web 和桌面端控制 Claude Code、Codex、Cursor、OpenCode 等工具
-- [whip](https://github.com/Eyevinn/whip) 用于 WebRTC HTTP 推流协议（WHIP）的客户端与服务端模块
-- [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
-- [pi](https://github.com/badlogic/pi-mono) AI 智能体工具集：编码智能体命令行工具、统一大语言模型 API、终端界面与网页界面库、Slack 机器人、vLLM 部署集群
-- [@snazzah/davey](https://github.com/Snazzah/davey) Discord DAVE 协议 / 组件
-- [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) 基于 Socket 实现的、适用于 WhatsApp Web 的 TS/JavaScript 接口
-- [ajv](https://github.com/ajv-validator/ajv) 速度最快的 JSON Schema 验证器
-- [chokidar](https://github.com/paulmillr/chokidar) 精简高效的跨平台文件监听库
-- [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
-- [discord-api-types](https://github.com/discordjs/discord-api-types) 与 Discord API 保持同步的类型定义，按 API 版本进行版本管理
-- [dotenv](https://npmx.dev/package/dotenv) 为 Node.js 项目从 .env 文件中加载环境变量
-- [gaxios](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/gaxios)
-- [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
-- [grammy](https://github.com/grammyjs/grammY) Telegram 机器人框架
-  - [@grammyjs/transformer-throttler](https://github.com/grammyjs/transformer-throttler) 为 grammY 提供频率限制功能
-- [node-edge-tts](https://github.com/SchneeHertz/node-edge-tts) 在 Node.js 中使用微软 Edge 的语音合成（TTS）服务，支持代理与字幕功能
-- [osc-progress](https://github.com/steipete/osc-progress) 终端进度条 的轻量级库
-- [sharp](https://github.com/lovell/sharp) 高性能 Node.js 图像处理库
-- [tar](https://github.com/isaacs/node-tar) tar for node
-- [tough-cookie](https://github.com/salesforce/tough-cookie) 适用于 Node.js 的 RFC6265 标准 Cookie 与 CookieJar 实现
-- [chardet](https://github.com/runk/node-chardet) 适用于 NodeJS 的字符编码检测工具
-- [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
-- [jsonrepair](https://github.com/josdejong/jsonrepair) 修复无效的 JSON 文档
-- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) 去除 JSON 字符串中的注释，再安全地传给 JSON.parse
-- [tiny-csrf](https://github.com/le0nkl/tiny-csrf) 极简、零依赖的 CSRF 防护中间件
-- [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
-- [resolve](https://github.com/browserify/resolve) 实现了 node.js 中 `require.resolve()` 算法的功能
-- [spawn-rx](https://github.com/anaisbetts/spawn-rx) child\_process.spawn 的 Observable 版与 Promise 版实现
-- [strip-ansi](https://github.com/chalk/strip-ansi) 从字符串中移除 ANSI 转义码
-- [undici](https://github.com/nodejs/undici) 一款为 Node.js 从零构建的 HTTP/1.1 客户端
-- [wrap-ansi](https://github.com/chalk/wrap-ansi) 对包含 ANSI 转义码的字符串进行自动换行处理
-- [ws](https://github.com/websockets/ws) 一款适用于 Node.js 的 WebSocket 客户端与服务端库，易用性强、速度极快且经过全面测试
-- [minimatch](https://github.com/isaacs/minimatch) 一款基于 JavaScript 实现的 glob 匹配器
-- [glob](https://github.com/isaacs/node-glob) 为 Node.js 提供 glob 模式匹配功能
-- [portfinder](https://github.com/http-party/node-portfinder) 一款简易工具，可查找当前设备上的可用端口或域套接字
-- [simple-git](https://github.com/steveukx/git-js/tree/main/simple-git) 一款轻量级接口，可在任意 Node.js 应用中运行 Git 命令
-- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) 比 `JSON.stringify()` 快两倍
-- [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
-- [PakePlus](https://github.com/Sjj1024/PakePlus) 打包网页/Vue/React项目为桌面/手机应用
-- [rxdb](https://github.com/pubkey/rxdb) 一款为 JavaScript 应用打造的轻速、本地优先、响应式数据库
-- [verdaccio](https://www.verdaccio.org) 简单易用，轻量级的npm私服解决方案
-- [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
-- [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境
-- [deep-equal](https://github.com/inspect-js/node-deep-equal) Node.js 的 `assert.deepEqual` 算法
-- [archilang](https://github.com/4kk11/archilang) 语义化平面图
-- [google-cloud-node](https://github.com/googleapis/google-cloud-node)
-- [oh-my-logo](https://github.com/shinshin86/oh-my-logo) 在终端中显示带有彩色渐变效果的巨型 ASCII 艺术标识
-- [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
-- [cal.diy](https://github.com/calcom/cal.diy) 让所有人都能触手可及的日程规划基础设施
-- [registry-js](https://github.com/desktop/registry-js) 一款简洁、设计风格明确的 Windows 注册表操作库
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
-- [kill-port](https://github.com/tiaanduplessis/kill-port) 终止指定端口上运行的进程
-- [md5](https://github.com/pvorb/node-md5) 用于通过 MD5 算法对消息进行哈希处理的 JavaScript 函数
-- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
 
-## 开发模版
+## 工具库
+
+- [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
+- [maxmind](https://github.com/runk/node-maxmind) Maxmind 地理位置查询
+- [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
+- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
+- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
+- [node-accept-language](https://github.com/tinganho/node-accept-language)
+
+## 模板与示例
 
 - [clhoria-template](https://github.com/zhe-qi/clhoria-template) Hono 后端模板
