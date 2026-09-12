@@ -1,1 +1,74 @@
-["ai", "vibe-coding", "react", "react-native", "javascript", "vue", "desktop", "uni", "css", "svelte", "solid", "browser-extension", "website", "engineering", "test", "security", "self-hosted", "github", "ide", "node", "rust", "go", "python", "cpp", "ops"]
+[
+  {
+    "type": "section-header",
+    "label": "AI 与智能体"
+  },
+  "ai",
+  "vibe-coding",
+  {
+    "type": "section-header",
+    "label": "Web 前端"
+  },
+  "javascript",
+  "css",
+  "react",
+  "vue",
+  "svelte",
+  "solid",
+  {
+    "type": "section-header",
+    "label": "语言与服务端"
+  },
+  "node",
+  "python",
+  "go",
+  "rust",
+  "java",
+  "cpp",
+  {
+    "type": "section-header",
+    "label": "跨平台开发"
+  },
+  "react-native",
+  "uni",
+  {
+    "type": "file",
+    "name": "desktop",
+    "label": "桌面开发与应用"
+  },
+  {
+    "type": "file",
+    "name": "browser-extension",
+    "label": "浏览器扩展"
+  },
+  {
+    "type": "section-header",
+    "label": "开发与工程化"
+  },
+  "ide",
+  "engineering",
+  "test",
+  {
+    "type": "section-header",
+    "label": "基础设施与安全"
+  },
+  "ops",
+  "security",
+  {
+    "type": "section-header",
+    "label": "应用与资源"
+  },
+  {
+    "type": "custom-link",
+    "label": "桌面与设备工具",
+    "link": "/awesome/desktop#应用与工具"
+  },
+  {
+    "type": "custom-link",
+    "label": "浏览器扩展应用",
+    "link": "/awesome/browser-extension#应用与工具"
+  },
+  "self-hosted",
+  "website",
+  "github"
+]

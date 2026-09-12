@@ -10,15 +10,73 @@
 - [casdoor](https://github.com/casdoor/casdoor) 开源 IAM / SSO / MCP 网关与认证服务，支持 OAuth、OIDC、SAML、LDAP、SCIM、WebAuthn、MFA 等协议与能力
 - [zitadel](https://github.com/zitadel/zitadel) 身份基础设施
 
+## 密码与凭据管理
+
+- [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden) 密码管理服务
+- [tesla_auth](https://github.com/adriankumpf/tesla_auth) Rust 编写的 Tesla 令牌生成工具，支持 MFA 与验证码流程的一键登录，安全产出 API 访问令牌
+- [secretspec](https://github.com/cachix/secretspec) 声明式密钥配置工具，将密钥需求提交到代码库，实际值存放在 keyring、1Password、Vault、SOPS 等后端
+- [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
+- [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
+- [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
+
+## 加密与访问保护
+
+- [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
+
+## 代码与供应链审计
+
+- [zizmor](https://github.com/zizmorcore/zizmor) GitHub Actions 静态分析工具
+- [@nodesecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) 开源 SAST 扫描器。一个用于检测最常见恶意模式的静态分析工具
+
+## AI 安全
+
+### 技能与工具
+
+- [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
+- [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
+- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
+- [shannon](https://github.com/KeygraphHQ/shannon) 全自动自主型 AI 黑客，可在你的 Web 应用中挖掘真实漏洞利用代码。Shannon 在无提示、可访问源码的 XBOW 基准测试中，实现了 96.15% 的成功率。
+- [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
+- [deepsec](https://github.com/vercel-labs/deepsec) 由代码智能体驱动、用于在代码库中挖掘漏洞的安全检测工具
+- [strix](https://github.com/usestrix/strix) 开源 AI 渗透测试工具，用于检测并修复应用程序漏洞
+
+### 代码审计
+
+- [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
+
+## 网络安全
+
+- [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
+- [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
+- [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
+- [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
+- [LuLu](https://github.com/objective-see/LuLu) 免费开源的 macOS 防火墙，用于控制应用的网络连接
+
+## 逆向与二进制分析
+
+- [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
+- [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
+- [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
+- [js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) 基于 Babel AST 的全自动 JavaScript 反混淆工具，助你高效还原各种混淆代码
+- [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) AI 驱动的逆向工程助手，通过 MCP 将 IDA Pro 与语言模型连接起来
+- [bun-demincer](https://github.com/vicnaum/bun-demincer) 面向 Bun 编译的独立 JavaScript 二进制文件的反编译器、反混淆压缩器与反混淆器
+
+## 设备与系统安全
+
+- [Magisk](https://github.com/topjohnwu/Magisk) Android 系统定制工具，提供应用 Root 授权、模块扩展与启动镜像处理
+- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
+
+## 隐私与数据保护
+
+- [presidio](https://github.com/data-privacy-stack/presidio) 一个用于跨文本、图像和结构化数据检测、编辑、屏蔽和匿名化敏感数据（PII）的开源框架
+- [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) 去除自有文本和文件中的 AI 来源标记、Unicode 隐写、C2PA 与元数据痕迹
+
 ## 隐私通信
 
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) 首款完全不使用任何用户身份标识的通讯网络，架构原生实现百分百隐私保护！支持 iOS、安卓与桌面端应用
 
-## 工具
+## 安全工具集
 
-- [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
-- [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
-- [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面
-- [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
-- [anything-analyzer](https://github.com/Mouseww/anything-analyzer) 全场景抓包 + AI 自动分析
-- [secretspec](https://github.com/cachix/secretspec) 声明式密钥配置工具，将密钥需求提交到代码库，实际值存放在 keyring、1Password、Vault、SOPS 等后端
+- [hackingtool](https://github.com/Z4nzu/hackingtool) 黑客必备的一体化黑客工具

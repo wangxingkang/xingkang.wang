@@ -1,94 +1,54 @@
-# GO
+# Go
+
+收录 Go 开发库、框架与学习资源。数据库、容器及网络工具见[运维](/awesome/ops)，自托管应用见[自托管](/awesome/self-hosted)。
 
 ## 官方资源
 
 - [官网](https://golang.google.cn)
 
-## AI
+## 网络与服务端
 
-- [higress](https://github.com/higress-group/higress) AI 网关｜原生 AI 专用 API 网关
-- [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
-- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
+- [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
+- [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
+- [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
+- [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
+- [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
+- [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
+- [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
+
+## 数据与搜索
+
+- [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
+- [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖
+
+## AI 开发
+
 - [go-sdk](https://github.com/modelcontextprotocol/go-sdk) 这是 ** 模型上下文协议（MCP）** 服务端与客户端的官方 Go 软件开发工具包，由我方与谷歌联合维护
-- [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
-- [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 进行封装，提供兼容 **OpenAI / Gemini / Claude / Codex** 标准的API服务，让你可通过API免费使用 Gemini 3.1 Pro、GPT 5.5、Claude 系列模型
-- [agent-vault](https://github.com/Infisical/agent-vault) 面向 AI 智能体的 HTTP 凭证代理与密钥保管库
+
+## 终端界面
+
+- [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
+- [bubbles](https://github.com/charmbracelet/bubbles) 适用于 Bubble Tea 的终端交互界面（TUI）组件
+- [lipgloss](https://github.com/charmbracelet/lipgloss) 用于美化终端布局的样式定义
+- [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
+- [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
+
+## 日志
+
+- [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
+
+## 文档处理
+
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
+
+## 认证与权限
+
+- [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
+
+## 语言与编译
+
+- [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
 
 ## 学习
 
 - [codeforces-go](https://github.com/EndlessCheng/codeforces-go) 算法竞赛模板库
-
-## 数据库
-
-### 向量数据库
-
-- [weaviate](https://github.com/weaviate/weaviate)
-- [milvus](https://github.com/milvus-io/milvus)
-
-## 其他
-
-- [croc](https://github.com/schollz/croc) 可以轻松且安全地将文件从一台计算机传输到另一台计算机上
-- [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
-- [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
-- [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
-- [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
-- [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
-- [glamour](https://github.com/charmbracelet/glamour) 为命令行应用提供基于样式表的 Markdown 渲染能力
-- [freeze](https://github.com/charmbracelet/freeze) 生成代码与终端输出的图像
-- [soft-serve](https://github.com/charmbracelet/soft-serve) 功能强大、可自建部署的命令行 Git 服务器
-- [bubbles](https://github.com/charmbracelet/bubbles) 适用于 Bubble Tea 的终端交互界面（TUI）组件
-- [vhs](https://github.com/charmbracelet/vhs) 命令行版本地视频录制工具
-- [lipgloss](https://github.com/charmbracelet/lipgloss) 用于美化终端布局的样式定义
-- [gum](https://github.com/charmbracelet/gum) 打造精致 Shell 脚本的工具
-- [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
-- [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
-- [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
-- [glow](https://github.com/charmbracelet/glow) 在命令行中精美渲染 Markdown 文档
-- [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
-- [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统
-- [whodb](https://github.com/clidey/whodb) 数据访问与运营智能一体化平台
-- [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
-- [kage](https://github.com/tamnd/kage) 完整复刻任意网站以供离线浏览，并移除其中所有 JavaScript 代码
-- [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
-- [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
-- [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
-- [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理
-- [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
-- [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
-- [wx_channels_download](https://github.com/ltaoo/wx_channels_download) 微信视频号下载器
-- [sonar](https://github.com/raskrebs/sonar) 用于查看和管理本地端口监听服务的命令行工具
-- [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
-- [netbird](https://github.com/netbirdio/netbird) 依托 WireGuard® 搭建安全的叠加网络，接入各类设备，支持单点登录、多因素认证以及精细化访问控制
-- [llama-swap](https://github.com/mostlygeek/llama-swap) 适配各类本地兼容 OpenAI、Anthropic 接口的服务端，可稳妥切换模型，支持 llama.cpp、vllm 等程序
-- [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
-- [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
-- [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
-- [watchtower](https://github.com/nicholas-fedor/watchtower) 自动实现 Docker 容器镜像更新
-- [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
-- [gonzo](https://github.com/control-theory/gonzo) 基于 Go 语言开发的 TUI 日志分析工具
-- [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
-- [oras](https://github.com/oras-project/oras) OCI 容器镜像仓库客户端——用于管理制品、镜像、软件包等内容
-- [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
-- [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
-- [cloc](https://github.com/AlDanial/cloc) cloc 可以统计多种编程语言源代码中的空行、注释行与实际代码行
-- [git-lfs](https://github.com/git-lfs/git-lfs) 用于对大型文件进行版本管理的 Git 扩展工具
-- [actions-runner-controller](https://github.com/actions/actions-runner-controller) 用于 GitHub Actions 自托管运行器的 Kubernetes 控制器
-- [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
-- [pinchtab](https://github.com/pinchtab/pinchtab) 高性能浏览器自动化桥接与多实例编排器，具备高级隐身注入与实时控制面板功能
-- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) 将 HTML 转换为 Markdown。甚至支持整个网站，并且可通过规则进行扩展
-- [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
-- [karmada](https://github.com/karmada-io/karmada) 开放、多云、多集群 Kubernetes 编排
-- [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
-- [filestash](https://github.com/mickael-kerjean/filestash) 文件管理平台 / 通用数据访问层（不依赖 FUSE）
-- [istio](https://github.com/istio/istio) 连接、保护、管控与观测服务
-- [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
-- [casbin](https://github.com/casbin/casbin) 一款支持 ACL、RBAC、ABAC 等访问控制模型的 Go 语言权限控制库
-- [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
-- [containerd](https://github.com/containerd/containerd) 一个开源且可靠的容器运行时
-- [photoprism](https://github.com/photoprism/photoprism) 面向去中心化网络的人工智能照片应用
-- [tailscale](https://github.com/tailscale/tailscale) 使用 WireGuard 和双重认证（2FA）最简单、最安全的方式
-- [headscale](https://github.com/juanfont/headscale) 一款开源、可自建部署的 Tailscale 控制服务器实现版本
-- [xgo](https://github.com/goplus/xgo) 一门读起来如同通俗英语的编程语言，可以复用 C/C++、Go、Python 以及 JavaScript/TypeScript 中的已有资源，打造统一的软件工程生态
-- [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
-- [minio](https://github.com/minio/minio) 对象存储系统
-- [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖

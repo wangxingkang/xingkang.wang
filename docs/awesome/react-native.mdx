@@ -5,17 +5,14 @@
 - [官网](https://reactnative.dev)
 - [react-native](https://github.com/facebook/react-native) react-native 仓库
 
-## 动画
-
-- [react-native-effects](https://github.com/blazejkustra/react-native-effects) 基于 WebGPU 驱动的 React Native 着色器特效，开箱即用组件，独立线程运行
-- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) 重新实现的 React Native 动画库
-  - [react-native-worklets](https://github.com/software-mansion/react-native-reanimated/tree/main/packages/react-native-worklets) 一个无需编写任何原生代码，即可在多线程和多运行时环境中并行执行 JavaScript 代码的库
-- [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
-- [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
-
 ## 框架
 
 - [expo](https://github.com/expo/expo)
+
+## AI 与端侧推理
+
+- [react-native-executorch](https://github.com/software-mansion/react-native-executorch)  基于 ExecuTorch，在 React Native 设备端以声明式方式运行 AI 模型
+- [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
 
 ## 组件库
 
@@ -28,6 +25,12 @@
 - [heroui-native](https://github.com/heroui-inc/heroui-native)
 - [rn-primitives](https://github.com/roninoss/rn-primitives) 无样式侵入、具备无障碍特性的跨平台 React Native 组件，兼容 iOS、安卓与网页端
 
+## 样式与布局
+
+- [nativewind](https://github.com/nativewind/nativewind) Tailwind CSS
+- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) 一种灵活处理 JavaScript 安全区域边距的方案，同时兼容安卓与网页端
+- [@floating-ui/react-native](https://github.com/floating-ui/floating-ui/tree/master/packages/react-native) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
+
 ## 组件
 
 ### 导航
@@ -35,18 +38,37 @@
 - [zeego](https://github.com/nandorojo/zeego) 为 React (Native) 精心打造的菜单组件
 - [react-navigation](https://github.com/react-navigation/react-navigation) 适用于 React Native 和 Web 应用的路由与导航
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) 适用于 React Native 应用的**原生导航基础组件**
+- [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) 在 React Native 中使用原生右键菜单
+- [react-native-drawer-layout](https://github.com/react-navigation/react-navigation/tree/HEAD/packages/react-native-drawer-layout) Drawer
+
+### 交互与手势
+
+- [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
+- [react-native-pulsar](https://github.com/software-mansion/pulsar/tree/main/react-native/react-native-pulsar) 一款适用于 React Native 的触感反馈开发工具包
+- [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
+- [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) 在 iOS 和 Android 平台表现一致的键盘管理工具
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) 这是一个声明式 API，将平台原生的触摸与手势系统开放给 React Native 使用
+- [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) 为 React Native 提供 iOS 风格流畅滑动操作
 
 ### 数据录入
 
-- [drag-select](https://github.com/osamaqarem/drag-select) 一款 React Native 实用工具，用于实现列表项的滑动自动选中手势功能，就像你常用的相册类应用那样
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) 支持相机拍摄、视频、可配置压缩、多图选择与裁剪功能的 iOS/Android 图片选择器
 - [input-otp-native](https://github.com/yjose/input-otp-native) 应用一次性密码（OTP）输入组件
-- [react-native-rate-app](https://github.com/huextrat/react-native-rate-app) 评分
 - [@react-native-community/slider](https://github.com/callstack/react-native-slider) 滑动输入条
 - [@react-native-documents/picker](https://github.com/react-native-documents/document-picker/tree/main/packages/document-picker) 可从设备本地或 iCloud、Google 云端硬盘及其他文档服务提供商的云存储中读取文档
+- [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
+- [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
+- [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件
+
+### 文档与文本
+
 - [@react-native-documents/viewer](https://github.com/react-native-documents/document-picker/tree/main/packages/document-viewer) 调用系统原生阅读器预览文档
-- [expo-paste-input](https://github.com/arunabhverma/expo-paste-input) 跨平台原生剪贴板处理
-- [react-native-view-shot](https://github.com/gre/react-native-view-shot) 对 React Native 视图进行快照并将其保存为图片
+- [react-native-enriched-html](https://github.com/software-mansion/react-native-enriched-html) 基于 HTML 的 React Native 富文本解决方案
+- [react-native-enriched-markdown](https://github.com/software-mansion/react-native-enriched-markdown) React Native 平台的 Markdown 输入与文本渲染组件
+- [@expensify/react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) 可直接替换 React Native 原生 TextInput 组件，支持 Markdown 格式编辑
+- [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) 完全兼容 CommonMark 标准的 React Native 渲染器
+- [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
+- [react-native-syntax-highlighter](https://github.com/conorhastings/react-native-syntax-highlighter) 基于 react-syntax-highlighter 实现的 React Native 代码语法高亮工具
 
 ### 数据展示
 
@@ -55,6 +77,12 @@
 - [variable-header-blur](https://github.com/hewad-mubariz/variable-header-blur) 适用于 Expo 应用的跨平台原生头部模糊效果
 - [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) 适用于 React Native 的 `<LinearGradient />` 线性渐变组件
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) 适用于 iOS 和 Android 的 React Native 地图视图组件
+- [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
+- [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
+- [react-native-graph](https://github.com/margelo/react-native-graph) 基于 Skia 构建、美观且高性能的 React Native 图表组件库
+- [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
+- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) 适用于 Android ViewPager 与 iOS UIPageViewController 的 React Native 封装组件
+- [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
 
 ### 反馈
 
@@ -64,6 +92,9 @@
 - [expo-gooey-toast](https://github.com/rit3zh/expo-gooey-toast) 🍞 适用于 React Native 的平滑过渡消息提示组件
 - [expo-agent-spinners](https://github.com/Eronred/expo-agent-spinners) 适用于 React Native 和 Expo 的 54 种终端风格类加载指示器。轻量、无原生依赖——仅用文本实现，不占用大量 UI 线程。
 - [react-native-notify-kit](https://github.com/marcocrupi/react-native-notify-kit) 消息通知
+- [react-native-magic-modal](https://github.com/GSTJ/react-native-magic-modal) 一款可在任意位置以命令式调用的弹窗组件库
+- [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
+- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
 
 ### 音视频
 
@@ -71,73 +102,68 @@
 - [expo-speech-recognition](https://github.com/jamsch/expo-speech-recognition) 语音识别
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video) 一款适用于 React Native 的 `<Video />` 视频组件
 - [react-native-sound](https://github.com/zmxv/react-native-sound) 用于播放音频片段的 React Native 模块
-
-## 其他
-
-- [react-native-pulsar](https://github.com/software-mansion/pulsar/tree/main/react-native/react-native-pulsar) 一款适用于 React Native 的触感反馈开发工具包
 - [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) 适用于 React Native 的高性能音频引擎
-- [react-native-enriched-html](https://github.com/software-mansion/react-native-enriched-html) 基于 HTML 的 React Native 富文本解决方案
-- [react-native-executorch](https://github.com/software-mansion/react-native-executorch)  基于 ExecuTorch，在 React Native 设备端以声明式方式运行 AI 模型
-- [react-native-enriched-markdown](https://github.com/software-mansion/react-native-enriched-markdown) React Native 平台的 Markdown 输入与文本渲染组件
-- [react-native-zoom-toolkit](https://github.com/Glazzes/react-native-zoom-toolkit) 双指缩放工具库
-- [@react-native-picker/picker](https://github.com/react-native-picker/picker) 从选项列表中选取条目
-- [@react-native-masked-view/masked-view](https://github.com/callstack/masked-view) 蒙层
-- [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web/tree/HEAD/packages/react) 基于 dotlottie-web 库封装的 React 组件
-- [@expensify/react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) 可直接替换 React Native 原生 TextInput 组件，支持 Markdown 格式编辑
-- [expo-apple-targets](https://github.com/evanbacon/expo-apple-targets) 用于配置苹果平台目标项的配置插件
-- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) React Native 版 Lottie 封装库
-- [lucide-react-native](https://github.com/lucide-icons/lucide/tree/HEAD/packages/lucide-react-native) 图标库
-- [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) 在 React Native 中使用原生右键菜单
-- [nativewind](https://github.com/nativewind/nativewind) Tailwind CSS
-- [react-native-drawer-layout](https://github.com/react-navigation/react-navigation/tree/HEAD/packages/react-native-drawer-layout) Drawer
-- [react-native-email-link](https://github.com/tschoffelen/react-native-email-link) 在 React Native 中调起邮件客户端
-- [react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) 在 iOS 和 Android 平台表现一致的键盘管理工具
-- [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) 完全兼容 CommonMark 标准的 React Native 渲染器
-- [react-native-purchases](https://github.com/revenuecat/react-native-purchases) 简化 React Native 应用内购与订阅功能，支持 iOS、安卓及网页端
-- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) 一种灵活处理 JavaScript 安全区域边距的方案，同时兼容安卓与网页端
-- [react-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及原生 React 网页项目的 SVG 图形库
-- [react-native-sse](https://github.com/binaryminds/react-native-sse) 适用于 React Native 的事件源实现，为 iOS 和 Android 提供服务器推送事件（SSE）能力
-- [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) 一款轻量可靠、适用于 React Native 的 URL 兼容补丁库
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 适用于 React Native 的可自定义图标库，支持图片资源引入与完整样式设置
-- [react-native-web](https://github.com/necolas/react-native-web) 借助 React DOM，在网页端运行 React Native 组件
-- [@react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) 一款用于 React Native 的异步持久化键值存储系统
-- [react-native-magic-modal](https://github.com/GSTJ/react-native-magic-modal) 一款可在任意位置以命令式调用的弹窗组件库
-- [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) Markdown 流式渲染
-- [reanimated-color-picker](https://github.com/alabsi91/reanimated-color-picker) 取色器
-- [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
-- [react-native-collapsible](https://github.com/oblador/react-native-collapsible) 动画折叠组件，可用于手风琴、开关切换等场景
-- [react-native-notifier](https://github.com/seniv/react-native-notifier) 适用于 React Native 的快速简洁应用内通知组件
-- [react-native-confirmation-code-field](https://github.com/retyui/react-native-confirmation-code-field) 验证码输入框组件
-- [@dr.pogodin/react-native-fs](https://github.com/birdofpreyru/react-native-fs) 文件系统访问
-- [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
-- [react-native-graph](https://github.com/margelo/react-native-graph) 基于 Skia 构建、美观且高性能的 React Native 图表组件库
-- [react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) 一款极速 React Native 网络请求库，支持预加载
-- [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) 用 C/C++ JSI 实现的 Node.js crypto 模块
-- [react-native-version-info](https://github.com/tessus/react-native-version-info) React Native 安卓、iOS 及 Windows 版本信息
-- [react-native-zip-archive](https://github.com/mockingbot/react-native-zip-archive) 适用于 React Native 的 Zip 压缩归档工具
-- [@floating-ui/react-native](https://github.com/floating-ui/floating-ui/tree/master/packages/react-native) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
-- [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
-- [expo-gaode-map](https://github.com/TomWq/expo-gaode-map) 高德地图
-- [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
-- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) 在应用启动时显示启动闪屏，准备就绪后将其隐藏
-- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) 适用于 Android ViewPager 与 iOS UIPageViewController 的 React Native 封装组件
-- [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
-- [expo-mlkit-ocr](https://github.com/rbayuokt/expo-mlkit-ocr) 端侧离线 OCR
-- [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库
 - [react-native-compressor](https://github.com/numandev1/react-native-compressor) 像 WhatsApp 一样压缩图片、视频和音频
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) 这是一个声明式 API，将平台原生的触摸与手势系统开放给 React Native 使用
-- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) 适用于 React Native iOS 与 Android 平台的设备信息库
 - [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) 一款功能强大、高性能的 React Native 相机库
-- [flash-list](https://github.com/Shopify/flash-list) 适用于 React Native 的增强版列表组件
-- [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
-- [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
-- [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
-- [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) 为 React Native 提供 iOS 风格流畅滑动操作
-- [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) 像在网页应用中一样，在 React Native 项目里引入 SVG 文件
-- [react-native-syntax-highlighter](https://github.com/conorhastings/react-native-syntax-highlighter) 基于 react-syntax-highlighter 实现的 React Native 代码语法高亮工具
 - [react-native-sound-level](https://github.com/punarinta/react-native-sound-level) 一款用于在 React Native 应用中动态检测音量输入的工具库，可辅助用户调节麦克风灵敏度
 
-## 案例(开源项目)
+### 图形与图标
+
+- [lucide-react-native](https://github.com/lucide-icons/lucide/tree/HEAD/packages/lucide-react-native) 图标库
+- [react-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及原生 React 网页项目的 SVG 图形库
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 适用于 React Native 的可自定义图标库，支持图片资源引入与完整样式设置
+- [react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) 基于 Dawn 实现的 React Native WebGPU 适配库
+
+## 动画
+
+- [react-native-effects](https://github.com/blazejkustra/react-native-effects) 基于 WebGPU 驱动的 React Native 着色器特效，开箱即用组件，独立线程运行
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) 重新实现的 React Native 动画库
+  - [react-native-worklets](https://github.com/software-mansion/react-native-reanimated/tree/main/packages/react-native-worklets) 一个无需编写任何原生代码，即可在多线程和多运行时环境中并行执行 JavaScript 代码的库
+- [react-native-ease](https://github.com/AppAndFlow/react-native-ease) 🍃 依托平台原生 API 实现的轻量级声明式动画
+- [react-native-header](https://github.com/codeherence/react-native-header) 高性能、跨平台动画头部组件
+- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) React Native 版 Lottie 封装库
+
+## 网络与服务集成
+
+- [react-native-purchases](https://github.com/revenuecat/react-native-purchases) 简化 React Native 应用内购与订阅功能，支持 iOS、安卓及网页端
+- [react-native-sse](https://github.com/binaryminds/react-native-sse) 适用于 React Native 的事件源实现，为 iOS 和 Android 提供服务器推送事件（SSE）能力
+- [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) 一款轻量可靠、适用于 React Native 的 URL 兼容补丁库
+- [react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) 一款极速 React Native 网络请求库，支持预加载
+- [react-native-firebase](https://github.com/invertase/react-native-firebase) 一款经过充分测试、功能丰富且模块化的 React Native Firebase 实现库
+
+## 存储与文件
+
+- [@react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) 一款用于 React Native 的异步持久化键值存储系统
+- [@dr.pogodin/react-native-fs](https://github.com/birdofpreyru/react-native-fs) 文件系统访问
+- [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
+- [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) 用 C/C++ JSI 实现的 Node.js crypto 模块
+- [react-native-zip-archive](https://github.com/mockingbot/react-native-zip-archive) 适用于 React Native 的 Zip 压缩归档工具
+- [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) ⚡️ React Native 生态下速度最快的键值对存储方案
+
+## 平台能力
+
+- [react-native-rate-app](https://github.com/huextrat/react-native-rate-app) 评分
+- [expo-paste-input](https://github.com/arunabhverma/expo-paste-input) 跨平台原生剪贴板处理
+- [react-native-view-shot](https://github.com/gre/react-native-view-shot) 对 React Native 视图进行快照并将其保存为图片
+- [react-native-email-link](https://github.com/tschoffelen/react-native-email-link) 在 React Native 中调起邮件客户端
+- [react-native-version-info](https://github.com/tessus/react-native-version-info) React Native 安卓、iOS 及 Windows 版本信息
+- [react-native-permissions](https://github.com/zoontek/react-native-permissions) 提供跨 iOS、Android、Windows 统一的权限 API
+- [react-native-screenshot-aware](https://github.com/huextrat/react-native-screenshot-aware) 实时截屏检测
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) 适用于 React Native iOS 与 Android 平台的设备信息库
+- [@react-native-clipboard/clipboard](https://github.com/react-native-clipboard/clipboard) 适用于 iOS 和 Android 双平台的 React Native 剪贴板 API
+
+## Web 与原生集成
+
+- [react-native-web](https://github.com/necolas/react-native-web) 借助 React DOM，在网页端运行 React Native 组件
+- [@webview-bridge/react-native](https://github.com/gronxb/webview-bridge) 适用于 React Native WebView 与网页的完全类型安全集成方案
+- [react-native-webview](https://github.com/react-native-webview/react-native-webview) React Native 跨平台网页视图组件
+
+## 构建与配置
+
+- [expo-apple-targets](https://github.com/evanbacon/expo-apple-targets) 用于配置苹果平台目标项的配置插件
+- [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) 像在网页应用中一样，在 React Native 项目里引入 SVG 文件
+
+## 应用示例
 
 - [WooCommerce POS](https://github.com/wcpos/monorepo) 基于 React Native 与 Expo 的跨平台收银应用，支持网页、桌面和移动端，通过 WooCommerce POS 插件连接商店后端，提供订单处理与小票打印
 - [OrionTV](https://github.com/orion-lib/OrionTV) 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
