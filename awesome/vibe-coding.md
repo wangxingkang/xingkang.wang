@@ -103,6 +103,7 @@
 
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
 - [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
+- [aidlc-workflows](https://github.com/awslabs/aidlc-workflows) 人工智能驱动的生命周期（AI-DLC）自适应工作流程引导规则，适用于人工智能编码代理
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
 - [Matt Pocock Skills](https://github.com/mattpocock/skills)
 - [Everything Claude Code](https://github.com/affaan-m/ECC) 智能体性能优化系统
@@ -167,6 +168,7 @@
 
 ## 其他
 
+- [diagram-design](https://github.com/cathrynlavery/diagram-design) 面向 Claude Code、Codex、Pi 等 AI 编程助手的图示设计 Skill，支持生成符合品牌风格的架构图、流程图等 HTML + SVG 图示
 - [no-mistakes](https://github.com/kunchenguid/no-mistakes) 干掉所有 slop，开出干净的 PR
 - [backpass](https://github.com/kunchenguid/backpass) 让 AGENTS.md 像神经网络一样迭代
 - [blender-mcp](https://github.com/ahujasid/blender-mcp) Blender 模型上下文协议集成工具
