@@ -492,6 +492,7 @@ url: /awesome/ai.md
 ### MCP 服务
 
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
+- [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) Excalidraw 官方 MCP 应用服务，支持流式绘制手绘风格图表、平滑视口控制与全屏交互编辑，可接入支持 MCP Apps 的 AI 客户端
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 
 ## Skill
@@ -2699,6 +2700,7 @@ url: /awesome/react.md
 - [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
 - [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
 - [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [shadcn-editor](https://github.com/htmujahid/shadcn-editor) 基于 Lexical 与 shadcn/ui 的 React 富文本编辑器，支持通过 shadcn CLI 安装，提供表格、图片、代码块与 Markdown 快捷输入等功能
 - [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
 - [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
 - [@prosekit/react](https://github.com/prosekit/prosekit/tree/master/packages/react)
@@ -4388,6 +4390,7 @@ url: /awesome/desktop.md
 
 ### 文档与阅读
 
+- [Easydict](https://github.com/tisfeng/Easydict) 简洁易用的 macOS 词典翻译应用，支持划词翻译、截图 OCR 与多翻译服务结果对照，集成苹果系统词典、OpenAI、Gemini、DeepL 等服务
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB
 - [reflect-open](https://github.com/team-reflect/reflect-open) 开源的 Reflect 重写版：一个本地优先、对 AI Agent 友好的 Markdown 笔记应用
@@ -5303,6 +5306,8 @@ url: /awesome/self-hosted.md
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) 一款出色且易用的工具，支持网站变动检测、网页监控与变更提醒。可用于追踪内容更新、商品降价、补货通知以及网站篡改监测，基础功能完全免费，也可选择我们的云端订阅服务
 
 ## 业务系统
+
+- [Ever Gauzy](https://github.com/ever-co/ever-gauzy) 可自托管的企业管理平台，集成 ERP、CRM、人力资源、招聘与项目管理，支持员工工时追踪、财务与发票管理
 
 ### 客服
 

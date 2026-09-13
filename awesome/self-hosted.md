@@ -87,6 +87,8 @@
 
 ## 业务系统
 
+- [Ever Gauzy](https://github.com/ever-co/ever-gauzy) 可自托管的企业管理平台，集成 ERP、CRM、人力资源、招聘与项目管理，支持员工工时追踪、财务与发票管理
+
 ### 客服
 
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
