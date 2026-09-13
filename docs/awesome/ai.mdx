@@ -182,6 +182,7 @@
 ### MCP 服务
 
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
+- [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) Excalidraw 官方 MCP 应用服务，支持流式绘制手绘风格图表、平滑视口控制与全屏交互编辑，可接入支持 MCP Apps 的 AI 客户端
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 
 ## Skill
