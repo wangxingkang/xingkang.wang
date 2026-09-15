@@ -30,6 +30,7 @@
 
 ### 翻译
 
+- [FluentRead](https://github.com/FluentRead/FluentRead) 开源浏览器双语翻译插件，支持网页与划词翻译、AI 阅读辅助、图片与文档翻译及双语视频字幕
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) 沉浸式双语网页翻译扩展, 支持输入框翻译, 鼠标悬停翻译, PDF, Epub, 字幕文件, TXT 文件翻译
 - [read-frog](https://github.com/mengxi-ream/read-frog) 陪读蛙 - 开源沉浸式翻译
 

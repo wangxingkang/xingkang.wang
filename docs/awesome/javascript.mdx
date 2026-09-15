@@ -729,6 +729,7 @@
 
 ### Markdown 解析
 
+- [@tanstack/markdown](https://github.com/TanStack/markdown) 面向博客与文档的轻量 Markdown 解析与渲染库，无运行时依赖，提供可序列化 AST、HTML 渲染及 React、Octane 适配器，支持可选的 AI 流式解析
 - [md4x](https://github.com/unjs/md4x) 一款高效轻量的 Markdown 解析与渲染库
 - [markdown-exit](https://github.com/serkodev/markdown-exit) 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准
 - [Sätteri](https://github.com/bruits/satteri) 面向 JavaScript 生态的高性能 Markdown 与 MDX 处理器，以 Rust 解析编译并支持 JavaScript 插件
