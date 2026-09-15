@@ -322,6 +322,7 @@
 
 ### 知识库与搜索
 
+- [WeKnora](https://github.com/Tencent/WeKnora) 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库
 - [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
 - [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
@@ -422,6 +423,7 @@
 - [ardot](https://d.qq.com) AI 设计
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) 基于 Next.js 与 draw\.io 的 AI 图表工具，可通过自然语言创建、修改和增强流程图、架构图等图表
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
+- [Codia](https://codia.ai) AI 设计与格式转换平台，可将截图、PDF 和图片重建为可编辑的 Figma、PowerPoint、Canva 等设计文件，并支持 Figma 转代码
 - [lazyweb](https://www.lazyweb.com) 让你的智能体化身设计研究员
 - [napkin](https://www.napkin.ai) 将文字转化为视觉呈现
 - [blueprint](https://www.blueprint.io) 硬件原型设计

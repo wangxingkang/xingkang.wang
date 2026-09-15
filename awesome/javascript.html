@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.28e28569b9.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.744ec240c4.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.fc3617f4cd.js"></script>
+<script defer src="/static/js/index.24dd7c35a0.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -789,6 +789,7 @@
 </ul>
 <h3 class="rp-toc-include" id="markdown-解析"><a href="#markdown-解析" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Markdown 解析</h3>
 <ul>
+<li><a href="https://github.com/TanStack/markdown" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/markdown</a> 面向博客与文档的轻量 Markdown 解析与渲染库，无运行时依赖，提供可序列化 AST、HTML 渲染及 React、Octane 适配器，支持可选的 AI 流式解析</li>
 <li><a href="https://github.com/unjs/md4x" target="_blank" rel="noopener noreferrer" class="rp-link">md4x</a> 一款高效轻量的 Markdown 解析与渲染库</li>
 <li><a href="https://github.com/serkodev/markdown-exit" target="_blank" rel="noopener noreferrer" class="rp-link">markdown-exit</a> 快速、可定制的 Markdown 解析与渲染器，完全支持 CommonMark 标准</li>
 <li><a href="https://github.com/bruits/satteri" target="_blank" rel="noopener noreferrer" class="rp-link">Sätteri</a> 面向 JavaScript 生态的高性能 Markdown 与 MDX 处理器，以 Rust 解析编译并支持 JavaScript 插件</li>

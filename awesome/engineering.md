@@ -55,6 +55,7 @@
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [@sxzz/eslint-config](https://github.com/sxzz/eslint-config) 支持 JavaScript、TypeScript、Vue、Astro 与 Prettier 的 ESLint 配置预设
+- [eslint-plugin-antfu](https://github.com/antfu/eslint-plugin-antfu) Anthony Fu 的 ESLint 规则插件，提供换行一致性、导入去重与顶层函数声明等规则
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
