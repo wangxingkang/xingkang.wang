@@ -204,6 +204,7 @@
 
 ### 对象存储
 
+- [FlyDrive](https://github.com/flydrive-js/core) Node.js 多驱动文件存储库，通过统一 API 操作本地文件系统及 S3、R2、GCS 等云存储
 - [minio](https://github.com/minio/minio-js) 适用于 JavaScript 的 MinIO 客户端 SDK
 - [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
