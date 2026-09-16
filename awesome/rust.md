@@ -47,6 +47,7 @@
 数据库与搜索引擎见[运维 / 数据库与搜索](/awesome/ops.md#数据库与搜索)。
 
 - [SQLx](https://github.com/transact-rs/sqlx) 支持编译期查询校验的异步 Rust SQL 工具包，兼容 PostgreSQL、MySQL 与 SQLite
+- [Apache OpenDAL](https://github.com/apache/opendal) 基于 Rust 的统一数据访问层，以一致 API 访问对象存储、文件系统、数据库等服务，并提供多语言绑定
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 的 Rust 向量索引库，提供 Python 绑定
 
 ## 数据结构与文本处理

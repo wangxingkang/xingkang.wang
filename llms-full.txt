@@ -3293,6 +3293,7 @@ url: /awesome/node.md
 
 ### 对象存储
 
+- [FlyDrive](https://github.com/flydrive-js/core) Node.js 多驱动文件存储库，通过统一 API 操作本地文件系统及 S3、R2、GCS 等云存储
 - [minio](https://github.com/minio/minio-js) 适用于 JavaScript 的 MinIO 客户端 SDK
 - [s3-lite-client](https://github.com/bradenmacdonald/s3-lite-client) 轻量且高性能的 JavaScript S3 客户端
 - [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3)
@@ -3835,6 +3836,7 @@ url: /awesome/rust.md
 数据库与搜索引擎见[运维 / 数据库与搜索](/awesome/ops.md#数据库与搜索)。
 
 - [SQLx](https://github.com/transact-rs/sqlx) 支持编译期查询校验的异步 Rust SQL 工具包，兼容 PostgreSQL、MySQL 与 SQLite
+- [Apache OpenDAL](https://github.com/apache/opendal) 基于 Rust 的统一数据访问层，以一致 API 访问对象存储、文件系统、数据库等服务，并提供多语言绑定
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 的 Rust 向量索引库，提供 Python 绑定
 
 ## 数据结构与文本处理
@@ -5030,6 +5032,7 @@ url: /awesome/ops.md
 
 ### Web 服务器
 
+- [Caddy](https://github.com/caddyserver/caddy) 跨平台、可扩展的 Web 服务器，默认自动配置 HTTPS，支持 HTTP/1.1、HTTP/2 与 HTTP/3
 - [ngx\_brotli](https://github.com/google/ngx_brotli) 用于 Brotli 压缩的 NGINX 模块
 
 ## 证书
