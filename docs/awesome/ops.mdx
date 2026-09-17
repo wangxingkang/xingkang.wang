@@ -123,7 +123,9 @@
 - [gasmask](https://github.com/2ndalpha/gasmask) MacOS 的 hosts 文件管理器
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 面向全家设备的开源 DNS 广告与跟踪拦截服务，支持自托管和网络级过滤
+- [Blocky](https://github.com/0xERR0R/blocky) 用于本地网络的轻量 DNS 代理与广告拦截器，支持加密 DNS、规则列表、缓存与 Prometheus 监控
 - [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
+- [CoreDNS](https://github.com/coredns/coredns) CNCF 毕业项目，以插件链组合 DNS 功能的灵活 DNS 服务器和转发器
 - [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
 
 ### 代理与隧道

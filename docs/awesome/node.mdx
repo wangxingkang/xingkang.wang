@@ -268,6 +268,7 @@
 
 ### 文档与数据格式
 
+- [Content Collections](https://github.com/sdorra/content-collections) 将 Markdown、MDX 等内容构建为类型安全的数据集合，支持构建期校验、预处理以及 Next.js、Vite 等框架适配器
 - [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
 - [@opendocsg/pdf2md](https://github.com/opengovsg/pdf2md) 一个 PDF 转 Markdown 转换器
 - [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) 使用 Node.js 和 Headless Chrome 将 Markdown 文件转换为 PDF 的可定制 CLI 工具

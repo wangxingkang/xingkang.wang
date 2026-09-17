@@ -44,6 +44,7 @@
 
 ### 代码审计
 
+- [security-audit-skill](https://github.com/cloudflare/security-audit-skill) Cloudflare 开源的编码智能体安全审计技能，覆盖侦察、漏洞挖掘、独立验证与结构化报告
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 
 ## 网络安全
@@ -56,6 +57,7 @@
 
 ## 逆向与二进制分析
 
+- [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码
