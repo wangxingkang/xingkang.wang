@@ -72,6 +72,7 @@
 - [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
+- [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
 
 ## 基础设施
 

@@ -12,6 +12,7 @@
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
 - [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
+- [LiveKit](https://github.com/livekit/livekit) 可扩展的分布式 WebRTC SFU，为实时音视频、数据传输与 AI 智能体提供服务端基础设施
 - [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
