@@ -141,6 +141,7 @@
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
+- [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结
 
 ### 办公自动化
 

@@ -101,6 +101,16 @@
 
 - [dribbble](https://dribbble.com) 全球设计师社区
 - [mobbin](https://mobbin.com) 专注于移动界面设计的网站
+- [Refero](https://refero.design) 收录真实产品界面、设计模式与用户流程的 UI/UX 设计灵感库
+- [Recent](https://recent.design) 覆盖网页、界面、品牌、动效等领域的设计灵感与案例库
+- [Lapa Ninja](https://www.lapa.ninja/) 收录落地页与完整网站截图、录屏的网页设计灵感库
+- [Awwwards](https://www.awwwards.com/) 收录并评选网页设计作品，提供网站趋势、案例与交互设计灵感
+- [loadmo.re](https://loadmo.re) 专注移动端网站与非常规数字体验的网页设计灵感档案
+- [Minimal Gallery](https://minimal.gallery) 精选创意工作者提交的网站设计案例与灵感资源
+- [Dark](https://www.dark.design) 精选深色主题网站的网页设计灵感库
+- [Muzli](https://muz.li/) 通过浏览器新标签页提供人工策展的设计资讯、趋势与灵感
+- [Designspiration](https://www.designspiration.com/) 用于收集、保存和浏览创意、配色与设计截图的灵感平台
+- [Design Spells](https://designspells.com) 收录移动端、桌面端与网页交互中的细节、动效和创意效果
 
 ## 学习
 
