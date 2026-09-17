@@ -596,6 +596,7 @@ url: /awesome/ai.md
 
 ### 音视频
 
+- [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 - [velorn](https://github.com/VelornLabs/velorn) 开源 AI 视频工作站，围绕真实时间线编辑、生成式工作流、本地 ComfyUI 与 MCP 智能体控制构建
@@ -814,7 +815,10 @@ url: /awesome/vibe-coding.md
 
 ### 扩展与适配
 
+- [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) 将 ChatGPT 网页版模型接入 Codex 原生模型选择器，支持流式响应、图片与 MCP 全量编程工作流
+- [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) 通过只读 MCP 桥接，让 ChatGPT 网页版为 Codex 编码会话提供规划与代码审查
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
+- [OpenCodex (lidge-jun)](https://github.com/lidge-jun/opencodex) 本地模型代理，将 Codex、Claude Code 等协议转换为多家 LLM 服务，支持工具调用、推理和图片
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 - [codex-acp](https://github.com/agentclientprotocol/codex-acp) 将 Codex CLI 暴露为 ACP 服务，供客户端与 IDE 接入
@@ -3357,6 +3361,7 @@ url: /awesome/node.md
 
 ### 文档与数据格式
 
+- [Content Collections](https://github.com/sdorra/content-collections) 将 Markdown、MDX 等内容构建为类型安全的数据集合，支持构建期校验、预处理以及 Next.js、Vite 等框架适配器
 - [csv](https://github.com/adaltas/node-csv) 功能齐全的 CSV 解析器
 - [@opendocsg/pdf2md](https://github.com/opengovsg/pdf2md) 一个 PDF 转 Markdown 转换器
 - [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) 使用 Node.js 和 Headless Chrome 将 Markdown 文件转换为 PDF 的可定制 CLI 工具
@@ -5015,7 +5020,9 @@ url: /awesome/ops.md
 - [gasmask](https://github.com/2ndalpha/gasmask) MacOS 的 hosts 文件管理器
 - [pi-hole](https://github.com/pi-hole/pi-hole) 互联网广告的 “黑洞” 拦截器
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 面向全家设备的开源 DNS 广告与跟踪拦截服务，支持自托管和网络级过滤
+- [Blocky](https://github.com/0xERR0R/blocky) 用于本地网络的轻量 DNS 代理与广告拦截器，支持加密 DNS、规则列表、缓存与 Prometheus 监控
 - [dnsmasq](https://github.com/imp/dnsmasq) 上游 dnsmasq 仓库镜像，提供轻量级 DNS、DHCP、路由器通告和网络启动服务
+- [CoreDNS](https://github.com/coredns/coredns) CNCF 毕业项目，以插件链组合 DNS 功能的灵活 DNS 服务器和转发器
 - [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
 
 ### 代理与隧道
@@ -5184,6 +5191,7 @@ url: /awesome/security.md
 
 ### 代码审计
 
+- [security-audit-skill](https://github.com/cloudflare/security-audit-skill) Cloudflare 开源的编码智能体安全审计技能，覆盖侦察、漏洞挖掘、独立验证与结构化报告
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 
 ## 网络安全
@@ -5196,6 +5204,7 @@ url: /awesome/security.md
 
 ## 逆向与二进制分析
 
+- [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
 - [shuji](https://github.com/paazmaya/shuji) 从源映射文件逆向还原 JavaScript 与 CSS 源代码

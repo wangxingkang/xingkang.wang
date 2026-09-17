@@ -35,7 +35,10 @@
 
 ### 扩展与适配
 
+- [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) 将 ChatGPT 网页版模型接入 Codex 原生模型选择器，支持流式响应、图片与 MCP 全量编程工作流
+- [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) 通过只读 MCP 桥接，让 ChatGPT 网页版为 Codex 编码会话提供规划与代码审查
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
+- [OpenCodex (lidge-jun)](https://github.com/lidge-jun/opencodex) 本地模型代理，将 Codex、Claude Code 等协议转换为多家 LLM 服务，支持工具调用、推理和图片
 - [cowart](https://github.com/zhongerxin/cowart) 本地无限画布插件
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 - [codex-acp](https://github.com/agentclientprotocol/codex-acp) 将 Codex CLI 暴露为 ACP 服务，供客户端与 IDE 接入

@@ -286,6 +286,7 @@
 
 ### 音视频
 
+- [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 - [velorn](https://github.com/VelornLabs/velorn) 开源 AI 视频工作站，围绕真实时间线编辑、生成式工作流、本地 ComfyUI 与 MCP 智能体控制构建
