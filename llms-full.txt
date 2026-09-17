@@ -382,6 +382,7 @@ url: /awesome/ai.md
 - [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
 - [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
+- [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
 
 ## 基础设施
 
@@ -1042,6 +1043,7 @@ url: /awesome/vibe-coding.md
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
+- [Superset](https://github.com/superset-sh/superset) 在隔离 Git 工作树中并行编排 100+ 命令行编程智能体的桌面 IDE
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
 - [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
@@ -3745,6 +3747,7 @@ url: /awesome/go.md
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
 - [webrtc](https://github.com/pion/webrtc) 基于 Go 语言原生实现的 WebRTC 接口
+- [LiveKit](https://github.com/livekit/livekit) 可扩展的分布式 WebRTC SFU，为实时音视频、数据传输与 AI 智能体提供服务端基础设施
 - [encore](https://github.com/encoredev/encore) 用于构建高可靠性、类型安全的分布式系统，并支持声明式基础设施配置的开源框架
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
