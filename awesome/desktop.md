@@ -133,6 +133,7 @@
 ### 系统管理
 
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
+- [BrewUI](https://github.com/Homebrew/brewui) Homebrew 官方 macOS 图形界面，用于发现、安装、更新和管理软件包
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
 - [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) macOS 菜单栏工具包
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac

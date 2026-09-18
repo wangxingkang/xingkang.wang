@@ -3935,6 +3935,7 @@ url: /awesome/cpp.md
 
 ## 语言运行时
 
+- [Bend](https://github.com/bendlang/bend) 支持依赖类型与形式化证明的并行编程语言，可编译至 CPU、GPU 与 JavaScript
 - [QuickJS](https://github.com/bellard/quickjs) 轻量且可嵌入的 JavaScript 引擎
 - [MQuickJS](https://github.com/bellard/mquickjs) 面向嵌入式系统的 Micro QuickJS JavaScript 引擎，约 10 KB RAM 即可运行
 
@@ -4323,6 +4324,7 @@ url: /awesome/desktop.md
 ### 系统管理
 
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
+- [BrewUI](https://github.com/Homebrew/brewui) Homebrew 官方 macOS 图形界面，用于发现、安装、更新和管理软件包
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
 - [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) macOS 菜单栏工具包
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
@@ -5249,6 +5251,7 @@ url: /awesome/self-hosted.md
 
 ## 个人云
 
+- [Hister](https://github.com/asciimoo/hister) 自托管个人搜索引擎，为浏览网页和本地文件建立全文索引，支持终端与 MCP 查询
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 
 ## 文件与同步
