@@ -3113,6 +3113,7 @@ url: /awesome/node.md
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
+- [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时
 
 ### 运行环境
 
@@ -4701,6 +4702,7 @@ url: /awesome/engineering.md
 - [unbuild](https://github.com/unjs/unbuild)
 - [parcel](https://github.com/parcel-bundler/parcel) 零配置高性能应用打包与构建工具，支持现代前端项目（JS/TS、React、Vue 等）从开发到生产的一体化流程
 - [Trunk](https://github.com/trunk-rs/trunk) Rust WASM Web 应用的构建与打包工具，内置开发服务器与热重载
+- [OJ](https://github.com/lovablelabs/oj) 面向 React 应用的 Rust 原生构建工具，兼容 Vite 配置并支持开发服务器、热更新与 SSR
 
 ## 性能优化
 
@@ -5372,6 +5374,7 @@ url: /awesome/website.md
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
+- [DrawDB](https://github.com/drawdb-io/drawdb) 浏览器中的数据库 ER 图编辑器，支持导入导出 SQL 与生成迁移脚本
 
 ### 设计与可视化
 

@@ -191,6 +191,7 @@
 - [unbuild](https://github.com/unjs/unbuild)
 - [parcel](https://github.com/parcel-bundler/parcel) 零配置高性能应用打包与构建工具，支持现代前端项目（JS/TS、React、Vue 等）从开发到生产的一体化流程
 - [Trunk](https://github.com/trunk-rs/trunk) Rust WASM Web 应用的构建与打包工具，内置开发服务器与热重载
+- [OJ](https://github.com/lovablelabs/oj) 面向 React 应用的 Rust 原生构建工具，兼容 Vite 配置并支持开发服务器、热更新与 SSR
 
 ## 性能优化
 
