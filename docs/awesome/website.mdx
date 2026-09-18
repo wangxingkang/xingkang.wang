@@ -17,6 +17,7 @@
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
 - [tweakcn](https://github.com/jnsahaj/tweakcn) 面向 shadcn/ui 组件的视觉化无代码主题编辑器
 - [regex-vis](https://github.com/Bowen7/regex-vis) 正则表达式可视化工具 & 编辑器
+- [DrawDB](https://github.com/drawdb-io/drawdb) 浏览器中的数据库 ER 图编辑器，支持导入导出 SQL 与生成迁移脚本
 
 ### 设计与可视化
 

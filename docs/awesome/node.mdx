@@ -18,6 +18,7 @@
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
+- [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时
 
 ### 运行环境
 
