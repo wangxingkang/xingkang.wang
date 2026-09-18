@@ -4,6 +4,7 @@
 
 ## 个人云
 
+- [Hister](https://github.com/asciimoo/hister) 自托管个人搜索引擎，为浏览网页和本地文件建立全文索引，支持终端与 MCP 查询
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 
 ## 文件与同步

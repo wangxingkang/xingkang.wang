@@ -18,6 +18,7 @@
 
 ## 语言运行时
 
+- [Bend](https://github.com/bendlang/bend) 支持依赖类型与形式化证明的并行编程语言，可编译至 CPU、GPU 与 JavaScript
 - [QuickJS](https://github.com/bellard/quickjs) 轻量且可嵌入的 JavaScript 引擎
 - [MQuickJS](https://github.com/bellard/mquickjs) 面向嵌入式系统的 Micro QuickJS JavaScript 引擎，约 10 KB RAM 即可运行
 
