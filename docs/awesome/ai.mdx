@@ -284,6 +284,7 @@
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) 面向 Stable Diffusion 等模型的专业视觉生成引擎，提供本地 Web UI、统一画布和节点工作流
+- [RunningHub](https://www.runninghub.cn) 云端 ComfyUI 创作平台，提供工作流、无限画布、AI 应用与模型 API
 
 ### 音视频
 
