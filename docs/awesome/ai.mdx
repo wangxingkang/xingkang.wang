@@ -144,6 +144,7 @@
 - [extractor](https://github.com/lightfeed/extractor) 使用大语言模型与AI浏览器自动化技术，稳健地提取网页数据
 - [tabbit](https://www.tabbit-ai.com) AI 浏览器
 - [browser-harness](https://github.com/browser-use/browser-harness) 浏览器自动化测试框架 | 具备自愈能力，可让大语言模型完成任意任务
+- [Jev Ultrafast](https://github.com/browser-use/jev-ultrafast) 基于动态索引操作空间的高速浏览器智能体
 - [browser-act](https://github.com/browser-act/skills) 专为 AI 智能体打造的浏览器自动化命令行工具
 - [agent-browser](https://github.com/vercel-labs/agent-browser) 面向 AI 智能体的浏览器自动化命令行工具
 - [ego-lite](https://github.com/citrolabs/ego-lite) 面向 AI 智能体的浏览器，可共享本机登录态并让 Agent 在独立空间中执行浏览器自动化任务
@@ -190,6 +191,7 @@
 
 ### 设计与内容创作
 
+- [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验

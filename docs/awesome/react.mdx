@@ -37,7 +37,7 @@
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
 - [@a2ui/react](https://github.com/google/A2UI/tree/main/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
-- CopilotKit 面向智能体与生成式界面的前端技术栈
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) 面向智能体与生成式界面的前端技术栈
   - [@copilotkit/react-ui](https://github.com/CopilotKit/CopilotKit/tree/main/packages/react-ui)
 - [@ai-sdk/react](https://github.com/vercel/ai/tree/main/packages/react)
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库

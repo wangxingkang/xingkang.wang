@@ -43,6 +43,10 @@
 - [opencodex](https://github.com/AITabby/opencodex) Codex 桌面端本地网关 —— 自定义接口、网页控制面板、视觉能力桥接模块
 - [codex-acp](https://github.com/agentclientprotocol/codex-acp) 将 Codex CLI 暴露为 ACP 服务，供客户端与 IDE 接入
 
+### 其他
+
+- [ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) 尝试改善 Codex 降智、限流与连接体验
+
 ## Claude Code
 
 ### 官方资源
