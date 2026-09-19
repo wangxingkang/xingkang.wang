@@ -164,6 +164,7 @@
 - [espanso](https://github.com/espanso/espanso) 跨平台文本快捷扩展工具
 - [daktilo](https://github.com/orhun/daktilo) 把你的键盘变成一台复古打字机
 - [Wox](https://github.com/Wox-launcher/Wox) 跨平台启动器
+- [Tinycast](https://github.com/abue-ammar/tinycast) 原生 macOS 启动器，提供全局快捷键、剪贴板历史与窗口管理
 - [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) 强大的 macOS 启动器
 
 ### 开发辅助
