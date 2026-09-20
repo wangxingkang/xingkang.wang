@@ -43,6 +43,7 @@
 
 ## 依赖与仓库管理
 
+- [Node Modules Inspector](https://github.com/antfu/node-modules-inspector) 可视化本地 node\_modules，检查依赖关系、重复版本与安装体积
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
 - [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) 更友好的交互式 pnpm patch 包装器，可在本地 node\_modules 中编辑并自动提交补丁
@@ -70,6 +71,7 @@
 
 ## 调试
 
+- [Devframe](https://github.com/devframes/devframe) 用于构建通用开发者工具的框架无关基础设施
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 

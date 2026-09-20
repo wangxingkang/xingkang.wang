@@ -291,6 +291,7 @@
 
 ### 音视频
 
+- [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案
 - [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
 - [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
@@ -421,6 +422,7 @@
 
 ### 原型与设计
 
+- [Lovart](https://www.lovart.ai/) AI 设计智能体，可将创意转化为品牌一致的视觉资产并在画布中编辑
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [open-pencil](https://github.com/open-pencil/open-pencil) 开源 AI 原生设计编辑器，可打开 `.fig` / `.pen` 文件，并提供 CLI、MCP 与可编程设计工具链
 - [MotionSites AI](https://motionsites.ai/) 面向 AI 建站的落地页与页面区块提示词库，可直接复制用于生成设计
