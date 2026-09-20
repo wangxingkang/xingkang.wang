@@ -211,6 +211,7 @@
 
 ### 规范与管理
 
+- [Feature-Sliced Design Skills](https://github.com/feature-sliced/skills) 指导智能体在前端项目中应用 Feature-Sliced Design v2.1 架构方法论
 - [skill-recorder](https://github.com/microsoft/skill-recorder) 录制一次你的操作，就能把它变成你的 AI 代理可以反复执行的技能
 - [cocoloop](https://hub.cocoloop.cn) 更快更安全的 AI Agent Skills 商店
 - [autoskills](https://github.com/midudev/autoskills) 一条命令，安装你的全套 AI 技术栈
