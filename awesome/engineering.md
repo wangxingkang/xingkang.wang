@@ -58,6 +58,7 @@
 - [@sxzz/eslint-config](https://github.com/sxzz/eslint-config) 支持 JavaScript、TypeScript、Vue、Astro 与 Prettier 的 ESLint 配置预设
 - [eslint-plugin-antfu](https://github.com/antfu/eslint-plugin-antfu) Anthony Fu 的 ESLint 规则插件，提供换行一致性、导入去重与顶层函数声明等规则
 - [steiger](https://github.com/feature-sliced/steiger) 通用文件结构与项目架构检查工具
+- [Feature-Sliced Design](https://github.com/feature-sliced/documentation) 面向前端应用的架构方法论，按层、业务域与技术用途组织代码
 - [publint](https://github.com/publint/publint) NPM 包校验工具
 - [@biomejs/biome](https://github.com/biomejs/biome/tree/HEAD/packages/@biomejs/biome) 快速的格式化工具
 - [knip](https://github.com/webpro-nl/knip) ✂️ 查找 JavaScript 和 TypeScript 项目中未使用的文件、依赖与导出代码。上线前先清理干净！
