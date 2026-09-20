@@ -155,6 +155,8 @@
 
 ### 输入与窗口
 
+- [niri](https://github.com/niri-wm/niri) 可滚动平铺窗口的 Wayland 合成器，提供动态工作区与多显示器独立窗口布局
+- [Sway](https://github.com/swaywm/sway) 与 i3 配置兼容的 Wayland 合成器与平铺窗口管理器
 - [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) MacOS 键盘自定义工具
   - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) 轻松配置 Karabiner
@@ -200,6 +202,7 @@
 
 ### 媒体处理
 
+- [Compositor](https://github.com/robbietilton/Compositor) 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换
 - [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
 - [imagekit](https://github.com/hzbd/imagekit) 批量图片处理的命令行工具
