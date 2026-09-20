@@ -659,6 +659,7 @@
 - [piri](https://github.com/thejessewinton/piri) 一款轻量工具，可制作样式精美的 SVG 地图
 - [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [province-city-china](https://github.com/uiwjs/province-city-china) 最全最新中国【省、市、区县、乡镇街道】
+- [OpenFreeMap](https://github.com/hyperknot/openfreemap) 基于 OpenStreetMap 的免费开源矢量地图托管服务，提供可自托管的自定义样式与地图瓦片
 - [pmtiles](https://github.com/protomaps/pmtiles) 静态存储中单文件存储的地图瓦片金字塔
 - [FlowmapBlue](https://github.com/FlowmapBlue/FlowmapBlue) 流场图可视化工具
 - [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) 东京公共交通系统的**实时3D数字地图**
