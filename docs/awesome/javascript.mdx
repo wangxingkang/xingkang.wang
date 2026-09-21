@@ -530,6 +530,7 @@
 
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
+- [upchunk](https://github.com/muxinc/upchunk) 浏览器大文件分片上传库，支持重试、暂停与恢复，兼容断点续传服务
 
 ### 布局与日历
 
@@ -727,6 +728,7 @@
 - [@cantoo/pdf-lib](https://github.com/cantoo-scribe/pdf-lib) 在任意 JavaScript 环境中创建和编辑 PDF 文档
 - [pdf-lib](https://github.com/Hopding/pdf-lib) 可在任意 JavaScript 运行环境中创建与编辑 PDF 文档
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS) 使用 JavaScript 构建 PowerPoint 演示文稿。兼容 Node、React、网页浏览器等环境
+- [pptx-renderer](https://github.com/aiden0z/pptx-renderer) 浏览器原生 PPTX 渲染库，将 OOXML 演示文稿解析为高保真 HTML/SVG DOM
 
 ### Markdown 解析
 

@@ -79,6 +79,7 @@
 ### 模型服务与网关
 
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
+- [fal](https://fal.ai) 面向开发者的生成式媒体平台，通过 API 提供图像、视频、音频和 3D 模型及无服务器 GPU 推理
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
 - [manifest](https://github.com/mnfst/manifest) 面向个人智能体的**智能模型路由技术**，可**降低成本高达70%**。
 - [one-api](https://github.com/songquanpeng/one-api) LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。
