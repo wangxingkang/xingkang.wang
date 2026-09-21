@@ -34,6 +34,7 @@
 - [electron-debug](https://github.com/sindresorhus/electron-debug) 为你的 Electron 应用增添实用的调试功能
 - [electron-log](https://github.com/megahertz/electron-log) 适用于 Electron / Node.js/ NW\.js 应用的简易日志模块
 - [@sentry/electron](https://github.com/getsentry/sentry-electron) 面向 Electron 应用的 Sentry 错误监控 SDK
+- [@arms/rum-electron](https://npmx.dev/package/@arms/rum-electron) 阿里云 ARMS 的 Electron 真实用户监控 SDK，自动采集崩溃、异常、性能与页面指标
 - [electronmon](https://github.com/catdad/electronmon) 借助简易工具运行、监听并重启 Electron 应用
 - [debugtron](https://github.com/pd4d10/debugtron) 对线上环境中的 Electron 应用进行调试
 - [@electron/fiddle-core](https://github.com/electron/fiddle-core)  可在任意环境、任意版本的 Electron 中运行调试代码片段

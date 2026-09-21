@@ -22,6 +22,7 @@
 ### Next.js
 
 - [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
+- [next-video](https://github.com/muxinc/next-video) Next.js 视频组件与处理工具，支持自动优化、远程存储、海报和预览缩略图
 
 ## 路由
 
@@ -543,6 +544,8 @@
 
 - [@open-file-viewer/react](https://github.com/xushanpei/open-file-viewer) 面向浏览器的文件预览库
 - [@eigenpal/docx-editor-react](https://github.com/eigenpal/docx-editor) 开源所见即所得 .docx 编辑器库
+- [react-docx](https://github.com/extend-hq/react-docx) React 优先的 DOCX 查看与编辑器，支持分页、修订、表单字段和缩略图
+- [react-xlsx](https://github.com/extend-hq/react-xlsx) React XLSX 工作簿查看与编辑组件，支持图表、嵌入图片、选择状态、缩放与导出
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
   - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 react-pdf 中渲染 HTML 内容
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
@@ -567,6 +570,7 @@
 
 ### 解析与渲染
 
+- [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) 将 JSX 字符串解析并渲染为 React 组件，支持受控组件与绑定注入
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [html-react-parser](https://github.com/remarkablemark/html-react-parser) 📝 HTML 转 React 解析器
 
