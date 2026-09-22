@@ -325,6 +325,7 @@ url: /awesome/ai.md
 ### 图像与视频模型
 
 - [Sana](https://github.com/NVlabs/Sana) 图像生成模型
+- [Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) 通义千问开源的统一文生图与图像编辑模型，支持透明图生成和多参考图编辑
 - [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 
 ### 交互与专用模型
@@ -793,6 +794,8 @@ url: /awesome/vibe-coding.md
 ## 编程智能体
 
 - [claw-code](https://github.com/ultraworkers/claw-code)
+- [ZCode](https://github.com/zai-org/ZCode) Z.ai 的开源 AI 编程工作台，提供 Electron 桌面端、Web 界面和终端 Agent
+- [Qwen Code](https://github.com/QwenLM/qwen-code) 通义千问开源 AI 编程智能体，支持终端、编辑器、桌面、Web 与聊天平台
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent
@@ -2947,6 +2950,7 @@ url: /awesome/vue.md
 ### 交互
 
 - [@tanstack/vue-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/vue-hotkeys) 快捷键
+- [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) 为 Vue 3 提供声明式触摸、滑动、长按、拖拽与缩放事件
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 
 ### 音视频
@@ -5482,6 +5486,7 @@ url: /awesome/website.md
 ### 组件与效果
 
 - [uiverse](https://uiverse.io) 全球最大的开源 UI 组件库
+- [Beautiful UI](https://www.beautifului.dev) 面向 AI 原生界面的交互组件参考，涵盖思考过程、审批卡片、工具调用与任务状态
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
 - [MetalForge](https://metalforge.xyz/) 用于 SwiftUI 的 Metal Shader 效果资源与实现参考
 

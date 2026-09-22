@@ -5,6 +5,8 @@
 ## 编程智能体
 
 - [claw-code](https://github.com/ultraworkers/claw-code)
+- [ZCode](https://github.com/zai-org/ZCode) Z.ai 的开源 AI 编程工作台，提供 Electron 桌面端、Web 界面和终端 Agent
+- [Qwen Code](https://github.com/QwenLM/qwen-code) 通义千问开源 AI 编程智能体，支持终端、编辑器、桌面、Web 与聊天平台
 - [grok-build](https://github.com/xai-org/grok-build) 基于终端的人工智能编程工具
 - [VTCode](https://github.com/vinhnx/VTCode) 具备语义化能力的人工智能编码智能体
 - [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) 面向终端的 DeepSeek 原生 AI coding agent

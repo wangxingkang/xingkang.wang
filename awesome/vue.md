@@ -119,6 +119,7 @@
 ### 交互
 
 - [@tanstack/vue-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/vue-hotkeys) 快捷键
+- [vue3-touch-events](https://github.com/robinrodricks/vue3-touch-events) 为 Vue 3 提供声明式触摸、滑动、长按、拖拽与缩放事件
 - [vue-drag-select](https://github.com/ZhiJieZhang1/vue-drag-select) 基于Vue的仿原生操作系统鼠标拖拽选择
 
 ### 音视频
