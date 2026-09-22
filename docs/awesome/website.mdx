@@ -95,6 +95,7 @@
 ### 组件与效果
 
 - [uiverse](https://uiverse.io) 全球最大的开源 UI 组件库
+- [Beautiful UI](https://www.beautifului.dev) 面向 AI 原生界面的交互组件参考，涵盖思考过程、审批卡片、工具调用与任务状态
 - [hepengwei](https://hepengwei.cn) 前端视觉效果的集合应用
 - [MetalForge](https://metalforge.xyz/) 用于 SwiftUI 的 Metal Shader 效果资源与实现参考
 

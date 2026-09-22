@@ -15,6 +15,7 @@
 ### 图像与视频模型
 
 - [Sana](https://github.com/NVlabs/Sana) 图像生成模型
+- [Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) 通义千问开源的统一文生图与图像编辑模型，支持透明图生成和多参考图编辑
 - [z-image](https://github.com/Tongyi-MAI/Z-Image) 图像生成模型，拥有 6B 参数
 
 ### 交互与专用模型
