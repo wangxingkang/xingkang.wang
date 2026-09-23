@@ -124,6 +124,7 @@
 ### 截屏与录制
 
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
+- [HushSnap](https://github.com/tcita/HushSnap) Windows 本地截屏与离线 OCR 工具，支持标注、脱敏和置顶
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
@@ -151,6 +152,7 @@
 - [TaskTick](https://github.com/lifedever/TaskTick) 一款原生 macOS 定时任务管理应用
 - [Google Workspace Cli](https://github.com/googleworkspace/cli) Google Workspace 命令行工具 —— 一款可操作云盘、邮箱、日历、表格、文档、聊天、管理后台等多款服务的命令行程序。基于谷歌发现服务动态构建，内置 AI 智能代理能力
 - [AiToEarn](https://github.com/yikart/AiToEarn) 全平台一键分发
+- [WeChatBridge](https://github.com/freestylefly/WeChatBridge) 原生 macOS 工具，将微信聊天记录转发至 AI Agent 或归档到 Obsidian
 - [dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) 钉钉工作台是钉钉官方开源的跨平台命令行工具。它将钉钉全套产品能力整合至统一套件，同时适配人工操作与 AI 智能体使用场景
 - [@larksuite/cli](https://github.com/larksuite/cli) 飞书官方 CLI 工具
 
