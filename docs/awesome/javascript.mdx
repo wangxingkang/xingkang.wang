@@ -155,6 +155,7 @@
 ### 标识符与版本号
 
 - [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
+- [ulid](https://github.com/ulid/javascript) 生成可按字典序排序、兼容 UUID 的唯一标识符
 - [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器
 - [compare-versions](https://github.com/omichelsen/compare-versions) 对比语义化版本号字符串，判断版本大小、相等关系
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库

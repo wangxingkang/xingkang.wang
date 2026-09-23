@@ -12,6 +12,7 @@
 ### 开发与调试
 
 - [it-tools](https://it-tools.tech) 为开发者打造的一系列易用在线工具集
+- [Base64.Guru](https://base64.guru) Base64 编解码、校验、修复与学习资源
 - [regexper](https://regexper.com) 正则图形化
 - [ipaddress](https://www.ipaddress.com/website)
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合
