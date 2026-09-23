@@ -24,6 +24,7 @@
 - [Mano-P](https://github.com/Mininglamp-AI/Mano-P) 开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作
 - [TimesFM](https://github.com/google-research/timesfm) Google Research 开源的预训练时间序列基础模型，用于时间序列预测
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
+- [SenseVoice](https://github.com/QwenAudio/SenseVoice) 支持中、粤、英、日、韩语音识别、语种识别、情感识别和声音事件检测的语音基础模型
 - [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
 - [Laya](https://github.com/NandhaKishorM/laya) 支持 100 多种语言的非自回归决策模型，可对文本或 JSON 执行分类、评分与概率判断
 - [Laya-MLX](https://github.com/mizorewww/laya-mlx) 在 Apple Silicon 上本地运行 Laya 类型化决策模型的 MLX 运行时
