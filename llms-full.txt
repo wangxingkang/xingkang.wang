@@ -335,6 +335,8 @@ url: /awesome/ai.md
 - [TimesFM](https://github.com/google-research/timesfm) Google Research 开源的预训练时间序列基础模型，用于时间序列预测
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
 - [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
+- [Laya](https://github.com/NandhaKishorM/laya) 支持 100 多种语言的非自回归决策模型，可对文本或 JSON 执行分类、评分与概率判断
+- [Laya-MLX](https://github.com/mizorewww/laya-mlx) 在 Apple Silicon 上本地运行 Laya 类型化决策模型的 MLX 运行时
 
 ### 感知与推荐
 
@@ -1250,6 +1252,7 @@ url: /awesome/javascript.md
 ### 标识符与版本号
 
 - [nanoid](https://github.com/ai/nanoid) 一个小巧、安全、URL友好、唯一的 JavaScript 字符串ID生成器
+- [ulid](https://github.com/ulid/javascript) 生成可按字典序排序、兼容 UUID 的唯一标识符
 - [std-semver](https://github.com/sxzz/std-semver) 语义化版本解析器
 - [compare-versions](https://github.com/omichelsen/compare-versions) 对比语义化版本号字符串，判断版本大小、相等关系
 - [short-unique-id](https://github.com/simplyhexagonal/short-unique-id) 简短唯一标识符（UUID）生成库
@@ -5403,6 +5406,7 @@ url: /awesome/website.md
 ### 开发与调试
 
 - [it-tools](https://it-tools.tech) 为开发者打造的一系列易用在线工具集
+- [Base64.Guru](https://base64.guru) Base64 编解码、校验、修复与学习资源
 - [regexper](https://regexper.com) 正则图形化
 - [ipaddress](https://www.ipaddress.com/website)
 - [mixtoolshub.com](https://www.mixtoolshub.com) 工具集合

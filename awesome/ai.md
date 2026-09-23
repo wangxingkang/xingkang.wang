@@ -25,6 +25,8 @@
 - [TimesFM](https://github.com/google-research/timesfm) Google Research 开源的预训练时间序列基础模型，用于时间序列预测
 - [VibeVoice](https://github.com/microsoft/VibeVoice) 开源前沿语音人工智能
 - [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
+- [Laya](https://github.com/NandhaKishorM/laya) 支持 100 多种语言的非自回归决策模型，可对文本或 JSON 执行分类、评分与概率判断
+- [Laya-MLX](https://github.com/mizorewww/laya-mlx) 在 Apple Silicon 上本地运行 Laya 类型化决策模型的 MLX 运行时
 
 ### 感知与推荐
 
