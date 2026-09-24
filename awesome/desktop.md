@@ -196,6 +196,10 @@
 
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 
+### 三维建模
+
+- [OpenSCAD](https://github.com/openscad/openscad) 面向程序员的开源脚本式实体 3D CAD 建模软件
+
 ### 文件传输
 
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
