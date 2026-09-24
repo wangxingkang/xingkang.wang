@@ -296,6 +296,7 @@
 
 ### 图像与字体
 
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) 基于 Skia 的 Node.js Canvas 实现，支持多线程、GPU 加速和服务端图像生成
 - [image-type](https://github.com/sindresorhus/image-type) 检测 Buffer/Uint8Array 的图像类型
 - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) 从图片中提取主色调
 - [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) 高性能 Skia 画布实现，无任何系统依赖

@@ -5,12 +5,12 @@
 <title>Node.js - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-261c332bf294.ea9ee9341a.js" as="script">
+<link rel="preload" href="/static/js/async/route-261c332bf294.d885148ab1.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.7a71e3ed17.js"></script>
+<script defer src="/static/js/index.e5353b79ca.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -321,6 +321,7 @@
 </ul>
 <h3 class="rp-toc-include" id="图像与字体"><a href="#图像与字体" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图像与字体</h3>
 <ul>
+<li><a href="https://github.com/samizdatco/skia-canvas" target="_blank" rel="noopener noreferrer" class="rp-link">skia-canvas</a> 基于 Skia 的 Node.js Canvas 实现，支持多线程、GPU 加速和服务端图像生成</li>
 <li><a href="https://github.com/sindresorhus/image-type" target="_blank" rel="noopener noreferrer" class="rp-link">image-type</a> 检测 Buffer/Uint8Array 的图像类型</li>
 <li><a href="https://github.com/Vibrant-Colors/node-vibrant" target="_blank" rel="noopener noreferrer" class="rp-link">node-vibrant</a> 从图片中提取主色调</li>
 <li><a href="https://github.com/Brooooooklyn/canvas" target="_blank" rel="noopener noreferrer" class="rp-link">@napi-rs/canvas</a> 高性能 Skia 画布实现，无任何系统依赖</li>
