@@ -63,6 +63,7 @@
 
 ### 音视频
 
+- [AutoPiano 3D](https://www.autopiano.cn/3d) 支持键盘和 MIDI 设备演奏的免费在线 3D 钢琴
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源版剪映平替
 - [flycut-caption](https://github.com/x007xyz/flycut-caption) 智能视频字幕裁剪工具
 - [openreel-video](https://github.com/Augani/openreel-video) 专业浏览器端视频编辑器
@@ -121,6 +122,7 @@
 
 - [PI Agent 学习指南](https://pistudy.com.cn)
 - [datawhale](https://www.datawhale.cn) 学习 ai
+- [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) LLM、RAG 与智能体应用的深度教程和实战项目集
 
 ### 编程与工程
 
