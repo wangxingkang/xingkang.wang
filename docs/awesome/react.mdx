@@ -129,6 +129,7 @@
 
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
 - [originkit](https://www.originkit.dev) 免费动画组件库
+- [rare-ui](https://github.com/swamimalode07/rare-ui) 基于 React、Tailwind CSS 和 Motion 的 shadcn 动效组件注册源，可按需复制组件源码
 - [ThreeUI](https://github.com/MengTo/threeui) 开源 React 三维交互组件库，提供可实时预览的社区组件与源代码
 - [@headlessui/react](https://github.com/tailwindlabs/headlessui)
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
