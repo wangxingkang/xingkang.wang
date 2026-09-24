@@ -28,6 +28,7 @@
 - [HRM](https://github.com/sapientinc/HRM) 层级推理模型，使用双层循环架构在单次前向传播中处理复杂推理任务
 - [Laya](https://github.com/NandhaKishorM/laya) 支持 100 多种语言的非自回归决策模型，可对文本或 JSON 执行分类、评分与概率判断
 - [Laya-MLX](https://github.com/mizorewww/laya-mlx) 在 Apple Silicon 上本地运行 Laya 类型化决策模型的 MLX 运行时
+- [Kev](https://github.com/jaredpalmer/kev) 基于 Qwen3.5 的可自训练和自托管小型决策模型，支持判断、选择与评分
 
 ### 感知与推荐
 
@@ -427,6 +428,7 @@
 
 ### 原型与设计
 
+- [TemPad Dev](https://github.com/ecomfe/tempad-dev) 连接 Figma 与编码智能体，支持设计检查、画布编辑和设计稿实现
 - [Lovart](https://www.lovart.ai/) AI 设计智能体，可将创意转化为品牌一致的视觉资产并在画布中编辑
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
 - [open-pencil](https://github.com/open-pencil/open-pencil) 开源 AI 原生设计编辑器，可打开 `.fig` / `.pen` 文件，并提供 CLI、MCP 与可编程设计工具链

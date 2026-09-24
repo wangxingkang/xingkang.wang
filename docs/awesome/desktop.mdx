@@ -174,6 +174,7 @@
 
 ### 开发辅助
 
+- [PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) 开源多模态时间序列可视化工具，可交互分析录制或实时数据
 - [GitUp](https://github.com/git-up/GitUp) Git 操作终端
 - [gitify](https://github.com/gitify-app/gitify) 菜单栏显示 Git 通知
 - [massCode](https://github.com/massCodeIO/massCode) 一款面向开发者的免费开源代码片段管理器
