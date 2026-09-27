@@ -72,6 +72,7 @@
 
 ## 存储与文件服务
 
+- [Zenko CloudServer](https://github.com/scality/cloudserver) 开源 S3 兼容对象存储服务器，可统一访问本地及多云后端
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统

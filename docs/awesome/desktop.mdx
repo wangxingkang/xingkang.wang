@@ -15,6 +15,7 @@
 
 - [官网](https://www.electronjs.org/zh/)
 - [electron](https://github.com/electron/electron) electron 仓库
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) Electron 应用、模板、工具与学习资源精选
 
 #### 项目模板
 
