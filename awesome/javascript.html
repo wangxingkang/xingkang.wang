@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.9f45866937.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.42363574d9.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.e5353b79ca.js"></script>
+<script defer src="/static/js/index.52decc70ed.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -260,6 +260,7 @@
 </ul>
 <h3 class="rp-toc-include" id="数据校验"><a href="#数据校验" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据校验</h3>
 <ul>
+<li><a href="https://github.com/sindresorhus/is" target="_blank" rel="noopener noreferrer" class="rp-link">@sindresorhus/is</a> 支持 TypeScript 类型守卫与断言的值类型检查工具</li>
 <li><a href="https://github.com/colinhacks/zod" target="_blank" rel="noopener noreferrer" class="rp-link">zod</a> TypeScript 优先的模式校验工具：具备静态类型推导能力<!-- -->
 <ul>
 <li><a href="https://github.com/causaly/zod-validation-error" target="_blank" rel="noopener noreferrer" class="rp-link">zod-validation-error</a> 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息</li>
@@ -468,8 +469,10 @@
 <li><a href="https://github.com/DirtyHairy/async-mutex" target="_blank" rel="noopener noreferrer" class="rp-link">async-mutex</a> 一个用于在 JavaScript 中同步异步工作流的互斥锁</li>
 <li><a href="https://github.com/bradymholt/cronstrue" target="_blank" rel="noopener noreferrer" class="rp-link">cronstrue</a> 将 Cron 表达式转换为人类可读描述的 JavaScript 库</li>
 <li><a href="https://github.com/facebook/react/tree/HEAD/packages/scheduler" target="_blank" rel="noopener noreferrer" class="rp-link">scheduler</a> 协作式调度</li>
+<li><a href="https://github.com/sindresorhus/p-map" target="_blank" rel="noopener noreferrer" class="rp-link">p-map</a> 支持限制并发量的 Promise 映射工具</li>
 <li><a href="https://github.com/sindresorhus/p-queue" target="_blank" rel="noopener noreferrer" class="rp-link">p-queue</a> 带并发控制的 Promise 队列</li>
 <li><a href="https://github.com/sindresorhus/p-limit" target="_blank" rel="noopener noreferrer" class="rp-link">p-limit</a> 以有限并发量，运行多个返回 Promise 的异步函数</li>
+<li><a href="https://github.com/sindresorhus/p-retry" target="_blank" rel="noopener noreferrer" class="rp-link">p-retry</a> 为异步函数提供指数退避和自定义策略的重试机制</li>
 <li><a href="https://github.com/sindresorhus/p-debounce" target="_blank" rel="noopener noreferrer" class="rp-link">p-debounce</a> 对返回 Promise 的函数与异步函数进行防抖处理</li>
 <li><a href="https://github.com/sindresorhus/p-throttle" target="_blank" rel="noopener noreferrer" class="rp-link">p-throttle</a> 对返回 Promise 的函数与异步函数进行节流处理</li>
 <li><a href="https://github.com/sindresorhus/debounce" target="_blank" rel="noopener noreferrer" class="rp-link">debounce</a></li>

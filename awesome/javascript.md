@@ -229,6 +229,7 @@
 
 ### 数据校验
 
+- [@sindresorhus/is](https://github.com/sindresorhus/is) 支持 TypeScript 类型守卫与断言的值类型检查工具
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
   - [zod-validation-error](https://github.com/causaly/zod-validation-error) 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息
   - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
@@ -425,8 +426,10 @@
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
 - [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
+- [p-map](https://github.com/sindresorhus/p-map) 支持限制并发量的 Promise 映射工具
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
+- [p-retry](https://github.com/sindresorhus/p-retry) 为异步函数提供指数退避和自定义策略的重试机制
 - [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
 - [p-throttle](https://github.com/sindresorhus/p-throttle) 对返回 Promise 的函数与异步函数进行节流处理
 - [debounce](https://github.com/sindresorhus/debounce)

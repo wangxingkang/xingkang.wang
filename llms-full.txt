@@ -1329,6 +1329,7 @@ url: /awesome/javascript.md
 
 ### 数据校验
 
+- [@sindresorhus/is](https://github.com/sindresorhus/is) 支持 TypeScript 类型守卫与断言的值类型检查工具
 - [zod](https://github.com/colinhacks/zod) TypeScript 优先的模式校验工具：具备静态类型推导能力
   - [zod-validation-error](https://github.com/causaly/zod-validation-error) 将 Zod 校验错误封装为通俗易懂、便于阅读的提示信息
   - [zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema) 将 Zod 模式转换为 JSON 模式
@@ -1525,8 +1526,10 @@ url: /awesome/javascript.md
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) 一个用于在 JavaScript 中同步异步工作流的互斥锁
 - [cronstrue](https://github.com/bradymholt/cronstrue) 将 Cron 表达式转换为人类可读描述的 JavaScript 库
 - [scheduler](https://github.com/facebook/react/tree/HEAD/packages/scheduler) 协作式调度
+- [p-map](https://github.com/sindresorhus/p-map) 支持限制并发量的 Promise 映射工具
 - [p-queue](https://github.com/sindresorhus/p-queue) 带并发控制的 Promise 队列
 - [p-limit](https://github.com/sindresorhus/p-limit) 以有限并发量，运行多个返回 Promise 的异步函数
+- [p-retry](https://github.com/sindresorhus/p-retry) 为异步函数提供指数退避和自定义策略的重试机制
 - [p-debounce](https://github.com/sindresorhus/p-debounce) 对返回 Promise 的函数与异步函数进行防抖处理
 - [p-throttle](https://github.com/sindresorhus/p-throttle) 对返回 Promise 的函数与异步函数进行节流处理
 - [debounce](https://github.com/sindresorhus/debounce)
@@ -3465,6 +3468,7 @@ url: /awesome/node.md
 
 ### 终端输出
 
+- [ora](https://github.com/sindresorhus/ora) 简洁优雅的终端加载动画
 - [chalk](https://github.com/chalk/chalk) 🖍 终端字符串样式处理，专业又好用
 - [gradient-string](https://github.com/bokub/gradient-string)🌈 在终端输出漂亮的渐变色
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
@@ -4236,6 +4240,7 @@ url: /awesome/desktop.md
 
 - [官网](https://www.electronjs.org/zh/)
 - [electron](https://github.com/electron/electron) electron 仓库
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) Electron 应用、模板、工具与学习资源精选
 
 #### 项目模板
 
@@ -5023,6 +5028,7 @@ url: /awesome/ops.md
 
 ## 存储与文件服务
 
+- [Zenko CloudServer](https://github.com/scality/cloudserver) 开源 S3 兼容对象存储服务器，可统一访问本地及多云后端
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) 分布式存储系统

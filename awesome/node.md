@@ -340,6 +340,7 @@
 
 ### 终端输出
 
+- [ora](https://github.com/sindresorhus/ora) 简洁优雅的终端加载动画
 - [chalk](https://github.com/chalk/chalk) 🖍 终端字符串样式处理，专业又好用
 - [gradient-string](https://github.com/bokub/gradient-string)🌈 在终端输出漂亮的渐变色
 - [cli-highlight](https://github.com/felixfbecker/cli-highlight) 终端语法高亮显示
