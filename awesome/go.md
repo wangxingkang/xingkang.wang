@@ -20,6 +20,7 @@
 ## 数据与搜索
 
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
+- [go-redis](https://github.com/redis/go-redis) Redis 官方 Go 客户端
 - [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖
 
 ## AI 开发

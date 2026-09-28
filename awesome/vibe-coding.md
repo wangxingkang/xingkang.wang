@@ -73,6 +73,7 @@
 
 - [官网](https://opencode.ai)
 - [opencode](https://github.com/anomalyco/opencode) 代码仓库
+- [OpenChamber](https://github.com/openchamber/openchamber) 基于 OpenCode 的开源 AI 编程工作区，支持桌面、Web、VS Code 与移动端
 
 ## Pi
 
@@ -145,6 +146,7 @@
 ### 开发技能
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
+- [handraw-style](https://github.com/yang0/handraw-style) 为 AI 生图提供手绘风格、排版图型与主题色的中英双语提示词技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
@@ -156,6 +158,7 @@
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 - [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
+- [Redis Agent Skills](https://github.com/redis/agent-skills) Redis 官方智能体技能集，覆盖数据建模、连接、搜索、安全与可观测性
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 一份独立的 CLAUDE.md 文件，用于优化 Claude Code 的表现，该文件基于安德烈・卡帕西对大语言模型编码陷阱的观察总结而成

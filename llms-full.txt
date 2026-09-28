@@ -501,6 +501,7 @@ url: /awesome/ai.md
 ### MCP 服务
 
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
+- [redis-mcp-server](https://github.com/redis/mcp-redis) Redis 官方 MCP 服务，使智能体能以自然语言管理、查询与检索 Redis 数据
 - [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) Excalidraw 官方 MCP 应用服务，支持流式绘制手绘风格图表、平滑视口控制与全屏交互编辑，可接入支持 MCP Apps 的 AI 客户端
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 
@@ -868,6 +869,7 @@ url: /awesome/vibe-coding.md
 
 - [官网](https://opencode.ai)
 - [opencode](https://github.com/anomalyco/opencode) 代码仓库
+- [OpenChamber](https://github.com/openchamber/openchamber) 基于 OpenCode 的开源 AI 编程工作区，支持桌面、Web、VS Code 与移动端
 
 ## Pi
 
@@ -940,6 +942,7 @@ url: /awesome/vibe-coding.md
 ### 开发技能
 
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
+- [handraw-style](https://github.com/yang0/handraw-style) 为 AI 生图提供手绘风格、排版图型与主题色的中英双语提示词技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) 赋予 AI 出众的审美水准，避免其生成枯燥、千篇一律的劣质内容
 - [impeccable](https://github.com/pbakaus/impeccable) 让你的 AI 工具更擅长设计的设计语言
@@ -951,6 +954,7 @@ url: /awesome/vibe-coding.md
 - [ponytail](https://github.com/DietrichGebert/ponytail) 让你的 AI 智能体拥有团队里最懂省力的资深开发思路：最优的代码，是那些你压根不必动手编写的代码
 - [i-have-adhd](https://github.com/ayghri/i-have-adhd) 一个让你的编程 Agent 不再把答案埋起来的技能
 - [Waza](https://github.com/tw93/Waza) 将你已掌握的工程实践习惯，转化为克劳德可执行的能力
+- [Redis Agent Skills](https://github.com/redis/agent-skills) Redis 官方智能体技能集，覆盖数据建模、连接、搜索、安全与可观测性
 - [google skills](https://github.com/google/skills) 适配谷歌产品与技术的智能体技能
 - [ui-skills](https://github.com/ibelick/ui-skills) 设计工程师所需技能
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) 一份独立的 CLAUDE.md 文件，用于优化 Claude Code 的表现，该文件基于安德烈・卡帕西对大语言模型编码陷阱的观察总结而成
@@ -1146,6 +1150,7 @@ url: /awesome/javascript.md
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
+- [@cloudflare/create-nimbus-docs](https://github.com/cloudflare/nimbus) 为人类与智能体生成 Astro 文档站点，内置 Markdown/MDX、llms.txt 等可读格式
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
 - [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
 - [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
@@ -1945,6 +1950,7 @@ url: /awesome/javascript.md
 - [tiff](https://github.com/image-js/tiff) 纯 JavaScript 编写的 TIFF 图像解码器，支持多种压缩格式，可与 [image-js](https://github.com/image-js/image-js) 无缝集成
 - [gif.js](https://github.com/jnordberg/gif.js) JavaScript GIF 编码库
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
+- [@imgly/background-removal](https://github.com/imgly/background-removal-js) 在浏览器或 Node.js 本地移除图像背景
 - [heic2any](https://github.com/alexcorvi/heic2any) 在浏览器中将 HEIF 图像格式转换为 PNG、GIF、JPEG 格式
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库
@@ -2227,6 +2233,7 @@ url: /awesome/react.md
 
 ### 组件
 
+- [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件
 - [react-extras](https://github.com/sindresorhus/react-extras) React 常用组件与工具函数集
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
@@ -3216,6 +3223,7 @@ url: /awesome/node.md
 - [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) MCP Apps 协议（嵌入 AI 聊天机器人的 UI 标准，由 MCP 服务器提供服务）的规范与 SDK 官方仓库
+- [webmcp-types](https://github.com/webmachinelearning/webmcp) 为网页将 JavaScript 函数与表单暴露给浏览器内 AI 智能体的 WebMCP 类型定义
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
@@ -3327,6 +3335,7 @@ url: /awesome/node.md
 - [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
+- [ioredis](https://github.com/redis/ioredis) 功能完整的 Redis Node.js 客户端，支持 Cluster、Sentinel 与管道操作
 - [sqlite3](https://github.com/TryGhost/node-sqlite3) Node.js 的 SQLite3 绑定库
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) 适用于 Node.js 的最快、最简 SQLite3 库
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端
@@ -3737,6 +3746,7 @@ url: /awesome/python.md
 ## 数据处理
 
 - [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
+- [redis](https://github.com/redis/redis-py) Redis 官方 Python 客户端
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
 - [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
@@ -3795,6 +3805,7 @@ url: /awesome/go.md
 ## 数据与搜索
 
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
+- [go-redis](https://github.com/redis/go-redis) Redis 官方 Go 客户端
 - [chromem-go](https://github.com/philippgille/chromem-go) 可嵌入型 Go 向量数据库，拥有类 Chroma 操作接口，且无任何第三方依赖
 
 ## AI 开发
@@ -4344,6 +4355,7 @@ url: /awesome/desktop.md
 
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
+- [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
 
 ### 扩展开发
 
@@ -5046,6 +5058,7 @@ url: /awesome/ops.md
 
 - [databasus](https://github.com/databasus/databasus) 数据库备份系统
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
+- [rclone](https://github.com/rclone/rclone) 面向云存储的 rsync 命令行工具，支持跨服务商同步文件与目录
 
 ## 消息队列
 

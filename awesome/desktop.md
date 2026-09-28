@@ -115,6 +115,7 @@
 
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
+- [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
 
 ### 扩展开发
 
