@@ -45,6 +45,7 @@
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
+- [@cloudflare/create-nimbus-docs](https://github.com/cloudflare/nimbus) 为人类与智能体生成 Astro 文档站点，内置 Markdown/MDX、llms.txt 等可读格式
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
 - [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
 - [ziggy](https://github.com/tighten/ziggy) 在 JavaScript 中使用你的 Laravel 路由
@@ -844,6 +845,7 @@
 - [tiff](https://github.com/image-js/tiff) 纯 JavaScript 编写的 TIFF 图像解码器，支持多种压缩格式，可与 [image-js](https://github.com/image-js/image-js) 无缝集成
 - [gif.js](https://github.com/jnordberg/gif.js) JavaScript GIF 编码库
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
+- [@imgly/background-removal](https://github.com/imgly/background-removal-js) 在浏览器或 Node.js 本地移除图像背景
 - [heic2any](https://github.com/alexcorvi/heic2any) 在浏览器中将 HEIF 图像格式转换为 PNG、GIF、JPEG 格式
 - [thumbhash](https://github.com/evanw/thumbhash) 极简版图片占位符表示
 - [exifr](https://github.com/MikeKovarik/exifr) 目前速度最快、功能最全的 JavaScript EXIF 读取库

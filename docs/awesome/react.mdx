@@ -49,6 +49,7 @@
 
 ### 组件
 
+- [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件
 - [react-extras](https://github.com/sindresorhus/react-extras) React 常用组件与工具函数集
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库

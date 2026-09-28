@@ -86,6 +86,7 @@
 - [@agentclientprotocol/sdk](https://github.com/agentclientprotocol/typescript-sdk) 面向 ACP 客户端与智能体的 TypeScript 开发工具包
 - [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk) 面向模型上下文协议（MCP）服务端与客户端的官方 TypeScript 开发套件
 - [@modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) MCP Apps 协议（嵌入 AI 聊天机器人的 UI 标准，由 MCP 服务器提供服务）的规范与 SDK 官方仓库
+- [webmcp-types](https://github.com/webmachinelearning/webmcp) 为网页将 JavaScript 函数与表单暴露给浏览器内 AI 智能体的 WebMCP 类型定义
 - [@struktoai/mirage-node](https://github.com/strukto-ai/mirage) 面向 AI 智能体的统一虚拟文件系统
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
@@ -197,6 +198,7 @@
 - [@neondatabase/serverless](https://github.com/neondatabase/serverless) 在无服务器函数、Worker 及边缘函数中连接 Neon PostgreSQL 数据库
 - [mysql2](https://github.com/sidorares/node-mysql2) 适用于 Node 的 MySQL 客户端
 - [redis](https://github.com/redis/node-redis) Redis 的 Node.js 客户端
+- [ioredis](https://github.com/redis/ioredis) 功能完整的 Redis Node.js 客户端，支持 Cluster、Sentinel 与管道操作
 - [sqlite3](https://github.com/TryGhost/node-sqlite3) Node.js 的 SQLite3 绑定库
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) 适用于 Node.js 的最快、最简 SQLite3 库
 - [pg](https://github.com/brianc/node-postgres/tree/HEAD/packages/pg) 适用于 Node.js 的非阻塞 PostgreSQL 客户端

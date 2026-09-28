@@ -82,6 +82,7 @@
 
 - [databasus](https://github.com/databasus/databasus) 数据库备份系统
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
+- [rclone](https://github.com/rclone/rclone) 面向云存储的 rsync 命令行工具，支持跨服务商同步文件与目录
 
 ## 消息队列
 
