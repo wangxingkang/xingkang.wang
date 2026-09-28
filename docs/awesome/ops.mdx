@@ -206,6 +206,7 @@
 
 ### 会话与 Shell 增强
 
+- [pure](https://github.com/sindresorhus/pure) 简洁、快速的 Zsh 命令行提示符
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [zsh](https://github.com/zsh-users/zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议
