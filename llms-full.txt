@@ -474,6 +474,7 @@ url: /awesome/ai.md
 
 ### 提示词与 Token
 
+- [tokenx](https://github.com/johannschopplich/tokenx) 轻量 Token 估算、切分与命令行工具，支持多语言与 CJK 文本
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 强大的AI提示词优化工具，帮助你编写更好的AI提示词，提升AI输出质量
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
@@ -2226,6 +2227,7 @@ url: /awesome/react.md
 
 ### 组件
 
+- [react-extras](https://github.com/sindresorhus/react-extras) React 常用组件与工具函数集
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
@@ -4372,6 +4374,10 @@ url: /awesome/desktop.md
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结
 
+### 沟通与社交
+
+- [Caprine](https://github.com/sindresorhus/caprine) 注重隐私的跨平台 Facebook Messenger 桌面客户端
+
 ### 办公自动化
 
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动
@@ -5162,6 +5168,7 @@ url: /awesome/ops.md
 
 ### 会话与 Shell 增强
 
+- [pure](https://github.com/sindresorhus/pure) 简洁、快速的 Zsh 命令行提示符
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [zsh](https://github.com/zsh-users/zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Zsh 的 Fish 风格自动建议

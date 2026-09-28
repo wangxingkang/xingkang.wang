@@ -147,6 +147,10 @@
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结
 
+### 沟通与社交
+
+- [Caprine](https://github.com/sindresorhus/caprine) 注重隐私的跨平台 Facebook Messenger 桌面客户端
+
 ### 办公自动化
 
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) 极其强大的 MacOS 桌面自动化工具，使用 Lua 语言驱动

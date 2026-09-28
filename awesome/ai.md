@@ -164,6 +164,7 @@
 
 ### 提示词与 Token
 
+- [tokenx](https://github.com/johannschopplich/tokenx) 轻量 Token 估算、切分与命令行工具，支持多语言与 CJK 文本
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 按模型查看文本的 Token 切分与数量
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 强大的AI提示词优化工具，帮助你编写更好的AI提示词，提升AI输出质量
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板
