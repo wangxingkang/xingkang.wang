@@ -60,6 +60,8 @@
 
 ### 模型 SDK 与推理
 
+- [@comfyorg/sdk](https://github.com/Comfy-Org/comfy-typescript-sdk) ComfyUI、Comfy Cloud 与无服务器部署的官方 TypeScript 工作流客户端
+- [@saintno/comfyui-sdk](https://github.com/comfy-addons/comfyui-sdk) ComfyUI 社区 TypeScript SDK，支持工作流构建、多实例队列与实时进度
 - [tokenlens](https://github.com/xn1cklas/tokenlens/tree/HEAD/packages/tokenlens) 带类型定义的模型元数据，以及上下文与开销工具集
 - [@google/genai](https://github.com/googleapis/js-genai) 适用于 Gemini 与 Vertex AI 的 TypeScript/JavaScript 开发工具包
 - [js-tiktoken](https://github.com/dqbd/tiktoken) openai/tiktoken 的 JavaScript 移植版与 JS/WASM 绑定库
