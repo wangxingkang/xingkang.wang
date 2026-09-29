@@ -9,6 +9,7 @@
 - [魔搭社区](https://modelscope.cn/home)
 - [kaggle](https://www.kaggle.com)
 - [huggingface](https://huggingface.co) 模型、数据集、应用程序
+- [Models.dev](https://github.com/anomalyco/models.dev) 开源 AI 模型规格、能力与定价数据库，提供可直接调用的 JSON API
 
 ## 模型与推理
 
