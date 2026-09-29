@@ -193,6 +193,7 @@
 
 - [servers](https://github.com/modelcontextprotocol/servers) 模型上下文协议服务端
 - [redis-mcp-server](https://github.com/redis/mcp-redis) Redis 官方 MCP 服务，使智能体能以自然语言管理、查询与检索 Redis 数据
+- [figma-developer-mcp](https://github.com/GLips/Figma-Context-MCP) 将 Figma 的版式与样式信息精简后提供给编码智能体的 MCP 服务
 - [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) Excalidraw 官方 MCP 应用服务，支持流式绘制手绘风格图表、平滑视口控制与全屏交互编辑，可接入支持 MCP Apps 的 AI 客户端
 - [supergateway](https://github.com/supercorp-ai/supergateway) 通过 SSE 运行 MCP 标准输入输出服务器，并通过标准输入输出运行 SSE。AI 网关
 
@@ -365,6 +366,7 @@
 - [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
 - [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
+- [AIHOT](https://github.com/KKKKhazix/AIHOT) 可自托管的行业热点站框架，抓取多类信源，经模型筛选、聚类与排序后生成日报
 - [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
 - [writehuman](https://writehuman.ai) 去除 AI 味
 - [chatexcel](https://www.chatexcel.com)

@@ -488,6 +488,7 @@
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) 支持缩略图的 React 轮播图片画廊组件
 - [react-imgix](https://github.com/imgix/react-imgix) 用于展示 Imgix 图片的 React 组件
 - [react-compare-image](https://github.com/tam315/react-compare-image) 用于通过滑块对比两张图片的 React 组件
+- [react-compare-slider](https://github.com/nerdyman/react-compare-slider) 支持横向或纵向比较任意两个 React 节点的无障碍滑块组件
 - [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) 专为 React 打造的原生图片缩放库
 - [react-zmage](https://github.com/Caldis/react-zmage) 一个基于 React 的可缩放图片控件
 - [react-photo-view](https://github.com/MinJieLiu/react-photo-view) 一款精致的 React 图片预览组件
