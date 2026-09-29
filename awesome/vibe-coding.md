@@ -167,6 +167,7 @@
 ## 开发工作流
 
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
+- [Atlas](https://github.com/pacifio/atlas) 面向编码智能体的本地优先源代码控制工作台，可关联会话、提示词与提交记录
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
 - [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
@@ -298,5 +299,6 @@
 - [harness-engineering](https://github.com/deusyu/harness-engineering) Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 - [dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) AI 编程术语，通俗解读
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 从零构建的极简类 Claude Code 智能体
+- [pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) 用约 600 行 TypeScript 从零实现可读写文件、执行命令的迷你 Pi 编程智能体
 - [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) 我的 Claude Code 基础设施示例，包含技能自动激活、钩子与智能体功能
 - [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) Harness 工程零基础入门教程，从零到一

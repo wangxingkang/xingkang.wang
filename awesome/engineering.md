@@ -86,6 +86,7 @@
 
 - [官网](https://cn.vite.dev)
 - [vite](https://github.com/vitejs/vite) vite 仓库
+- [vite-plus](https://github.com/voidzero-dev/vite-plus) 基于 Vite、Vitest、Oxc、Rolldown 等工具的统一 Web 开发工具链，提供运行时、包管理、开发、检查、测试与构建命令
 
 ### 官方插件
 

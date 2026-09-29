@@ -11,6 +11,7 @@
 
 - [@vitest/browser](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser) 该包提供用于自定义浏览器驱动程序的工具
 - [@vitest/browser-playwright](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser-playwright)
+- [vitest-browser-react](https://github.com/vitest-community/vitest-browser-react) 在 Vitest Browser Mode 中渲染和测试 React 组件与 Hooks
 - [vitest-canvas-mock](https://github.com/wobsoriano/vitest-canvas-mock) 一个用于在 Vitest 中模拟 Canvas 的模块
 
 ### 覆盖率与调试
