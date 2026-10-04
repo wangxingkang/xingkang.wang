@@ -116,6 +116,7 @@
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
+- [slint-ui](https://github.com/slint-ui/slint) 面向 Rust、C++、JavaScript 与 Python 的声明式原生 GUI 工具包，支持桌面、移动端与嵌入式设备
 
 ### 扩展开发
 
@@ -136,6 +137,8 @@
 
 ### 系统管理
 
+- [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
+- [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
 - [BrewUI](https://github.com/Homebrew/brewui) Homebrew 官方 macOS 图形界面，用于发现、安装、更新和管理软件包
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
@@ -164,6 +167,7 @@
 
 ### 输入与窗口
 
+- [Magpie](https://github.com/Blinue/Magpie) Windows 10/11 通用窗口缩放工具，提供 Anime4K、FSR、CRT 等算法与滤镜，支持全屏和窗口模式
 - [niri](https://github.com/niri-wm/niri) 可滚动平铺窗口的 Wayland 合成器，提供动态工作区与多显示器独立窗口布局
 - [Sway](https://github.com/swaywm/sway) 与 i3 配置兼容的 Wayland 合成器与平铺窗口管理器
 - [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) MacOS 上的 Windows 风格 Alt-Tab 切换

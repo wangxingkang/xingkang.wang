@@ -5,12 +5,12 @@
 <title>AI - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-74129ab92962.181d62f946.js" as="script">
+<link rel="preload" href="/static/js/async/route-74129ab92962.4768918a74.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.afa6660fe6.js"></script>
+<script defer src="/static/js/index.4fe0f835a2.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -60,6 +60,7 @@
 </ul>
 <h3 class="rp-toc-include" id="本地运行与部署"><a href="#本地运行与部署" class="rp-header-anchor rp-link" aria-hidden="true">#</a>本地运行与部署</h3>
 <ul>
+<li><a href="https://github.com/Niko1221/Strata" target="_blank" rel="noopener noreferrer" class="rp-link">Strata</a> 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务</li>
 <li><a href="https://github.com/Michael-A-Kuykendall/shimmy" target="_blank" rel="noopener noreferrer" class="rp-link">shimmy</a> 无 Python 依赖的 Rust 推理服务器</li>
 <li><a href="https://github.com/hardrave/NIGHTRUN" target="_blank" rel="noopener noreferrer" class="rp-link">NIGHTRUN</a> 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行</li>
 <li><a href="https://github.com/AlexsJones/llmfit" target="_blank" rel="noopener noreferrer" class="rp-link">llmfit</a> 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型</li>
@@ -290,6 +291,7 @@
 <li><a href="https://github.com/moeru-ai/airi" target="_blank" rel="noopener noreferrer" class="rp-link">airi</a> 复刻 Neuro-sama，让 AI waifu / 虚拟角色也能来到我们的世界</li>
 <li><a href="https://github.com/chatboxai/chatbox" target="_blank" rel="noopener noreferrer" class="rp-link">chatbox</a> 强大的 AI 客户端</li>
 <li><a href="https://github.com/open-webui/open-webui" target="_blank" rel="noopener noreferrer" class="rp-link">open-webui</a> 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行</li>
+<li><a href="https://github.com/SillyTavern/SillyTavern" target="_blank" rel="noopener noreferrer" class="rp-link">SillyTavern</a> 本地多模型对话前端，支持角色卡、世界观、图像生成与语音集成</li>
 <li><a href="https://github.com/AQBot-Desktop/AQBot" target="_blank" rel="noopener noreferrer" class="rp-link">AQBot</a> 轻量级高性能跨平台AI对话 + AI网关桌面客户端</li>
 <li><a href="https://github.com/CherryHQ/cherry-studio" target="_blank" rel="noopener noreferrer" class="rp-link">cherry-studio</a> 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室</li>
 </ul>
@@ -311,10 +313,13 @@
 <li><a href="https://geminiwatermarkcleaner.com" target="_blank" rel="noopener noreferrer" class="rp-link">geminiwatermarkcleaner</a> 去掉 Gemini 水印</li>
 <li><a href="https://github.com/Comfy-Org/ComfyUI" target="_blank" rel="noopener noreferrer" class="rp-link">ComfyUI</a> 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板</li>
 <li><a href="https://github.com/invoke-ai/InvokeAI" target="_blank" rel="noopener noreferrer" class="rp-link">InvokeAI</a> 面向 Stable Diffusion 等模型的专业视觉生成引擎，提供本地 Web UI、统一画布和节点工作流</li>
+<li><a href="https://github.com/mcmonkeyprojects/SwarmUI" target="_blank" rel="noopener noreferrer" class="rp-link">SwarmUI</a> 支持图像、视频与音频模型的模块化本地 Web UI，提供生成工具和 ComfyUI 工作流</li>
+<li><a href="https://github.com/Acly/krita-ai-diffusion" target="_blank" rel="noopener noreferrer" class="rp-link">Krita AI Diffusion</a> Krita 的本地生成式图像插件，支持局部重绘、扩图、实时绘制与 ComfyUI 后端</li>
 <li><a href="https://www.runninghub.cn" target="_blank" rel="noopener noreferrer" class="rp-link">RunningHub</a> 云端 ComfyUI 创作平台，提供工作流、无限画布、AI 应用与模型 API</li>
 </ul>
 <h3 class="rp-toc-include" id="音视频"><a href="#音视频" class="rp-header-anchor rp-link" aria-hidden="true">#</a>音视频</h3>
 <ul>
+<li><a href="https://github.com/mtsee/unicut" target="_blank" rel="noopener noreferrer" class="rp-link">UNICUT</a> AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出</li>
 <li><a href="https://github.com/hypit-ai/hypit" target="_blank" rel="noopener noreferrer" class="rp-link">Hypit</a> 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案</li>
 <li><a href="https://github.com/taruma/SceneFlow" target="_blank" rel="noopener noreferrer" class="rp-link">SceneFlow</a> 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度</li>
 <li><a href="https://github.com/Zackriya-Solutions/meetily" target="_blank" rel="noopener noreferrer" class="rp-link">meetily</a> 隐私优先型 AI 会议助手</li>
@@ -353,6 +358,7 @@
 </ul>
 <h3 class="rp-toc-include" id="知识库与搜索"><a href="#知识库与搜索" class="rp-header-anchor rp-link" aria-hidden="true">#</a>知识库与搜索</h3>
 <ul>
+<li><a href="https://www.npmjs.com/package/@tobilu/qmd" target="_blank" rel="noopener noreferrer" class="rp-link">@tobilu/qmd</a> 本地文档搜索引擎，结合 BM25、向量检索与本地 LLM 重排，提供 CLI、MCP 和 Node/Bun API</li>
 <li><a href="https://github.com/Tencent/WeKnora" target="_blank" rel="noopener noreferrer" class="rp-link">WeKnora</a> 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库</li>
 <li><a href="https://github.com/nexmoe/VidBee" target="_blank" rel="noopener noreferrer" class="rp-link">VidBee</a> VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库</li>
 <li><a href="https://github.com/lfnovo/open-notebook" target="_blank" rel="noopener noreferrer" class="rp-link">open-notebook</a> 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能</li>
@@ -395,6 +401,7 @@
 </ul>
 <h3 class="rp-toc-include" id="智能体"><a href="#智能体" class="rp-header-anchor rp-link" aria-hidden="true">#</a>智能体</h3>
 <ul>
+<li><a href="https://github.com/CopilotKit/OpenDots" target="_blank" rel="noopener noreferrer" class="rp-link">OpenDots</a> 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成</li>
 <li><a href="https://github.com/odysseus-dev/odysseus" target="_blank" rel="noopener noreferrer" class="rp-link">odysseus</a> 自托管 AI 工作空间</li>
 <li><a href="https://github.com/paradigmxyz/centaur" target="_blank" rel="noopener noreferrer" class="rp-link">centaur</a> 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务</li>
 <li><a href="https://github.com/deepseek-ai/deepseek-harness" target="_blank" rel="noopener noreferrer" class="rp-link">deepseek-harness</a> DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI</li>
@@ -483,6 +490,7 @@
 <ul>
 <li><a href="https://github.com/akdeb/ElatoAI" target="_blank" rel="noopener noreferrer" class="rp-link">ElatoAI</a> 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备</li>
 <li><a href="https://github.com/78/xiaozhi-esp32" target="_blank" rel="noopener noreferrer" class="rp-link">xiaozhi-esp32</a> 基于 ESP32 与 MCP 的开源语音聊天机器人固件，支持唤醒词、ASR/LLM/TTS 流水线和多终端控制</li>
+<li><a href="https://github.com/dora-rs/dora" target="_blank" rel="noopener noreferrer" class="rp-link">Dora</a> Rust 构建的实时机器人与 AI 数据流框架，支持分布式流水线和 Rust、Python、C/C++ 节点</li>
 <li><a href="https://github.com/pollen-robotics/microduck" target="_blank" rel="noopener noreferrer" class="rp-link">microduck</a> 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机</li>
 <li><a href="https://github.com/commaai/openpilot" target="_blank" rel="noopener noreferrer" class="rp-link">openpilot</a> 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统</li>
 </ul>

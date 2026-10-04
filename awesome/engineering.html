@@ -5,12 +5,12 @@
 <title>工程化 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-51390e9ad885.51184c23ff.js" as="script">
+<link rel="preload" href="/static/js/async/route-51390e9ad885.0f88b68262.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.afa6660fe6.js"></script>
+<script defer src="/static/js/index.4fe0f835a2.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -64,6 +64,7 @@
 </ul>
 <h2 class="rp-toc-include" id="依赖与仓库管理"><a href="#依赖与仓库管理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>依赖与仓库管理</h2>
 <ul>
+<li><a href="https://upm.sh" target="_blank" rel="noopener noreferrer" class="rp-link">upm</a> 零依赖的轻量 npm 包管理器，兼容 npm、pnpm 与 Bun lockfile，并提供 JavaScript API</li>
 <li><a href="https://github.com/antfu/node-modules-inspector" target="_blank" rel="noopener noreferrer" class="rp-link">Node Modules Inspector</a> 可视化本地 node_modules，检查依赖关系、重复版本与安装体积</li>
 <li><a href="https://github.com/antfu-collective/package-manager-detector" target="_blank" rel="noopener noreferrer" class="rp-link">package-manager-detector</a> 包管理器检测器</li>
 <li><a href="https://github.com/antfu/pnpm-workspace-utils" target="_blank" rel="noopener noreferrer" class="rp-link">pnpm-workspace-utils</a> 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具</li>
@@ -75,6 +76,7 @@
 </ul>
 <h2 class="rp-toc-include" id="代码质量"><a href="#代码质量" class="rp-header-anchor rp-link" aria-hidden="true">#</a>代码质量</h2>
 <ul>
+<li><a href="https://www.npmjs.com/package/e2e" target="_blank" rel="noopener noreferrer" class="rp-link">e2e</a> 面向 Web 与移动端的智能体端到端测试框架，支持自然语言操作和断言，并可回放已验证操作</li>
 <li><a href="https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint" target="_blank" rel="noopener noreferrer" class="rp-link">oxlint</a></li>
 <li><a href="https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt" target="_blank" rel="noopener noreferrer" class="rp-link">oxfmt</a></li>
 <li><a href="https://github.com/sxzz/eslint-config" target="_blank" rel="noopener noreferrer" class="rp-link">@sxzz/eslint-config</a> 支持 JavaScript、TypeScript、Vue、Astro 与 Prettier 的 ESLint 配置预设</li>

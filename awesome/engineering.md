@@ -43,6 +43,7 @@
 
 ## 依赖与仓库管理
 
+- [upm](https://upm.sh) 零依赖的轻量 npm 包管理器，兼容 npm、pnpm 与 Bun lockfile，并提供 JavaScript API
 - [Node Modules Inspector](https://github.com/antfu/node-modules-inspector) 可视化本地 node\_modules，检查依赖关系、重复版本与安装体积
 - [package-manager-detector](https://github.com/antfu-collective/package-manager-detector) 包管理器检测器
 - [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
@@ -54,6 +55,7 @@
 
 ## 代码质量
 
+- [e2e](https://www.npmjs.com/package/e2e) 面向 Web 与移动端的智能体端到端测试框架，支持自然语言操作和断言，并可回放已验证操作
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [@sxzz/eslint-config](https://github.com/sxzz/eslint-config) 支持 JavaScript、TypeScript、Vue、Astro 与 Prettier 的 ESLint 配置预设

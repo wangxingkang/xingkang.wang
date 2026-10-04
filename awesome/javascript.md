@@ -842,6 +842,7 @@
 ### 图像处理
 
 - [ag-psd](https://github.com/Agamnentzar/ag-psd) 用于读写 PSD 文件的 JavaScript 库
+- [jimp](https://github.com/jimp-dev/jimp) 零原生依赖的 Node.js 图像处理库
 - [tiff](https://github.com/image-js/tiff) 纯 JavaScript 编写的 TIFF 图像解码器，支持多种压缩格式，可与 [image-js](https://github.com/image-js/image-js) 无缝集成
 - [gif.js](https://github.com/jnordberg/gif.js) JavaScript GIF 编码库
 - [@techstark/opencv-js](https://github.com/TechStark/opencv-js) 适用于 Node.js 或浏览器的 OpenCV JavaScript 版本
