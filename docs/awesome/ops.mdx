@@ -195,6 +195,7 @@
 
 ### 终端模拟器与客户端
 
+- [Gogh](https://github.com/Gogh-Co/Gogh) 跨 Linux、macOS 与 Cygwin/Mintty 的终端配色方案集合，可应用到 Alacritty、Ghostty、iTerm、Kitty、WezTerm 等终端
 - [ish](https://github.com/ish-app/ish) iOS 上的 Linux Shell
 - [wezterm](https://github.com/wezterm/wezterm)
 - [alacritty](https://github.com/alacritty/alacritty)

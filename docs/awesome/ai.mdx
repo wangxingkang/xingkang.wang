@@ -41,6 +41,7 @@
 
 ### 本地运行与部署
 
+- [Strata](https://github.com/Niko1221/Strata) 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [NIGHTRUN](https://github.com/hardrave/NIGHTRUN) 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行
 - [llmfit](https://github.com/AlexsJones/llmfit) 兼容数百款模型与服务商，一条命令即可筛选适配本机硬件运行的模型
@@ -276,6 +277,7 @@
 - [airi](https://github.com/moeru-ai/airi) 复刻 Neuro-sama，让 AI waifu / 虚拟角色也能来到我们的世界
 - [chatbox](https://github.com/chatboxai/chatbox) 强大的 AI 客户端
 - [open-webui](https://github.com/open-webui/open-webui) 可扩展、功能丰富且易于使用的自托管人工智能平台，支持完全离线运行
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern) 本地多模型对话前端，支持角色卡、世界观、图像生成与语音集成
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 
@@ -297,10 +299,13 @@
 - [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) 面向 Stable Diffusion 等模型的专业视觉生成引擎，提供本地 Web UI、统一画布和节点工作流
+- [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) 支持图像、视频与音频模型的模块化本地 Web UI，提供生成工具和 ComfyUI 工作流
+- [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) Krita 的本地生成式图像插件，支持局部重绘、扩图、实时绘制与 ComfyUI 后端
 - [RunningHub](https://www.runninghub.cn) 云端 ComfyUI 创作平台，提供工作流、无限画布、AI 应用与模型 API
 
 ### 音视频
 
+- [UNICUT](https://github.com/mtsee/unicut) AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出
 - [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案
 - [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
 - [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
@@ -339,6 +344,7 @@
 
 ### 知识库与搜索
 
+- [@tobilu/qmd](https://www.npmjs.com/package/@tobilu/qmd) 本地文档搜索引擎，结合 BM25、向量检索与本地 LLM 重排，提供 CLI、MCP 和 Node/Bun API
 - [WeKnora](https://github.com/Tencent/WeKnora) 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库
 - [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
 - [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
@@ -381,6 +387,7 @@
 
 ### 智能体
 
+- [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
@@ -466,6 +473,7 @@
 
 - [ElatoAI](https://github.com/akdeb/ElatoAI) 基于 Arduino ESP32 平台，搭载 100 余种模型的实时语音 AI，支持安全 WebSocket 与边缘计算功能，适用于智能玩具、陪伴机器人及各类智能设备
 - [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 基于 ESP32 与 MCP 的开源语音聊天机器人固件，支持唤醒词、ASR/LLM/TTS 流水线和多终端控制
+- [Dora](https://github.com/dora-rs/dora) Rust 构建的实时机器人与 AI 数据流框架，支持分布式流水线和 Rust、Python、C/C++ 节点
 - [microduck](https://github.com/pollen-robotics/microduck) 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机
 - [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
 
