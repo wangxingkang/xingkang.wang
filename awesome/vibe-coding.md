@@ -58,6 +58,7 @@
 
 ### 扩展与参考
 
+- [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件

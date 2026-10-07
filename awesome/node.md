@@ -420,6 +420,7 @@
 
 ## 任务调度与同步
 
+- [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态

@@ -34,6 +34,7 @@
 
 ### 技能与工具
 
+- [@arcjet/guard](https://www.npmjs.com/package/@arcjet/guard) AI 智能体运行时安全 SDK，提供提示注入检测、工具调用授权、敏感信息处理与速率限制
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
@@ -57,6 +58,7 @@
 
 ## 逆向与二进制分析
 
+- [rea-agents](https://www.npmjs.com/package/rea-agents) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造

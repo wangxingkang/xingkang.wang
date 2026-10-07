@@ -428,6 +428,10 @@ url: /awesome/ai.md
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 
+### 可观测性与评测
+
+- [@latitude-data/telemetry](https://www.npmjs.com/package/@latitude-data/telemetry) AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证
+
 ### 记忆与上下文
 
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
@@ -526,6 +530,7 @@ url: /awesome/ai.md
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+- [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) 用代码生成艺术动画的智能体技能，提供 35 种艺术风格、9 种解说动画语法、参数化片段与质量验收脚本
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用编码 Agent 的前端技能在网页上创建精美的幻灯片
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号
@@ -865,6 +870,7 @@ url: /awesome/vibe-coding.md
 
 ### 扩展与参考
 
+- [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) 一份精选合集，收录适用于 Anthropic 旗下 Claude Code 的优质技能、钩子、斜杠命令、智能体编排工具、应用程序及插件
@@ -2327,6 +2333,7 @@ url: /awesome/react.md
 
 ## 组件库
 
+- [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
 - [originkit](https://www.originkit.dev) 免费动画组件库
 - [rare-ui](https://github.com/swamimalode07/rare-ui) 基于 React、Tailwind CSS 和 Motion 的 shadcn 动效组件注册源，可按需复制组件源码
@@ -2335,7 +2342,7 @@ url: /awesome/react.md
 - [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
-- [shaders](https://shaders.com) 面向浏览器 WebGPU 创意特效的组件库
+- [shaders](https://www.npmjs.com/package/shaders) 面向 React、Vue、Svelte、Solid 与原生 JavaScript 的 WebGPU 创意特效组件库
 - [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
@@ -3572,6 +3579,7 @@ url: /awesome/node.md
 
 ## 任务调度与同步
 
+- [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
@@ -4372,6 +4380,7 @@ url: /awesome/desktop.md
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
 - [slint-ui](https://github.com/slint-ui/slint) 面向 Rust、C++、JavaScript 与 Python 的声明式原生 GUI 工具包，支持桌面、移动端与嵌入式设备
+- [@pocketjs/cli](https://www.npmjs.com/package/@pocketjs/cli) 使用 TypeScript、Solid、Vue Vapor 或 Octane 编写跨平台原生界面，运行时以 QuickJS 与 Rust 直接布局和绘制像素，支持桌面、掌机与嵌入式设备
 
 ### 扩展开发
 
@@ -4475,6 +4484,7 @@ url: /awesome/desktop.md
 
 ### 媒体处理
 
+- [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
 - [Compositor](https://github.com/robbietilton/Compositor) 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换
 - [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
@@ -4532,6 +4542,7 @@ url: /awesome/browser-extension.md
 
 ### 阅读与标注
 
+- [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 发现当前页面的 RSS 与 RSSHub 路由，并可一键订阅到主流阅读器的浏览器扩展
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [Wispal](https://wispal.ai/) 为 ChatGPT、Claude 与 Gemini 对话提供高亮和批注的 Chrome 扩展
 
@@ -5131,6 +5142,7 @@ url: /awesome/ops.md
 
 ### 代理与隧道
 
+- [v2rayNG](https://github.com/2dust/v2rayNG) Android V2Ray 客户端，支持 Xray 与 v2fly 内核及 VLESS、VMess、Trojan、Shadowsocks 等协议
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
@@ -5287,6 +5299,7 @@ url: /awesome/security.md
 
 ### 技能与工具
 
+- [@arcjet/guard](https://www.npmjs.com/package/@arcjet/guard) AI 智能体运行时安全 SDK，提供提示注入检测、工具调用授权、敏感信息处理与速率限制
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
@@ -5310,6 +5323,7 @@ url: /awesome/security.md
 
 ## 逆向与二进制分析
 
+- [rea-agents](https://www.npmjs.com/package/rea-agents) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
