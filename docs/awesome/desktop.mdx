@@ -117,6 +117,7 @@
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
 - [slint-ui](https://github.com/slint-ui/slint) 面向 Rust、C++、JavaScript 与 Python 的声明式原生 GUI 工具包，支持桌面、移动端与嵌入式设备
+- [@pocketjs/cli](https://www.npmjs.com/package/@pocketjs/cli) 使用 TypeScript、Solid、Vue Vapor 或 Octane 编写跨平台原生界面，运行时以 QuickJS 与 Rust 直接布局和绘制像素，支持桌面、掌机与嵌入式设备
 
 ### 扩展开发
 
@@ -220,6 +221,7 @@
 
 ### 媒体处理
 
+- [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
 - [Compositor](https://github.com/robbietilton/Compositor) 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换
 - [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖

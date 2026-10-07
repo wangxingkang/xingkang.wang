@@ -118,6 +118,10 @@
 - [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 为 AI 代理提供安全、快速且可扩展的沙盒运行环境
 - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) 一款轻量级沙箱工具，可在操作系统层面针对任意进程强制实施文件系统与网络权限限制，无需依赖容器
 
+### 可观测性与评测
+
+- [@latitude-data/telemetry](https://www.npmjs.com/package/@latitude-data/telemetry) AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证
+
 ### 记忆与上下文
 
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
@@ -216,6 +220,7 @@
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) HTML 演示文稿制作工具 — 内置智能体技能，提供 24 套主题、31 种版式、20 余种动画，用于制作专业级 HTML 演示幻灯片
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) 使用 Seedance2.0 生成视频时，编写优质提示词的技巧
 - [huashu-design](https://github.com/alchaincyf/huashu-design) Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+- [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) 用代码生成艺术动画的智能体技能，提供 35 种艺术风格、9 种解说动画语法、参数化片段与质量验收脚本
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides) 利用编码 Agent 的前端技能在网页上创建精美的幻灯片
 - [x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) 一键将 Markdown 文章发布到 X (Twitter) Articles，告别繁琐的富文本编辑
 - [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) 一键排版发布到微信公众号

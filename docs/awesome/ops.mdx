@@ -132,6 +132,7 @@
 
 ### 代理与隧道
 
+- [v2rayNG](https://github.com/2dust/v2rayNG) Android V2Ray 客户端，支持 Xray 与 v2fly 内核及 VLESS、VMess、Trojan、Shadowsocks 等协议
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网

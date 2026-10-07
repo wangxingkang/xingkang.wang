@@ -19,6 +19,7 @@
 
 ### 阅读与标注
 
+- [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 发现当前页面的 RSS 与 RSSHub 路由，并可一键订阅到主流阅读器的浏览器扩展
 - [obsidian-web-clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) 将网页以 MD 格式导出
 - [Wispal](https://wispal.ai/) 为 ChatGPT、Claude 与 Gemini 对话提供高亮和批注的 Chrome 扩展
 
