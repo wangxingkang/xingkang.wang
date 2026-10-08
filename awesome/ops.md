@@ -230,6 +230,7 @@
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
 - [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
+- [monolith](https://github.com/Y2Z/monolith) 将网页及 CSS、图片和 JavaScript 等资源嵌入为单个离线 HTML 文件的跨平台 CLI 与库
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
 

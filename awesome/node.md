@@ -16,6 +16,7 @@
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
+- [tsc-rs](https://www.npmjs.com/package/tsc-rs) TypeScript 7 编译器的实验性 Rust 移植，提供兼容 `tsc` 参数的类型检查 CLI、语言服务器与 API
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时

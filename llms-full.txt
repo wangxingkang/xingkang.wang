@@ -1659,6 +1659,7 @@ url: /awesome/javascript.md
 
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
+- [uploadthing](https://www.npmjs.com/package/uploadthing) 面向现代 Web 应用的全栈文件上传 SDK，提供框架无关服务端/客户端能力，以及 React 与 Solid 的组件和 Hooks
 - [upchunk](https://github.com/muxinc/upchunk) 浏览器大文件分片上传库，支持重试、暂停与恢复，兼容断点续传服务
 
 ### 布局与日历
@@ -3175,6 +3176,7 @@ url: /awesome/node.md
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
+- [tsc-rs](https://www.npmjs.com/package/tsc-rs) TypeScript 7 编译器的实验性 Rust 移植，提供兼容 `tsc` 参数的类型检查 CLI、语言服务器与 API
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时
@@ -5240,6 +5242,7 @@ url: /awesome/ops.md
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
 - [hexyl](https://github.com/sharkdp/hexyl) 命令行十六进制查看器
 - [jaq](https://github.com/01mf02/jaq) 一款复刻 jq 的工具，主打精准、高速与简洁
+- [monolith](https://github.com/Y2Z/monolith) 将网页及 CSS、图片和 JavaScript 等资源嵌入为单个离线 HTML 文件的跨平台 CLI 与库
 - [leaf](https://github.com/RivoLink/leaf) 终端 Markdown 预览工具，拥有类图形界面交互体验
 - [superfile](https://github.com/yorukot/superfile) 一款界面精致、设计前卫的终端文件管理器
 
