@@ -535,6 +535,7 @@
 
 - [filepond](https://github.com/pqina/filepond) 一款灵活易用、体验出色的 JavaScript 文件上传库
 - [uppy](https://github.com/transloadit/uppy) 面向网页浏览器的新一代开源文件上传组件 🐶
+- [uploadthing](https://www.npmjs.com/package/uploadthing) 面向现代 Web 应用的全栈文件上传 SDK，提供框架无关服务端/客户端能力，以及 React 与 Solid 的组件和 Hooks
 - [upchunk](https://github.com/muxinc/upchunk) 浏览器大文件分片上传库，支持重试、暂停与恢复，兼容断点续传服务
 
 ### 布局与日历
