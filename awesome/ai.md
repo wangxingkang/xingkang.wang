@@ -449,6 +449,7 @@
 
 ### 原型与设计
 
+- [Eazo](https://eazo.ai) AI 应用创作与发布平台，可将想法转化为可分享的应用、游戏和交互体验
 - [TemPad Dev](https://github.com/ecomfe/tempad-dev) 连接 Figma 与编码智能体，支持设计检查、画布编辑和设计稿实现
 - [Lovart](https://www.lovart.ai/) AI 设计智能体，可将创意转化为品牌一致的视觉资产并在画布中编辑
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架

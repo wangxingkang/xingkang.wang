@@ -759,6 +759,7 @@ url: /awesome/ai.md
 
 ### 原型与设计
 
+- [Eazo](https://eazo.ai) AI 应用创作与发布平台，可将想法转化为可分享的应用、游戏和交互体验
 - [TemPad Dev](https://github.com/ecomfe/tempad-dev) 连接 Figma 与编码智能体，支持设计检查、画布编辑和设计稿实现
 - [Lovart](https://www.lovart.ai/) AI 设计智能体，可将创意转化为品牌一致的视觉资产并在画布中编辑
 - [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) 款用于将统计格式转换为可编辑格式的框架
@@ -4658,6 +4659,7 @@ url: /awesome/engineering.md
 - [hunk](https://github.com/modem-dev/hunk) 面向智能编程体的**先评审型终端差异查看器**
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
 - [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
+- [gh](https://github.com/cli/cli) GitHub 官方命令行工具，可在终端管理仓库、议题、拉取请求和其他 GitHub 资源
 - [git-lfs](https://github.com/git-lfs/git-lfs) 用于对大型文件进行版本管理的 Git 扩展工具
 - [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具

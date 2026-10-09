@@ -37,6 +37,7 @@
 - [hunk](https://github.com/modem-dev/hunk) 面向智能编程体的**先评审型终端差异查看器**
 - [artifact-fs](https://github.com/cloudflare/artifact-fs) 一款文件系统驱动程序，旨在以最快速度挂载大型 Git 代码仓库，它会按需实时加载文件内容，而非阻塞等待完整初始克隆
 - [lazygit](https://github.com/jesseduffield/lazygit) 用于 Git 命令的简易终端界面
+- [gh](https://github.com/cli/cli) GitHub 官方命令行工具，可在终端管理仓库、议题、拉取请求和其他 GitHub 资源
 - [git-lfs](https://github.com/git-lfs/git-lfs) 用于对大型文件进行版本管理的 Git 扩展工具
 - [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
