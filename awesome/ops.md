@@ -8,6 +8,7 @@
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
+- [openship](https://www.npmjs.com/package/openship) 开源自托管部署平台，提供内置 CI/CD、应用构建部署、域名路由与 TLS 管理，并支持桌面端、Web 与 CLI 操作
 
 ## 虚拟化与容器
 
@@ -21,6 +22,7 @@
 ### 容器与编排
 
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
+- [Docker Compose](https://github.com/docker/compose) 通过 Compose 文件定义并一键运行多容器 Docker 应用
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板

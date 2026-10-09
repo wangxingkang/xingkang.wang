@@ -1175,6 +1175,7 @@ url: /awesome/javascript.md
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
+- [@builder.io/mitosis](https://www.npmjs.com/package/@builder.io/mitosis) 跨框架组件编译器，以单一代码库生成 React、Vue、Angular、Svelte、Solid、Qwik 等框架的原生组件
 - [@cloudflare/create-nimbus-docs](https://github.com/cloudflare/nimbus) 为人类与智能体生成 Astro 文档站点，内置 Markdown/MDX、llms.txt 等可读格式
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
 - [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
@@ -3904,6 +3905,7 @@ url: /awesome/rust.md
 - [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
+- [Zola](https://github.com/getzola/zola) 单二进制、内置常用能力的 Rust 静态站点生成器，支持 Markdown、主题、Sass 与多语言站点
 - [pingora](https://github.com/cloudflare/pingora) 一款用于构建高性能、稳定可靠且易于迭代扩展的网络服务的开发库
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的实验性 Rust 实现，提供 Rust API 及多语言绑定
 
@@ -4401,6 +4403,7 @@ url: /awesome/desktop.md
 
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [HushSnap](https://github.com/tcita/HushSnap) Windows 本地截屏与离线 OCR 工具，支持标注、脱敏和置顶
+- [Kiri](https://github.com/yuxino/Kiri) 跨平台本地截图、录屏与 OCR 工具，支持标注、二维码识别、GIF/MP4 导出和素材管理
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频
@@ -5032,6 +5035,7 @@ url: /awesome/ops.md
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
+- [openship](https://www.npmjs.com/package/openship) 开源自托管部署平台，提供内置 CI/CD、应用构建部署、域名路由与 TLS 管理，并支持桌面端、Web 与 CLI 操作
 
 ## 虚拟化与容器
 
@@ -5045,6 +5049,7 @@ url: /awesome/ops.md
 ### 容器与编排
 
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
+- [Docker Compose](https://github.com/docker/compose) 通过 Compose 文件定义并一键运行多容器 Docker 应用
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
 - [talos](https://github.com/siderolabs/talos) 一款专为 Kubernetes 打造的现代 Linux 发行版
 - [dpanel](https://github.com/donknap/dpanel) 轻量化 docker 可视化管理面板
@@ -5451,6 +5456,7 @@ url: /awesome/self-hosted.md
 ### API 与集成
 
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
+- [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 
 ### 表单与票据
 
