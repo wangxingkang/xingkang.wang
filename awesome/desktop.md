@@ -222,6 +222,8 @@
 ### 媒体处理
 
 - [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
+- [LightCraft](https://github.com/storytold/lightcraft) 纯 Rust 的开源 Lightroom 重实现，提供照片图库、RAW 无损编辑、调色、局部蒙版，并支持 CLI 与 MCP
+- [FilmCraft](https://github.com/storytold/filmcraft) 纯 Rust 的开源 Premiere Pro 重实现，提供多轨剪辑、调色、音频、字幕、导出与格式互操作，支持 macOS、Windows、Linux 和 WebAssembly
 - [Compositor](https://github.com/robbietilton/Compositor) 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换
 - [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
@@ -241,6 +243,7 @@
 
 ### 文档与阅读
 
+- [PdfCraft](https://github.com/storytold/pdfcraft) 纯 Rust 的开源 Adobe Acrobat 重实现，支持阅读、整理、合并、拆分、表单与加密 PDF，并提供 CLI 与 MCP
 - [Easydict](https://github.com/tisfeng/Easydict) 简洁易用的 macOS 词典翻译应用，支持划词翻译、截图 OCR 与多翻译服务结果对照，集成苹果系统词典、OpenAI、Gemini、DeepL 等服务
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB

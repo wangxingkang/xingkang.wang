@@ -49,6 +49,7 @@
 - [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
 - [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) 更友好的交互式 pnpm patch 包装器，可在本地 node\_modules 中编辑并自动提交补丁
 - [taze](https://github.com/antfu-collective/taze) 使用智能变更检测并批量更新依赖版本的命令行工具
+- [turbo](https://www.npmjs.com/package/turbo) 以 Rust 编写的 JavaScript 与 TypeScript 构建系统，面向单体仓库协调任务并缓存构建结果
 - [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 - [giget](https://github.com/unjs/giget) 从 GitHub、GitLab、Bitbucket 等托管源下载项目模板或仓库的 Node.js CLI 与库
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块

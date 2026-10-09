@@ -5,12 +5,12 @@
 <title>桌面开发与应用 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-6405da275ae5.63a32519c6.js" as="script">
+<link rel="preload" href="/static/js/async/route-6405da275ae5.a068fd2f2c.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.bc29e3d50e.js"></script>
+<script defer src="/static/js/index.4b87dcbffe.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -246,6 +246,8 @@
 <h3 class="rp-toc-include" id="媒体处理"><a href="#媒体处理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>媒体处理</h3>
 <ul>
 <li><a href="https://github.com/storytold/photocraft" target="_blank" rel="noopener noreferrer" class="rp-link">PhotoCraft</a> 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP</li>
+<li><a href="https://github.com/storytold/lightcraft" target="_blank" rel="noopener noreferrer" class="rp-link">LightCraft</a> 纯 Rust 的开源 Lightroom 重实现，提供照片图库、RAW 无损编辑、调色、局部蒙版，并支持 CLI 与 MCP</li>
+<li><a href="https://github.com/storytold/filmcraft" target="_blank" rel="noopener noreferrer" class="rp-link">FilmCraft</a> 纯 Rust 的开源 Premiere Pro 重实现，提供多轨剪辑、调色、音频、字幕、导出与格式互操作，支持 macOS、Windows、Linux 和 WebAssembly</li>
 <li><a href="https://github.com/robbietilton/Compositor" target="_blank" rel="noopener noreferrer" class="rp-link">Compositor</a> 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换</li>
 <li><a href="https://github.com/ntsc-rs/ntsc-rs" target="_blank" rel="noopener noreferrer" class="rp-link">ntsc-rs</a> 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）</li>
 <li><a href="https://github.com/gyroflow/gyroflow" target="_blank" rel="noopener noreferrer" class="rp-link">gyroflow</a> 利用陀螺仪数据实现视频防抖</li>
@@ -265,6 +267,7 @@
 </ul>
 <h3 class="rp-toc-include" id="文档与阅读"><a href="#文档与阅读" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文档与阅读</h3>
 <ul>
+<li><a href="https://github.com/storytold/pdfcraft" target="_blank" rel="noopener noreferrer" class="rp-link">PdfCraft</a> 纯 Rust 的开源 Adobe Acrobat 重实现，支持阅读、整理、合并、拆分、表单与加密 PDF，并提供 CLI 与 MCP</li>
 <li><a href="https://github.com/tisfeng/Easydict" target="_blank" rel="noopener noreferrer" class="rp-link">Easydict</a> 简洁易用的 macOS 词典翻译应用，支持划词翻译、截图 OCR 与多翻译服务结果对照，集成苹果系统词典、OpenAI、Gemini、DeepL 等服务</li>
 <li><a href="https://github.com/readest/readest" target="_blank" rel="noopener noreferrer" class="rp-link">readest</a> 电子书阅读器</li>
 <li><a href="https://github.com/zhitongblog/solomd" target="_blank" rel="noopener noreferrer" class="rp-link">solomd</a> 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB</li>

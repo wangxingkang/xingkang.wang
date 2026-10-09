@@ -598,6 +598,7 @@ url: /awesome/ai.md
 
 ### 图片
 
+- [ArtCraft](https://github.com/storytold/artcraft) 面向艺术家、设计师和电影人的开源 AI 创作工作台，支持 2D 画布、3D 场景搭建、图像和视频生成及多模型选择
 - [sprite-gen](https://github.com/aldegad/sprite-gen) 放进一张画，出来的是游戏可直接使用的精灵
 - [jaaz](https://github.com/11cafe/jaaz) 内容创作多模态智能体
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) 一个轻量级的AI证件照制作算法
@@ -620,6 +621,8 @@ url: /awesome/ai.md
 
 ### 音视频
 
+- [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
+- [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体
 - [UNICUT](https://github.com/mtsee/unicut) AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出
 - [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案
 - [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
@@ -703,6 +706,7 @@ url: /awesome/ai.md
 ### 智能体
 
 - [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
+- [OpenMuse](https://github.com/CopilotKit/openmuse) 基于 CopilotKit 与 AG-UI 的可自托管个人智能体应用，提供持久浏览器、隔离终端、文件处理、任务恢复与人工审批
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
@@ -3263,6 +3267,7 @@ url: /awesome/node.md
   - [@hono/zod-validator](https://github.com/honojs/middleware/tree/HEAD/packages/zod-validator)
   - [@hono/swagger-ui](https://github.com/honojs/middleware/tree/HEAD/packages/swagger-ui)
 - [fastify](https://github.com/fastify/fastify)
+- [egg](https://www.npmjs.com/package/egg) 基于 Node.js 和 Koa 的企业级 Web 框架，提供内置进程管理、插件体系与框架定制能力
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
 - [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
 - [awilix](https://github.com/jeffijoe/awilix) 适用于 Node.js 的功能极为强大的控制反转（IoC）容器
@@ -4487,6 +4492,8 @@ url: /awesome/desktop.md
 ### 媒体处理
 
 - [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
+- [LightCraft](https://github.com/storytold/lightcraft) 纯 Rust 的开源 Lightroom 重实现，提供照片图库、RAW 无损编辑、调色、局部蒙版，并支持 CLI 与 MCP
+- [FilmCraft](https://github.com/storytold/filmcraft) 纯 Rust 的开源 Premiere Pro 重实现，提供多轨剪辑、调色、音频、字幕、导出与格式互操作，支持 macOS、Windows、Linux 和 WebAssembly
 - [Compositor](https://github.com/robbietilton/Compositor) 面向 macOS 的开源图像编辑器，提供图层、蒙版、选区与非破坏性变换
 - [ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) 免费开源的 VHS 复古录像带特效，提供独立程序以及插件版本（支持 After Effects、Premiere 和 OpenFX）
 - [gyroflow](https://github.com/gyroflow/gyroflow) 利用陀螺仪数据实现视频防抖
@@ -4506,6 +4513,7 @@ url: /awesome/desktop.md
 
 ### 文档与阅读
 
+- [PdfCraft](https://github.com/storytold/pdfcraft) 纯 Rust 的开源 Adobe Acrobat 重实现，支持阅读、整理、合并、拆分、表单与加密 PDF，并提供 CLI 与 MCP
 - [Easydict](https://github.com/tisfeng/Easydict) 简洁易用的 macOS 词典翻译应用，支持划词翻译、截图 OCR 与多翻译服务结果对照，集成苹果系统词典、OpenAI、Gemini、DeepL 等服务
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB
@@ -4662,6 +4670,7 @@ url: /awesome/engineering.md
 - [pnpm-workspace-utils](https://github.com/antfu/pnpm-workspace-utils) 管理 pnpm catalogs 的工具集，包含 catalog ESLint 规则和保留注释的 pnpm-workspace.yaml 读写工具
 - [pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) 更友好的交互式 pnpm patch 包装器，可在本地 node\_modules 中编辑并自动提交补丁
 - [taze](https://github.com/antfu-collective/taze) 使用智能变更检测并批量更新依赖版本的命令行工具
+- [turbo](https://www.npmjs.com/package/turbo) 以 Rust 编写的 JavaScript 与 TypeScript 构建系统，面向单体仓库协调任务并缓存构建结果
 - [@microsoft/rush](https://github.com/microsoft/rushstack/tree/main/apps/rush) 高效、专业的单体仓库管理方案
 - [giget](https://github.com/unjs/giget) 从 GitHub、GitLab、Bitbucket 等托管源下载项目模板或仓库的 Node.js CLI 与库
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
@@ -5215,6 +5224,8 @@ url: /awesome/ops.md
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
 - [meatshell](https://github.com/jeff141/meatshell) 一个轻量级、低内存占用的 SSH / 终端客户端
+- [electerm](https://www.npmjs.com/package/electerm) 开源跨平台终端与远程连接客户端，支持 SSH、SFTP、FTP、Telnet、串口、RDP、VNC 和 Spice
+- [Navop](https://github.com/feigeCode/navop) 原生跨平台运维工作区，集成数据库、SSH/SFTP、终端、远程桌面、监控与 AI 智能体
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建

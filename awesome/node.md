@@ -103,6 +103,7 @@
   - [@hono/zod-validator](https://github.com/honojs/middleware/tree/HEAD/packages/zod-validator)
   - [@hono/swagger-ui](https://github.com/honojs/middleware/tree/HEAD/packages/swagger-ui)
 - [fastify](https://github.com/fastify/fastify)
+- [egg](https://www.npmjs.com/package/egg) 基于 Node.js 和 Koa 的企业级 Web 框架，提供内置进程管理、插件体系与框架定制能力
 - [@adonisjs/core](https://github.com/adonisjs/core) 一款优先采用 TypeScript 开发的 Web 框架，用于构建网页应用和 API 服务端
 - [express](https://github.com/expressjs/express) 适用于 Node.js 的高性能、无强制规范、轻量极简 Web 框架
 - [awilix](https://github.com/jeffijoe/awilix) 适用于 Node.js 的功能极为强大的控制反转（IoC）容器
