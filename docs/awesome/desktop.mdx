@@ -129,6 +129,7 @@
 
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [HushSnap](https://github.com/tcita/HushSnap) Windows 本地截屏与离线 OCR 工具，支持标注、脱敏和置顶
+- [Kiri](https://github.com/yuxino/Kiri) 跨平台本地截图、录屏与 OCR 工具，支持标注、二维码识别、GIF/MP4 导出和素材管理
 - [Snapzy](https://github.com/duongductrong/Snapzy) 一款开源原生 macOS 截图与录屏应用，可平替 CleanShot X。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🎬 ScreenToGif 可让你录制屏幕上选定区域的内容，进行编辑后保存为 GIF 或视频格式。
 - [Cap](https://github.com/CapSoftware/Cap) 开源版 Loom 替代工具，可录制精美且支持分享的屏幕视频

@@ -24,6 +24,7 @@
 - [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架
 - [dioxus](https://github.com/DioxusLabs/dioxus) 面向网页、桌面端与移动端的全栈应用框架
+- [Zola](https://github.com/getzola/zola) 单二进制、内置常用能力的 Rust 静态站点生成器，支持 Markdown、主题、Sass 与多语言站点
 - [pingora](https://github.com/cloudflare/pingora) 一款用于构建高性能、稳定可靠且易于迭代扩展的网络服务的开发库
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的实验性 Rust 实现，提供 Rust API 及多语言绑定
 

@@ -45,6 +45,7 @@
 - [velocity.js](https://github.com/shepherdwind/velocity.js) pache Velocity 模板引擎的 JavaScript 实现版本
 - [astro](https://github.com/withastro/astro) 面向内容驱动网站的 Web 框架，兼顾开发体验与轻量输出
 - [starlight](https://github.com/withastro/starlight) 基于 Astro 构建的文档站点框架，内置导航、搜索、国际化等开箱即用功能
+- [@builder.io/mitosis](https://www.npmjs.com/package/@builder.io/mitosis) 跨框架组件编译器，以单一代码库生成 React、Vue、Angular、Svelte、Solid、Qwik 等框架的原生组件
 - [@cloudflare/create-nimbus-docs](https://github.com/cloudflare/nimbus) 为人类与智能体生成 Astro 文档站点，内置 Markdown/MDX、llms.txt 等可读格式
 - [handlebars](https://github.com/handlebars-lang/handlebars.js) 增强版的极简模板引擎
 - [snabbdom](https://github.com/snabbdom/snabbdom) 一款主打简洁、模块化、功能丰富且高性能的虚拟 DOM 库
