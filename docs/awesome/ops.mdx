@@ -203,6 +203,8 @@
 - [rio](https://github.com/raphamorim/rio) 一款硬件 GPU 加速的终端模拟器，可在桌面端与浏览器中运行
 - [ratty](https://github.com/orhun/ratty) 一款GPU 硬件渲染、支持内嵌 3D 图形的终端模拟器
 - [meatshell](https://github.com/jeff141/meatshell) 一个轻量级、低内存占用的 SSH / 终端客户端
+- [electerm](https://www.npmjs.com/package/electerm) 开源跨平台终端与远程连接客户端，支持 SSH、SFTP、FTP、Telnet、串口、RDP、VNC 和 Spice
+- [Navop](https://github.com/feigeCode/navop) 原生跨平台运维工作区，集成数据库、SSH/SFTP、终端、远程桌面、监控与 AI 智能体
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [ghostty](https://github.com/ghostty-org/ghostty) Ghostty 是一款快速、功能丰富、跨平台的终端模拟器，采用平台原生 UI 与 GPU 加速
 - [terax-ai](https://github.com/crynta/terax-ai) 轻量版（仅 7MB）AI 终端模拟器（ADE），基于 Rust、Tauri 与 React 构建
