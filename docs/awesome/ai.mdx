@@ -312,6 +312,7 @@
 ### 音视频
 
 - [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
+- [BeefTV](https://github.com/glanderness/BeefTV) 开源本地优先的 AI 视频创作工作台，在自由画布中组织创意、模型与素材，支持文字、图像、视频和音频生成流程
 - [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体
 - [UNICUT](https://github.com/mtsee/unicut) AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出
 - [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案

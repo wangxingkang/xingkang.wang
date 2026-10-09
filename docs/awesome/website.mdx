@@ -60,6 +60,7 @@
 ### 游戏
 
 - [MarbleBlast](https://github.com/Vanilagy/MarbleBlast) 《弹珠冲击黄金版》与《弹珠冲击白金版》的网页移植版本
+- [Claude of Tanks](https://github.com/Kevin-Liu-01/Claude-of-Tanks) 基于 Three.js 与 Vite 构建的网页坦克战斗模拟器，提供装甲、弹道、物理与可破坏战场
 
 ### 音视频
 
