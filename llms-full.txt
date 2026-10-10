@@ -5130,6 +5130,7 @@ url: /awesome/ops.md
 
 ### 诊断与测试
 
+- [curl](https://github.com/curl/curl) 基于 URL 的命令行数据传输工具与 libcurl 库，支持 HTTP、HTTPS、FTP、SFTP 等协议，可用于接口调试、文件传输与脚本自动化
 - [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
@@ -5209,6 +5210,7 @@ url: /awesome/ops.md
 
 ### 进程与日志
 
+- [btop](https://github.com/aristocratos/btop) 交互式终端资源监控工具，实时展示 CPU、内存、磁盘、网络与进程状态，支持鼠标操作和进程管理
 - [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
@@ -5247,6 +5249,7 @@ url: /awesome/ops.md
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)
   - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
+- [TUIOS](https://github.com/Gaurav-Gosain/tuios) 面向编码智能体的 Go 终端多路复用与窗口管理器，提供平铺窗格、工作区、可恢复会话和统一收件箱
 - [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [starship](https://github.com/starship/starship) 一款极简、极速、可高度自定义的跨 Shell 命令行提示符工具
 - [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效
@@ -5357,6 +5360,7 @@ url: /awesome/security.md
 ## 设备与系统安全
 
 - [Magisk](https://github.com/topjohnwu/Magisk) Android 系统定制工具，提供应用 Root 授权、模块扩展与启动镜像处理
+- [Shizuku](https://github.com/RikkaApps/Shizuku) 让 Android 应用通过 ADB 或 Root 启动的服务调用系统 API，避免以 shell 文本命令实现高权限操作
 - [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 
 ## 隐私与数据保护
@@ -5384,11 +5388,13 @@ url: /awesome/self-hosted.md
 
 ## 个人云
 
+- [Glance](https://github.com/glanceapp/glance) 轻量可自托管的个人仪表盘，聚合 RSS、新闻、天气、视频更新与服务状态，支持 YAML 配置、自定义布局和主题
 - [Hister](https://github.com/asciimoo/hister) 自托管个人搜索引擎，为浏览网页和本地文件建立全文索引，支持终端与 MCP 查询
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 
 ## 文件与同步
 
+- [kkFileView](https://github.com/kekingcn/kkFileView) 可自托管的在线文件预览服务，支持 Office、PDF、图片、音视频、压缩包与 CAD 等格式，提供 REST API 便于业务系统集成
 - [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
@@ -5455,6 +5461,7 @@ url: /awesome/self-hosted.md
 
 ### API 与集成
 
+- [WAHA](https://github.com/devlikeapro/waha) 可自托管的 WhatsApp HTTP API，支持 Docker 部署、消息收发、Webhook 与会话管理
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 

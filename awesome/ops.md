@@ -103,6 +103,7 @@
 
 ### 诊断与测试
 
+- [curl](https://github.com/curl/curl) 基于 URL 的命令行数据传输工具与 libcurl 库，支持 HTTP、HTTPS、FTP、SFTP 等协议，可用于接口调试、文件传输与脚本自动化
 - [trippy](https://github.com/fujiapple852/trippy) 网络诊断工具
 - [mangofetch](https://github.com/julesklord/mangofetch) tui/cli 工具，用于抓取网络上的所有资源
 - [NetSonar](https://github.com/sn4k3/NetSonar) 网络 ping 测试及其他实用工具
@@ -182,6 +183,7 @@
 
 ### 进程与日志
 
+- [btop](https://github.com/aristocratos/btop) 交互式终端资源监控工具，实时展示 CPU、内存、磁盘、网络与进程状态，支持鼠标操作和进程管理
 - [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
 - [logdy-core](https://github.com/logdyhq/logdy-core) 带 Web 界面的实时日志查看器，浏览器网页版实时日志尾随
@@ -220,6 +222,7 @@
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)
   - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
 - [zellij](https://github.com/zellij-org/zellij) 自带完备工具集的终端工作区
+- [TUIOS](https://github.com/Gaurav-Gosain/tuios) 面向编码智能体的 Go 终端多路复用与窗口管理器，提供平铺窗格、工作区、可恢复会话和统一收件箱
 - [rmux](https://github.com/Helvesec/rmux) 一款通用型 Rust 多路复用工具，附带类型安全 SDK；可通过代码驱动任意命令行 / 终端界面应用，原生支持 Linux、macOS 与 Windows 系统
 - [starship](https://github.com/starship/starship) 一款极简、极速、可高度自定义的跨 Shell 命令行提示符工具
 - [atuin](https://github.com/atuinsh/atuin) 让你的终端 Shell 焕发奇效

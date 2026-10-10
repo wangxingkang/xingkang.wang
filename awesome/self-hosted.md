@@ -4,11 +4,13 @@
 
 ## 个人云
 
+- [Glance](https://github.com/glanceapp/glance) 轻量可自托管的个人仪表盘，聚合 RSS、新闻、天气、视频更新与服务状态，支持 YAML 配置、自定义布局和主题
 - [Hister](https://github.com/asciimoo/hister) 自托管个人搜索引擎，为浏览网页和本地文件建立全文索引，支持终端与 MCP 查询
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) 一套简洁易用、设计雅致的开源个人云系统
 
 ## 文件与同步
 
+- [kkFileView](https://github.com/kekingcn/kkFileView) 可自托管的在线文件预览服务，支持 Office、PDF、图片、音视频、压缩包与 CAD 等格式，提供 REST API 便于业务系统集成
 - [alist](https://github.com/AlistGo/alist) 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
 - [OpenList](https://github.com/OpenListTeam/OpenList) 开源的网盘管理神器
 - [syncthing](https://github.com/syncthing/syncthing) 开源持续文件同步工具
@@ -75,6 +77,7 @@
 
 ### API 与集成
 
+- [WAHA](https://github.com/devlikeapro/waha) 可自托管的 WhatsApp HTTP API，支持 Docker 部署、消息收发、Webhook 与会话管理
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 
