@@ -70,6 +70,7 @@
 ## 设备与系统安全
 
 - [Magisk](https://github.com/topjohnwu/Magisk) Android 系统定制工具，提供应用 Root 授权、模块扩展与启动镜像处理
+- [Shizuku](https://github.com/RikkaApps/Shizuku) 让 Android 应用通过 ADB 或 Root 启动的服务调用系统 API，避免以 shell 文本命令实现高权限操作
 - [proxmark3](https://github.com/RfidResearchGroup/proxmark3) Proxmark3 Iceman 分支，面向 RFID / NFC 分析、渗透测试和卡片编程的综合工具
 
 ## 隐私与数据保护
