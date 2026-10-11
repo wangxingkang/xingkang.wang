@@ -132,6 +132,7 @@
 - [basic-auth](https://github.com/jshttp/basic-auth) 通用基础认证 Authorization 请求头解析器
 - [formidable](https://github.com/node-formidable/formidable) 最常用、灵活、快速且支持流式解析的多部分表单数据解析器
 - [multer](https://github.com/expressjs/multer) Express 文件上传中间件
+- [@tus/server](https://github.com/tus/tus-node-server) tus 断点续传协议的官方 Node.js 服务端实现，可独立运行或集成现有框架，支持本地磁盘、S3、GCS 与 Azure 存储
 - [cookie](https://github.com/jshttp/cookie) HTTP 服务器 cookie 的解析和序列化
 - [cookie-parser](https://github.com/expressjs/cookie-parser) 解析 HTTP 请求中的 cookies
 - [connect-session-sequelize](https://github.com/mweibel/connect-session-sequelize) 适用于 Express/Connect 的 Sequelize 会话存储
@@ -423,6 +424,7 @@
 ## 任务调度与同步
 
 - [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
+- [@dbos-inc/dbos-sdk](https://github.com/dbos-inc/dbos-transact-ts) 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
