@@ -20,6 +20,9 @@
 
 ## Web 与网络
 
+- [axum](https://github.com/tokio-rs/axum) 注重易用性与模块化的 Rust HTTP 路由与请求处理库，支持声明式请求提取，复用 Tower 中间件生态
+- [actix-web](https://github.com/actix/actix-web) 高性能 Rust Web 框架，兼容 Tokio，支持 HTTP/1 与 HTTP/2、WebSocket、流式处理和可扩展中间件
+- [salvo](https://github.com/salvo-rs/salvo) 基于 Hyper 与 Tokio 的 Rust Web 框架，支持树形路由、HTTP/3、OpenAPI 文档生成、WebSocket 与自动 TLS 证书管理
 - [servo](https://github.com/servo/servo) 浏览器引擎
 - [Leptos](https://github.com/leptos-rs/leptos) 基于细粒度响应式的全栈同构 Rust Web 框架
 - [yew](https://github.com/yewstack/yew) 构建稳定高效网页应用的框架

@@ -251,6 +251,7 @@
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 收录了热门网站设计系统的 DESIGN.md 文件集合，将其放入你的项目中，即可让编码智能体构建匹配的界面
   - [getdesign.md](https://getdesign.md)
 - [Refero Styles](https://styles.refero.design/) 收录 2,000+ 可供 AI 编码智能体使用的 DESIGN.md 设计系统示例
+- [designlang](https://github.com/Manavarya09/design-extract) 从网页提取设计系统的 CLI 与 MCP 工具，可导出 DTCG 设计令牌、Tailwind 配置、Figma 变量和供 AI 编程助手使用的提示包
 - [img2threejs](https://github.com/img2threejs/img2threejs) 重建参考图像中的物体，生成纯代码、程序化、质量把关、可动画化的 Three.js 模型
 - [scroll-world](https://github.com/oso95/scroll-world) 面向 Claude Code、Codex 等 Agent 的技能，可把品牌生成滚动穿越式 3D 世界落地页
 - [lottie](https://github.com/diffusionstudio/lottie) 借助 Claude Code 或 Codex 生成可直接投入生产使用的 Lottie 动画

@@ -245,6 +245,7 @@
 ### 文档与阅读
 
 - [PdfCraft](https://github.com/storytold/pdfcraft) 纯 Rust 的开源 Adobe Acrobat 重实现，支持阅读、整理、合并、拆分、表单与加密 PDF，并提供 CLI 与 MCP
+- [WordCraft](https://github.com/storytold/wordcraft) 纯 Rust 的开源 Microsoft Word 重实现，支持 DOCX 读写、样式排版、表格、修订与 PDF 导出，提供跨平台桌面、WebAssembly、CLI 与 MCP
 - [Easydict](https://github.com/tisfeng/Easydict) 简洁易用的 macOS 词典翻译应用，支持划词翻译、截图 OCR 与多翻译服务结果对照，集成苹果系统词典、OpenAI、Gemini、DeepL 等服务
 - [readest](https://github.com/readest/readest) 电子书阅读器
 - [solomd](https://github.com/zhitongblog/solomd) 一款 Markdown 编辑器——也是连接你 LLM 的桥梁。本地优先、MIT 开源、体积仅约 15 MB

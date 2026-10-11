@@ -74,6 +74,7 @@
 
 ## 存储与文件服务
 
+- [tusd](https://github.com/tus/tusd) tus 断点续传协议的官方 Go 服务端实现，支持大文件上传的暂停与恢复，可存储到本地磁盘、S3 兼容存储和 Google Cloud Storage
 - [Zenko CloudServer](https://github.com/scality/cloudserver) 开源 S3 兼容对象存储服务器，可统一访问本地及多云后端
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
 - [rustfs](https://github.com/rustfs/rustfs) 高性能分布式对象存储系统

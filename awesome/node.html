@@ -5,12 +5,12 @@
 <title>Node.js - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-261c332bf294.43d0d04379.js" as="script">
+<link rel="preload" href="/static/js/async/route-261c332bf294.c920859c38.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.ff5eee46be.js"></script>
+<script defer src="/static/js/index.b39242c8d8.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -155,6 +155,7 @@
 <li><a href="https://github.com/jshttp/basic-auth" target="_blank" rel="noopener noreferrer" class="rp-link">basic-auth</a> 通用基础认证 Authorization 请求头解析器</li>
 <li><a href="https://github.com/node-formidable/formidable" target="_blank" rel="noopener noreferrer" class="rp-link">formidable</a> 最常用、灵活、快速且支持流式解析的多部分表单数据解析器</li>
 <li><a href="https://github.com/expressjs/multer" target="_blank" rel="noopener noreferrer" class="rp-link">multer</a> Express 文件上传中间件</li>
+<li><a href="https://github.com/tus/tus-node-server" target="_blank" rel="noopener noreferrer" class="rp-link">@tus/server</a> tus 断点续传协议的官方 Node.js 服务端实现，可独立运行或集成现有框架，支持本地磁盘、S3、GCS 与 Azure 存储</li>
 <li><a href="https://github.com/jshttp/cookie" target="_blank" rel="noopener noreferrer" class="rp-link">cookie</a> HTTP 服务器 cookie 的解析和序列化</li>
 <li><a href="https://github.com/expressjs/cookie-parser" target="_blank" rel="noopener noreferrer" class="rp-link">cookie-parser</a> 解析 HTTP 请求中的 cookies</li>
 <li><a href="https://github.com/mweibel/connect-session-sequelize" target="_blank" rel="noopener noreferrer" class="rp-link">connect-session-sequelize</a> 适用于 Express/Connect 的 Sequelize 会话存储</li>
@@ -446,6 +447,7 @@
 <h2 class="rp-toc-include" id="任务调度与同步"><a href="#任务调度与同步" class="rp-header-anchor rp-link" aria-hidden="true">#</a>任务调度与同步</h2>
 <ul>
 <li><a href="https://www.npmjs.com/package/inngest" target="_blank" rel="noopener noreferrer" class="rp-link">inngest</a> 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性</li>
+<li><a href="https://github.com/dbos-inc/dbos-transact-ts" target="_blank" rel="noopener noreferrer" class="rp-link">@dbos-inc/dbos-sdk</a> 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理</li>
 <li><a href="https://github.com/unjs/hookable" target="_blank" rel="noopener noreferrer" class="rp-link">hookable</a> 异步钩子</li>
 <li><a href="https://github.com/bcomnes/npm-run-all2" target="_blank" rel="noopener noreferrer" class="rp-link">npm-run-all2</a> 一款可并行或串行执行多条 npm 脚本的命令行工具</li>
 <li><a href="https://github.com/jeffbski/wait-on" target="_blank" rel="noopener noreferrer" class="rp-link">wait-on</a> 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态</li>

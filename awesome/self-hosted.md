@@ -108,4 +108,5 @@
 
 ## 办公与设备
 
+- [Reactive Resume](https://github.com/reactive-resume/reactive-resume) 可自托管的开源简历与求职信编辑器，支持模板定制、多格式导出、公开链接分享与求职申请管理
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
