@@ -58,7 +58,7 @@
 
 ## 逆向与二进制分析
 
-- [rea-agents](https://www.npmjs.com/package/rea-agents) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
+- [morluto/rea](https://github.com/morluto/rea) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
