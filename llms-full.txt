@@ -395,6 +395,7 @@ url: /awesome/ai.md
 
 ### 模型服务与网关
 
+- [Magpie (yetone)](https://github.com/yetone/magpie) 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
 - [fal](https://fal.ai) 面向开发者的生成式媒体平台，通过 API 提供图像、视频、音频和 3D 模型及无服务器 GPU 推理
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
@@ -3862,6 +3863,10 @@ url: /awesome/go.md
 - [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
 - [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
 
+## 数据格式化
+
+- [go-humanize](https://github.com/dustin/go-humanize) Go 数据可读化格式库，支持字节大小、相对时间、序数、千位分隔与 SI 单位表示
+
 ## 日志
 
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库
@@ -5368,7 +5373,7 @@ url: /awesome/security.md
 
 ## 逆向与二进制分析
 
-- [rea-agents](https://www.npmjs.com/package/rea-agents) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
+- [morluto/rea](https://github.com/morluto/rea) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造

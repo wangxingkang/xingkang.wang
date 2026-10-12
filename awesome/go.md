@@ -35,6 +35,10 @@
 - [huh](https://github.com/charmbracelet/huh) 构建终端表单与交互提示框
 - [bubbletea](https://github.com/charmbracelet/bubbletea) 终端交互界面开发框架
 
+## 数据格式化
+
+- [go-humanize](https://github.com/dustin/go-humanize) Go 数据可读化格式库，支持字节大小、相对时间、序数、千位分隔与 SI 单位表示
+
 ## 日志
 
 - [log](https://github.com/charmbracelet/log) 轻量多彩的 Go 语言日志库

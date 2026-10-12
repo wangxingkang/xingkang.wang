@@ -85,6 +85,7 @@
 
 ### 模型服务与网关
 
+- [Magpie (yetone)](https://github.com/yetone/magpie) 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
 - [fal](https://fal.ai) 面向开发者的生成式媒体平台，通过 API 提供图像、视频、音频和 3D 模型及无服务器 GPU 推理
 - [9router](https://github.com/decolua/9router) 无限免费 AI 代码编写
