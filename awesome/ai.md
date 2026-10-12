@@ -402,6 +402,7 @@
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
 - [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
+- [MOVO](https://github.com/himovo/movo) 基于 DeepSeek Harness 的可自托管企业智能体平台，集成知识检索、深度研究、文件生成、Skills 与 MCP，并提供权限管理、定时任务和审计能力
 - [Maka](https://github.com/apache/maka) 本地优先的 AI Agent 工作空间，提供桌面端、TUI/CLI、工具沙箱与可恢复的执行记录
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) DeepSeek Harness 桌面端封装，自动管理本地服务并集成窗口、托盘和桌面插件能力
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
@@ -491,6 +492,8 @@
 
 ## 学习资源
 
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) WorkBuddy 实战蓝皮书，围绕真实办公任务讲解上手流程、Skills、连接器、自动化与多智能体协作
+- [DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide) 豆包工作的中文实践指南，涵盖入门、Skills、连接器、定时任务与多智能体工作流，提供办公、内容创作、知识管理和电商等场景案例
 - [claw0](https://github.com/shareAI-lab/claw0) 从0到1学习 OpenClaw：从零开始构建爪型AI智能体的教程章节
 - [Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases) 精选适配 AI 影视创作的 Blender 与 Seedance 工作流：涵盖预可视化、相机控制、Blender MCP、参考视频以及智能体驱动实操案例
 - [ai-agent-book](https://github.com/bojieli/ai-agent-book)《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）
