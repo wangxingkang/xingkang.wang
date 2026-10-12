@@ -306,6 +306,7 @@
 
 ### 文本与结构化数据
 
+- [react-string-replace](https://github.com/iansinnott/react-string-replace) 零依赖的 React 文本替换工具，按字符串或正则匹配将文本片段替换为组件，适用于高亮、链接与提及渲染
 - [react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) 可自定义颜色与 Logo 的 React + TypeScript 二维码生成组件
 - [@re-dev/react-truncate](https://github.com/remanufacturing/react-truncate) 提供 `Truncate`、`MiddleTruncate` 和 `ShowMore` React 组件，用于截断多行跨度并添加省略号
 - [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) 适用于 React.JS 的简易多行文本省略组件
