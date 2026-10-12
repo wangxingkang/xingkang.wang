@@ -66,6 +66,7 @@
 
 ## 智能体平台与工作流
 
+- [LangBot](https://github.com/langbot-app/LangBot) 可自托管的多平台 AI 聊天机器人构建平台，支持微信、QQ、飞书、Discord、Telegram 等，集成多模型、知识库、插件与 MCP，并提供 Web 管理界面
 - [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
 - [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
@@ -444,6 +445,7 @@
 
 ### 智能体扩展
 
+- [ds-bot](https://github.com/Fei2411/DeepSeek-Bot) DeepSeek Harness 的社区机器人插件，支持创建具备持久记忆的独立 Bot、群聊协作、模型切换与 Token 用量统计，数据保存在本地
 - [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件
 - [dsh-market](https://github.com/dsh-market/dsh-market) DeepSeek Harness 插件市场项目，用于集中发现和分发 DSH 生态插件
 - [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
