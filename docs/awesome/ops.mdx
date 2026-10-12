@@ -41,6 +41,10 @@
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 
+### 键值存储
+
+- [RocksDB](https://github.com/facebook/rocksdb) 基于 LSM 树的高性能嵌入式持久化键值存储引擎，针对闪存优化，支持多线程压缩合并
+
 ### 缓存
 
 - [redis](https://github.com/redis/redis) 最快、功能最丰富的缓存、数据结构服务器以及文档和向量查询引擎
@@ -136,6 +140,7 @@
 
 ### 代理与隧道
 
+- [Orbien](https://github.com/orbien-org/orbien) 基于 Rust 与 Tokio 的轻量内网穿透工具，支持 TCP、UDP、HTTP、HTTPS 与 SOCKS5 隧道，提供跨平台桌面客户端和服务端 Web 管理界面
 - [v2rayNG](https://github.com/2dust/v2rayNG) Android V2Ray 客户端，支持 Xray 与 v2fly 内核及 VLESS、VMess、Trojan、Shadowsocks 等协议
 - [rathole](https://github.com/rathole-org/rathole) 一款基于 Rust 编写、用于内网穿透的轻量级高性能反向代理工具，可作为 frp 和 ngrok 的替代方案
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)

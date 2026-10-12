@@ -127,6 +127,7 @@
 
 ### 截屏与录制
 
+- [Tendedero](https://github.com/alejandrobujan/tendedero) 原生 macOS 截图与录屏管理工具，将截图、录屏及复制的图片悬挂在屏幕顶部，支持快速复制、标注、预览与拖拽分享
 - [macshot](https://github.com/sw33tLie/macshot) 功能齐全的原生 macOS 截屏录屏工具：支持标注批注、自动脱敏隐私信息、GIF 录制、OCR 图文识别 + 翻译、长滚屏截取、图片美化等诸多功能
 - [HushSnap](https://github.com/tcita/HushSnap) Windows 本地截屏与离线 OCR 工具，支持标注、脱敏和置顶
 - [Kiri](https://github.com/yuxino/Kiri) 跨平台本地截图、录屏与 OCR 工具，支持标注、二维码识别、GIF/MP4 导出和素材管理
