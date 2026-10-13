@@ -51,6 +51,7 @@
 
 ### 接口与同步
 
+- [Electric](https://github.com/electric-sql/electric) PostgreSQL 读路径实时同步引擎，通过 Shapes 实现部分复制，并以 HTTP API 将数据同步到客户端，支持 CDN 分发与多种框架集成
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 
 ### 向量数据库
@@ -183,6 +184,7 @@
 
 ### 网站与服务
 
+- [OpenStatus](https://github.com/openstatusHQ/openstatus) 开源状态页、事件响应与服务可用性监控平台，支持 YAML、Terraform 配置及 CLI、CI、MCP 集成，可使用托管服务或自托管
 - [umami](https://github.com/umami-software/umami) Umami 是一个现代、注重隐私的分析平台，是 Google Analytics、Mixpanel 和 Amplitude 的开源替代方案
 - [ponghub](https://github.com/WCY-dt/ponghub) 一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线
 - [gatus](https://github.com/TwiN/gatus) 面向开发者的自动化状态监控页面，支持告警与事件管理

@@ -55,6 +55,7 @@
 
 ## 状态管理与协作
 
+- [@liveblocks/client](https://github.com/liveblocks/liveblocks) Liveblocks 实时协作平台的 JavaScript SDK，提供同步、评论与通知等协作能力，并支持 React、Yjs 和多种编辑器集成
 - [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) 开箱即用的高效 Redux 开发工具集
 - [redux-remember](https://github.com/zewish/redux-remember) 将 Redux 状态保存到任意键值存储并重新水合，支持选择性持久化和多平台存储驱动
 - [reselect](https://github.com/reduxjs/reselect) Redux 选择器库

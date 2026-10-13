@@ -146,6 +146,7 @@
 
 ### 开发技能
 
+- [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) 面向 Codex 与 Claude Code 的 Three.js 浏览器游戏开发技能集，覆盖玩法、图形、界面、调试与发布验证，内置项目脚手架和 Playwright 测试模板，并支持可选的 AI 素材生成
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [handraw-style](https://github.com/yang0/handraw-style) 为 AI 生图提供手绘风格、排版图型与主题色的中英双语提示词技能
 - [gsap-skills](https://github.com/greensock/gsap-skills) GSAP 官方 AI 能力库
@@ -167,6 +168,7 @@
 
 ## 开发工作流
 
+- [godogen](https://github.com/htdt/godogen) 面向 Claude Code 与 Codex 的自主游戏开发工作流，支持 Godot、Bevy 和 Babylon.js，从自然语言描述生成游戏与素材，并运行引擎、通过实时画面或录像验证结果
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [Atlas](https://github.com/pacifio/atlas) 面向编码智能体的本地优先源代码控制工作台，可关联会话、提示词与提交记录
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器

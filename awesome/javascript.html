@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.14f6a9c6d6.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.7ad4fd9b1d.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.50625fe58f.js"></script>
+<script defer src="/static/js/index.240ce911fd.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -78,6 +78,7 @@
 </ul>
 <h2 class="rp-toc-include" id="状态管理与协作"><a href="#状态管理与协作" class="rp-header-anchor rp-link" aria-hidden="true">#</a>状态管理与协作</h2>
 <ul>
+<li><a href="https://github.com/liveblocks/liveblocks" target="_blank" rel="noopener noreferrer" class="rp-link">@liveblocks/client</a> Liveblocks 实时协作平台的 JavaScript SDK，提供同步、评论与通知等协作能力，并支持 React、Yjs 和多种编辑器集成</li>
 <li><a href="https://github.com/reduxjs/redux-toolkit" target="_blank" rel="noopener noreferrer" class="rp-link">@reduxjs/toolkit</a> 开箱即用的高效 Redux 开发工具集</li>
 <li><a href="https://github.com/zewish/redux-remember" target="_blank" rel="noopener noreferrer" class="rp-link">redux-remember</a> 将 Redux 状态保存到任意键值存储并重新水合，支持选择性持久化和多平台存储驱动</li>
 <li><a href="https://github.com/reduxjs/reselect" target="_blank" rel="noopener noreferrer" class="rp-link">reselect</a> Redux 选择器库</li>

@@ -24,6 +24,10 @@
 - [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 
+## 硬件开发
+
+- [atopile](https://github.com/atopile/atopile) 用代码设计电路板的声明式电子设计语言、编译器与工具链，支持可复用模块、约束验证、参数化选型，并原生更新 KiCad 布局
+
 ## Git
 
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
