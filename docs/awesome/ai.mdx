@@ -73,7 +73,7 @@
 - [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [genkit](https://github.com/genkit-ai/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
-- [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude 的主流智能体编排平台
+- [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude Code 与 Codex 的智能体编排框架，支持多智能体集群、自适应记忆、自学习、联邦通信、向量 RAG 与 MCP
 - [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
 - [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
 - [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
@@ -356,6 +356,7 @@
 ### 知识库与搜索
 
 - [@tobilu/qmd](https://www.npmjs.com/package/@tobilu/qmd) 本地文档搜索引擎，结合 BM25、向量检索与本地 LLM 重排，提供 CLI、MCP 和 Node/Bun API
+- [cocoindex](https://github.com/cocoindex-io/cocoindex) 面向长周期智能体的增量数据索引引擎，将代码、会议记录、邮件、Slack、PDF、视频等持续同步为新鲜上下文，支持声明式 Python 数据流与仅增量处理
 - [WeKnora](https://github.com/Tencent/WeKnora) 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库
 - [RAGFlow](https://github.com/infiniflow/ragflow) 可自托管的开源 RAG 引擎，融合深度文档解析、混合检索与智能体能力，支持知识库问答和可追溯引用
 - [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库

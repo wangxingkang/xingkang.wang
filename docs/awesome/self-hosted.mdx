@@ -56,6 +56,12 @@
 
 ## 网站服务
 
+### 内部工具与低代码
+
+- [Appsmith](https://github.com/appsmithorg/appsmith) 开源低代码应用平台，用于构建管理后台、内部工具与数据看板，可连接数据库和 API，支持云托管及 Docker、Kubernetes 自托管
+- [Budibase](https://github.com/Budibase/budibase) 开源业务运营平台，整合内部应用、自动化工作流与 AI 智能体，可连接数据库、模型和业务系统，支持云托管及 Docker、Kubernetes 自托管
+- [Windmill](https://github.com/windmill-labs/windmill) 可自托管的开发者平台，将 Python、TypeScript、Go、Bash 等脚本转为 API、后台任务、工作流与内部应用，支持自动生成界面和低代码应用构建
+
 ### 短链接
 
 - [chhoto-url](https://github.com/SinTan1729/chhoto-url) 短链接工具
@@ -80,6 +86,7 @@
 - [WAHA](https://github.com/devlikeapro/waha) 可自托管的 WhatsApp HTTP API，支持 Docker 部署、消息收发、Webhook 与会话管理
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
+- [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
 
 ### 表单与票据
 
@@ -100,6 +107,7 @@
 
 ## 生活管理
 
+- [Actual Budget](https://github.com/actualbudget/actual) 本地优先的开源个人财务与预算管理应用，采用信封预算法，支持跨设备同步、Docker 自托管及 Windows、macOS、Linux 本地应用
 - [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
 
 ## 下载与归档
