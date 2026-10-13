@@ -518,6 +518,7 @@ url: /awesome/ai.md
 
 ### 设计与内容创作
 
+- [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
@@ -3419,7 +3420,7 @@ url: /awesome/node.md
 
 ### 嵌入式数据库
 
-- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 基于 WebAssembly 的嵌入式 PostgreSQL，可在浏览器、Node.js、Bun 与 Deno 中运行，支持内存、文件系统或 IndexedDB 存储及实时响应式查询
 
 ## 文件系统
 
@@ -5151,6 +5152,7 @@ url: /awesome/ops.md
 
 ## 消息队列
 
+- [Apache Iggy](https://github.com/apache/iggy) 基于 Rust 的持久化消息流平台，支持流、主题、分区和消费者组，提供 QUIC、WebSocket、TCP、HTTP 协议及多语言 SDK
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
 
 ## 服务治理
@@ -5295,8 +5297,9 @@ url: /awesome/ops.md
 
 ### 文件与数据处理
 
+- [bzip3](https://github.com/iczelia/bzip3) BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
-- [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [bat](https://github.com/sharkdp/bat) 增强版 `cat` 命令行工具，支持语法高亮、Git 修改标记、行号显示与自动分页
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
 - [eza](https://github.com/eza-community/eza) 现代化的 `ls` 替代品，支持彩色输出、图标、Git 状态、扩展属性和树形目录显示
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
@@ -5330,6 +5333,7 @@ url: /awesome/security.md
 
 ## 身份认证
 
+- [MaxKey](https://gitee.com/dromara/MaxKey) 企业级身份管理与单点登录系统，支持 OAuth、OpenID Connect、SAML、CAS、JWT、SCIM 等协议，提供用户生命周期管理与 RBAC 权限控制
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [OpenFGA](https://github.com/openfga/openfga) 受 Google Zanzibar 启发的高性能细粒度授权与权限引擎，支持在应用中建模和执行访问控制
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架

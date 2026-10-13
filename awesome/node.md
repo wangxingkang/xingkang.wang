@@ -238,7 +238,7 @@
 
 ### 嵌入式数据库
 
-- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 可嵌入的 PostgreSQL，带实时响应式绑定
+- [@electric-sql/pglite](https://github.com/electric-sql/pglite) 基于 WebAssembly 的嵌入式 PostgreSQL，可在浏览器、Node.js、Bun 与 Deno 中运行，支持内存、文件系统或 IndexedDB 存储及实时响应式查询
 
 ## 文件系统
 

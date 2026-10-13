@@ -2,6 +2,7 @@
 
 ## 身份认证
 
+- [MaxKey](https://gitee.com/dromara/MaxKey) 企业级身份管理与单点登录系统，支持 OAuth、OpenID Connect、SAML、CAS、JWT、SCIM 等协议，提供用户生命周期管理与 RBAC 权限控制
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
 - [OpenFGA](https://github.com/openfga/openfga) 受 Google Zanzibar 启发的高性能细粒度授权与权限引擎，支持在应用中建模和执行访问控制
 - [better-auth](https://github.com/better-auth/better-auth) 适用于 TypeScript 的最全面身份认证框架

@@ -94,6 +94,7 @@
 
 ## 消息队列
 
+- [Apache Iggy](https://github.com/apache/iggy) 基于 Rust 的持久化消息流平台，支持流、主题、分区和消费者组，提供 QUIC、WebSocket、TCP、HTTP 协议及多语言 SDK
 - [nats](https://github.com/nats-io/nats-server) 云原生和边缘原生的消息传递系统
 
 ## 服务治理
@@ -238,8 +239,9 @@
 
 ### 文件与数据处理
 
+- [bzip3](https://github.com/iczelia/bzip3) BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
-- [bat](https://github.com/sharkdp/bat) 一款功能更强大的 cat (1) 命令行工具
+- [bat](https://github.com/sharkdp/bat) 增强版 `cat` 命令行工具，支持语法高亮、Git 修改标记、行号显示与自动分页
 - [fd](https://github.com/sharkdp/fd) 一款简洁、快速、易用的 `find` 命令替代工具
 - [eza](https://github.com/eza-community/eza) 现代化的 `ls` 替代品，支持彩色输出、图标、Git 状态、扩展属性和树形目录显示
 - [lsd](https://github.com/lsd-rs/lsd) 用 Rust 重写并增强的 `ls` 命令，支持彩色输出、图标、树形视图和更多格式化选项
