@@ -89,6 +89,7 @@
 
 ### 模型服务与网关
 
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) 聚合多家模型提供商免费额度的 OpenAI 兼容网关，支持自定义模型端点、自动路由、限流回退、密钥加密存储与用量追踪，面向个人实验场景
 - [Magpie (yetone)](https://github.com/yetone/magpie) 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
 - [fal](https://fal.ai) 面向开发者的生成式媒体平台，通过 API 提供图像、视频、音频和 3D 模型及无服务器 GPU 推理
@@ -341,7 +342,7 @@
 - [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
 - [小云雀](https://xyq.jianying.com)
 - [liblib](https://www.liblib.tv)
-- [updream](https://www.updream.cn)
+- [updream](https://www.updream.cn) AI 视频创作助手，提供创作画布、3D 预演、剧本策划、角色设计、分镜故事板与视频提示词生成等功能，支持通过技能组织创作流程
 - [tapnow](https://app.tapnow.ai)
 - [flova.ai](https://www.flova.ai/zh-CN/)
 - [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
@@ -419,10 +420,9 @@
 - [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架
 - [opensquilla](https://github.com/opensquilla/opensquilla) 高效令牌 AI 智能体，同等算力成本下拥有更高智能密度
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
-- [OpenBot](https://github.com/CopilotKit/OpenBot) 面向开发者的开源桌面智能体客户端，支持 AI 代理与编程工作流编排
+- [OpenBot](https://github.com/CopilotKit/OpenBot) 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录
 - [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
 - [Aden Hive](https://github.com/aden-hive/hive) 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督
-- [multica](https://github.com/multica-ai/multica) 分配任务、跟踪进度、积累技能——在一个地方管理你的人类 + Agent 团队
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
   - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手

@@ -5,12 +5,12 @@
 <title>AI - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-74129ab92962.696f178801.js" as="script">
+<link rel="preload" href="/static/js/async/route-74129ab92962.9caedd9bd5.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.0b7fa7aff6.js"></script>
+<script defer src="/static/js/index.77b385d5c9.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -107,6 +107,7 @@
 <h2 class="rp-toc-include" id="基础设施"><a href="#基础设施" class="rp-header-anchor rp-link" aria-hidden="true">#</a>基础设施</h2>
 <h3 class="rp-toc-include" id="模型服务与网关"><a href="#模型服务与网关" class="rp-header-anchor rp-link" aria-hidden="true">#</a>模型服务与网关</h3>
 <ul>
+<li><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank" rel="noopener noreferrer" class="rp-link">FreeLLMAPI</a> 聚合多家模型提供商免费额度的 OpenAI 兼容网关，支持自定义模型端点、自动路由、限流回退、密钥加密存储与用量追踪，面向个人实验场景</li>
 <li><a href="https://github.com/yetone/magpie" target="_blank" rel="noopener noreferrer" class="rp-link">Magpie (yetone)</a> 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退</li>
 <li><a href="https://github.com/traceloop/hub" target="_blank" rel="noopener noreferrer" class="rp-link">hub</a> Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性</li>
 <li><a href="https://fal.ai" target="_blank" rel="noopener noreferrer" class="rp-link">fal</a> 面向开发者的生成式媒体平台，通过 API 提供图像、视频、音频和 3D 模型及无服务器 GPU 推理</li>
@@ -355,7 +356,7 @@
 <li><a href="https://github.com/fogsightai/fogsight" target="_blank" rel="noopener noreferrer" class="rp-link">fogsight</a> 一款由大语言模型驱动的人工智能代理及动画引擎</li>
 <li><a href="https://xyq.jianying.com" target="_blank" rel="noopener noreferrer" class="rp-link">小云雀</a></li>
 <li><a href="https://www.liblib.tv" target="_blank" rel="noopener noreferrer" class="rp-link">liblib</a></li>
-<li><a href="https://www.updream.cn" target="_blank" rel="noopener noreferrer" class="rp-link">updream</a></li>
+<li><a href="https://www.updream.cn" target="_blank" rel="noopener noreferrer" class="rp-link">updream</a> AI 视频创作助手，提供创作画布、3D 预演、剧本策划、角色设计、分镜故事板与视频提示词生成等功能，支持通过技能组织创作流程</li>
 <li><a href="https://app.tapnow.ai" target="_blank" rel="noopener noreferrer" class="rp-link">tapnow</a></li>
 <li><a href="https://www.flova.ai/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">flova.ai</a></li>
 <li><a href="https://www.topview.ai" target="_blank" rel="noopener noreferrer" class="rp-link">topview</a> 只需告知你的智能体，即可生成任意视频</li>
@@ -433,10 +434,9 @@
 <li><a href="https://github.com/zhayujie/CowAgent" target="_blank" rel="noopener noreferrer" class="rp-link">CowAgent</a> 开源超级 AI 助手与智能体调度框架</li>
 <li><a href="https://github.com/opensquilla/opensquilla" target="_blank" rel="noopener noreferrer" class="rp-link">opensquilla</a> 高效令牌 AI 智能体，同等算力成本下拥有更高智能密度</li>
 <li><a href="https://github.com/lobehub/lobehub" target="_blank" rel="noopener noreferrer" class="rp-link">lobehub</a> LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转</li>
-<li><a href="https://github.com/CopilotKit/OpenBot" target="_blank" rel="noopener noreferrer" class="rp-link">OpenBot</a> 面向开发者的开源桌面智能体客户端，支持 AI 代理与编程工作流编排</li>
+<li><a href="https://github.com/CopilotKit/OpenBot" target="_blank" rel="noopener noreferrer" class="rp-link">OpenBot</a> 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录</li>
 <li><a href="https://github.com/xvirobotics/metabot" target="_blank" rel="noopener noreferrer" class="rp-link">metabot</a> 构建受监督的、自我进化的 Agent** 组织的基础设施**</li>
 <li><a href="https://github.com/aden-hive/hive" target="_blank" rel="noopener noreferrer" class="rp-link">Aden Hive</a> 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督</li>
-<li><a href="https://github.com/multica-ai/multica" target="_blank" rel="noopener noreferrer" class="rp-link">multica</a> 分配任务、跟踪进度、积累技能——在一个地方管理你的人类 + Agent 团队</li>
 <li><a href="https://github.com/NousResearch/hermes-agent" target="_blank" rel="noopener noreferrer" class="rp-link">hermes-agent</a> 与你一同成长的智能体<!-- -->
 <ul>
 <li><a href="https://github.com/outsourc-e/hermes-workspace" target="_blank" rel="noopener noreferrer" class="rp-link">hermes-workspace</a> Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具</li>
