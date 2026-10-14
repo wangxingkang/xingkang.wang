@@ -79,7 +79,7 @@
 ### 推理与部署
 
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
-- [sglang](https://github.com/sgl-project/sglang) 一款面向大语言模型与多模态模型的高性能部署服务框架
+- [sglang](https://github.com/sgl-project/sglang) 面向大语言、视觉语言与扩散模型的高性能推理框架，支持大规模模型服务、智能体工作负载与强化学习采样，内置图像和视频生成引擎
 
 ## 网络与 Web
 
@@ -96,6 +96,7 @@
 - [redis](https://github.com/redis/redis-py) Redis 官方 Python 客户端
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
 - [yfinance](https://github.com/ranaroussi/yfinance) 通过雅虎财经 API 下载市场行情数据
+- [czsc](https://github.com/waditu/czsc) 基于 Rust 与 Python 的缠论技术分析和量化研究工具，支持分型、笔与中枢识别、信号与交易策略组合、多周期分析、行情数据接入及 K 线可视化
 - [pydantic-resolve](https://github.com/allmonday/pydantic-resolve) 一款通用数据组合工具，可生成 JSON RPC、GraphQL，甚至 MCP
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) 汉字转拼音
 

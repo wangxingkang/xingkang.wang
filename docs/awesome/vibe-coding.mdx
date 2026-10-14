@@ -275,6 +275,8 @@
 
 ## 会话与工作区
 
+- [Omnigent](https://github.com/omnigent-ai/omnigent) 跨智能体运行框架的统一编排工作区，可组合 Claude Code、Codex、Cursor、Pi 与自定义智能体，支持跨设备会话同步、实时协作、云沙箱及工具权限与审批策略
+- [multica](https://github.com/multica-ai/multica) 可自托管的编码智能体协作工作区，将 Claude Code、Codex 等 CLI 与人类成员纳入同一任务看板，支持任务分派、进度与阻塞追踪、执行日志、人工审查及技能复用
 - [buzz](https://github.com/block/buzz) 人机协作的工作空间
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
@@ -283,6 +285,7 @@
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
 - [Superset](https://github.com/superset-sh/superset) 在隔离 Git 工作树中并行编排 100+ 命令行编程智能体的桌面 IDE
 - [lazycodex](https://github.com/code-yeongyu/lazycodex) 专为复杂代码库打造的独家智能代理运行框架。在 Codex 内集成项目记忆、任务规划、执行流程与结果核验完成能力。
+- [munder-difflin](https://github.com/HarnessMD/munder-difflin) 本地多智能体桌面工作区，将 Claude Code、Codex、Gemini CLI、Pi 等命令行智能体组织为可视化办公室，支持任务路由、智能体通信与长期记忆，可使用现有订阅或自有模型
 - [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
