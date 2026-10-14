@@ -129,6 +129,7 @@
 
 ### 计算
 
+- [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 基于 TypeScript 的紫微斗数排盘引擎，包含四化系统、格局知识库、古籍数据与命盘样本，提供 Next.js 演示界面，支持真太阳时校正与多种闰月规则
 - [mathjs](https://github.com/josdejong/mathjs) 一款适用于 JavaScript 和 Node.js 的功能丰富的数学库
 - [bignumber](https://github.com/MikeMcl/bignumber.js) 一款用于任意精度十进制与非十进制算术运算的 JavaScript 库
 - [big.js](https://github.com/MikeMcl/big.js) 一款轻量、高速的用于任意精度十进制算术运算的 JavaScript 库

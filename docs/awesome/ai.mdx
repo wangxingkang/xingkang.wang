@@ -4,6 +4,8 @@
 
 ## 资源导航
 
+- [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) 汇集官方开发团队与社区维护的智能体技能，覆盖开发、设计、办公与服务集成，兼容 Claude Code、Codex、Gemini CLI、Cursor 等工具
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 从 ClawHub 筛选并按用途分类的 OpenClaw 社区技能合集，覆盖开发、浏览器自动化、办公、媒体与日程等场景，提供技能发现与安装指南
 - [moge](https://moge.ai/zh) 实时收录全球最新AI工具
 - [watcha](https://watcha.cn) AI 产品的大众点评
 - [魔搭社区](https://modelscope.cn/home)
@@ -41,6 +43,7 @@
 
 ### 本地运行与部署
 
+- [h3.c](https://github.com/antirez/h3.c) 面向 Apple Silicon 的 MiniMax-H3 本地推理引擎，使用 Metal 加速视频与音频生成，支持首尾帧条件控制及图像、视频、音频参考输入，提供命令行与交互会话
 - [Strata](https://github.com/Niko1221/Strata) 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [NIGHTRUN](https://github.com/hardrave/NIGHTRUN) 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行
@@ -126,6 +129,7 @@
 
 ### 记忆与上下文
 
+- [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [agentmemory](https://github.com/rohitg00/agentmemory)
 - [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
@@ -139,6 +143,7 @@
 
 ### 计算机与移动设备
 
+- [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) 通过 AirPlay 获取屏幕、ESP32-S3 USB HID 模拟鼠标与键盘的 iPhone 自动化智能体，接入 OpenAI 兼容视觉模型，支持点击、滑动、输入与绘制，无需越狱或开发者账号
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
@@ -208,6 +213,7 @@
 
 ### 设计与内容创作
 
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库

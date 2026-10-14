@@ -53,7 +53,7 @@
 
 - [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
-- [voltagent](https://github.com/VoltAgent/voltagent)
+- [@voltagent/core](https://github.com/VoltAgent/voltagent) 开源 TypeScript 智能体框架，支持多模型接入、持久记忆、RAG、类型化工具、MCP、多步骤工作流与多智能体协作，可配合 VoltOps 进行可观测性与评测管理
 - [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
 - [eve](https://github.com/vercel/eve) 智能体构建框架
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架

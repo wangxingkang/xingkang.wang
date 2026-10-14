@@ -149,7 +149,7 @@
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
-- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
+- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 基于 Rust 的本地优先 Logitech Options+ 替代品，支持 macOS、Linux 与 Windows，提供按键映射、DPI 与 SmartShift 调节、应用配置切换及摄像头控制
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结

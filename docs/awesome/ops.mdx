@@ -43,6 +43,7 @@
 
 ### 键值存储
 
+- [TiKV](https://github.com/tikv/tikv) 基于 Rust 与 Raft 的分布式事务键值数据库，提供键值 API 与符合 ACID 的事务 API，支持自动分片、水平扩展和跨地域复制，可作为 TiDB 的存储层
 - [RocksDB](https://github.com/facebook/rocksdb) 基于 LSM 树的高性能嵌入式持久化键值存储引擎，针对闪存优化，支持多线程压缩合并
 
 ### 缓存
@@ -79,6 +80,8 @@
 
 ## 存储与文件服务
 
+- [CubeFS](https://github.com/cubefs/cubefs) 云原生分布式文件与对象存储系统，支持 POSIX、HDFS、S3 和 REST API，提供强一致元数据、多租户隔离、多级缓存及副本或纠删码存储策略
+- [JuiceFS](https://github.com/juicedata/juicefs) 面向云原生环境的 POSIX 兼容分布式文件系统，以对象存储保存数据、数据库保存元数据，支持多客户端共享访问、Hadoop 集成、S3 网关与 Kubernetes CSI
 - [tusd](https://github.com/tus/tusd) tus 断点续传协议的官方 Go 服务端实现，支持大文件上传的暂停与恢复，可存储到本地磁盘、S3 兼容存储和 Google Cloud Storage
 - [Zenko CloudServer](https://github.com/scality/cloudserver) 开源 S3 兼容对象存储服务器，可统一访问本地及多云后端
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
