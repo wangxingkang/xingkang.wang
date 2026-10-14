@@ -5,12 +5,12 @@
 <title>AI 编程与工作流 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-2a158ec316fd.82acaee4a4.js" as="script">
+<link rel="preload" href="/static/js/async/route-2a158ec316fd.f9552003fb.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.ddada8430b.js"></script>
+<script defer src="/static/js/index.0b7fa7aff6.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -56,6 +56,7 @@
 </ul>
 <h3 class="rp-toc-include" id="扩展与适配"><a href="#扩展与适配" class="rp-header-anchor rp-link" aria-hidden="true">#</a>扩展与适配</h3>
 <ul>
+<li><a href="https://github.com/VoltAgent/awesome-codex-subagents" target="_blank" rel="noopener noreferrer" class="rp-link">awesome-codex-subagents</a> 按开发领域分类的 Codex 专用子智能体配置合集，覆盖前后端、语言、基础设施、审查与测试，使用 TOML 定义角色、模型和权限，支持全局或项目级配置</li>
 <li><a href="https://github.com/miuuyy/codex-chatgpt-web" target="_blank" rel="noopener noreferrer" class="rp-link">codex-chatgpt-web</a> 将 ChatGPT 网页版模型接入 Codex 原生模型选择器，支持流式响应、图片与 MCP 全量编程工作流</li>
 <li><a href="https://github.com/XiaoDuoYa/codex-with-chatgpt" target="_blank" rel="noopener noreferrer" class="rp-link">codex-with-chatgpt</a> 通过只读 MCP 桥接，让 ChatGPT 网页版为 Codex 编码会话提供规划与代码审查</li>
 <li><a href="https://github.com/BigPizzaV3/CodexPlusPlus" target="_blank" rel="noopener noreferrer" class="rp-link">CodexPlusPlus</a> Codex App 增强工具</li>
@@ -76,6 +77,7 @@
 </ul>
 <h3 class="rp-toc-include" id="扩展与参考"><a href="#扩展与参考" class="rp-header-anchor rp-link" aria-hidden="true">#</a>扩展与参考</h3>
 <ul>
+<li><a href="https://github.com/VoltAgent/awesome-claude-code-subagents" target="_blank" rel="noopener noreferrer" class="rp-link">awesome-claude-code-subagents</a> 按开发领域分类的 Claude Code 专用子智能体合集，覆盖前后端、语言、基础设施、测试与协作编排，支持插件安装及全局或项目级配置</li>
 <li><a href="https://github.com/nykooi1/vibe-wise" target="_blank" rel="noopener noreferrer" class="rp-link">VibeWise</a> 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果</li>
 <li><a href="https://github.com/openai/codex-plugin-cc" target="_blank" rel="noopener noreferrer" class="rp-link">codex-plugin-cc</a> 使用 Claude Code 中的 Codex 工具审查代码或委派任务</li>
 <li><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank" rel="noopener noreferrer" class="rp-link">claude-code-best-practice</a> ClaudeCode 最佳实践</li>
@@ -105,7 +107,8 @@
 <li><a href="https://github.com/apmantza/pi-lens" target="_blank" rel="noopener noreferrer" class="rp-link">pi-lens</a> 为 pi 提供的实时代码反馈——LSP、代码检查器、格式化器、结构分析</li>
 <li><a href="https://github.com/nicobailon/pi-web-access" target="_blank" rel="noopener noreferrer" class="rp-link">pi-web-access</a> 适用于 Pi 编码代理的网页搜索与内容提取扩展</li>
 <li><a href="https://github.com/juicesharp/rpiv-mono/tree/HEAD/packages/rpiv-todo" target="_blank" rel="noopener noreferrer" class="rp-link">rpiv-todo</a> 给模型一个你能看得见的任务清单</li>
-<li><a href="https://github.com/tintinweb/pi-subagents" target="_blank" rel="noopener noreferrer" class="rp-link">pi-subagents</a> 为 Pi 提供类似 Claude Code 的子代理</li>
+<li><a href="https://github.com/nicobailon/pi-subagents" target="_blank" rel="noopener noreferrer" class="rp-link">pi-subagents (nicobailon)</a> Pi 子智能体委派扩展，支持串行与并行工作流、后台任务、输出截断、产物保存与会话共享，内置探索、实现和审查等角色</li>
+<li><a href="https://github.com/tintinweb/pi-subagents" target="_blank" rel="noopener noreferrer" class="rp-link">pi-subagents (tintinweb)</a> 为 Pi 提供类似 Claude Code 的子代理</li>
 <li><a href="https://github.com/nicobailon/pi-messenger" target="_blank" rel="noopener noreferrer" class="rp-link">pi-messenger</a> 多智能体通信扩展</li>
 <li><a href="https://github.com/chandra447/pi-hermes-memory" target="_blank" rel="noopener noreferrer" class="rp-link">pi-hermes-memory</a> 为 Pi 编码代理提供 Hermes 风格的持久记忆与学习循环</li>
 <li><a href="https://github.com/davebcn87/pi-autoresearch" target="_blank" rel="noopener noreferrer" class="rp-link">pi-autoresearch</a> 自主实验循环</li>
@@ -260,6 +263,7 @@
 </ul>
 <h2 class="rp-toc-include" id="图示与技术文档"><a href="#图示与技术文档" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图示与技术文档</h2>
 <ul>
+<li><a href="https://github.com/nicobailon/visual-explainer" target="_blank" rel="noopener noreferrer" class="rp-link">visual-explainer</a> 将架构说明、代码差异审查、计划评估与项目回顾生成独立 HTML 页面或幻灯片的智能体技能，支持图示、数据表格、明暗主题及 Claude Code、Codex、Pi 等工具</li>
 <li><a href="https://github.com/cathrynlavery/diagram-design" target="_blank" rel="noopener noreferrer" class="rp-link">diagram-design</a> 面向 Claude Code、Codex、Pi 等 AI 编程助手的图示设计 Skill，支持生成符合品牌风格的架构图、流程图等 HTML + SVG 图示</li>
 <li><a href="https://github.com/yizhiyanhua-ai/fireworks-tech-graph" target="_blank" rel="noopener noreferrer" class="rp-link">fireworks-tech-graph</a> 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图</li>
 <li><a href="https://github.com/tt-a1i/archify" target="_blank" rel="noopener noreferrer" class="rp-link">Archify</a> 为 AI 智能体生成可验证的交互式架构、流程、时序、数据流与生命周期图</li>

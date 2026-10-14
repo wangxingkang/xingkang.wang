@@ -37,6 +37,7 @@
 
 ### 扩展与适配
 
+- [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) 按开发领域分类的 Codex 专用子智能体配置合集，覆盖前后端、语言、基础设施、审查与测试，使用 TOML 定义角色、模型和权限，支持全局或项目级配置
 - [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) 将 ChatGPT 网页版模型接入 Codex 原生模型选择器，支持流式响应、图片与 MCP 全量编程工作流
 - [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) 通过只读 MCP 桥接，让 ChatGPT 网页版为 Codex 编码会话提供规划与代码审查
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
@@ -58,6 +59,7 @@
 
 ### 扩展与参考
 
+- [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 按开发领域分类的 Claude Code 专用子智能体合集，覆盖前后端、语言、基础设施、测试与协作编排，支持插件安装及全局或项目级配置
 - [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
@@ -89,7 +91,8 @@
 - [pi-lens](https://github.com/apmantza/pi-lens) 为 pi 提供的实时代码反馈——LSP、代码检查器、格式化器、结构分析
 - [pi-web-access](https://github.com/nicobailon/pi-web-access) 适用于 Pi 编码代理的网页搜索与内容提取扩展
 - [rpiv-todo](https://github.com/juicesharp/rpiv-mono/tree/HEAD/packages/rpiv-todo) 给模型一个你能看得见的任务清单
-- [pi-subagents](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
+- [pi-subagents (nicobailon)](https://github.com/nicobailon/pi-subagents) Pi 子智能体委派扩展，支持串行与并行工作流、后台任务、输出截断、产物保存与会话共享，内置探索、实现和审查等角色
+- [pi-subagents (tintinweb)](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
 - [pi-messenger](https://github.com/nicobailon/pi-messenger) 多智能体通信扩展
 - [pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) 为 Pi 编码代理提供 Hermes 风格的持久记忆与学习循环
 - [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) 自主实验循环
@@ -240,6 +243,7 @@
 
 ## 图示与技术文档
 
+- [visual-explainer](https://github.com/nicobailon/visual-explainer) 将架构说明、代码差异审查、计划评估与项目回顾生成独立 HTML 页面或幻灯片的智能体技能，支持图示、数据表格、明暗主题及 Claude Code、Codex、Pi 等工具
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) 面向 Claude Code、Codex、Pi 等 AI 编程助手的图示设计 Skill，支持生成符合品牌风格的架构图、流程图等 HTML + SVG 图示
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
 - [Archify](https://github.com/tt-a1i/archify) 为 AI 智能体生成可验证的交互式架构、流程、时序、数据流与生命周期图

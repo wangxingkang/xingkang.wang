@@ -314,6 +314,8 @@ url: /awesome/ai.md
 
 ## 资源导航
 
+- [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) 汇集官方开发团队与社区维护的智能体技能，覆盖开发、设计、办公与服务集成，兼容 Claude Code、Codex、Gemini CLI、Cursor 等工具
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 从 ClawHub 筛选并按用途分类的 OpenClaw 社区技能合集，覆盖开发、浏览器自动化、办公、媒体与日程等场景，提供技能发现与安装指南
 - [moge](https://moge.ai/zh) 实时收录全球最新AI工具
 - [watcha](https://watcha.cn) AI 产品的大众点评
 - [魔搭社区](https://modelscope.cn/home)
@@ -351,6 +353,7 @@ url: /awesome/ai.md
 
 ### 本地运行与部署
 
+- [h3.c](https://github.com/antirez/h3.c) 面向 Apple Silicon 的 MiniMax-H3 本地推理引擎，使用 Metal 加速视频与音频生成，支持首尾帧条件控制及图像、视频、音频参考输入，提供命令行与交互会话
 - [Strata](https://github.com/Niko1221/Strata) 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
 - [NIGHTRUN](https://github.com/hardrave/NIGHTRUN) 一种本地化的 LLM 运行环境，可以通过 USB 启动，并且无需传统操作系统即可运行
@@ -436,6 +439,7 @@ url: /awesome/ai.md
 
 ### 记忆与上下文
 
+- [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [agentmemory](https://github.com/rohitg00/agentmemory)
 - [MemOS](https://github.com/MemTensor/MemOS) 面向 LLM 与 AI Agent 的记忆操作系统
@@ -449,6 +453,7 @@ url: /awesome/ai.md
 
 ### 计算机与移动设备
 
+- [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) 通过 AirPlay 获取屏幕、ESP32-S3 USB HID 模拟鼠标与键盘的 iPhone 自动化智能体，接入 OpenAI 兼容视觉模型，支持点击、滑动、输入与绘制，无需越狱或开发者账号
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
 - [cua](https://github.com/trycua/cua) 支持在 macOS、Windows 系统后台运行计算机操控任务
@@ -518,6 +523,7 @@ url: /awesome/ai.md
 
 ### 设计与内容创作
 
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
@@ -864,6 +870,7 @@ url: /awesome/vibe-coding.md
 
 ### 扩展与适配
 
+- [awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) 按开发领域分类的 Codex 专用子智能体配置合集，覆盖前后端、语言、基础设施、审查与测试，使用 TOML 定义角色、模型和权限，支持全局或项目级配置
 - [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) 将 ChatGPT 网页版模型接入 Codex 原生模型选择器，支持流式响应、图片与 MCP 全量编程工作流
 - [codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) 通过只读 MCP 桥接，让 ChatGPT 网页版为 Codex 编码会话提供规划与代码审查
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) Codex App 增强工具
@@ -885,6 +892,7 @@ url: /awesome/vibe-coding.md
 
 ### 扩展与参考
 
+- [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 按开发领域分类的 Claude Code 专用子智能体合集，覆盖前后端、语言、基础设施、测试与协作编排，支持插件安装及全局或项目级配置
 - [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ClaudeCode 最佳实践
@@ -916,7 +924,8 @@ url: /awesome/vibe-coding.md
 - [pi-lens](https://github.com/apmantza/pi-lens) 为 pi 提供的实时代码反馈——LSP、代码检查器、格式化器、结构分析
 - [pi-web-access](https://github.com/nicobailon/pi-web-access) 适用于 Pi 编码代理的网页搜索与内容提取扩展
 - [rpiv-todo](https://github.com/juicesharp/rpiv-mono/tree/HEAD/packages/rpiv-todo) 给模型一个你能看得见的任务清单
-- [pi-subagents](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
+- [pi-subagents (nicobailon)](https://github.com/nicobailon/pi-subagents) Pi 子智能体委派扩展，支持串行与并行工作流、后台任务、输出截断、产物保存与会话共享，内置探索、实现和审查等角色
+- [pi-subagents (tintinweb)](https://github.com/tintinweb/pi-subagents) 为 Pi 提供类似 Claude Code 的子代理
 - [pi-messenger](https://github.com/nicobailon/pi-messenger) 多智能体通信扩展
 - [pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory) 为 Pi 编码代理提供 Hermes 风格的持久记忆与学习循环
 - [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) 自主实验循环
@@ -1067,6 +1076,7 @@ url: /awesome/vibe-coding.md
 
 ## 图示与技术文档
 
+- [visual-explainer](https://github.com/nicobailon/visual-explainer) 将架构说明、代码差异审查、计划评估与项目回顾生成独立 HTML 页面或幻灯片的智能体技能，支持图示、数据表格、明暗主题及 Claude Code、Codex、Pi 等工具
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) 面向 Claude Code、Codex、Pi 等 AI 编程助手的图示设计 Skill，支持生成符合品牌风格的架构图、流程图等 HTML + SVG 图示
 - [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) 基于自然语言生成可投入生产使用的高品质 SVG、PNG 技术示意图
 - [Archify](https://github.com/tt-a1i/archify) 为 AI 智能体生成可验证的交互式架构、流程、时序、数据流与生命周期图
@@ -1271,6 +1281,7 @@ url: /awesome/javascript.md
 
 ### 计算
 
+- [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 基于 TypeScript 的紫微斗数排盘引擎，包含四化系统、格局知识库、古籍数据与命盘样本，提供 Next.js 演示界面，支持真太阳时校正与多种闰月规则
 - [mathjs](https://github.com/josdejong/mathjs) 一款适用于 JavaScript 和 Node.js 的功能丰富的数学库
 - [bignumber](https://github.com/MikeMcl/bignumber.js) 一款用于任意精度十进制与非十进制算术运算的 JavaScript 库
 - [big.js](https://github.com/MikeMcl/big.js) 一款轻量、高速的用于任意精度十进制算术运算的 JavaScript 库
@@ -3235,7 +3246,7 @@ url: /awesome/node.md
 
 - [LangGraph.js](https://github.com/langchain-ai/langgraphjs) 构建有状态、可恢复智能体图的低层编排框架，支持长期记忆与人工介入
 - [mastra](https://github.com/mastra-ai/mastra) 基于现代化 TypeScript 技术栈、用于构建 AI 驱动型应用与智能代理的框架
-- [voltagent](https://github.com/VoltAgent/voltagent)
+- [@voltagent/core](https://github.com/VoltAgent/voltagent) 开源 TypeScript 智能体框架，支持多模型接入、持久记忆、RAG、类型化工具、MCP、多步骤工作流与多智能体协作，可配合 VoltOps 进行可观测性与评测管理
 - [qm](https://github.com/yc-software/qm) 面向工作场景的多智能体协作框架
 - [eve](https://github.com/vercel/eve) 智能体构建框架
 - [flue](https://github.com/withastro/flue) 沙箱智能体框架
@@ -4448,7 +4459,7 @@ url: /awesome/desktop.md
 - [Mole](https://github.com/tw93/Mole) 从终端清理、卸载、分析、优化和监控您的 Mac
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
-- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 原生、本地优先的 Logitech Options+ 替代品
+- [OpenLogi](https://github.com/AprilNEA/OpenLogi) 基于 Rust 的本地优先 Logitech Options+ 替代品，支持 macOS、Linux 与 Windows，提供按键映射、DPI 与 SmartShift 调节、应用配置切换及摄像头控制
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结
@@ -5101,6 +5112,7 @@ url: /awesome/ops.md
 
 ### 键值存储
 
+- [TiKV](https://github.com/tikv/tikv) 基于 Rust 与 Raft 的分布式事务键值数据库，提供键值 API 与符合 ACID 的事务 API，支持自动分片、水平扩展和跨地域复制，可作为 TiDB 的存储层
 - [RocksDB](https://github.com/facebook/rocksdb) 基于 LSM 树的高性能嵌入式持久化键值存储引擎，针对闪存优化，支持多线程压缩合并
 
 ### 缓存
@@ -5137,6 +5149,8 @@ url: /awesome/ops.md
 
 ## 存储与文件服务
 
+- [CubeFS](https://github.com/cubefs/cubefs) 云原生分布式文件与对象存储系统，支持 POSIX、HDFS、S3 和 REST API，提供强一致元数据、多租户隔离、多级缓存及副本或纠删码存储策略
+- [JuiceFS](https://github.com/juicedata/juicefs) 面向云原生环境的 POSIX 兼容分布式文件系统，以对象存储保存数据、数据库保存元数据，支持多客户端共享访问、Hadoop 集成、S3 网关与 Kubernetes CSI
 - [tusd](https://github.com/tus/tusd) tus 断点续传协议的官方 Go 服务端实现，支持大文件上传的暂停与恢复，可存储到本地磁盘、S3 兼容存储和 Google Cloud Storage
 - [Zenko CloudServer](https://github.com/scality/cloudserver) 开源 S3 兼容对象存储服务器，可统一访问本地及多云后端
 - [ZeroFS](https://github.com/Barre/ZeroFS) 将 S3 作为你的主存储
