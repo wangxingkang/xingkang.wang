@@ -35,6 +35,7 @@
 
 ### 关系与分析数据库
 
+- [PostgreSQL](https://www.postgresql.org) 开源对象关系数据库系统，提供可靠的数据存储、丰富的 SQL 功能与可扩展能力，官网包含下载、官方文档及社区资源
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [DuckDB](https://github.com/duckdb/duckdb) 高性能嵌入式分析型 SQL 数据库
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统

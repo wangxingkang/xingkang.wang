@@ -69,6 +69,7 @@
 
 ## 智能体平台与工作流
 
+- [Sim](https://github.com/simstudioai/sim) 可自托管的 AI 智能体与工作流协作平台，支持可视化、对话和代码构建，集成多模型、外部服务、文件与知识库，并提供运行日志、定时调度和监控
 - [LangBot](https://github.com/langbot-app/LangBot) 可自托管的多平台 AI 聊天机器人构建平台，支持微信、QQ、飞书、Discord、Telegram 等，集成多模型、知识库、插件与 MCP，并提供 Web 管理界面
 - [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
 - [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
@@ -503,6 +504,7 @@
 
 ## 学习资源
 
+- [ms-cookbook](https://github.com/modelscope/ms-cookbook) 魔搭紫皮书，面向开发者的开源模型应用实战指南，涵盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，提供可运行示例与在线阅读
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) WorkBuddy 实战蓝皮书，围绕真实办公任务讲解上手流程、Skills、连接器、自动化与多智能体协作
 - [DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide) 豆包工作的中文实践指南，涵盖入门、Skills、连接器、定时任务与多智能体工作流，提供办公、内容创作、知识管理和电商等场景案例
 - [claw0](https://github.com/shareAI-lab/claw0) 从0到1学习 OpenClaw：从零开始构建爪型AI智能体的教程章节
