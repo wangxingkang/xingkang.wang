@@ -180,6 +180,7 @@
 
 ### HTTP 与代理
 
+- [content-disposition](https://github.com/jshttp/content-disposition) 创建与解析 HTTP `Content-Disposition` 头的工具库，支持附件与内联类型、Unicode 文件名和扩展参数编码，适用于文件下载与上传头处理
 - [fast-uri](https://github.com/fastify/fast-uri) 零依赖的 RFC 3986 URI 工具箱
 - [is-localhost-ip](https://github.com/tinovyatkin/is-localhost-ip) 检查给定的主机名/DNS 名称或 IPv4/IPv6 地址是否属于本机
 - [whoiser](https://github.com/LayeredStudio/whoiser) 简易好用的域名、顶级域名与 IP 地址 WHOIS 信息查询工具

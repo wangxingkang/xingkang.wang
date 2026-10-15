@@ -108,7 +108,7 @@
 - [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) 一款借助 ReportLab 将 HTML 转换为 PDF 的程序库
 - [MinerU](https://github.com/opendatalab/MinerU) 将 PDF、Office 文档等复杂文件转换为适配大模型的 Markdown/JSON 格式，服务于智能体工作流
 - [marker](https://github.com/datalab-to/marker) **高精度快速将 PDF 转换为 Markdown 和 JSON 格式**
-- [docling](https://github.com/docling-project/docling) 让您的文档为生成式 AI 做好准备
+- [docling](https://github.com/docling-project/docling) 支持本地运行的多格式文档解析与转换工具，提供 PDF 布局、阅读顺序、表格结构识别及 OCR，可导出 Markdown、HTML 与 JSON，并集成 RAG 和智能体生态
 
 ## 图形与媒体
 

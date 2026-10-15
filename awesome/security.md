@@ -51,6 +51,7 @@
 
 ## 网络安全
 
+- [SafeLine](https://github.com/chaitin/SafeLine) 雷池，可自托管的 Web 应用防火墙（WAF），通过反向代理过滤恶意 HTTP 流量，支持 SQL 注入与 XSS 防护、访问限速、人机验证及访问控制
 - [oproxy](https://github.com/sauravrao637/oproxy) 开源中间人代理工具，可拦截、检查并模拟网络流量
 - [web-check](https://github.com/lissy93/web-check) 一站式开源情报工具，用于分析任意网站
 - [TscanPlus](https://github.com/TideSec/TscanPlus) 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面

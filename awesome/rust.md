@@ -33,6 +33,7 @@
 
 ## GUI 与终端界面
 
+- [gpui-fast](https://github.com/longbridge/gpui-fast) 从 Zed GPUI 拆分的实验性性能优化分支，通过增量渲染复用未变化的视图、布局与文本测量，支持滚动缓存及 macOS、Linux、Windows 原生窗口内容合成
 - [gpui-kit](https://github.com/longbridge/gpui-kit) Rust GUI 组件，用于构建出色的跨平台桌面应用程序，采用 GPUI 技术实现
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
 - [xilem](https://github.com/linebender/xilem) 一款实验性的 Rust 原生 UI 框架
@@ -63,6 +64,7 @@
 
 ## 文件与文档
 
+- [xberg](https://github.com/xberg-io/xberg) 基于 Rust 的多格式文档解析引擎，由 Kreuzberg 演进而来，支持文本、表格、图像与元数据提取、OCR 和结构化输出，提供多语言绑定、CLI、REST API 与 MCP 服务
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
 - [anydoc](https://github.com/firecrawl/anydoc) 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown，基于 Rust 构建，提供 Node.js 和 Python 绑定
