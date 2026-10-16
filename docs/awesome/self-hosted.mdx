@@ -116,5 +116,6 @@
 
 ## 办公与设备
 
+- [tuya-local](https://github.com/make-all/tuya-local) Home Assistant 的涂鸦设备本地集成，通过局域网直接控制兼容设备，支持 HACS 安装、图形化配置及云端辅助获取设备连接信息
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) 可自托管的开源简历与求职信编辑器，支持模板定制、多格式导出、公开链接分享与求职申请管理
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
