@@ -30,6 +30,7 @@
 
 ## Git
 
+- [git-bug](https://github.com/git-bug/git-bug) 集成于 Git 的分布式、离线优先缺陷跟踪工具，通过 Git 远端同步议题，提供命令行、终端与 Web 界面，并可桥接 GitHub、GitLab、Jira 等平台
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
 - [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具

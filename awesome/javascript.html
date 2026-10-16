@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.6a7326985c.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.13fa07a542.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.2fa8cf0a11.js"></script>
+<script defer src="/static/js/index.776ad219f9.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -24,6 +24,7 @@
 <p>收录通用 JavaScript / TypeScript 库与浏览器能力。服务端与系统接口见 <a href="/awesome/node" class="rp-link">Node.js</a>，框架绑定包见 <a href="/awesome/react" class="rp-link">React</a>、<a href="/awesome/vue" class="rp-link">Vue</a>、<a href="/awesome/svelte" class="rp-link">Svelte</a>和 <a href="/awesome/solid" class="rp-link">Solid</a>。</p>
 <h2 class="rp-toc-include" id="ai"><a href="#ai" class="rp-header-anchor rp-link" aria-hidden="true">#</a>AI</h2>
 <ul>
+<li><a href="https://github.com/chenglou/handwired" target="_blank" rel="noopener noreferrer" class="rp-link">Handwired</a> 将 JavaScript 程序的分支、循环与状态转换为矩阵运算和 ReLU 构成的可微神经网络，无需训练即可在 JavaScript 或 WebGPU 中运行</li>
 <li><a href="https://github.com/microsoft/onnxruntime/blob/main/js/web" target="_blank" rel="noopener noreferrer" class="rp-link">onnxruntime-web</a> 跨平台、高性能的机器学习推理与训练加速器</li>
 <li><a href="https://github.com/ngxson/wllama" target="_blank" rel="noopener noreferrer" class="rp-link">wllama</a> llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理</li>
 <li><a href="https://github.com/openai/openai-agents-js" target="_blank" rel="noopener noreferrer" class="rp-link">openai-agents-js</a> 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发</li>

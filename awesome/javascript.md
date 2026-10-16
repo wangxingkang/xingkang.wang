@@ -4,6 +4,7 @@
 
 ## AI
 
+- [Handwired](https://github.com/chenglou/handwired) 将 JavaScript 程序的分支、循环与状态转换为矩阵运算和 ReLU 构成的可微神经网络，无需训练即可在 JavaScript 或 WebGPU 中运行
 - [onnxruntime-web](https://github.com/microsoft/onnxruntime/blob/main/js/web) 跨平台、高性能的机器学习推理与训练加速器
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发

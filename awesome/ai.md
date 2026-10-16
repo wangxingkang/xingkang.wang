@@ -215,6 +215,7 @@
 
 ### 设计与内容创作
 
+- [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) 拾景纸刊，面向 Codex 的照片创作技能，提供保留原照的纸感拼贴海报与提炼场景语义的极简编辑插画两种路径，仅限个人非商业使用
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能

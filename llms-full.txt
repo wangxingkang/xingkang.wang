@@ -525,6 +525,7 @@ url: /awesome/ai.md
 
 ### 设计与内容创作
 
+- [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) 拾景纸刊，面向 Codex 的照片创作技能，提供保留原照的纸感拼贴海报与提炼场景语义的极简编辑插画两种路径，仅限个人非商业使用
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
@@ -1161,6 +1162,7 @@ url: /awesome/javascript.md
 
 ## AI
 
+- [Handwired](https://github.com/chenglou/handwired) 将 JavaScript 程序的分支、循环与状态转换为矩阵运算和 ReLU 构成的可微神经网络，无需训练即可在 JavaScript 或 WebGPU 中运行
 - [onnxruntime-web](https://github.com/microsoft/onnxruntime/blob/main/js/web) 跨平台、高性能的机器学习推理与训练加速器
 - [wllama](https://github.com/ngxson/wllama) llama.cpp 的 WebAssembly 绑定库，支持浏览器端大模型推理
 - [openai-agents-js](https://github.com/openai/openai-agents-js) 一款轻量且强大的框架，用于多智能体工作流与语音智能体开发
@@ -4703,6 +4705,7 @@ url: /awesome/engineering.md
 
 ## Git
 
+- [git-bug](https://github.com/git-bug/git-bug) 集成于 Git 的分布式、离线优先缺陷跟踪工具，通过 Git 远端同步议题，提供命令行、终端与 Web 界面，并可桥接 GitHub、GitLab、Jira 等平台
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
 - [gitui](https://github.com/gitui-org/gitui) Git 终端界面
 - [prek](https://github.com/j178/prek) 基于 Rust 开发的高性能 Git 钩子管理工具
@@ -5567,6 +5570,7 @@ url: /awesome/self-hosted.md
 
 ## 办公与设备
 
+- [tuya-local](https://github.com/make-all/tuya-local) Home Assistant 的涂鸦设备本地集成，通过局域网直接控制兼容设备，支持 HACS 安装、图形化配置及云端辅助获取设备连接信息
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) 可自托管的开源简历与求职信编辑器，支持模板定制、多格式导出、公开链接分享与求职申请管理
 - [cups-web](https://github.com/hanxi/cups-web) 把家用 USB 打印机变成随时可访问的网络打印服务
 
