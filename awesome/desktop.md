@@ -212,6 +212,7 @@
 
 ### 三维建模
 
+- [SolidCraft](https://github.com/tangency-labs/solidcraft) Rust 构建的开源参数化 3D CAD 应用，支持桌面与浏览器运行，提供约束草图、可编辑特征时间线、STEP/STL 等格式导出及内置 MCP 自动化建模
 - [OpenSCAD](https://github.com/openscad/openscad) 面向程序员的开源脚本式实体 3D CAD 建模软件
 
 ### 文件传输

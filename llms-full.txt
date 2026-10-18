@@ -1775,6 +1775,7 @@ url: /awesome/javascript.md
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
   - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 - [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) 将 Mermaid 图表渲染为精美的 SVG 或 ASCII 艺术图
+- [Pele](https://github.com/obsidianmd/pele) 轻量、无运行时依赖的 Mermaid 图表 SVG 渲染库，提供同步渲染、按需加载、容器自适应布局及 CSS 变量主题定制
 - [LogicFlow](https://github.com/didi/LogicFlow) 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) 用于构建交互式流程图、组织结构图、设计工具、规划工具和视觉化语言的 JavaScript 图表库
 - [sigma](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
@@ -3974,6 +3975,7 @@ url: /awesome/rust.md
 
 数据库与搜索引擎见[运维 / 数据库与搜索](/awesome/ops.md#数据库与搜索)。
 
+- [Tantivy](https://github.com/quickwit-oss/tantivy) 受 Apache Lucene 启发的 Rust 全文搜索引擎库，支持 BM25 评分、可定制分词、增量与多线程索引、短语查询、分面搜索及聚合，适用于嵌入应用构建搜索能力
 - [SQLx](https://github.com/transact-rs/sqlx) 支持编译期查询校验的异步 Rust SQL 工具包，兼容 PostgreSQL、MySQL 与 SQLite
 - [Apache OpenDAL](https://github.com/apache/opendal) 基于 Rust 的统一数据访问层，以一致 API 访问对象存储、文件系统、数据库等服务，并提供多语言绑定
 - [turbovec](https://github.com/RyanCodrai/turbovec) 基于 TurboQuant 的 Rust 向量索引库，提供 Python 绑定
@@ -4533,6 +4535,7 @@ url: /awesome/desktop.md
 
 ### 三维建模
 
+- [SolidCraft](https://github.com/tangency-labs/solidcraft) Rust 构建的开源参数化 3D CAD 应用，支持桌面与浏览器运行，提供约束草图、可编辑特征时间线、STEP/STL 等格式导出及内置 MCP 自动化建模
 - [OpenSCAD](https://github.com/openscad/openscad) 面向程序员的开源脚本式实体 3D CAD 建模软件
 
 ### 文件传输
@@ -4695,6 +4698,7 @@ url: /awesome/engineering.md
 
 ### 本地服务
 
+- [emulate](https://github.com/vercel-labs/emulate) 面向 CI 与无网络沙箱的本地 API 模拟工具，提供 GitHub、Vercel、Google、Slack 等服务的有状态接口，支持种子数据、状态重置、自定义模拟器及测试框架集成
 - [Watchman](https://github.com/facebook/watchman) Meta 开源的跨平台文件监听服务，记录文件变更，并可在匹配文件变化时触发资源重建等任务
 - [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
@@ -5148,6 +5152,7 @@ url: /awesome/ops.md
 
 ### 搜索引擎
 
+- [Quickwit](https://github.com/quickwit-oss/quickwit) 基于 Tantivy 的云原生分布式搜索引擎，面向日志与链路追踪，采用计算存储分离架构，支持对象存储上的全文搜索与聚合、Elasticsearch 兼容 API 及 OpenTelemetry、Jaeger、Grafana 集成
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [elasticsearch](https://github.com/elastic/elasticsearch) 免费且开源、分布式、RESTful 搜索引擎

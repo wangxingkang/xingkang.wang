@@ -617,6 +617,7 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) 以类 Markdown 的文本方式生成流程图、时序图等各类图表
   - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 - [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) 将 Mermaid 图表渲染为精美的 SVG 或 ASCII 艺术图
+- [Pele](https://github.com/obsidianmd/pele) 轻量、无运行时依赖的 Mermaid 图表 SVG 渲染库，提供同步渲染、按需加载、容器自适应布局及 CSS 变量主题定制
 - [LogicFlow](https://github.com/didi/LogicFlow) 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) 用于构建交互式流程图、组织结构图、设计工具、规划工具和视觉化语言的 JavaScript 图表库
 - [sigma](https://github.com/jacomyal/sigma.js) 一个旨在可视化数千个节点与边构成的图结构的 JavaScript 库
