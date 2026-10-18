@@ -67,6 +67,7 @@
 
 ### 搜索引擎
 
+- [Quickwit](https://github.com/quickwit-oss/quickwit) 基于 Tantivy 的云原生分布式搜索引擎，面向日志与链路追踪，采用计算存储分离架构，支持对象存储上的全文搜索与聚合、Elasticsearch 兼容 API 及 OpenTelemetry、Jaeger、Grafana 集成
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
 - [elasticsearch](https://github.com/elastic/elasticsearch) 免费且开源、分布式、RESTful 搜索引擎

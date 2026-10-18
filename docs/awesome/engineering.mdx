@@ -20,6 +20,7 @@
 
 ### 本地服务
 
+- [emulate](https://github.com/vercel-labs/emulate) 面向 CI 与无网络沙箱的本地 API 模拟工具，提供 GitHub、Vercel、Google、Slack 等服务的有状态接口，支持种子数据、状态重置、自定义模拟器及测试框架集成
 - [Watchman](https://github.com/facebook/watchman) Meta 开源的跨平台文件监听服务，记录文件变更，并可在匹配文件变化时触发资源重建等任务
 - [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
