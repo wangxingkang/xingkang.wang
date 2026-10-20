@@ -197,6 +197,7 @@
 
 ### 进程与日志
 
+- [PM2](https://github.com/Unitech/pm2) 面向 Node.js 与 Bun 应用的生产进程管理器，支持进程守护、自动重启、集群负载均衡、平滑重载、日志管理、终端监控及开机恢复
 - [btop](https://github.com/aristocratos/btop) 交互式终端资源监控工具，实时展示 CPU、内存、磁盘、网络与进程状态，支持鼠标操作和进程管理
 - [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
@@ -244,6 +245,7 @@
 
 ### 文件与数据处理
 
+- [Zstandard](https://github.com/facebook/zstd) 面向实时场景的快速无损压缩算法，提供 C 语言参考库与 zstd 命令行工具，支持可调压缩级别及字典压缩，兼顾压缩率与解压速度
 - [bzip3](https://github.com/iczelia/bzip3) BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [bat](https://github.com/sharkdp/bat) 增强版 `cat` 命令行工具，支持语法高亮、Git 修改标记、行号显示与自动分页
