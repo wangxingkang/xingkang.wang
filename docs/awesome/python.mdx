@@ -78,6 +78,7 @@
 
 ### 推理与部署
 
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer) DeepSeek 开源的高性能大规模模型推理框架，提供离线推理、分布式并行、异步调度、推测解码与结构化输出，支持 NVIDIA SM100 GPU 和昇腾 950 NPU
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [sglang](https://github.com/sgl-project/sglang) 面向大语言、视觉语言与扩散模型的高性能推理框架，支持大规模模型服务、智能体工作负载与强化学习采样，内置图像和视频生成引擎
 
