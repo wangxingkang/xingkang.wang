@@ -217,6 +217,7 @@
 
 ### 文件传输
 
+- [Plexo](https://github.com/anmolkapil/plexo) 跨平台下载管理器，聚合多个独立网络连接进行并行下载，支持直链、磁力链接与种子文件、断点续传、浏览器集成、分网络限速及下载调度
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
 - [Lynavo Drive](https://github.com/Lynavo/lynavo-drive) 手机到桌面的局域网增量媒体同步工具，支持 iOS、Android、macOS 与 Windows
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器

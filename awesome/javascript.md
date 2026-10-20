@@ -591,6 +591,7 @@
 
 ## 动画
 
+- [ascii.rest](https://github.com/bas3line/ascii) TypeScript 编写的 ASCII 字符动画库，提供场景、文字横幅、加载动画与图表，支持 React、Next.js、Astro、原生 HTML、终端播放及动画 SVG 导出
 - [vap](https://github.com/Tencent/vap) VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [morphicons](https://github.com/guillermolg00/morphicons) 为描边图标提供基于弹簧物理的通用形变动画，支持 React、Vue、Svelte 与 React Native

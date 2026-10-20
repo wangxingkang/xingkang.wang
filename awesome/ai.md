@@ -43,6 +43,7 @@
 
 ### 本地运行与部署
 
+- [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) 面向 Stable Diffusion 生态的跨平台包管理器与推理界面，支持一键安装更新 ComfyUI、AUTOMATIC1111、InvokeAI 等工具，管理依赖与扩展、共享模型目录，并从 CivitAI 和 Hugging Face 下载模型
 - [h3.c](https://github.com/antirez/h3.c) 面向 Apple Silicon 的 MiniMax-H3 本地推理引擎，使用 Metal 加速视频与音频生成，支持首尾帧条件控制及图像、视频、音频参考输入，提供命令行与交互会话
 - [Strata](https://github.com/Niko1221/Strata) 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
@@ -90,6 +91,8 @@
 
 ### 模型服务与网关
 
+- [agentgateway](https://github.com/agentgateway/agentgateway) 面向 AI 智能体的开源代理网关，统一连接模型、MCP 工具与 A2A 智能体，提供模型路由、负载均衡、故障回退、认证授权、限流及 OpenTelemetry 可观测性，支持独立与 Kubernetes 部署
+- [Bifrost](https://github.com/maximhq/bifrost) 可自托管的高性能 AI 网关，通过 OpenAI 兼容 API 统一接入多家模型提供商，支持自动故障回退、负载均衡、语义缓存、虚拟密钥、预算管理及可视化配置
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) 聚合多家模型提供商免费额度的 OpenAI 兼容网关，支持自定义模型端点、自动路由、限流回退、密钥加密存储与用量追踪，面向个人实验场景
 - [Magpie (yetone)](https://github.com/yetone/magpie) 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
@@ -131,6 +134,7 @@
 
 ### 记忆与上下文
 
+- [OpenViking](https://github.com/volcengine/OpenViking) 面向 AI 智能体的开源上下文数据库，以虚拟文件系统统一管理知识、记忆与技能，支持目录感知检索、分层摘要按需加载及跨会话记忆提取，提供 SDK、CLI 与智能体集成
 - [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [agentmemory](https://github.com/rohitg00/agentmemory)

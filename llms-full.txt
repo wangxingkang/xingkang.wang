@@ -353,6 +353,7 @@ url: /awesome/ai.md
 
 ### 本地运行与部署
 
+- [Stability Matrix](https://github.com/LykosAI/StabilityMatrix) 面向 Stable Diffusion 生态的跨平台包管理器与推理界面，支持一键安装更新 ComfyUI、AUTOMATIC1111、InvokeAI 等工具，管理依赖与扩展、共享模型目录，并从 CivitAI 和 Hugging Face 下载模型
 - [h3.c](https://github.com/antirez/h3.c) 面向 Apple Silicon 的 MiniMax-H3 本地推理引擎，使用 Metal 加速视频与音频生成，支持首尾帧条件控制及图像、视频、音频参考输入，提供命令行与交互会话
 - [Strata](https://github.com/Niko1221/Strata) 在 Windows/Linux 消费级显卡上本地运行 Qwen3.8-Flash-Next，提供 OpenAI/Anthropic 兼容接口与 MCP 服务
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 无 Python 依赖的 Rust 推理服务器
@@ -400,6 +401,8 @@ url: /awesome/ai.md
 
 ### 模型服务与网关
 
+- [agentgateway](https://github.com/agentgateway/agentgateway) 面向 AI 智能体的开源代理网关，统一连接模型、MCP 工具与 A2A 智能体，提供模型路由、负载均衡、故障回退、认证授权、限流及 OpenTelemetry 可观测性，支持独立与 Kubernetes 部署
+- [Bifrost](https://github.com/maximhq/bifrost) 可自托管的高性能 AI 网关，通过 OpenAI 兼容 API 统一接入多家模型提供商，支持自动故障回退、负载均衡、语义缓存、虚拟密钥、预算管理及可视化配置
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) 聚合多家模型提供商免费额度的 OpenAI 兼容网关，支持自定义模型端点、自动路由、限流回退、密钥加密存储与用量追踪，面向个人实验场景
 - [Magpie (yetone)](https://github.com/yetone/magpie) 面向 Claude Code、Codex 等智能体的跨平台模型管理与本地网关，支持多家模型服务、订阅账户及本地模型，提供协议转换、配置切换和配额耗尽时的自动回退
 - [hub](https://github.com/traceloop/hub) Traceloop 开源的高性能 LLM 网关，提供 OpenAI 兼容 API、多模型提供商接入和内置 OpenTelemetry 可观测性
@@ -441,6 +444,7 @@ url: /awesome/ai.md
 
 ### 记忆与上下文
 
+- [OpenViking](https://github.com/volcengine/OpenViking) 面向 AI 智能体的开源上下文数据库，以虚拟文件系统统一管理知识、记忆与技能，支持目录感知检索、分层摘要按需加载及跨会话记忆提取，提供 SDK、CLI 与智能体集成
 - [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
 - [agentmemory](https://github.com/rohitg00/agentmemory)
@@ -1749,6 +1753,7 @@ url: /awesome/javascript.md
 
 ## 动画
 
+- [ascii.rest](https://github.com/bas3line/ascii) TypeScript 编写的 ASCII 字符动画库，提供场景、文字横幅、加载动画与图表，支持 React、Next.js、Astro、原生 HTML、终端播放及动画 SVG 导出
 - [vap](https://github.com/Tencent/vap) VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台
 - [gsap](https://github.com/greensock/GSAP) 面向现代 Web 的 JavaScript 动画库
 - [morphicons](https://github.com/guillermolg00/morphicons) 为描边图标提供基于弹簧物理的通用形变动画，支持 React、Vue、Svelte 与 React Native
@@ -3944,6 +3949,7 @@ url: /awesome/rust.md
 
 ## Web 与网络
 
+- [Loco](https://github.com/loco-rs/loco) 受 Ruby on Rails 启发的 Rust Web 应用框架，基于 Axum 并强调约定优于配置，集成 ORM、控制器、模板视图、后台任务、定时调度、邮件与存储
 - [axum](https://github.com/tokio-rs/axum) 注重易用性与模块化的 Rust HTTP 路由与请求处理库，支持声明式请求提取，复用 Tower 中间件生态
 - [actix-web](https://github.com/actix/actix-web) 高性能 Rust Web 框架，兼容 Tokio，支持 HTTP/1 与 HTTP/2、WebSocket、流式处理和可扩展中间件
 - [salvo](https://github.com/salvo-rs/salvo) 基于 Hyper 与 Tokio 的 Rust Web 框架，支持树形路由、HTTP/3、OpenAPI 文档生成、WebSocket 与自动 TLS 证书管理
@@ -4540,6 +4546,7 @@ url: /awesome/desktop.md
 
 ### 文件传输
 
+- [Plexo](https://github.com/anmolkapil/plexo) 跨平台下载管理器，聚合多个独立网络连接进行并行下载，支持直链、磁力链接与种子文件、断点续传、浏览器集成、分网络限速及下载调度
 - [localsend](https://github.com/localsend/localsend) 一款**开源、跨平台**的 AirDrop 替代工具
 - [Lynavo Drive](https://github.com/Lynavo/lynavo-drive) 手机到桌面的局域网增量媒体同步工具，支持 iOS、Android、macOS 与 Windows
 - [motrix-next](https://github.com/AnInsomniacy/motrix-next) 一款功能完备的下载管理器
@@ -5282,6 +5289,7 @@ url: /awesome/ops.md
 
 ### 进程与日志
 
+- [PM2](https://github.com/Unitech/pm2) 面向 Node.js 与 Bun 应用的生产进程管理器，支持进程守护、自动重启、集群负载均衡、平滑重载、日志管理、终端监控及开机恢复
 - [btop](https://github.com/aristocratos/btop) 交互式终端资源监控工具，实时展示 CPU、内存、磁盘、网络与进程状态，支持鼠标操作和进程管理
 - [glances](https://github.com/nicolargo/glances) 一款系统监控工具，可替代 top、htop
 - [witr](https://github.com/pranshuparmar/witr) 这个进程到底为什么在跑
@@ -5329,6 +5337,7 @@ url: /awesome/ops.md
 
 ### 文件与数据处理
 
+- [Zstandard](https://github.com/facebook/zstd) 面向实时场景的快速无损压缩算法，提供 C 语言参考库与 zstd 命令行工具，支持可调压缩级别及字典压缩，兼顾压缩率与解压速度
 - [bzip3](https://github.com/iczelia/bzip3) BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
 - [bat](https://github.com/sharkdp/bat) 增强版 `cat` 命令行工具，支持语法高亮、Git 修改标记、行号显示与自动分页
