@@ -440,6 +440,7 @@ url: /awesome/ai.md
 
 ### 可观测性与评测
 
+- [Harness²](https://github.com/google-research/harness2) Google Research 开源的智能体运行框架递归优化研究工具，在固定模型权重下迭代提示词、工具、记忆与技能，积累跨任务改进经验，支持 Codex、OpenCode 执行器与多类基准评测
 - [@latitude-data/telemetry](https://www.npmjs.com/package/@latitude-data/telemetry) AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证
 
 ### 记忆与上下文
@@ -3222,6 +3223,7 @@ url: /awesome/node.md
 - [sucrase](https://github.com/alangpierce/sucrase) 面向现代 JS 运行环境、速度远超 Babel 的替代工具
 - [arborium](https://github.com/bearcove/arborium) 一套规范化整合 tree-sitter、tree-sitter-highlight 及各类语法解析库的集成包
 - [tsx](https://github.com/privatenumber/tsx) TypeScript 运行工具
+- [tsrs](https://github.com/oxc-project/tsrs) Rust 实现的 TypeScript 7 编译器与语言服务器，提供类型检查、代码生成及 WebAssembly 支持，以降低内存占用和加快检查为目标
 - [tsc-rs](https://www.npmjs.com/package/tsc-rs) TypeScript 7 编译器的实验性 Rust 移植，提供兼容 `tsc` 参数的类型检查 CLI、语言服务器与 API
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
@@ -3807,6 +3809,7 @@ url: /awesome/python.md
 
 ### 推理与部署
 
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer) DeepSeek 开源的高性能大规模模型推理框架，提供离线推理、分布式并行、异步调度、推测解码与结构化输出，支持 NVIDIA SM100 GPU 和昇腾 950 NPU
 - [vllm](https://github.com/vllm-project/vllm) 一款高吞吐、内存高效的大语言模型（LLM）推理与服务引擎
 - [sglang](https://github.com/sgl-project/sglang) 面向大语言、视觉语言与扩散模型的高性能推理框架，支持大规模模型服务、智能体工作负载与强化学习采样，内置图像和视频生成引擎
 
@@ -3949,6 +3952,7 @@ url: /awesome/rust.md
 
 ## Web 与网络
 
+- [reqwest](https://github.com/seanmonstar/reqwest) 易用且功能完备的 Rust HTTP 客户端，提供异步与阻塞接口，支持 JSON、表单与文件上传、重定向策略、代理、TLS、Cookie 存储及 WebAssembly
 - [Loco](https://github.com/loco-rs/loco) 受 Ruby on Rails 启发的 Rust Web 应用框架，基于 Axum 并强调约定优于配置，集成 ORM、控制器、模板视图、后台任务、定时调度、邮件与存储
 - [axum](https://github.com/tokio-rs/axum) 注重易用性与模块化的 Rust HTTP 路由与请求处理库，支持声明式请求提取，复用 Tower 中间件生态
 - [actix-web](https://github.com/actix/actix-web) 高性能 Rust Web 框架，兼容 Tokio，支持 HTTP/1 与 HTTP/2、WebSocket、流式处理和可扩展中间件
@@ -5385,6 +5389,7 @@ url: /awesome/security.md
 
 ## 密码与凭据管理
 
+- [OpenBao](https://github.com/openbao/openbao) 开源机密管理系统，用于集中存储与分发凭据、证书和密钥，支持加密存储、动态凭据、数据加解密及租约续期与撤销
 - [oak-keyring](https://github.com/OpenKeyring/oak-keyring) 一款以隐私为先、本地优先，支持多平台同步的密码管理器
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) 密码管理服务
 - [tesla\_auth](https://github.com/adriankumpf/tesla_auth) Rust 编写的 Tesla 令牌生成工具，支持 MFA 与验证码流程的一键登录，安全产出 API 访问令牌
