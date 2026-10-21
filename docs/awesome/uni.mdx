@@ -7,6 +7,7 @@
 
 ## 小程序支持
 
+- [wxa-runner](https://github.com/open-wxa/wxa-runner) 基于微信官方基础库的浏览器小程序运行工具，可加载原生小程序及 uni-app、Taro 编译产物，支持 Chrome DevTools 调试、热更新、API 模拟和 Playwright 无头 E2E 测试
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
 
 ## 组件库

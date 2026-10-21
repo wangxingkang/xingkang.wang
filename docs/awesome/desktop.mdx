@@ -140,6 +140,7 @@
 
 ### 系统管理
 
+- [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 面向 Android TV 与 Google TV 的精简与桌面定制方案，借助 AI 编程助手通过 Wi-Fi ADB 备份配置、禁用预装广告与遥测服务，并安装 Apple TV 风格启动器，提供恢复脚本，无需 Root
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
@@ -208,6 +209,7 @@
 
 ### 游戏
 
+- [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 
 ### 三维建模

@@ -107,6 +107,7 @@
 
 ### 客服
 
+- [Ydisks Xianyu Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) 基于 Go 与 React 的可自托管闲鱼多账号管理系统，整合消息与订单管理、卡密库存、自动发货、关键词及 AI 回复和异常通知，支持 Docker 部署与桌面安装包
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
 
 ## 生活管理

@@ -204,6 +204,7 @@
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) Claude Code 上下文压缩插件，借助 Jev 按调用保留、截断或移除过期工具结果
+- [billion-context](https://github.com/ranxianglei/billion-context) 面向 Claude Code、Codex、OpenCode、Pi 等智能体的上下文压缩插件与代理，通过模型驱动的增量分层摘要管理长会话，支持按需解压、上下文搜索及 Anthropic/OpenAI 协议接入
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则

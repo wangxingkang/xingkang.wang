@@ -8,6 +8,7 @@
 
 ## 网络与服务端
 
+- [chi](https://github.com/go-chi/chi) 轻量、可组合的 Go HTTP 路由库，兼容标准库 `net/http`，支持中间件、路由分组、子路由挂载及基于 `context` 的请求取消与超时控制，无外部依赖
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用

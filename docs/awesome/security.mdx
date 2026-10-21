@@ -61,6 +61,7 @@
 
 ## 逆向与二进制分析
 
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) NSA 开源的软件逆向工程框架，支持多种处理器指令集与可执行格式，提供反汇编、反编译、图形分析及 Java/Python 脚本扩展，可在 Windows、macOS 和 Linux 上交互或自动化运行
 - [morluto/rea](https://github.com/morluto/rea) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件

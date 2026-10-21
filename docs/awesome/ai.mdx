@@ -135,6 +135,7 @@
 
 ### 记忆与上下文
 
+- [RuVector](https://github.com/ruvnet/RuVector) Rust 构建的本地向量检索与智能体记忆基础设施，整合语义嵌入、持久化检索、图关系及显式反馈学习，提供 Rust、Node.js、Python 接口、浏览器 WASM 组件与 MCP 集成
 - [OpenViking](https://github.com/volcengine/OpenViking) 面向 AI 智能体的开源上下文数据库，以虚拟文件系统统一管理知识、记忆与技能，支持目录感知检索、分层摘要按需加载及跨会话记忆提取，提供 SDK、CLI 与智能体集成
 - [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
@@ -224,7 +225,7 @@
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
-- [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
+- [text-to-cad](https://github.com/earthtojake/text-to-cad) 面向 Claude Code、Codex、Cursor 等智能体的本地 CAD 插件与技能库，支持从自然语言或图片创建模型，导出 STEP、GLB、STL、3MF，并提供工程图、可制造性检查及制造服务集成
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
