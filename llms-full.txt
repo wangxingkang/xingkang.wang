@@ -725,6 +725,7 @@ url: /awesome/ai.md
 
 ### 智能体
 
+- [Easel](https://github.com/ZJU-REAL/Easel) 基于 OpenClaw 的开源 AI 社媒内容工作台，整合热点发现、选题策划、图文与音视频创作、多平台发布和表现复盘，支持账号画像、内容日历及小红书、抖音、知乎、B 站等平台
 - [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
 - [OpenMuse](https://github.com/CopilotKit/openmuse) 基于 CopilotKit 与 AG-UI 的可自托管个人智能体应用，提供持久浏览器、隔离终端、文件处理、任务恢复与人工审批
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
@@ -4036,6 +4037,18 @@ url: /awesome/rust.md
 
 
 ---
+url: /awesome/swift.md
+---
+
+# Swift
+
+## 图片加载与缓存
+
+- [Kingfisher](https://github.com/onevcat/Kingfisher) 纯 Swift 图片下载与缓存库，支持内存与磁盘缓存、图片处理与预取，提供 UIKit、AppKit 及 SwiftUI 集成
+
+
+
+---
 url: /awesome/java.md
 ---
 
@@ -4591,6 +4604,7 @@ url: /awesome/desktop.md
 
 ### 移动设备
 
+- [Bark](https://github.com/Finb/Bark) iOS 自定义通知推送应用，通过 HTTP GET 或 POST 请求向 iPhone 发送通知，支持消息分组、自定义图标与声音、加密推送及自建服务器
 - [LiveContainer](https://github.com/LiveContainer/LiveContainer) 在 iOS 设备中运行其他 iOS 应用的启动器，支持多版本应用与独立数据容器
 
 
@@ -5516,6 +5530,10 @@ url: /awesome/self-hosted.md
 - [gitea](https://github.com/go-gitea/gitea) 代码托管
 - [soft-serve](https://github.com/charmbracelet/soft-serve) 功能强大、可自建部署的命令行 Git 服务器
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
+
+## 设计与创作
+
+- [Doory](https://github.com/shaongitbd/doory) 可自托管的浏览器设计编辑器与 Canva 替代工具，用于制作海报、社媒图片和幻灯片，支持模板、图层、动画、实时协作及图片、PDF、视频与 GIF 导出，并提供 MCP 接口
 
 ## 媒体与相册
 

@@ -258,4 +258,5 @@
 
 ### 移动设备
 
+- [Bark](https://github.com/Finb/Bark) iOS 自定义通知推送应用，通过 HTTP GET 或 POST 请求向 iPhone 发送通知，支持消息分组、自定义图标与声音、加密推送及自建服务器
 - [LiveContainer](https://github.com/LiveContainer/LiveContainer) 在 iOS 设备中运行其他 iOS 应用的启动器，支持多版本应用与独立数据容器

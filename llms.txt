@@ -24,6 +24,7 @@
 - [Python](/awesome/python.md): 收录 Python 开发库、框架与学习资源。可直接使用的 AI 应用见 AI，部署服务和系统工具见运维。
 - [Go](/awesome/go.md): 收录 Go 开发库、框架与学习资源。数据库、容器及网络工具见运维，自托管应用见自托管。
 - [Rust](/awesome/rust.md): 收录 Rust 开发库与生态工具。成品软件可按用途查找AI 编程工具、编辑器、终端工具和桌面应用。
+- [Swift](/awesome/swift.md)
 - [Java](/awesome/java.md): 收录 Java / JVM 开发框架。数据库、监控与服务治理平台见运维。
 - [C/C++ 开发](/awesome/cpp.md)
 - [React Native](/awesome/react-native.md)
