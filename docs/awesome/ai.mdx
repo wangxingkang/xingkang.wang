@@ -415,6 +415,7 @@
 
 ### 智能体
 
+- [Easel](https://github.com/ZJU-REAL/Easel) 基于 OpenClaw 的开源 AI 社媒内容工作台，整合热点发现、选题策划、图文与音视频创作、多平台发布和表现复盘，支持账号画像、内容日历及小红书、抖音、知乎、B 站等平台
 - [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
 - [OpenMuse](https://github.com/CopilotKit/openmuse) 基于 CopilotKit 与 AG-UI 的可自托管个人智能体应用，提供持久浏览器、隔离终端、文件处理、任务恢复与人工审批
 - [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间

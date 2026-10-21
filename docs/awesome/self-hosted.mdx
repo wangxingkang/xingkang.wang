@@ -44,6 +44,10 @@
 - [soft-serve](https://github.com/charmbracelet/soft-serve) 功能强大、可自建部署的命令行 Git 服务器
 - [gogs](https://github.com/gogs/gogs) 轻松搭建专属 Git 服务
 
+## 设计与创作
+
+- [Doory](https://github.com/shaongitbd/doory) 可自托管的浏览器设计编辑器与 Canva 替代工具，用于制作海报、社媒图片和幻灯片，支持模板、图层、动画、实时协作及图片、PDF、视频与 GIF 导出，并提供 MCP 接口
+
 ## 媒体与相册
 
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
