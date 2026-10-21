@@ -5,12 +5,12 @@
 <title>uni-app 与小程序 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-15e411ac4f23.e184d51cf3.js" as="script">
+<link rel="preload" href="/static/js/async/route-15e411ac4f23.ad99524fd9.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.6e955dd39d.js"></script>
+<script defer src="/static/js/index.9de847d241.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -28,6 +28,7 @@
 </ul>
 <h2 class="rp-toc-include" id="小程序支持"><a href="#小程序支持" class="rp-header-anchor rp-link" aria-hidden="true">#</a>小程序支持</h2>
 <ul>
+<li><a href="https://github.com/open-wxa/wxa-runner" target="_blank" rel="noopener noreferrer" class="rp-link">wxa-runner</a> 基于微信官方基础库的浏览器小程序运行工具，可加载原生小程序及 uni-app、Taro 编译产物，支持 Chrome DevTools 调试、热更新、API 模拟和 Playwright 无头 E2E 测试</li>
 <li><a href="https://github.com/wechat-miniprogram/api-typings" target="_blank" rel="noopener noreferrer" class="rp-link">miniprogram-api-typings</a> 微信小程序 API 的 TypeScript 类型定义</li>
 </ul>
 <h2 class="rp-toc-include" id="组件库"><a href="#组件库" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件库</h2>

@@ -445,6 +445,7 @@ url: /awesome/ai.md
 
 ### 记忆与上下文
 
+- [RuVector](https://github.com/ruvnet/RuVector) Rust 构建的本地向量检索与智能体记忆基础设施，整合语义嵌入、持久化检索、图关系及显式反馈学习，提供 Rust、Node.js、Python 接口、浏览器 WASM 组件与 MCP 集成
 - [OpenViking](https://github.com/volcengine/OpenViking) 面向 AI 智能体的开源上下文数据库，以虚拟文件系统统一管理知识、记忆与技能，支持目录感知检索、分层摘要按需加载及跨会话记忆提取，提供 SDK、CLI 与智能体集成
 - [Semantica](https://github.com/semantica-agi/semantica) 面向 AI 系统的 Python 语义与上下文基础设施，将多源数据组织为上下文图和知识图谱，支持本体管理、图分析、推理与决策溯源
 - [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) 腾讯云开源的团队级 Agent 记忆中枢，将对话、文档和代码沉淀为可复用记忆资产
@@ -534,7 +535,7 @@ url: /awesome/ai.md
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
 - [brag](https://github.com/latent-spaces/brag) 将项目一键生成包含音乐、动效与分享文案的短发布视频的智能体技能
-- [text-to-cad](https://github.com/earthtojake/text-to-cad) 一套适用于 CAD、CAE 和 CAM 领域的代理技能库
+- [text-to-cad](https://github.com/earthtojake/text-to-cad) 面向 Claude Code、Codex、Cursor 等智能体的本地 CAD 插件与技能库，支持从自然语言或图片创建模型，导出 STEP、GLB、STL、3MF，并提供工程图、可制造性检查及制造服务集成
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) 小黑配图
 - [cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content) 网红作弊器 — 把每一条内容变成可校准的实验
 - [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) 一个面向 Codex 的 PPT 生成 skill，也可在 Claude Code、OpenClaw、Hermes Agent 等支持 SKILL.md 的 agent 中使用
@@ -1046,6 +1047,7 @@ url: /awesome/vibe-coding.md
 - [headroom](https://github.com/chopratejas/headroom) 在数据送入大语言模型前，对工具输出内容、日志、文件以及检索增强文本块进行压缩
 - [context-mode](https://github.com/mksglu/context-mode) 面向 AI 代码智能体的上下文窗口优化；沙箱隔离工具输出内容，上下文占用缩减 98%，适配 15 个开发平台
 - [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) Claude Code 上下文压缩插件，借助 Jev 按调用保留、截断或移除过期工具结果
+- [billion-context](https://github.com/ranxianglei/billion-context) 面向 Claude Code、Codex、OpenCode、Pi 等智能体的上下文压缩插件与代理，通过模型驱动的增量分层摘要管理长会话，支持按需解压、上下文搜索及 Anthropic/OpenAI 协议接入
 - [rtk](https://github.com/rtk-ai/rtk) CLI 代理，将常见开发命令的 LLM Token 消耗降低 60-90%
 - [gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包
 - [ruler](https://github.com/intellectronica/ruler) 为所有代码智能体统一应用相同规则
@@ -3874,6 +3876,7 @@ url: /awesome/go.md
 
 ## 网络与服务端
 
+- [chi](https://github.com/go-chi/chi) 轻量、可组合的 Go HTTP 路由库，兼容标准库 `net/http`，支持中间件、路由分组、子路由挂载及基于 `context` 的请求取消与超时控制，无外部依赖
 - [fasthttp](https://github.com/valyala/fasthttp) Go 语言的快速 HTTP 包
 - [Echo](https://github.com/labstack/echo) 高性能、可扩展的轻量 Go Web 框架，支持路由、中间件、请求绑定与集中式错误处理
 - [wish](https://github.com/charmbracelet/wish) 轻松打造 SSH 应用
@@ -4297,6 +4300,7 @@ url: /awesome/uni.md
 
 ## 小程序支持
 
+- [wxa-runner](https://github.com/open-wxa/wxa-runner) 基于微信官方基础库的浏览器小程序运行工具，可加载原生小程序及 uni-app、Taro 编译产物，支持 Chrome DevTools 调试、热更新、API 模拟和 Playwright 无头 E2E 测试
 - [miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings) 微信小程序 API 的 TypeScript 类型定义
 
 ## 组件库
@@ -4486,6 +4490,7 @@ url: /awesome/desktop.md
 
 ### 系统管理
 
+- [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 面向 Android TV 与 Google TV 的精简与桌面定制方案，借助 AI 编程助手通过 Wi-Fi ADB 备份配置、禁用预装广告与遥测服务，并安装 Apple TV 风格启动器，提供恢复脚本，无需 Root
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
@@ -4554,6 +4559,7 @@ url: /awesome/desktop.md
 
 ### 游戏
 
+- [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 
 ### 三维建模
@@ -5451,6 +5457,7 @@ url: /awesome/security.md
 
 ## 逆向与二进制分析
 
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) NSA 开源的软件逆向工程框架，支持多种处理器指令集与可执行格式，提供反汇编、反编译、图形分析及 Java/Python 脚本扩展，可在 Windows、macOS 和 Linux 上交互或自动化运行
 - [morluto/rea](https://github.com/morluto/rea) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
@@ -5594,6 +5601,7 @@ url: /awesome/self-hosted.md
 
 ### 客服
 
+- [Ydisks Xianyu Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) 基于 Go 与 React 的可自托管闲鱼多账号管理系统，整合消息与订单管理、卡密库存、自动发货、关键词及 AI 回复和异常通知，支持 Docker 部署与桌面安装包
 - [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计
 
 ## 生活管理
@@ -5816,6 +5824,8 @@ url: /awesome/github.md
 
 ## 数据集
 
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 按主题分类的中文表情包与梗图集合，提供在线关键词搜图、分类合集下载及图片索引和标注数据，可用于表情检索工具与相关应用开发
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 以 JSON 格式分发的中华古诗词与古典文集数据库，收录唐诗、宋诗、宋词、诗经、论语、楚辞等内容，便于构建诗词检索、阅读与数据分析应用
 - [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频
 
 
