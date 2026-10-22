@@ -26,6 +26,10 @@
 - [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
 - [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
 
+## MCP 测试与调试
+
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector) MCP 官方服务器检查与测试工具，提供 Web 界面、可脚本化 CLI 和交互式终端界面，便于调试 MCP 服务并集成自动化测试与 CI
+
 ## 接口模拟
 
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器

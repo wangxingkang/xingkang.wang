@@ -149,6 +149,7 @@
 
 ### 开发技能
 
+- [claude-skills](https://github.com/Jeffallan/claude-skills) 面向 Claude Code 的全栈开发技能集，覆盖编程语言、前后端框架、API、测试、DevOps、安全与数据工程，支持按任务激活、多技能协作及 Jira、Confluence 项目工作流集成
 - [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) 面向 Codex 与 Claude Code 的 Three.js 浏览器游戏开发技能集，覆盖玩法、图形、界面、调试与发布验证，内置项目脚手架和 Playwright 测试模板，并支持可选的 AI 素材生成
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [handraw-style](https://github.com/yang0/handraw-style) 为 AI 生图提供手绘风格、排版图型与主题色的中英双语提示词技能

@@ -329,6 +329,7 @@
 
 ### 音视频
 
+- [BaoCut](https://github.com/JimLiu/baocut) 面向 macOS 与 Windows 的 AI 视频智能体与可编辑时间线工作台，支持语音转写、字幕翻译、配音、剪辑及代码动效，让用户与智能体在同一编辑器中持续修改，提供本地模型与在线服务接入
 - [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
 - [BeefTV](https://github.com/glanderness/BeefTV) 开源本地优先的 AI 视频创作工作台，在自由画布中组织创意、模型与素材，支持文字、图像、视频和音频生成流程
 - [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体

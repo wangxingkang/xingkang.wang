@@ -639,6 +639,7 @@ url: /awesome/ai.md
 
 ### 音视频
 
+- [BaoCut](https://github.com/JimLiu/baocut) 面向 macOS 与 Windows 的 AI 视频智能体与可编辑时间线工作台，支持语音转写、字幕翻译、配音、剪辑及代码动效，让用户与智能体在同一编辑器中持续修改，提供本地模型与在线服务接入
 - [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
 - [BeefTV](https://github.com/glanderness/BeefTV) 开源本地优先的 AI 视频创作工作台，在自由画布中组织创意、模型与素材，支持文字、图像、视频和音频生成流程
 - [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体
@@ -992,6 +993,7 @@ url: /awesome/vibe-coding.md
 
 ### 开发技能
 
+- [claude-skills](https://github.com/Jeffallan/claude-skills) 面向 Claude Code 的全栈开发技能集，覆盖编程语言、前后端框架、API、测试、DevOps、安全与数据工程，支持按任务激活、多技能协作及 Jira、Confluence 项目工作流集成
 - [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) 面向 Codex 与 Claude Code 的 Three.js 浏览器游戏开发技能集，覆盖玩法、图形、界面、调试与发布验证，内置项目脚手架和 Playwright 测试模板，并支持可选的 AI 素材生成
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 一项可为多平台专业 UI/UX 设计提供智能设计能力的 AI 技能
 - [handraw-style](https://github.com/yang0/handraw-style) 为 AI 生图提供手绘风格、排版图型与主题色的中英双语提示词技能
@@ -5026,6 +5028,10 @@ url: /awesome/test.md
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
 - [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
 - [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
+
+## MCP 测试与调试
+
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector) MCP 官方服务器检查与测试工具，提供 Web 界面、可脚本化 CLI 和交互式终端界面，便于调试 MCP 服务并集成自动化测试与 CI
 
 ## 接口模拟
 
