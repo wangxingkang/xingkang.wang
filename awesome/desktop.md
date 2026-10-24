@@ -143,6 +143,7 @@
 - [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 面向 Android TV 与 Google TV 的精简与桌面定制方案，借助 AI 编程助手通过 Wi-Fi ADB 备份配置、禁用预装广告与遥测服务，并安装 Apple TV 风格启动器，提供恢复脚本，无需 Root
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
+- [MangoDisk](https://github.com/harry0703/MangoDisk) 面向 macOS、Windows 与 Linux 的开源磁盘清理与空间分析工具，支持缓存、大文件与重复文件清理、应用卸载、启动项管理及系统维护
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
 - [BrewUI](https://github.com/Homebrew/brewui) Homebrew 官方 macOS 图形界面，用于发现、安装、更新和管理软件包
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
