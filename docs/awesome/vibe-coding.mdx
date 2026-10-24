@@ -59,6 +59,7 @@
 
 ### 扩展与参考
 
+- [CCBaga](https://github.com/liseami/CCBaga) 跨平台 Claude 本地身份与环境管理工具，支持 Claude Code 和 Claude Desktop 身份归档与切换、配套浏览器指纹管理、系统区域设置及环境验证
 - [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 按开发领域分类的 Claude Code 专用子智能体合集，覆盖前后端、语言、基础设施、测试与协作编排，支持插件安装及全局或项目级配置
 - [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
@@ -290,6 +291,7 @@
 - [munder-difflin](https://github.com/HarnessMD/munder-difflin) 本地多智能体桌面工作区，将 Claude Code、Codex、Gemini CLI、Pi 等命令行智能体组织为可视化办公室，支持任务路由、智能体通信与长期记忆，可使用现有订阅或自有模型
 - [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
+- [Ovis](https://github.com/devswha/ovis) herdr 的浏览器与手机客户端，支持查看和回复 Claude Code、Codex 等智能体会话、切换实时终端、通过 SSH 接入远程电脑及接收推送通知
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
