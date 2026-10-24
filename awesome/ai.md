@@ -106,6 +106,7 @@
 - [chatgpt2api](https://github.com/basketikun/chatgpt2api) ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [FlatKey](https://flatkey.ai/) 统一接入多家 AI 模型与工具的 API 平台，提供 OpenAI 兼容接口、模型路由、密钥与预算管理及用量记录
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 统一接入多家模型提供商的开源 AI 网关，支持配额感知自动回退
 - [千问系列](https://www.qianwenai.com)
 - [硅基流动-国际站](https://www.siliconflow.com)

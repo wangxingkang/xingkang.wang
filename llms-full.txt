@@ -416,6 +416,7 @@ url: /awesome/ai.md
 - [chatgpt2api](https://github.com/basketikun/chatgpt2api) ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry Studio、New Api 等软件
 - [ZenMux](https://zenmux.ai)
 - [OpenRouter](https://openrouter.ai)
+- [FlatKey](https://flatkey.ai/) 统一接入多家 AI 模型与工具的 API 平台，提供 OpenAI 兼容接口、模型路由、密钥与预算管理及用量记录
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) 统一接入多家模型提供商的开源 AI 网关，支持配额感知自动回退
 - [千问系列](https://www.qianwenai.com)
 - [硅基流动-国际站](https://www.siliconflow.com)
@@ -903,6 +904,7 @@ url: /awesome/vibe-coding.md
 
 ### 扩展与参考
 
+- [CCBaga](https://github.com/liseami/CCBaga) 跨平台 Claude 本地身份与环境管理工具，支持 Claude Code 和 Claude Desktop 身份归档与切换、配套浏览器指纹管理、系统区域设置及环境验证
 - [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 按开发领域分类的 Claude Code 专用子智能体合集，覆盖前后端、语言、基础设施、测试与协作编排，支持插件安装及全局或项目级配置
 - [VibeWise](https://github.com/nykooi1/vibe-wise) 以学习为先的 Claude Code 插件，引导设计讨论与实现检查点，并在完成后解释改动和验证结果
 - [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 使用 Claude Code 中的 Codex 工具审查代码或委派任务
@@ -1134,6 +1136,7 @@ url: /awesome/vibe-coding.md
 - [munder-difflin](https://github.com/HarnessMD/munder-difflin) 本地多智能体桌面工作区，将 Claude Code、Codex、Gemini CLI、Pi 等命令行智能体组织为可视化办公室，支持任务路由、智能体通信与长期记忆，可使用现有订阅或自有模型
 - [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) 将终端中的 AI coding agent 可视化编排为像素办公室的本地工具，支持 VS Code 插件与独立 CLI
 - [paseo](https://github.com/getpaseo/paseo) 从桌面和移动端编排多个编码代理
+- [Ovis](https://github.com/devswha/ovis) herdr 的浏览器与手机客户端，支持查看和回复 Claude Code、Codex 等智能体会话、切换实时终端、通过 SSH 接入远程电脑及接收推送通知
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) 充分释放 Claude Code、Codex 及各类代码智能体十倍效能
 - [hive](https://github.com/morapelker/hive) 项目 / 工作树管理器，与 AI 智能体深度集成，以提升工作效率并高效处理多任务
 - [neovate-desktop](https://github.com/neovateai/neovate-desktop) 一款面向 Claude Code 的原生桌面应用
@@ -2093,6 +2096,7 @@ url: /awesome/javascript.md
 
 ### 视频编辑
 
+- [Revideo](https://github.com/midrender/revideo) 用 TypeScript 编排场景与动画的视频渲染引擎，支持无头渲染、并行导出、音视频同步及 React 播放器预览
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
   - [@webav/av-cliper](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-cliper)
   - [@webav/av-recorder](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-recorder)
@@ -4561,6 +4565,7 @@ url: /awesome/desktop.md
 
 ### 游戏
 
+- [PlayCover](https://github.com/PlayCover/PlayCover) 在 Apple Silicon Mac 上运行 iOS 应用与游戏的开源工具，支持鼠标、键盘、手柄及自定义触控按键映射
 - [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 

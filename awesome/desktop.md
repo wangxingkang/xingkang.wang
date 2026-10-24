@@ -209,6 +209,7 @@
 
 ### 游戏
 
+- [PlayCover](https://github.com/PlayCover/PlayCover) 在 Apple Silicon Mac 上运行 iOS 应用与游戏的开源工具，支持鼠标、键盘、手柄及自定义触控按键映射
 - [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
 

@@ -925,6 +925,7 @@
 
 ### 视频编辑
 
+- [Revideo](https://github.com/midrender/revideo) 用 TypeScript 编排场景与动画的视频渲染引擎，支持无头渲染、并行导出、音视频同步及 React 播放器预览
 - [WebAV](https://github.com/WebAV-Tech/WebAV) 基于 WebCodecs 构建的网页视频编辑 SDK
   - [@webav/av-cliper](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-cliper)
   - [@webav/av-recorder](https://github.com/WebAV-Tech/WebAV/tree/main/packages/av-recorder)
