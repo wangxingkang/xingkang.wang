@@ -134,7 +134,7 @@
 
 ### AI
 
-- [PI Agent 学习指南](https://pistudy.com.cn)
+- [PI Agent 学习指南](https://pistudy.com.cn) 暂不可用（HTTPS 证书已过期，2026-10-25 复查）
 - [datawhale](https://www.datawhale.cn) 学习 ai
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) LLM、RAG 与智能体应用的深度教程和实战项目集
 
@@ -145,7 +145,7 @@
 - [usehook](https://usehook.cn)
 - [30secondsofcode](https://www.30secondsofcode.org) 编程技术文章，助你提升开发技能
 - [Learn Git Branching](https://learngitbranching.js.org) Git 学习
-- [threejs3d](https://threejs3d.com)  探索 3D 可视化与数字孪生世界
+- [threejs3d](https://threejs3d.com) 探索 3D 可视化与数字孪生世界；暂不可用（HTTPS 证书已过期，2026-10-25 复查）
 - [business-util](https://wsafight.github.io/business-util/business/currency/)
 
 ### 算法与面试

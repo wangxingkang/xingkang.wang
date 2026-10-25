@@ -368,7 +368,6 @@
 - [raphael](https://raphael.app/zh) 全球首个无限制免费 AI 图片生成器
 - [upscayl](https://github.com/upscayl/upscayl) 开源的 AI 图像放大器
 - [Topaz Labs](https://www.topazlabs.com/) AI 图像与视频增强工具套件，支持降噪、锐化、超分辨率放大与视频补帧，提供桌面应用和云端处理
-- [geminiwatermarkcleaner](https://geminiwatermarkcleaner.com) 去掉 Gemini 水印
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) 功能最强、模块化程度最高的扩散模型图形界面、应用程序接口与后端服务，搭载节点流程图可视化操作面板
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) 面向 Stable Diffusion 等模型的专业视觉生成引擎，提供本地 Web UI、统一画布和节点工作流
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) 支持图像、视频与音频模型的模块化本地 Web UI，提供生成工具和 ComfyUI 工作流
@@ -385,7 +384,7 @@
 - [MotionSites AI](https://motionsites.ai/) 面向 AI 建站的落地页与页面区块提示词库，可直接复制用于生成设计
 - [stitch](https://stitch.withgoogle.com) AI 驱动的无代码 UI 设计工具​
 - [calicat](https://www.calicat.cn) 生成原型设计、需求文档
-- [ardot](https://d.qq.com) AI 设计
+- [ardot](https://ardot.tencent.com/) AI 设计
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) 基于 Next.js 与 draw\.io 的 AI 图表工具，可通过自然语言创建、修改和增强流程图、架构图等图表
 - [drawflare](https://drawflare.com/zh) 把“网页”变成“设计稿”
 - [Codia](https://codia.ai) AI 设计与格式转换平台，可将截图、PDF 和图片重建为可编辑的 Figma、PowerPoint、Canva 等设计文件，并支持 Figma 转代码
