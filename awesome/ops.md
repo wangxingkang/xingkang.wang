@@ -2,6 +2,19 @@
 
 收录数据库、部署、网络、终端和可观测性等基础设施与运维工具。面向个人或团队业务的应用见[自托管](/awesome/self-hosted.md)。
 
+**按需查找**
+
+| 想找什么               | 直接前往                                            |
+| ------------------ | ----------------------------------------------- |
+| 部署应用与后端平台          | [部署](#部署) · [后端平台](#后端平台)                       |
+| 虚拟机、沙箱、Docker 与集群  | [虚拟化与容器](#虚拟化与容器)                               |
+| 数据库、搜索与管理客户端       | [数据库与搜索](#数据库与搜索)                               |
+| 文件存储、备份与制品仓库       | [存储与文件服务](#存储与文件服务) · [备份](#备份) · [制品仓库](#制品仓库) |
+| 音视频服务、消息队列与服务治理    | [实时音视频](#实时音视频) · [消息队列](#消息队列) · [服务治理](#服务治理) |
+| 网络诊断、组网、DNS、代理与证书  | [网络](#网络) · [证书](#证书)                           |
+| 指标、日志与网站服务监控       | [监控与可观测性](#监控与可观测性)                             |
+| 终端、Shell、远程访问与文件命令 | [终端](#终端)                                       |
+
 ## 部署
 
 - [coolify](https://github.com/coollabsio/coolify) 一款开源、可自托管的 PaaS 平台，可作为 Vercel、Heroku 和 Netlify 的替代方案，让你轻松在自己的服务器上部署静态站点、数据库、全栈应用以及 280+ 个一键式服务
@@ -9,6 +22,11 @@
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
 - [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
 - [openship](https://www.npmjs.com/package/openship) 开源自托管部署平台，提供内置 CI/CD、应用构建部署、域名路由与 TLS 管理，并支持桌面端、Web 与 CLI 操作
+
+## 后端平台
+
+- [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
+- [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
 
 ## 虚拟化与容器
 
@@ -97,6 +115,10 @@
 - [rsync](https://github.com/RsyncProject/rsync) 实现快速增量文件传输
 - [rclone](https://github.com/rclone/rclone) 面向云存储的 rsync 命令行工具，支持跨服务商同步文件与目录
 
+## 实时音视频
+
+- [LiveKit](https://github.com/livekit/livekit) 可扩展的分布式 WebRTC SFU，为实时音视频、数据传输与 AI 智能体提供服务端基础设施
+
 ## 消息队列
 
 - [Apache Iggy](https://github.com/apache/iggy) 基于 Rust 的持久化消息流平台，支持流、主题、分区和消费者组，提供 QUIC、WebSocket、TCP、HTTP 协议及多语言 SDK
@@ -153,7 +175,6 @@
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - [clash-party](https://github.com/mihomo-party-org/clash-party) 科学上网
 - [MySelf](https://github.com/jnlaoshu/MySelf) 汇集 Egern、Stash、Surge、Loon、Quantumult X、Shadowrocket 等代理客户端的自用配置与脚本，仅供参考
-- [wloc](https://github.com/Yu9191/wloc) 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 - [3x-ui](https://github.com/MHSanaei/3x-ui) 支持多协议和多用户的 Xray 管理面板，具备到期天数、流量及 IP 限制功能（支持 Vmess、Vless、Trojan、Shadowsocks、Wireguard、Hysteria、隧道、混合模式、HTTP、TUN 模式）
 - [Sub-Store](https://github.com/sub-store-org/Sub-Store) 面向多种代理客户端的订阅管理、格式转换与聚合服务

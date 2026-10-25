@@ -2,6 +2,17 @@
 
 收录 Python 开发库、框架与学习资源。可直接使用的 AI 应用见 [AI](/awesome/ai.md)，部署服务和系统工具见[运维](/awesome/ops.md)。
 
+**按需查找**
+
+| 想找什么          | 直接前往                                                  |
+| ------------- | ----------------------------------------------------- |
+| 智能体、模型接入与 RAG | [智能体框架](#智能体框架) · [模型 SDK](#模型-sdk) · [检索与嵌入](#检索与嵌入) |
+| 模型训练、评测与部署    | [训练与评测](#训练与评测) · [推理与部署](#推理与部署)                     |
+| 视觉、语音与记忆能力    | [图像与视觉](#图像与视觉) · [语音](#语音) · [记忆](#记忆)               |
+| Web 服务与后台任务   | [网络与 Web](#网络与-web) · [后台任务与调度](#后台任务与调度)             |
+| 数据处理与文档解析     | [数据处理](#数据处理) · [文档解析与生成](#文档解析与生成)                   |
+| 图形、视频与学习参考    | [图形与媒体](#图形与媒体) · [学习资源](#学习资源)                       |
+
 ## 官方资源
 
 - [官网](https://www.python.org)
@@ -17,7 +28,6 @@
 - [autogen](https://github.com/microsoft/autogen)
 - [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel)
-- [MiroFish](https://github.com/666ghj/MiroFish) 简洁通用的群体智能引擎，预测万物
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) 多智能体大模型金融交易框架
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) 开源智能体管理框架
 - [forge](https://github.com/antoinezambelli/forge) 一款用于私有化部署大模型工具调用与多步骤智能体工作流的 Python 开发框架
@@ -90,9 +100,12 @@
 - [fastapi](https://github.com/fastapi/fastapi) FastAPI 框架
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) 可通过所有机器人检测测试的隐身版 Chromium
 
-## 数据处理
+## 后台任务与调度
 
 - [celery](https://github.com/celery/celery) Python 分布式任务队列，支持异步任务、定时调度与多工作进程扩展，可使用 RabbitMQ 或 Redis 作为消息代理
+
+## 数据处理
+
 - [json\_repair](https://github.com/mangiucugna/json_repair) 可修复来自大语言模型、接口、日志与用户输入的格式错误 JSON
 - [redis](https://github.com/redis/redis-py) Redis 官方 Python 客户端
 - [honker](https://github.com/russellromney/honker) SQLite 扩展与绑定，兼容 Postgres 的 NOTIFY/LISTEN 机制，支持持久队列、数据流、发布订阅及任务调度器
@@ -103,6 +116,7 @@
 
 ## 文档解析与生成
 
+- [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
 - [markitdown](https://github.com/microsoft/markitdown) 用于将文件及办公文档转换为 Markdown 格式的 Python 工具
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) 将 PDF 文件转换为多种其他格式, 本项目将专注处理扫描版书籍 PDF 文件
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) 对 PDF 及其他格式文档进行数据提取、分析、格式转换与编辑处理
@@ -113,12 +127,11 @@
 
 ## 图形与媒体
 
-- [magika](https://github.com/google/magika) 由AI驱动，快速精准的文件内容类型检测
 - [CorridorKey](https://github.com/nikopueringer/CorridorKey) 绿幕抠图
 - [rembg](https://github.com/danielgatis/rembg) Rembg 是一款用于去除图片背景的工具。
 - [nobg](https://github.com/feyninc/nobg) 开源背景移除与图像抠图库，原生集成 Hugging Face Hub
 - [3b1b/manim](https://github.com/3b1b/manim) 用于制作解释性数学视频的动画引擎
-- [3b1b/videos](https://github.com/3b1b/videos) 用于 3blue1brown 视频中的人工生成场景的代码
+  - [3b1b/videos](https://github.com/3b1b/videos) 用于 3blue1brown 视频中的人工生成场景的代码
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 基于 Python 与 OpenCV 的场景切分 / 转场检测程序及工具库
 - [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts 绘图库
 

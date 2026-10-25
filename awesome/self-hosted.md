@@ -2,6 +2,17 @@
 
 按使用场景收录可自行运行的个人与团队应用。数据库、网络服务及部署平台见[运维](/awesome/ops.md)，AI 应用见 [AI](/awesome/ai.md)。
 
+**按需查找**
+
+| 想找什么             | 直接前往                                              |
+| ---------------- | ------------------------------------------------- |
+| 个人云、文件预览与同步      | [个人云](#个人云) · [文件与同步](#文件与同步)                     |
+| 沟通、笔记、项目与 Git 协作 | [协作](#协作)                                         |
+| 设计创作、音乐、视频与相册    | [设计与创作](#设计与创作) · [媒体与相册](#媒体与相册)                 |
+| 内部工具、内容发布与网站服务   | [网站服务](#网站服务)                                     |
+| 监控、统计与企业业务       | [监控与统计](#监控与统计) · [业务系统](#业务系统)                   |
+| 生活管理、归档与家庭设备     | [生活管理](#生活管理) · [下载与归档](#下载与归档) · [办公与设备](#办公与设备) |
+
 ## 个人云
 
 - [Glance](https://github.com/glanceapp/glance) 轻量可自托管的个人仪表盘，聚合 RSS、新闻、天气、视频更新与服务状态，支持 YAML 配置、自定义布局和主题
@@ -89,8 +100,6 @@
 
 - [WAHA](https://github.com/devlikeapro/waha) 可自托管的 WhatsApp HTTP API，支持 Docker 部署、消息收发、Webhook 与会话管理
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) Evolution API 是一款开源的 WhatsApp 集成 API
-- [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
-- [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
 
 ### 表单与票据
 

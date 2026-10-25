@@ -1,5 +1,18 @@
 # 网站与学习资源
 
+**按需查找**
+
+| 想找什么          | 直接前往                                        |
+| ------------- | ------------------------------------------- |
+| 找资源与开源项目入口    | [资源导航](#资源导航)                               |
+| 开发调试与兼容性查询    | [开发与调试](#开发与调试) · [兼容与规范](#兼容与规范)           |
+| 设计素材、组件效果与灵感  | [设计资源](#设计资源)                               |
+| 图片处理与办公文档工具   | [图片处理](#图片处理) · [办公与文档](#办公与文档)             |
+| 音视频、文件传输与内容归档 | [音视频](#音视频) · [文件传输](#文件传输) · [内容归档](#内容归档) |
+| 课程、工程学习、算法与面试 | [学习](#学习)                                   |
+| 博客与作者         | [博客](#博客)                                   |
+| 网络、账号与订阅服务    | [网络与账号服务](#网络与账号服务)                         |
+
 ## 资源导航
 
 - [npmx](https://npmx.dev) 替代 `https://www.npmjs.com`, 特点快
@@ -141,8 +154,7 @@
 - [javascript-algorithms](http://github.com/trekhleb/javascript-algorithms) 用 JavaScript 实现的算法与数据结构，附带详细讲解及拓展阅读链接。
 - [labuladong](https://labuladong.online/zh/) labuladong 的算法笔记
 - [leetcode](https://leetcode.cn) 力扣
-- [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器
-  - [mianshiya](https://github.com/liyupi/mianshiya) 开源仓库
+- [mianshiya](https://www.mianshiya.com) 面试鸭刷题神器（[开源仓库](https://github.com/liyupi/mianshiya)）
 
 ### 互动练习
 

@@ -1,12 +1,21 @@
 # Svelte
 
-## AI
+## 应用基础与组件库
+
+
+**AI 接入**
 
 - [@ai-sdk/svelte](https://github.com/vercel/ai/tree/main/packages/svelte)
 
-## 组件库
+
+**基础组件库**
 
 - [bits-ui](https://github.com/huntabyte/bits-ui) 适用于 Svelte 的无样式无头组件
+
+
+**页面元数据**
+
+- [@unhead/svelte](https://github.com/unjs/unhead/tree/main/packages/svelte) 适用于任意框架的全栈 `<head>` 工具包
 
 ## 组件
 
@@ -17,17 +26,16 @@
 - [overlayscrollbars-svelte](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-svelte) 一款 JavaScript 滚动条插件：隐藏原生滚动条，提供可自定义样式的覆盖式滚动条，同时保留原生的功能与使用体验。
 - [@tanstack/svelte-virtual](https://github.com/TanStack/virtual) 虚拟列表
 
-### 反馈
+### 输入、反馈与展示
+
 
 - [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) 一款有固定设计风格的 Svelte 消息提示（Toast）组件
 
-### 数据录入
 
 - [svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) 带刻度标记、支持无障碍、外观精美的**多滑块范围选择器**
 - [@visual-json/svelte](https://github.com/vercel-labs/visual-json) 可视化 JSON 编辑器。支持校验 JSON 模式、可嵌入部署、具备高度可扩展性
 - [svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) 一款基于网页的 JSON 工具，可用于查看、编辑、格式化、修复、查询、转换和验证 JSON 数据
 
-### 数据展示
 
 - [embla-carousel-svelte](https://github.com/davidjerleke/embla-carousel) 一款轻量型轮播图库，具备丝滑动效与精准滑动体验
 
@@ -43,15 +51,13 @@
 - [@number-flow/svelte](https://github.com/barvian/number-flow/tree/main/packages/svelte) 动画数字组件
 - [@lottiefiles/dotlottie-svelte](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 
-## 可视化
+## 图标与可视化
+
+
+**节点与流程图**
 
 - [@xyflow/svelte](https://github.com/xyflow/xyflow) 构建基于 Node 的用户界面
 
-## 图标
 
 - [lucide-svelte](https://lucide.dev/guide/packages/lucide-svelte)
 - [@iconify/svelte](https://github.com/iconify/iconify/tree/main/components/svelte) 图标
-
-## 页面元数据
-
-- [@unhead/svelte](https://github.com/unjs/unhead/tree/main/packages/svelte) 适用于任意框架的全栈 `<head>` 工具包

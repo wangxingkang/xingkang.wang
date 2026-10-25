@@ -1,5 +1,18 @@
 # Vue
 
+**按需查找**
+
+| 想找什么          | 直接前往                                            |
+| ------------- | ----------------------------------------------- |
+| 框架、状态管理与路由    | [框架](#框架) · [状态与路由](#状态与路由)                     |
+| AI、流式内容与对话界面  | [AI](#ai)                                       |
+| 组件库、布局与输入控件   | [组件库](#组件库) · [布局](#布局) · [数据录入](#数据录入)         |
+| 数据展示、图片与反馈    | [数据展示](#数据展示) · [图片](#图片) · [反馈](#反馈)           |
+| 文档、富文本与音视频    | [文档与打印](#文档与打印) · [富文本](#富文本) · [音视频](#音视频)     |
+| 拖拽、交互、动画与可视化  | [拖拽](#拖拽) · [交互](#交互) · [动画](#动画) · [可视化](#可视化) |
+| Nuxt、跨平台与开发工具 | [Nuxt](#nuxt) · [跨平台开发](#跨平台开发) · [开发工具](#开发工具) |
+| 项目模板与应用参考     | [项目模板](#项目模板) · [应用示例](#应用示例)                   |
+
 ## 官方资源
 
 - [官网](https://cn.vuejs.org/)
@@ -20,11 +33,9 @@
 
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue) 关于专为 AI 驱动的流媒体 Markdown 而构建的 Vue 3 渲染器
 - [vue-stream-markdown](https://github.com/jinghaihan/vue-stream-markdown) 流式输出 Markdown，适用于大模型输出等文本流场景
-- [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [ai-elements-vue](https://github.com/vuepont/ai-elements-vue) 基于 shadcn-vue 的 AI 原生应用组件库
 - [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) Ant Design X 的 Vue 版本
 - [Element-Plus-X](https://github.com/element-plus-x/Element-Plus-X) 开箱即用的企业级 AI 组件库
-- [@comark/vue](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [@ai-sdk/vue](https://github.com/vercel/ai/tree/main/packages/vue)
 
 ## 多语言
@@ -50,10 +61,9 @@
 ### 图标
 
 - 图标
-  - [@lucide/vue](https://github.com/lucide-icons/lucide/tree/main/packages/vue)
+  - [@lucide/vue](https://github.com/lucide-icons/lucide/tree/main/packages/vue) Lucide Vue 图标组件，原 lucide-vue-next（[旧版文档](https://v0.lucide.dev/guide/packages/lucide-vue-next)）
   - [@iconify/vue](https://github.com/iconify/iconify/tree/main/components/vue)
   - [@thesvg/vue](https://github.com/glincker/thesvg/tree/main/packages/vue)
-- [lucide-vue-next](https://lucide.dev/guide/packages/lucide-vue-next)
 
 ### 布局
 
@@ -99,6 +109,7 @@
 
 ### 文档与打印
 
+- [@comark/vue](https://github.com/comarkdown/comark) 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) 适用于 Vue 2 与 Vue 3 的 PDF 嵌入组件
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf)
 - [vue-office](https://github.com/501351981/vue-office) 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览
@@ -108,7 +119,7 @@
 ### 富文本
 
 - [@umoteam/editor](https://github.com/umodoc/editor) Umo Editor 是一个基于 Vue3 和 Tiptap3 的本土化开源文档编辑器，提供类似于 Microsoft Word 的在线编辑功能和浏览体验，专为国人用户设计
-- [@tiptap/vue-3](https://github.com/ueberdosis/tiptap/tree/HEAD/packages/vue-3)
+- [@tiptap/vue-3](https://tiptap.dev/docs/editor/getting-started/install/vue3)
 
 ### 拖拽
 

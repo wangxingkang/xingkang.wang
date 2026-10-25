@@ -1,6 +1,19 @@
 # 安全
 
-## 身份认证
+
+**按需查找**
+
+| 想找什么           | 直接前往                                        |
+| -------------- | ------------------------------------------- |
+| 身份、权限与凭据       | [身份与访问控制](#身份与访问控制) · [密码与凭据管理](#密码与凭据管理)   |
+| 代码保护与供应链审计     | [代码与访问保护](#代码与访问保护) · [代码与供应链审计](#代码与供应链审计) |
+| 智能体防护与 AI 辅助审计 | [AI 安全](#ai-安全)                             |
+| 网络防护、抓包与诊断     | [网络安全](#网络安全)                               |
+| 逆向、二进制与设备权限    | [逆向与二进制分析](#逆向与二进制分析) · [设备与系统安全](#设备与系统安全) |
+| 隐私、数据保护与通信     | [隐私与数据保护](#隐私与数据保护) · [隐私通信](#隐私通信)         |
+| 安全工具合集         | [安全工具集](#安全工具集)                             |
+
+## 身份与访问控制
 
 - [MaxKey](https://gitee.com/dromara/MaxKey) 企业级身份管理与单点登录系统，支持 OAuth、OpenID Connect、SAML、CAS、JWT、SCIM 等协议，提供用户生命周期管理与 RBAC 权限控制
 - [logto](https://github.com/logto-io/logto) 基于 OIDC 与 OAuth 2.1 构建、支持多租户、单点登录及基于角色访问控制的 SaaS 与 AI 应用身份认证及权限管理基础设施
@@ -22,7 +35,8 @@
 - [vault](https://github.com/hashicorp/vault) 一款用于机密管理、加密即服务及特权访问管理的工具
 - [nodewarden](https://github.com/shuaiplus/nodewarden) 运行在 Cloudflare Workers 上的 Bitwarden 兼容服务端
 
-## 加密与访问保护
+
+## 代码与访问保护
 
 - [staticrypt](https://github.com/robinmoisson/staticrypt) 为静态网站提供密码保护功能
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) 一款适用于 JavaScript 和 Node.js 的强大代码混淆器
@@ -40,13 +54,13 @@
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) NVIDIA 开源的 AI Agent Skills 安全扫描器，用于在安装前检测漏洞、恶意模式、提示注入、数据外泄和供应链风险
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 面向 AI 智能体与安全从业者、包含 700 多项网络安全技能的开源数据库
+
+### 代码审计
+
 - [shannon](https://github.com/KeygraphHQ/shannon) 全自动自主型 AI 黑客，可在你的 Web 应用中挖掘真实漏洞利用代码。Shannon 在无提示、可访问源码的 XBOW 基准测试中，实现了 96.15% 的成功率。
 - [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) 具备威胁建模、漏洞扫描、问题分级处置、漏洞补丁修复相关实操能力，配套一套可自定义的自动化扫描测试框架
 - [deepsec](https://github.com/vercel-labs/deepsec) 由代码智能体驱动、用于在代码库中挖掘漏洞的安全检测工具
 - [strix](https://github.com/usestrix/strix) 开源 AI 渗透测试工具，用于检测并修复应用程序漏洞
-
-### 代码审计
-
 - [security-audit-skill](https://github.com/cloudflare/security-audit-skill) Cloudflare 开源的编码智能体安全审计技能，覆盖侦察、漏洞挖掘、独立验证与结构化报告
 - [codex-security](https://github.com/openai/codex-security) 用于检测、验证和修复代码中安全漏洞的命令行工具和 TypeScript 开发工具
 

@@ -1,36 +1,96 @@
 # 测试
 
-## Vitest
+**按需查找**
 
-### 官方资源
+| 想找什么                 | 直接前往                      |
+| -------------------- | ------------------------- |
+| 单元测试、属性验证与框架选型       | [单元与属性测试框架](#单元与属性测试框架)   |
+| 组件交互、DOM 与浏览器渲染      | [组件与浏览器测试](#组件与浏览器测试)     |
+| 端到端、设备与公开 API        | [端到端与接口测试](#端到端与接口测试)     |
+| 模拟接口、WebSocket 与测试环境 | [Mock 与测试环境](#mock-与测试环境) |
+| 统计覆盖率与查看测试结果         | [覆盖率与性能基准](#覆盖率与性能基准)     |
+| 比较命令行与代码运行性能         | [性能基准](#性能基准)             |
+| 检查 MCP 与响应式页面        | [调试与检查](#调试与检查)           |
+
+## 单元与属性测试框架
+
+### Vitest
+
 
 - [官网](https://cn.vitest.dev)
 - [vitest](https://github.com/vitest-dev/vitest) vitest 仓库
 
-### 浏览器测试
+### Jest
+
+
+- [官网](https://jestjs.io/zh-Hans/)
+- [jest](https://github.com/jestjs/jest) jest 仓库
+
+### Rstest
+
+
+- [官网](https://rstest.rs/zh/)
+- [rstest](https://github.com/web-infra-dev/rstest) rstest 仓库
+
+
+**其他单元测试框架**
+
+- [mocha](https://github.com/mochajs/mocha) 经典、可靠、值得信赖的 Node.js 和浏览器测试框架
+
+### 属性测试
+
+- [@antithesishq/bombadil](https://github.com/antithesishq/bombadil) 面向 Web 和终端 UI 的基于属性的测试
+- [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
+
+## 组件与浏览器测试
+
+### 组件测试
+
+- [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
+- [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
+- [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
+
+
+### Vitest 浏览器测试
 
 - [@vitest/browser](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser) 该包提供用于自定义浏览器驱动程序的工具
 - [@vitest/browser-playwright](https://github.com/vitest-dev/vitest/tree/HEAD/packages/browser-playwright)
 - [vitest-browser-react](https://github.com/vitest-community/vitest-browser-react) 在 Vitest Browser Mode 中渲染和测试 React 组件与 Hooks
 - [vitest-canvas-mock](https://github.com/wobsoriano/vitest-canvas-mock) 一个用于在 Vitest 中模拟 Canvas 的模块
 
-### 覆盖率与调试
+## 端到端与接口测试
 
-- [@vitest/coverage-v8](https://github.com/vitest-dev/vitest/tree/HEAD/packages/coverage-v8) 基于 V8、支持原生代码覆盖率的 Vitest 覆盖率提供程序
-- [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
-- [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
+### Playwright
 
-## 组件测试
 
-- [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) 🦉 用于测试 DOM 状态的自定义 Jest 匹配器
-- [@testing-library/user-event](https://github.com/testing-library/user-event) 模拟用户事件
-- [@testing-library/react](https://github.com/testing-library/react-testing-library) 一套简洁且功能完备的 React DOM 测试工具库，倡导优秀的测试实践
+- [官网](https://playwright.dev)
+- [playwright](https://github.com/microsoft/playwright) playwright 仓库
 
-## MCP 测试与调试
 
-- [MCP Inspector](https://github.com/modelcontextprotocol/inspector) MCP 官方服务器检查与测试工具，提供 Web 界面、可脚本化 CLI 和交互式终端界面，便于调试 MCP 服务并集成自动化测试与 CI
+**Playwright 集成**
 
-## 接口模拟
+- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
+
+### 端到端与设备测试
+
+- [e2e](https://www.npmjs.com/package/e2e) 面向 Web 与移动端的智能体端到端测试框架，支持自然语言操作和断言，并可回放已验证操作
+- [cypress](https://github.com/cypress-io/cypress)
+- [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
+- [webdriverio](https://github.com/webdriverio/webdriverio) 适用于 Node.js 的新一代浏览器与移动端自动化测试框架
+
+
+### 公开库 API 与类型快照
+
+- [tsnapi](https://github.com/antfu/tsnapi) 针对库的公开 API 进行快照测试，覆盖运行时导出内容与类型声明。
+
+
+### HTTP 接口与流量回放
+
+- [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
+
+## Mock 与测试环境
+
+### 接口模拟
 
 - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) 一款可轻松模拟请求的 Axios 适配器
 - [msw](https://github.com/mswjs/msw) 适用于 JavaScript 的行业标准 API 模拟工具
@@ -39,74 +99,47 @@
 - [prism](https://github.com/stoplightio/prism) 将任意 OpenAPI 2/3 及 Postman 集合文件转换为具备模拟、转换与校验功能的 API 服务端。
 - [pollyjs](https://github.com/Netflix/pollyjs) 记录、重写和模拟 HTTP 交互
 
-## Jest
-
-### 官方资源
-
-- [官网](https://jestjs.io/zh-Hans/)
-- [jest](https://github.com/jestjs/jest) jest 仓库
-
-### 模拟与扩展
-
-- [jest-websocket-mock](https://github.com/romgain/jest-websocket-mock) 使用 Jest 模拟 WebSocket，并对复杂的 WebSocket 交互进行断言测试
-
-## Rstest
-
-### 官方资源
-
-- [官网](https://rstest.rs/zh/)
-- [rstest](https://github.com/web-infra-dev/rstest) rstest 仓库
-
-## Playwright
-
-### 官方资源
-
-- [官网](https://playwright.dev)
-- [playwright](https://github.com/microsoft/playwright) playwright 仓库
-
-### 集成
-
-- [electron-playwright-helpers](https://github.com/spaceagetv/electron-playwright-helpers) 基于 Playwright 执行 Electron 端到端测试的辅助工具函数
-
-## 性能基准
-
-- [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具
-- [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
-
-## 属性测试
-
-- [@antithesishq/bombadil](https://github.com/antithesishq/bombadil) 面向 Web 和终端 UI 的基于属性的测试
-- [fast-check](https://github.com/dubzzz/fast-check) 基于属性测试的 JavaScript 框架
-
-## 测试框架
-
-- [mocha](https://github.com/mochajs/mocha) 经典、可靠、值得信赖的 Node.js 和浏览器测试框架
-
-## 测试替身与环境
+### 测试替身与环境
 
 - [sinon](https://github.com/sinonjs/sinon) 适用于 JavaScript 的测试间谍、桩和模拟对象
 - [jsdom](https://github.com/jsdom/jsdom) 适用于 Node.js 的各类网页标准 JavaScript 实现库
 - [fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB) 纯 JavaScript 内存版 IndexedDB API 实现
+- [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
 
-## 端到端与设备测试
 
-- [cypress](https://github.com/cypress-io/cypress)
-- [appium](https://github.com/appium/appium) 基于 W3C WebDriver 协议构建，适用于各类应用的**跨平台自动化框架**。
-- [webdriverio](https://github.com/webdriverio/webdriverio) 适用于 Node.js 的新一代浏览器与移动端自动化测试框架
+**Jest WebSocket 模拟**
 
-## API 测试
+- [jest-websocket-mock](https://github.com/romgain/jest-websocket-mock) 使用 Jest 模拟 WebSocket，并对复杂的 WebSocket 交互进行断言测试
 
-- [tsnapi](https://github.com/antfu/tsnapi) 针对库的公开 API 进行快照测试，覆盖运行时导出内容与类型声明。
+## 覆盖率与性能基准
 
-## 调试工具
 
-- [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具
+### Vitest 覆盖率与调试
 
-## 接口与流量测试
+- [@vitest/coverage-v8](https://github.com/vitest-dev/vitest/tree/HEAD/packages/coverage-v8) 基于 V8、支持原生代码覆盖率的 Vitest 覆盖率提供程序
+- [@vitest/ui](https://github.com/vitest-dev/vitest/tree/HEAD/packages/ui)  该包用于 Vitest 的 UI 界面开发 / 适配
+- [vitest-preview](https://github.com/nvh95/vitest-preview) 轻松调试您的 Vitest 测试
 
-- [goreplay](https://github.com/probelabs/goreplay) 捕获真实 HTTP 流量并将其重放至测试环境，从而使用真实数据对系统进行持续测试。它可用于提升代码部署、配置变更和基础设施变更的可靠性。
 
-## 覆盖率与测试替身
+### 通用覆盖率
 
 - [nyc](https://github.com/istanbuljs/nyc) Istanbul 命令行界面
-- [tinyspy](https://github.com/tinylibs/tinyspy) 基于 nanospy 精简改造的衍生版本，同时新增更多功能
+
+测试替身工具见[测试替身与环境](#测试替身与环境)。
+
+### 性能基准
+
+- [hyperfine](https://github.com/sharkdp/hyperfine) 一款命令行基准测试工具
+- [tinybench](https://github.com/tinylibs/tinybench) 一款简洁小巧、轻量高效的基准测试库
+
+## 调试与检查
+
+
+**MCP 检查**
+
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector) MCP 官方服务器检查与测试工具，提供 Web 界面、可脚本化 CLI 和交互式终端界面，便于调试 MCP 服务并集成自动化测试与 CI
+
+
+**响应式页面调试**
+
+- [responsively-app](https://github.com/responsively-org/responsively-app) 一款经过改进的网页浏览器，助力响应式网页开发，是网页开发者必备的开发工具

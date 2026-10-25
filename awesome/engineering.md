@@ -1,22 +1,31 @@
 # 工程化
 
-## 开发环境
+**按需查找**
+
+| 想找什么            | 直接前往                    |
+| --------------- | ----------------------- |
+| 配置运行时、工具版本与本地服务 | [环境与本地开发](#环境与本地开发)     |
+| 使用 Git、管理依赖与工作区 | [Git 与依赖管理](#git-与依赖管理) |
+| 检查代码、定位问题与优化性能  | [代码质量与调试](#代码质量与调试)     |
+| 选择构建器、打包与框架插件   | [构建工具](#构建工具)           |
+| 编排 CI、部署和版本发布   | [持续集成与发布](#持续集成与发布)     |
+| 生成文档、调试接口与本地化   | [文档与本地化](#文档与本地化)       |
+| 查找应用框架与起步模板     | [应用框架与模板](#应用框架与模板)     |
+| 设计硬件或开发智能合约     | [专业开发工具](#专业开发工具)       |
+
+
+## 环境与本地开发
 
 - [devenv](https://github.com/cachix/devenv) 基于 Nix 的快速、声明式、可复现开发环境工具，内置语言、服务、任务、进程和密钥集成
+
+
+- [mise](https://github.com/jdx/mise) 统一管理多语言开发工具版本、环境变量与项目任务
 
 ### 运行时版本管理
 
 - [fnm](https://github.com/Schniz/fnm) 快速安装与切换 Node.js 版本的跨平台工具
 - [nvm](https://github.com/nvm-sh/nvm) 经典的 Node.js 版本管理器，支持安装和切换多个 Node 版本
 - [n](https://github.com/tj/n) 简洁高效的 Node.js 版本管理工具，支持跨版本切换与自动安装
-
-### 多语言工具管理
-
-- [mise](https://github.com/jdx/mise) 统一管理多语言开发工具版本、环境变量与项目任务
-
-### 部署工具
-
-- [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
 
 ### 本地服务
 
@@ -25,11 +34,9 @@
 - [nodemon](https://github.com/remy/nodemon) 监控 Node.js 应用的所有变更并自动重启服务端 —— 非常适合开发环境使用
 - [portless](https://github.com/vercel-labs/portless) 用稳定、带名称的本地 URL 替代端口号。适用于人类用户与智能代理
 
-## 硬件开发
+## Git 与依赖管理
 
-- [atopile](https://github.com/atopile/atopile) 用代码设计电路板的声明式电子设计语言、编译器与工具链，支持可复用模块、约束验证、参数化选型，并原生更新 KiCad 布局
-
-## Git
+### Git
 
 - [git-bug](https://github.com/git-bug/git-bug) 集成于 Git 的分布式、离线优先缺陷跟踪工具，通过 Git 远端同步议题，提供命令行、终端与 Web 界面，并可桥接 GitHub、GitLab、Jira 等平台
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) GitButler 版本控制客户端
@@ -48,7 +55,7 @@
 - [git-split-diffs](https://github.com/banga/git-split-diffs) 在终端中展示带语法高亮的左右分栏对比差异
 - [difit](https://github.com/yoshiko-pg/difit) 使用 GitHub 风格查看器查看和审查本地 git 差异的 CLI 工具
 
-## 依赖与仓库管理
+### 依赖与仓库管理
 
 - [upm](https://upm.sh) 零依赖的轻量 npm 包管理器，兼容 npm、pnpm 与 Bun lockfile，并提供 JavaScript API
 - [Node Modules Inspector](https://github.com/antfu/node-modules-inspector) 可视化本地 node\_modules，检查依赖关系、重复版本与安装体积
@@ -61,9 +68,10 @@
 - [giget](https://github.com/unjs/giget) 从 GitHub、GitLab、Bitbucket 等托管源下载项目模板或仓库的 Node.js CLI 与库
 - [patch-package](https://github.com/ds300/patch-package) 立即修复损坏的 Node 模块
 
-## 代码质量
+## 代码质量与调试
 
-- [e2e](https://www.npmjs.com/package/e2e) 面向 Web 与移动端的智能体端到端测试框架，支持自然语言操作和断言，并可回放已验证操作
+### 代码质量
+
 - [oxlint](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxlint)
 - [oxfmt](https://github.com/oxc-project/oxc/tree/HEAD/npm/oxfmt)
 - [@sxzz/eslint-config](https://github.com/sxzz/eslint-config) 支持 JavaScript、TypeScript、Vue、Astro 与 Prettier 的 ESLint 配置预设
@@ -79,26 +87,38 @@
 - [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) 基于配置、高效灵活的命令行工具，借助 markdownlint 库对 Markdown/CommonMark 文件进行代码检查
 - [cspell](https://github.com/streetsidesoftware/cspell) 企业级拼写检查工具，支持多语言词典与代码/文档场景下的错字自动检测
 
-## 调试
+### 调试
 
 - [Devframe](https://github.com/devframes/devframe) 用于构建通用开发者工具的框架无关基础设施
 - [nnd](https://github.com/al13n321/nnd) 一款适用于 Linux 的调试器
 - [page-spy-web](https://github.com/HuolalaTech/page-spy-web) PageSpy 是一款用来调试 Web / ReactNative / 小程序 / 鸿蒙 APP 等平台项目的工具
 
-## 构建目标与兼容
+### 性能优化
+
+- [beasties](https://github.com/danielroe/beasties) 一个用于内联应用关键 CSS，并懒加载其余样式的库。
+- [fontaine](https://github.com/unjs/fontaine) 基于字体度量指标的自动字体回退
+- [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
+- [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
+- [critical](https://github.com/addyosmani/critical) 在 HTML 页面中提取并内联关键路径 CSS
+
+## 构建工具
+
+### 构建目标与兼容
 
 - [browserslist](https://github.com/browserslist/browserslist) 在 Autoprefixer、Stylelint、babel-preset-env 等各类前端工具间共享目标浏览器配置
 - [caniuse-lite](https://github.com/browserslist/caniuse-lite) 精简版 caniuse 数据库，仅保留核心内容
 
-## Vite
+### Vite
 
-### 官方资源
+
+#### Vite 官方资源
 
 - [官网](https://cn.vite.dev)
 - [vite](https://github.com/vitejs/vite) vite 仓库
 - [vite-plus](https://github.com/voidzero-dev/vite-plus) 基于 Vite、Vitest、Oxc、Rolldown 等工具的统一 Web 开发工具链，提供运行时、包管理、开发、检查、测试与构建命令
 
-### 官方插件
+
+#### Vite 官方插件
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc)
@@ -108,7 +128,8 @@
 - [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) 为打包后的文件提供传统浏览器兼容性支持
 - [@vitejs/plugin-basic-ssl](http://github.com/vitejs/vite-plugin-basic-ssl) 基于自动生成的自签名证书实现基础的 HTTPS 配置
 
-### 语言与框架集成
+
+#### Vite 语言与框架集成
 
 - [vite-plugin-top-level-await](https://github.com/Menci/vite-plugin-top-level-await) 将代码改造为支持在普通浏览器中，基于 Vite 实现顶层 `await` 特性
 - [electron-vite](https://github.com/alex8088/electron-vite) 新一代 Electron 开发构建工具，支持源代码保护
@@ -124,7 +145,8 @@
 - [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) Svelte 插件
 - [vinext](https://github.com/cloudflare/vinext) 复刻 Next.js API 接口的 Vite 插件，可部署至任意平台
 
-### 调试与检查
+
+#### Vite 调试与检查
 
 - [vite-plugin-istanbul](https://github.com/iFaxity/vite-plugin-istanbul) 一款用于为 nyc/istanbul 代码覆盖率工具进行代码插桩的 Vite 插件
 - [vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) 可视化插件与源码转换产物，便于诊断 Vite/Rollup 构建过程
@@ -132,13 +154,15 @@
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) 一款提供 TypeScript、ESLint、vue-tsc、Stylelint 等代码检查能力的 Vite 插件
 - [vite-plugin-devtools-json](https://github.com/ChromeDevTools/vite-plugin-devtools-json) 在开发服务器中实时生成 `com.chrome.devtools.json` 文件
 
-### 浏览器扩展开发
+
+#### Vite 浏览器扩展开发
 
 - [@crxjs/vite-plugin](https://github.com/crxjs/chrome-extension-tools/tree/main/packages/vite-plugin) 现代化 Chrome 扩展开发
 - [vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) 用于开发 Chrome / 网页扩展程序的 Vite 插件
 - [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
 
-### 资源与构建优化
+
+#### Vite 资源与构建优化
 
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) JavaScript 混淆器插件为 Vite 提供可自定义配置项与多线程支持
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) 为 Vite 的 HTTPS 开发服务提供证书
@@ -151,52 +175,52 @@
 - [vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) 一款用于处理 HTML 的 Vite 插件，该插件基于 lodash 模板开发
 - [@plugin-web-update-notification/vite](https://github.com/GreatAuk/plugin-web-update-notification) 一款轻量级工具库，可检测网页内容更新并通知用户刷新页面
 
-## Rolldown
+### Rolldown
 
-### 官方资源
+
+#### Rolldown 官方资源
 
 - [官网](https://rolldown.rs)
 - [rolldown](https://github.com/rolldown/rolldown) rolldown 仓库
 
-### 插件
+
+#### Rolldown 插件
 
 - [rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts) 一款用于生成并打包 d.ts 文件的 Rolldown 插件
 - [rolldown-plugin-wasm](https://github.com/sxzz/rolldown-plugin-wasm) 适用于 WASM 的 Rolldown 插件
 
-## Rspack
+### Rspack
 
 - [官网](https://rspack.rs/zh/)
 - [rspack](https://github.com/web-infra-dev/rspack) rspack 仓库
 
-### 官方插件
+
+**官方插件**
 
 - [rsbuild-plugin-image-compress](https://github.com/rstackjs/rsbuild-plugin-image-compress) 一款用于压缩图片的 Rsbuild 插件
 
-### 插件
+
+**扩展插件**
 
 - [@module-federation/rsbuild-plugin](https://github.com/module-federation/core/tree/HEAD/packages/rsbuild-plugin) 模块联邦
 
-## Webpack
+### Webpack
 
 - [官网](https://webpack.js.org)
 - [webpack](https://github.com/webpack/webpack) webpack 仓库
 
-### 插件
+
+#### Webpack 插件
 
 - [webpackbar](https://github.com/unjs/webpackbar) 适用于 Webpack 3、4、5 的优雅进度条与性能分析器
 - [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin) 对资源进行压缩处理，以便通过 **Content-Encoding** 响应头提供服务
 
-## Babel
+### Babel
 
-### 插件
 
 - [babel-plugin-react-compiler](https://github.com/facebook/react/tree/HEAD/compiler/packages/babel-plugin-react-compiler) 适用于 React Compiler 的 Babel 插件
 
-## 构建插件
-
-- [unplugin-vue](https://github.com/unplugin/unplugin-vue) ✨ 将 Vue 3 单文件组件（SFC）转换为 JavaScript 代码
-
-## 打包
+### 打包
 
 - [tsdown](https://tsdown.dev/zh-CN/) 优雅的库打包工具, 由 Rolldown 强力驱动
 - [rslib](https://rslib.rs/zh/) 基于 Rsbuild 的库开发工具
@@ -207,19 +231,22 @@
 - [Trunk](https://github.com/trunk-rs/trunk) Rust WASM Web 应用的构建与打包工具，内置开发服务器与热重载
 - [OJ](https://github.com/lovablelabs/oj) 面向 React 应用的 Rust 原生构建工具，兼容 Vite 配置并支持开发服务器、热更新与 SSR
 
-## 性能优化
 
-- [beasties](https://github.com/danielroe/beasties) 一个用于内联应用关键 CSS，并懒加载其余样式的库。
-- [fontaine](https://github.com/unjs/fontaine) 基于字体度量指标的自动字体回退
-- [lighthouse](https://github.com/GoogleChrome/lighthouse) 针对网页的自动化审核、性能指标检测与最佳实践校验
-- [size-limit](https://github.com/ai/size-limit) 计算运行你的 JS 应用或库的真实性能开销，以保持良好性能
-- [critical](https://github.com/addyosmani/critical) 在 HTML 页面中提取并内联关键路径 CSS
+**跨构建工具插件**
 
-## 构建与持续集成
+- [unplugin-vue](https://github.com/unplugin/unplugin-vue) ✨ 将 Vue 3 单文件组件（SFC）转换为 JavaScript 代码
+
+## 持续集成与发布
+
 
 - [dagger](https://github.com/dagger/dagger) 自动化引擎，用于构建、测试和交付任意代码库
 
-## GitHub Actions
+
+**部署工具**
+
+- [pinme](https://github.com/glitternetwork/pinme) 一条命令即可部署前端项目，兼容 Claude Code 技能集
+
+### GitHub Actions
 
 - [sxzz/workflows](https://github.com/sxzz/workflows) 面向 TypeScript 项目的可复用 GitHub Actions 工作流与自定义 Action 集合
 - [act](https://github.com/nektos/act) 在本地通过 Docker 运行 GitHub Actions 工作流
@@ -238,7 +265,7 @@
 - [toolkit](https://github.com/actions/toolkit) 用于开发 GitHub Actions 的 GitHub 工具套件
 - [actions-runner-controller](https://github.com/actions/actions-runner-controller) 用于 GitHub Actions 自托管运行器的 Kubernetes 控制器
 
-## 版本发布与变更日志
+### 版本发布与变更日志
 
 - [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) 自动化 TestFlight、构建、签名与 App Store 上架流程
 - [goreleaser](https://github.com/goreleaser/goreleaser) 发布工程，化繁为简
@@ -249,7 +276,9 @@
 - [changesets](https://github.com/changesets/changesets) 🦋 专注于单仓项目的版本控制与变更日志管理方案
 - [bumpp](https://github.com/antfu-collective/bumpp) 交互式命令行工具，可更新版本号及更多功能
 
-## 文档与图示
+## 文档与本地化
+
+### 文档与图示
 
 - [madge](https://github.com/pahen/madge) 根据你的 CommonJS、AMD 或 ES6 模块依赖关系生成关系图
 - [codeflow](https://github.com/braedonsaunders/codeflow) 粘贴任意 GitHub 链接 → 生成交互式架构图谱
@@ -261,25 +290,37 @@
 - [automd](https://github.com/unjs/automd) 自动化 Markdown 维护工具
 - [archilang](https://github.com/4kk11/archilang) 语义化平面图
 
-## 接口文档与调试
+### 接口文档与调试
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) Postman、Insomnia 的开源替代方案
 - [scalar](https://github.com/scalar/scalar) 开源 API 平台
 
-## 多语言与内容本地化
+### 多语言与内容本地化
 
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [lingo](https://github.com/lingodotdev/lingo.dev) 开源、基于人工智能的国际化开发工具包，借助大语言模型实现即时本地化
 
-## 应用开发框架
+## 应用框架与模板
+
+
+**应用开发框架**
 
 - [phoenix](https://github.com/phoenixframework/phoenix) 从原型开发到生产上线，全程安心无忧
 
-## 模板与示例
+
+**模板与示例**
 
 - [template](https://github.com/unjs/template) UnJS 项目起步模板，预置 TypeScript、pnpm 与构建测试配置
 
-## 合约开发
+## 专业开发工具
+
+
+**硬件开发**
+
+- [atopile](https://github.com/atopile/atopile) 用代码设计电路板的声明式电子设计语言、编译器与工具链，支持可复用模块、约束验证、参数化选型，并原生更新 KiCad 布局
+
+
+**合约开发**
 
 - [hardhat](https://github.com/NomicFoundation/hardhat) Hardhat 是一个用于**编译、部署、测试和调试以太坊应用**的开发环境

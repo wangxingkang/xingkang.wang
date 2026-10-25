@@ -5,28 +5,31 @@
 <title>React - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.1592b78131.js" as="script">
+<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.ce0d61c817.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.19bb4cca08.js"></script>
+<script defer src="/static/js/index.b0c4e180aa.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="React - 阿康酱">
-<meta name="description" content="阿康酱">
-<meta property="og:description" content="阿康酱"></head>
+<meta name="description" content="按需查找">
+<meta property="og:description" content="按需查找"></head>
 
   <body>
     <div id="__rspress_root"><link rel="preload" as="image" href="/rspress-icon.png"/><div style="display:none" hidden="" aria-hidden="true">Are you an LLM? View /llms.txt for optimized Markdown documentation, or /llms-full.txt for full documentation bundle. This page is also available as Markdown at /awesome/react.md</div><header class="rp-nav"><div class="rp-nav__left"><div class="rp-nav__title"><a href="/" class="rp-nav__title__link rp-link"><div class="rp-nav__title__logo"><img src="/rspress-icon.png" alt="logo" id="logo" class="rspress-logo rp-nav__title__logo-image"/></div><span>阿康酱</span></a></div></div><div class="rp-nav__right"><button class="rp-search-button"><div class="rp-search-button__content"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21" class="rp-search-button__icon"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg><span class="rp-search-button__word">搜索</span></div><div class="rp-search-button__hotkey" style="opacity:0"><span></span><span>K</span></div></button><div class="rp-search-button--mobile"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 20 21"><path fill="currentColor" d="M8.333 1.913A6.667 6.667 0 0 1 15 8.58c0 1.54-.525 2.957-1.402 4.085l4.49 4.492a.834.834 0 0 1-1.177 1.178l-4.491-4.49a6.64 6.64 0 0 1-4.087 1.402 6.667 6.667 0 0 1 0-13.334m0 1.667a5 5 0 1 0 0 10 5 5 0 0 0 0-10"></path></svg></div><ul class="rp-nav-menu rp-nav-menu--right"><li class="rp-nav-menu__item"><a href="/guide/libraries" class="rp-nav-menu__item__container rp-link">指南</a></li><li class="rp-nav-menu__item rp-nav-menu__item--active"><a href="/awesome/ai" class="rp-nav-menu__item__container rp-link">精选资源</a></li><li class="rp-nav-menu__item"><div class="rp-nav-menu__item__container">开发模版<svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-nav-menu__item__icon"><path fill="currentColor" d="M16 22 6 12l1.4-1.4 8.6 8.6 8.6-8.6L26 12z"></path></svg></div><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--center"><li class="rp-hover-group__item" style="padding-left:8px" data-depth="0"><a href="/template/react/guide/introduction" class="rp-hover-group__item__link rp-link" aria-label="React Template">React Template</a></li><li class="rp-hover-group__item" style="padding-left:8px" data-depth="0"><a href="/template/react-native" class="rp-hover-group__item__link rp-link" aria-label="RN Template">RN Template</a></li><li class="rp-hover-group__item" style="padding-left:8px" data-depth="0"><a href="/template/vue" class="rp-hover-group__item__link rp-link" aria-label="Vue Template">Vue Template</a></li><li class="rp-hover-group__item" style="padding-left:8px" data-depth="0"><a href="/template/uni" class="rp-hover-group__item__link rp-link" aria-label="Uni Template">Uni Template</a></li></ul></li><li class="rp-nav-menu__item"><a href="/interview/coding/0001" class="rp-nav-menu__item__container rp-link">面试题</a></li><li class="rp-nav-menu__item"><a href="/blog/" class="rp-nav-menu__item__container rp-link">博客</a></li></ul><div class="rp-nav__others"><div class="rp-nav-menu__divider"></div><div class="rp-switch-appearance"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" class="rp-switch-appearance__icon rp-switch-appearance__icon--sun"><path fill="currentColor" d="m7.001 15.848-1.226 1.226a.58.58 0 0 0 0 .818.58.58 0 0 0 .818 0l1.226-1.226a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0m-.352-8.735a.584.584 0 0 0 .825-.825L6.237 5.051a.584.584 0 0 0-.825.825zM5.011 11.07h-1.75a.584.584 0 0 0 0 1.167h1.75c.324 0 .584-.26.584-.583a.585.585 0 0 0-.584-.584m7.003-5.835c.324 0 .584-.26.584-.584V2.9a.58.58 0 0 0-.584-.584.58.58 0 0 0-.583.583V4.65c0 .323.262.584.583.584m5.616 1.621 1.226-1.225a.58.58 0 0 0 0-.818.58.58 0 0 0-.818 0l-1.226 1.225a.58.58 0 0 0 0 .818.576.576 0 0 0 .818 0m3.138 4.214h-1.75a.58.58 0 0 0-.584.584c0 .324.26.584.583.584h1.751a.584.584 0 1 0 0-1.167m-3.389 5.124a.584.584 0 0 0-.825.825l1.238 1.238a.584.584 0 0 0 .825-.826zm-5.365-9.795a5.256 5.256 0 0 0-5.257 5.258 5.256 5.256 0 0 0 5.257 5.257 5.256 5.256 0 0 0 5.257-5.257 5.256 5.256 0 0 0-5.257-5.258m0 11.675a.58.58 0 0 0-.583.583v1.751a.582.582 0 1 0 1.167 0v-1.75a.584.584 0 0 0-.584-.584"></path></svg><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" viewBox="0 0 19 19" class="rp-switch-appearance__icon rp-switch-appearance__icon--moon"><path fill="currentColor" d="M9.166 0a9.2 9.2 0 0 1 1.857.188.834.834 0 0 1 .042 1.623 4.47 4.47 0 1 0 5.457 5.457l.048-.135a.834.834 0 0 1 1.575.177q.186.902.188 1.856A9.168 9.168 0 1 1 9.166 0"></path></svg></div><div class="rp-social-links"><a href="https://github.com/wangxingkang/xingkang.wang" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__sm"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg></button><button aria-label="mobile hamburger" class="rp-nav-hamburger rp-nav-hamburger__md"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" viewBox="0 0 21 21"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667" d="M3.645 5.225h13.333M3.645 10.225h13.333M3.645 15.225h13.333"></path></svg><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"><div class="rp-nav-menu__others-mobile__container"><div class="rp-nav-hamburger__md__hover-group"><div class="rp-nav-screen-appearance"><div class="rp-nav-screen-appearance__left">主题</div><div class="rp-nav-screen-appearance__right"></div></div><div class="rp-nav-screen-divider"></div><div class="rp-social-links"><a href="https://github.com/wangxingkang/xingkang.wang" target="_blank" rel="noopener noreferrer" class="rp-social-links__item"><div class="rp-social-links__icon"><div class="rp-social-links__icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63 0-12 5.373-12 12c0 5.303 3.438 9.8 8.205 11.385c.6.113.82-.258.82-.577c0-.285-.01-1.04-.015-2.04c-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729c1.205.084 1.838 1.236 1.838 1.236c1.07 1.835 2.809 1.305 3.495.998c.108-.776.417-1.305.76-1.605c-2.665-.3-5.466-1.332-5.466-5.93c0-1.31.465-2.38 1.235-3.22c-.135-.303-.54-1.523.105-3.176c0 0 1.005-.322 3.3 1.23c.96-.267 1.98-.399 3-.405c1.02.006 2.04.138 3 .405c2.28-1.552 3.285-1.23 3.285-1.23c.645 1.653.24 2.873.12 3.176c.765.84 1.23 1.91 1.23 3.22c0 4.61-2.805 5.625-5.475 5.92c.42.36.81 1.096.81 2.22c0 1.606-.015 2.896-.015 3.286c0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></div></div></a><ul class="rp-hover-group rp-hover-group--hidden rp-hover-group--right"></ul></div></div></div></ul></button></div></header><div class="rp-doc-layout__menu"><div class="rp-sidebar-menu"><button type="button" class="rp-sidebar-menu__left"><svg width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M4 6h24v2H4zm0 18h24v2H4zm0-12h24v2H4zm0 6h24v2H4z"></path></svg><span>菜单</span></button><button type="button" class="rp-sidebar-menu__right"><span class="rp-sidebar-menu__right__text">目录</span><svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-sidebar-menu__right__icon" style="transform:rotate(0deg);transition:transform 0.2s ease-out"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg></button></div></div><div class="rp-doc-layout__container"><aside class="rp-doc-layout__sidebar rp-scrollbar"><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>AI 与智能体</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/ai" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">AI</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/vibe-coding" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">AI 编程与工作流</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>Web 前端</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/javascript" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">JavaScript</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/css" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">CSS</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/react" class="rp-sidebar-item rp-sidebar-item--active rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">React</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/vue" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Vue</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/svelte" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Svelte</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/solid" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Solid</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>语言与服务端</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/node" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Node.js</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/python" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Python</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/go" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Go</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/rust" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Rust</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/swift" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Swift</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/java" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">Java</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/cpp" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">C/C++ 开发</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>跨平台开发</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/react-native" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">React Native</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/uni" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">uni-app 与小程序</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/desktop" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">桌面开发与应用</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/browser-extension" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">浏览器扩展</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>开发与工程化</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/ide" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">IDE</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/engineering" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">工程化</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/test" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">测试</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>基础设施与安全</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/ops" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">运维</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/security" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">安全</span></div><div class="rp-sidebar-item__right"></div></a><div class="rp-sidebar-section-header"><div class="rp-sidebar-section-header__left"><span>应用与资源</span></div><div class="rp-sidebar-section-header__right"></div></div><a href="/awesome/desktop#应用与工具" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">桌面与设备工具</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/browser-extension#应用与工具" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">浏览器扩展应用</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/self-hosted" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">自托管</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/website" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">网站与学习资源</span></div><div class="rp-sidebar-item__right"></div></a><a href="/awesome/github" class="rp-sidebar-item rp-link" style="padding-left:12px" data-depth="0"><div class="rp-sidebar-item__left"><span class="rp-doc">开源发现与数据集</span></div><div class="rp-sidebar-item__right"></div></a></aside><div class="rp-doc-layout__doc"><main class="rp-doc-layout__doc-container"><div class="rp-doc rspress-doc"><!--$--><h1 class="rp-toc-include" id="react"><a href="#react" class="rp-header-anchor rp-link" aria-hidden="true">#</a>React<!-- --> </h1><div class="rp-not-doc rp-llms-container"><button class="rp-not-doc rp-llms-button rp-llms-copy-button"><div class="rp-llms-copy-button__icon-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" class="rp-llms-copy-button__icon-success"><path fill="currentColor" d="m9.55 18-5.7-5.7 1.425-1.425L9.55 15.15l9.175-9.175L20.15 7.4z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" class="rp-llms-copy-button__icon-copy"><path fill="currentColor" d="M20 8v12H8V8zm0-2H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2"></path><path fill="currentColor" d="M4 16H2V4a2 2 0 0 1 2-2h12v2H4Z"></path></svg></div><span>复制 Markdown</span></button><button class="rp-llms-button rp-llms-view-options__trigger "><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-llms-view-options__arrow "><path fill="currentColor" d="M16 22 6 12l1.4-1.4 8.6 8.6 8.6-8.6L26 12z"></path></svg></button></div>
-<h2 class="rp-toc-include" id="官方资源"><a href="#官方资源" class="rp-header-anchor rp-link" aria-hidden="true">#</a>官方资源</h2>
+<p><strong>按需查找</strong></p>
+<div class="rp-table-scroll-container rp-scrollbar"><table><thead><tr><th>想找什么</th><th>直接前往</th></tr></thead><tbody><tr><td>官方文档、应用框架、Next.js、路由、项目模板</td><td><a href="#%E5%85%A5%E9%97%A8%E6%A1%86%E6%9E%B6%E4%B8%8E%E8%B7%AF%E7%94%B1" class="rp-link">入门、框架与路由</a></td></tr><tr><td>AI 聊天、生成式 UI、认证、支付、多语言</td><td><a href="#ai-%E4%B8%8E%E6%9C%8D%E5%8A%A1%E9%9B%86%E6%88%90" class="rp-link">AI 与服务集成</a></td></tr><tr><td>状态管理、请求缓存、URL 状态、本地存储</td><td><a href="#%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E4%B8%8E%E7%8A%B6%E6%80%81" class="rp-link">数据获取与状态</a></td></tr><tr><td>无样式原语、完整组件库、源码分发、主题、图标</td><td><a href="#%E7%BB%84%E4%BB%B6%E4%BD%93%E7%B3%BB%E4%B8%8E%E6%A0%B7%E5%BC%8F" class="rp-link">组件体系与样式</a></td></tr><tr><td>面板布局、菜单、拖拽、手势、无障碍、反馈</td><td><a href="#%E5%B8%83%E5%B1%80%E4%B8%8E%E4%BA%A4%E4%BA%92" class="rp-link">布局与交互</a></td></tr><tr><td>表单校验、上传、日期、颜色、参数面板</td><td><a href="#%E8%A1%A8%E5%8D%95%E4%B8%8E%E8%BE%93%E5%85%A5" class="rp-link">表单与输入</a></td></tr><tr><td>虚拟列表、表格、JSON、树、日历、轮播</td><td><a href="#%E6%95%B0%E6%8D%AE%E5%B1%95%E7%A4%BA" class="rp-link">数据展示</a></td></tr><tr><td>图表、地图、3D、画布、图片、动画、媒体</td><td><a href="#%E5%9B%BE%E5%BD%A2%E5%8A%A8%E7%94%BB%E4%B8%8E%E9%9F%B3%E8%A7%86%E9%A2%91" class="rp-link">图形、动画与音视频</a></td></tr><tr><td>Markdown、富文本、代码、PDF、办公文档、邮件</td><td><a href="#%E7%BC%96%E8%BE%91%E5%99%A8%E4%B8%8E%E6%96%87%E6%A1%A3" class="rp-link">编辑器与文档</a></td></tr><tr><td>Hooks、生命周期、性能、互操作、可视化开发</td><td><a href="#%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E8%B0%83%E8%AF%95" class="rp-link">组件开发与调试</a></td></tr></tbody></table></div>
+<h2 class="rp-toc-include" id="入门框架与路由"><a href="#入门框架与路由" class="rp-header-anchor rp-link" aria-hidden="true">#</a>入门、框架与路由</h2>
+<h3 class="rp-toc-include" id="官方资源"><a href="#官方资源" class="rp-header-anchor rp-link" aria-hidden="true">#</a>官方资源</h3>
 <ul>
 <li><a href="https://zh-hans.react.dev" target="_blank" rel="noopener noreferrer" class="rp-link">官网</a></li>
 <li><a href="https://github.com/facebook/react" target="_blank" rel="noopener noreferrer" class="rp-link">react</a> react 仓库</li>
 </ul>
-<h2 class="rp-toc-include" id="框架"><a href="#框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>框架</h2>
+<h3 class="rp-toc-include" id="框架"><a href="#框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>框架</h3>
 <ul>
 <li><a href="https://github.com/remorses/gpuix" target="_blank" rel="noopener noreferrer" class="rp-link">GPUIX</a> Zed GPUI 的 React 绑定，用 React 与 TypeScript 构建无需 Electron 的原生 GPU 加速桌面应用</li>
 <li><a href="https://nextjs.org" target="_blank" rel="noopener noreferrer" class="rp-link">nextjs</a> 面向 Web 的 React 框架</li>
@@ -35,29 +38,44 @@
 <li><a href="https://umijs.org" target="_blank" rel="noopener noreferrer" class="rp-link">umi</a> 企业级前端开发框架 - 蚂蚁金服出品</li>
 <li><a href="https://modernjs.dev/zh/index.html" target="_blank" rel="noopener noreferrer" class="rp-link">modernjs</a> 一款基于 React 和 Rsbuild 的渐进式 Web 框架 - 字节出品</li>
 </ul>
-<h3 class="rp-toc-include" id="应用框架"><a href="#应用框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>应用框架</h3>
+<h4 class="rp-toc-include" id="应用框架"><a href="#应用框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>应用框架</h4>
 <ul>
 <li><a href="https://github.com/wakujs/waku" target="_blank" rel="noopener noreferrer" class="rp-link">waku</a> 极简 React 框架</li>
 <li><a href="https://github.com/fuma-nama/fumadocs" target="_blank" rel="noopener noreferrer" class="rp-link">fumadocs</a> 优雅且灵活的 React.js 文档框架</li>
 </ul>
-<h3 class="rp-toc-include" id="nextjs"><a href="#nextjs" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Next.js</h3>
+<h4 class="rp-toc-include" id="nextjs"><a href="#nextjs" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Next.js</h4>
 <ul>
+<li><a href="https://github.com/vercel/geist-font/tree/HEAD/packages/next" target="_blank" rel="noopener noreferrer" class="rp-link">geist</a> Geist 字体的 Next.js 集成包</li>
 <li><a href="https://github.com/andreizanik/cookies-next" target="_blank" rel="noopener noreferrer" class="rp-link">cookies-next</a> 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie</li>
 <li><a href="https://github.com/muxinc/next-video" target="_blank" rel="noopener noreferrer" class="rp-link">next-video</a> Next.js 视频组件与处理工具，支持自动优化、远程存储、海报和预览缩略图</li>
 </ul>
-<h2 class="rp-toc-include" id="路由"><a href="#路由" class="rp-header-anchor rp-link" aria-hidden="true">#</a>路由</h2>
+<h3 class="rp-toc-include" id="路由"><a href="#路由" class="rp-header-anchor rp-link" aria-hidden="true">#</a>路由</h3>
 <ul>
 <li><a href="https://tanstack.com/router/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-router</a> 🤖 客户端优先、支持服务端的完全类型安全路由</li>
 <li><a href="https://github.com/remix-run/react-router" target="_blank" rel="noopener noreferrer" class="rp-link">react-router</a> React 声明式路由</li>
 <li><a href="https://github.com/molefrog/wouter" target="_blank" rel="noopener noreferrer" class="rp-link">wouter</a></li>
 </ul>
-<h2 class="rp-toc-include" id="ai"><a href="#ai" class="rp-header-anchor rp-link" aria-hidden="true">#</a>AI</h2>
-<h3 class="rp-toc-include" id="sdk-与集成"><a href="#sdk-与集成" class="rp-header-anchor rp-link" aria-hidden="true">#</a>SDK 与集成</h3>
+<h3 class="rp-toc-include" id="模板与示例"><a href="#模板与示例" class="rp-header-anchor rp-link" aria-hidden="true">#</a>模板与示例</h3>
+<ul>
+<li><a href="https://github.com/ixartz/Next-js-Boilerplate" target="_blank" rel="noopener noreferrer" class="rp-link">Next-js-Boilerplate</a> Next.js 样板工程与启动模板</li>
+<li><a href="https://github.com/arhamkhnz/next-shadcn-admin-dashboard" target="_blank" rel="noopener noreferrer" class="rp-link">next-shadcn-admin-dashboard</a> 基于 Next.js 16、TypeScript、Tailwind CSS v4 与 shadcn/ui 的现代管理后台模板</li>
+<li><a href="https://github.com/mugnavo/tanstarter" target="_blank" rel="noopener noreferrer" class="rp-link">TanStarter</a> 基于 TanStack Start、Vite+、Drizzle ORM、Better Auth 与 shadcn/ui 的极简 React 全栈模板</li>
+<li><a href="https://github.com/d3george/slash-admin" target="_blank" rel="noopener noreferrer" class="rp-link">slash-admin</a> 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！</li>
+<li><a href="https://github.com/sankeyangshu/lemon-mobile-react" target="_blank" rel="noopener noreferrer" class="rp-link">lemon-mobile-react</a> 一个基于 React 生态系统的移动 web 应用模板</li>
+<li><a href="https://github.com/condorheroblog/react-antd-admin" target="_blank" rel="noopener noreferrer" class="rp-link">react-antd-admin</a></li>
+<li><a href="https://github.com/southliu/south-admin-react" target="_blank" rel="noopener noreferrer" class="rp-link">south-admin-react</a></li>
+<li><a href="https://github.com/kriasoft/react-starter-kit" target="_blank" rel="noopener noreferrer" class="rp-link">react-starter-kit</a></li>
+<li><a href="https://github.com/langchain-ai/langchain-nextjs-template" target="_blank" rel="noopener noreferrer" class="rp-link">langchain-nextjs-template</a> LangChain + Next.js 入门模板</li>
+<li><a href="https://github.com/huangkaoya/redalert2" target="_blank" rel="noopener noreferrer" class="rp-link">redalert2</a> 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目</li>
+</ul>
+<h2 class="rp-toc-include" id="ai-与服务集成"><a href="#ai-与服务集成" class="rp-header-anchor rp-link" aria-hidden="true">#</a>AI 与服务集成</h2>
+<h3 class="rp-toc-include" id="ai"><a href="#ai" class="rp-header-anchor rp-link" aria-hidden="true">#</a>AI</h3>
+<h4 class="rp-toc-include" id="sdk-与集成"><a href="#sdk-与集成" class="rp-header-anchor rp-link" aria-hidden="true">#</a>SDK 与集成</h4>
 <ul>
 <li><a href="https://tanstack.com/ai/latest" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/ai-react</a> 一款可为应用程序赋予 AI 能力的智能 SDK</li>
 <li><a href="https://github.com/vercel-labs/json-render" target="_blank" rel="noopener noreferrer" class="rp-link">@json-render/react</a> AI → JSON → UI</li>
 <li><a href="https://github.com/tambo-ai/tambo" target="_blank" rel="noopener noreferrer" class="rp-link">tambo</a> React 生成式 UI SDK</li>
-<li><a href="https://github.com/google/A2UI/tree/main/renderers/react" target="_blank" rel="noopener noreferrer" class="rp-link">@a2ui/react</a> 适用于 A2UI（智能体到用户界面）的 React 渲染器</li>
+<li><a href="https://github.com/a2ui-project/a2ui/tree/main/typescript/renderers/react" target="_blank" rel="noopener noreferrer" class="rp-link">@a2ui/react</a> 适用于 A2UI（智能体到用户界面）的 React 渲染器</li>
 <li><a href="https://github.com/CopilotKit/CopilotKit" target="_blank" rel="noopener noreferrer" class="rp-link">CopilotKit</a> 面向智能体与生成式界面的前端技术栈<!-- -->
 <ul>
 <li><a href="https://github.com/CopilotKit/CopilotKit/tree/main/packages/react-ui" target="_blank" rel="noopener noreferrer" class="rp-link">@copilotkit/react-ui</a></li>
@@ -66,19 +84,39 @@
 <li><a href="https://github.com/vercel/ai/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@ai-sdk/react</a></li>
 <li><a href="https://github.com/FlowiseAI/FlowiseEmbedReact" target="_blank" rel="noopener noreferrer" class="rp-link">flowise-embed-react</a> 用于在网站上展示 Flowise 聊天机器人的 React 库</li>
 </ul>
-<h3 class="rp-toc-include" id="hooks"><a href="#hooks" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Hooks</h3>
+<h4 class="rp-toc-include" id="hooks"><a href="#hooks" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Hooks</h4>
 <ul>
 <li><a href="https://github.com/stackblitz-labs/use-stick-to-bottom" target="_blank" rel="noopener noreferrer" class="rp-link">use-stick-to-bottom</a> 一个轻量级的 React Hook，主要面向 AI 聊天类应用场景，用于实现消息列表平滑贴合底部的效果</li>
 </ul>
-<h3 class="rp-toc-include" id="组件"><a href="#组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件</h3>
+<h4 class="rp-toc-include" id="组件"><a href="#组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件</h4>
 <ul>
-<li><a href="https://github.com/r2hu1/shadcn-cookie-consent" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-cookie-consent</a> 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件</li>
-<li><a href="https://github.com/sindresorhus/react-extras" target="_blank" rel="noopener noreferrer" class="rp-link">react-extras</a> React 常用组件与工具函数集</li>
+<li><a href="https://github.com/elevenlabs/ui" target="_blank" rel="noopener noreferrer" class="rp-link">elevenlabs-ui</a> 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体</li>
 <li><a href="https://github.com/assistant-ui/tool-ui" target="_blank" rel="noopener noreferrer" class="rp-link">tool-ui</a> 用于 AI 界面的 UI 组件</li>
 <li><a href="https://github.com/assistant-ui/assistant-ui" target="_blank" rel="noopener noreferrer" class="rp-link">assistant-ui</a> 基于 TypeScript/React 的 AI 聊天专用库</li>
 <li><a href="https://github.com/antdigital-ai/agentic-ui" target="_blank" rel="noopener noreferrer" class="rp-link">agentic-ui</a> 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力</li>
 <li><a href="https://x.ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">@ant-design/x</a> AI 界面解决方案</li>
 <li><a href="https://github.com/vercel/ai-elements" target="_blank" rel="noopener noreferrer" class="rp-link">ai-elements</a> 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用</li>
+</ul>
+<h3 class="rp-toc-include" id="认证与第三方服务"><a href="#认证与第三方服务" class="rp-header-anchor rp-link" aria-hidden="true">#</a>认证与第三方服务</h3>
+<ul>
+<li><a href="https://github.com/devrnt/react-use-intercom" target="_blank" rel="noopener noreferrer" class="rp-link">react-use-intercom</a> 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案</li>
+<li><a href="https://github.com/caijf/rc-slider-captcha" target="_blank" rel="noopener noreferrer" class="rp-link">rc-slider-captcha</a> React 滑块验证码组件</li>
+<li><a href="https://github.com/c15t/c15t" target="_blank" rel="noopener noreferrer" class="rp-link">@c15t/react</a> 面向开发者打造的 Cookie 授权弹窗组件</li>
+<li><a href="https://github.com/Le0developer/react-turnstile" target="_blank" rel="noopener noreferrer" class="rp-link">react-turnstile</a> Cloudflare Turnstile 人机验证服务</li>
+<li><a href="https://github.com/stripe/react-stripe-js" target="_blank" rel="noopener noreferrer" class="rp-link">react-stripe-js</a> 适配 Stripe.js 与 Stripe Elements 的 React 组件库</li>
+<li><a href="https://github.com/vercel/react-tweet" target="_blank" rel="noopener noreferrer" class="rp-link">react-tweet</a> 在你的 React 应用中嵌入推特推文</li>
+<li><a href="https://github.com/novuhq/novu/tree/next/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@novu/react</a> 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接</li>
+<li><a href="https://github.com/codler/react-ga4" target="_blank" rel="noopener noreferrer" class="rp-link">react-ga4</a> 谷歌分析</li>
+<li><a href="https://github.com/nygardk/react-share" target="_blank" rel="noopener noreferrer" class="rp-link">react-share</a> 适用于 React 的社交媒体分享按钮及分享计数组件</li>
+<li><a href="https://github.com/MomenSherif/react-oauth" target="_blank" rel="noopener noreferrer" class="rp-link">@react-oauth/google</a> 谷歌登录</li>
+<li><a href="https://github.com/MomenSherif/react-oauth" target="_blank" rel="noopener noreferrer" class="rp-link">@react-oauth/github</a> GitHub 登录</li>
+<li><a href="https://github.com/AzureAD/microsoft-authentication-library-for-js" target="_blank" rel="noopener noreferrer" class="rp-link">@azure/msal-react</a> 微软身份验证库</li>
+</ul>
+<h3 class="rp-toc-include" id="多语言"><a href="#多语言" class="rp-header-anchor rp-link" aria-hidden="true">#</a>多语言</h3>
+<ul>
+<li><a href="https://github.com/i18next/react-i18next" target="_blank" rel="noopener noreferrer" class="rp-link">react-i18next</a></li>
+<li><a href="https://github.com/lingui/js-lingui" target="_blank" rel="noopener noreferrer" class="rp-link">@lingui/react</a></li>
+<li><a href="https://github.com/formatjs/formatjs" target="_blank" rel="noopener noreferrer" class="rp-link">react-intl</a></li>
 </ul>
 <h2 class="rp-toc-include" id="数据获取与状态"><a href="#数据获取与状态" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据获取与状态</h2>
 <h3 class="rp-toc-include" id="状态管理"><a href="#状态管理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>状态管理</h3>
@@ -129,84 +167,59 @@
 <li><a href="https://github.com/ItsBenCodes/cookies" target="_blank" rel="noopener noreferrer" class="rp-link">react-cookie</a> 在你的 Web 应用中加载并保存 Cookie</li>
 <li><a href="https://github.com/electric-sql/pglite/tree/main/packages/pglite-react" target="_blank" rel="noopener noreferrer" class="rp-link">@electric-sql/pglite-react</a> 此包基于 PGLite 的实时查询插件实现了 React hooks</li>
 </ul>
-<h2 class="rp-toc-include" id="hooks-工具集"><a href="#hooks-工具集" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Hooks 工具集</h2>
+<h2 class="rp-toc-include" id="组件体系与样式"><a href="#组件体系与样式" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件体系与样式</h2>
+<h3 class="rp-toc-include" id="组件库"><a href="#组件库" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件库</h3>
+<h4 class="rp-toc-include" id="无样式原语"><a href="#无样式原语" class="rp-header-anchor rp-link" aria-hidden="true">#</a>无样式原语</h4>
 <ul>
-<li><a href="https://github.com/streamich/react-use" target="_blank" rel="noopener noreferrer" class="rp-link">react-use</a> React Hooks — 👍</li>
-<li><a href="https://ahooks.js.org/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">ahooks</a> 一套高质量可靠的 React Hooks 库</li>
-<li><a href="https://github.com/react-hookz/web" target="_blank" rel="noopener noreferrer" class="rp-link">@react-hookz/web</a> 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。</li>
-<li><a href="https://mantine.dev/hooks/package" target="_blank" rel="noopener noreferrer" class="rp-link">@mantine/hooks</a></li>
-<li><a href="https://github.com/juliencrn/usehooks-ts" target="_blank" rel="noopener noreferrer" class="rp-link">usehooks-ts</a></li>
-<li><a href="https://github.com/djkepa/custom-react-hooks" target="_blank" rel="noopener noreferrer" class="rp-link">custom-react-hooks</a></li>
-<li><a href="https://github.com/uidotdev/usehooks" target="_blank" rel="noopener noreferrer" class="rp-link">@uidotdev/usehooks</a> 一套现代化、服务端安全的 React 钩子函数</li>
-<li><a href="https://github.com/SukkaW/foxact" target="_blank" rel="noopener noreferrer" class="rp-link">foxact</a> React Hooks/工具库</li>
+<li><a href="https://github.com/tailwindlabs/headlessui" target="_blank" rel="noopener noreferrer" class="rp-link">@headlessui/react</a></li>
+<li><a href="https://github.com/mui/base-ui" target="_blank" rel="noopener noreferrer" class="rp-link">@base-ui/react</a> 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统</li>
+<li><a href="https://github.com/chakra-ui/ark" target="_blank" rel="noopener noreferrer" class="rp-link">ark</a></li>
+<li><a href="https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components" target="_blank" rel="noopener noreferrer" class="rp-link">react-aria-components</a></li>
 </ul>
-<h2 class="rp-toc-include" id="多语言"><a href="#多语言" class="rp-header-anchor rp-link" aria-hidden="true">#</a>多语言</h2>
+<h4 class="rp-toc-include" id="完整组件库与设计体系"><a href="#完整组件库与设计体系" class="rp-header-anchor rp-link" aria-hidden="true">#</a>完整组件库与设计体系</h4>
 <ul>
-<li><a href="https://github.com/i18next/react-i18next" target="_blank" rel="noopener noreferrer" class="rp-link">react-i18next</a></li>
-<li><a href="https://github.com/lingui/js-lingui" target="_blank" rel="noopener noreferrer" class="rp-link">@lingui/react</a></li>
-<li><a href="https://github.com/formatjs/formatjs" target="_blank" rel="noopener noreferrer" class="rp-link">react-intl</a></li>
+<li><a href="https://github.com/cosscom/coss" target="_blank" rel="noopener noreferrer" class="rp-link">@coss/ui</a> Cal.com 官方设计系统</li>
+<li><a href="https://github.com/facebook/astryx" target="_blank" rel="noopener noreferrer" class="rp-link">astryx</a> Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具</li>
+<li><a href="https://github.com/heroui-inc/heroui" target="_blank" rel="noopener noreferrer" class="rp-link">heroui</a> 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）</li>
+<li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 一套企业级 UI 设计语言和 React 组件库</li>
+<li><a href="https://github.com/ant-design/ant-design-mobile" target="_blank" rel="noopener noreferrer" class="rp-link">antd-mobile</a> ant design 的移动端 Web 组件库</li>
+<li><a href="https://github.com/arco-design/arco-design" target="_blank" rel="noopener noreferrer" class="rp-link">@arco-design/web-react</a> Arco Design 的 React 组件库，字节跳动出品</li>
+<li><a href="https://semi.design/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">semi</a> 字节出品(包含 AI 组件)</li>
+<li><a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noopener noreferrer" class="rp-link">material-ui</a> 套全面落地谷歌 Material Design 设计规范的 React 组件库</li>
+<li><a href="https://github.com/mantinedev/mantine" target="_blank" rel="noopener noreferrer" class="rp-link">mantine</a> 功能完备的 React 组件库</li>
+<li><a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank" rel="noopener noreferrer" class="rp-link">react-bootstrap</a> 基于 React 构建的 Bootstrap 组件库</li>
+<li><a href="https://github.com/chakra-ui/chakra-ui" target="_blank" rel="noopener noreferrer" class="rp-link">chakra-ui</a> 一套可快速构建 SaaS 产品的组件体系</li>
+<li><a href="https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2" target="_blank" rel="noopener noreferrer" class="rp-link">@react-spectrum/s2</a></li>
+<li><a href="https://github.com/uber/baseweb" target="_blank" rel="noopener noreferrer" class="rp-link">baseweb</a> 一个实现了 Base 设计语言的 React 组件库</li>
+<li><a href="https://github.com/rsuite/rsuite" target="_blank" rel="noopener noreferrer" class="rp-link">rsuite</a> 一套 React 组件库。</li>
+<li><a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer" class="rp-link">animal-island-ui</a> Animal 风格的 React 组件库</li>
+<li><a href="https://github.com/gluestack/gluestack-ui" target="_blank" rel="noopener noreferrer" class="rp-link">gluestack-ui</a> React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）</li>
+<li><a href="https://github.com/palantir/blueprint" target="_blank" rel="noopener noreferrer" class="rp-link">blueprint</a></li>
 </ul>
-<h2 class="rp-toc-include" id="认证与第三方服务"><a href="#认证与第三方服务" class="rp-header-anchor rp-link" aria-hidden="true">#</a>认证与第三方服务</h2>
-<ul>
-<li><a href="https://github.com/devrnt/react-use-intercom" target="_blank" rel="noopener noreferrer" class="rp-link">react-use-intercom</a> 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案</li>
-<li><a href="https://github.com/caijf/rc-slider-captcha" target="_blank" rel="noopener noreferrer" class="rp-link">rc-slider-captcha</a> React 滑块验证码组件</li>
-<li><a href="https://github.com/c15t/c15t" target="_blank" rel="noopener noreferrer" class="rp-link">@c15t/react</a> 面向开发者打造的 Cookie 授权弹窗组件</li>
-<li><a href="https://github.com/Le0developer/react-turnstile" target="_blank" rel="noopener noreferrer" class="rp-link">react-turnstile</a> Cloudflare Turnstile 人机验证服务</li>
-<li><a href="https://github.com/stripe/react-stripe-js" target="_blank" rel="noopener noreferrer" class="rp-link">react-stripe-js</a> 适配 Stripe.js 与 Stripe Elements 的 React 组件库</li>
-<li><a href="https://github.com/vercel/react-tweet" target="_blank" rel="noopener noreferrer" class="rp-link">react-tweet</a> 在你的 React 应用中嵌入推特推文</li>
-<li><a href="https://github.com/novuhq/novu/tree/next/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@novu/react</a> 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接</li>
-<li><a href="https://github.com/codler/react-ga4" target="_blank" rel="noopener noreferrer" class="rp-link">react-ga4</a> 谷歌分析</li>
-<li><a href="https://github.com/nygardk/react-share" target="_blank" rel="noopener noreferrer" class="rp-link">react-share</a> 适用于 React 的社交媒体分享按钮及分享计数组件</li>
-<li><a href="https://github.com/MomenSherif/react-oauth" target="_blank" rel="noopener noreferrer" class="rp-link">@react-oauth/google</a> 谷歌登录</li>
-<li><a href="https://github.com/MomenSherif/react-oauth" target="_blank" rel="noopener noreferrer" class="rp-link">@react-oauth/github</a> GitHub 登录</li>
-<li><a href="https://github.com/AzureAD/microsoft-authentication-library-for-js" target="_blank" rel="noopener noreferrer" class="rp-link">@azure/msal-react</a> 微软身份验证库</li>
-</ul>
-<h2 class="rp-toc-include" id="组件库"><a href="#组件库" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件库</h2>
+<h4 class="rp-toc-include" id="源码分发与组件合集"><a href="#源码分发与组件合集" class="rp-header-anchor rp-link" aria-hidden="true">#</a>源码分发与组件合集</h4>
 <ul>
 <li><a href="https://pro-ui.dev" target="_blank" rel="noopener noreferrer" class="rp-link">ProUI</a> 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板</li>
 <li><a href="https://github.com/starc007/ui-components" target="_blank" rel="noopener noreferrer" class="rp-link">ui-components</a> React 动画组件</li>
 <li><a href="https://www.originkit.dev" target="_blank" rel="noopener noreferrer" class="rp-link">originkit</a> 免费动画组件库</li>
 <li><a href="https://github.com/swamimalode07/rare-ui" target="_blank" rel="noopener noreferrer" class="rp-link">rare-ui</a> 基于 React、Tailwind CSS 和 Motion 的 shadcn 动效组件注册源，可按需复制组件源码</li>
 <li><a href="https://github.com/MengTo/threeui" target="_blank" rel="noopener noreferrer" class="rp-link">ThreeUI</a> 开源 React 三维交互组件库，提供可实时预览的社区组件与源代码</li>
-<li><a href="https://github.com/tailwindlabs/headlessui" target="_blank" rel="noopener noreferrer" class="rp-link">@headlessui/react</a></li>
-<li><a href="https://github.com/mui/base-ui" target="_blank" rel="noopener noreferrer" class="rp-link">@base-ui/react</a> 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统</li>
-<li><a href="https://github.com/cosscom/coss" target="_blank" rel="noopener noreferrer" class="rp-link">@coss/ui</a> Cal.com 官方设计系统</li>
-<li><a href="https://github.com/facebook/astryx" target="_blank" rel="noopener noreferrer" class="rp-link">astryx</a> Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具</li>
 <li><a href="https://www.npmjs.com/package/shaders" target="_blank" rel="noopener noreferrer" class="rp-link">shaders</a> 面向 React、Vue、Svelte、Solid 与原生 JavaScript 的 WebGPU 创意特效组件库</li>
-<li><a href="https://github.com/heroui-inc/heroui" target="_blank" rel="noopener noreferrer" class="rp-link">heroui</a> 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）</li>
 <li><a href="https://chanhdai.com/components" target="_blank" rel="noopener noreferrer" class="rp-link">chanhdai</a></li>
 <li><a href="https://github.com/xxtomm/spell-ui" target="_blank" rel="noopener noreferrer" class="rp-link">spell-ui</a> 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用</li>
 <li><a href="https://21st.dev" target="_blank" rel="noopener noreferrer" class="rp-link">21st.dev</a> 基于 react 和 Tailwind CSS 的开源组件平台</li>
 <li><a href="https://github.com/DavidHDev/react-bits" target="_blank" rel="noopener noreferrer" class="rp-link">react-bits</a> 开源 React 动画与交互组件合集，提供可定制的文字动画、背景和 UI 组件</li>
-<li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 一套企业级 UI 设计语言和 React 组件库</li>
-<li><a href="https://github.com/ant-design/ant-design-mobile" target="_blank" rel="noopener noreferrer" class="rp-link">antd-mobile</a> ant design 的移动端 Web 组件库</li>
-<li><a href="https://github.com/arco-design/arco-design" target="_blank" rel="noopener noreferrer" class="rp-link">@arco-design/web-react</a> Arco Design 的 React 组件库，字节跳动出品</li>
-<li><a href="https://semi.design/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">semi</a> 字节出品(包含 AI 组件)</li>
 <li><a href="https://github.com/shadcn-ui/ui" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-ui</a> 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放<!-- -->
 <ul>
 <li><a href="https://github.com/nolly-studio/cult-ui" target="_blank" rel="noopener noreferrer" class="rp-link">cult-ui</a></li>
 </ul>
 </li>
 <li><a href="https://github.com/sadmann7/diceui" target="_blank" rel="noopener noreferrer" class="rp-link">Dice UI</a> 基于 React、TypeScript 与 Tailwind CSS 的无障碍 shadcn/ui 组件，可直接复制使用</li>
-<li><a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noopener noreferrer" class="rp-link">material-ui</a> 套全面落地谷歌 Material Design 设计规范的 React 组件库</li>
-<li><a href="https://github.com/mantinedev/mantine" target="_blank" rel="noopener noreferrer" class="rp-link">mantine</a> 功能完备的 React 组件库</li>
-<li><a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank" rel="noopener noreferrer" class="rp-link">react-bootstrap</a> 基于 React 构建的 Bootstrap 组件库</li>
-<li><a href="https://github.com/semantic-org/semantic-ui" target="_blank" rel="noopener noreferrer" class="rp-link">semantic-ui</a> 基于自然语言实用原理构建的 UI 组件框架</li>
-<li><a href="https://github.com/chakra-ui/chakra-ui" target="_blank" rel="noopener noreferrer" class="rp-link">chakra-ui</a> 一套可快速构建 SaaS 产品的组件体系</li>
-<li><a href="https://github.com/chakra-ui/ark" target="_blank" rel="noopener noreferrer" class="rp-link">ark</a></li>
-<li><a href="https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components" target="_blank" rel="noopener noreferrer" class="rp-link">react-aria-components</a></li>
-<li><a href="https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2" target="_blank" rel="noopener noreferrer" class="rp-link">@react-spectrum/s2</a></li>
-<li><a href="https://github.com/uber/baseweb" target="_blank" rel="noopener noreferrer" class="rp-link">baseweb</a> 一个实现了 Base 设计语言的 React 组件库</li>
-<li><a href="https://github.com/rsuite/rsuite" target="_blank" rel="noopener noreferrer" class="rp-link">rsuite</a> 一套 React 组件库。</li>
 <li><a href="https://github.com/codse/animata" target="_blank" rel="noopener noreferrer" class="rp-link">animata</a> 借助简易易用的动画与交互代码，为你的网站注入灵动活力</li>
-<li><a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer" class="rp-link">animal-island-ui</a> Animal 风格的 React 组件库</li>
 <li><a href="https://github.com/ui-layouts/uilayouts" target="_blank" rel="noopener noreferrer" class="rp-link">uilayouts</a></li>
-<li><a href="https://github.com/gluestack/gluestack-ui" target="_blank" rel="noopener noreferrer" class="rp-link">gluestack-ui</a> React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）</li>
 <li><a href="https://github.com/codewithMUHILAN/Lightswind-UI-Library" target="_blank" rel="noopener noreferrer" class="rp-link">Lightswind-UI-Library</a></li>
-<li><a href="https://github.com/palantir/blueprint" target="_blank" rel="noopener noreferrer" class="rp-link">blueprint</a></li>
 <li><a href="https://github.com/bidyut10/opensourceui" target="_blank" rel="noopener noreferrer" class="rp-link">opensourceui</a></li>
 </ul>
-<h2 class="rp-toc-include" id="主题与样式"><a href="#主题与样式" class="rp-header-anchor rp-link" aria-hidden="true">#</a>主题与样式</h2>
+<h3 class="rp-toc-include" id="主题与样式"><a href="#主题与样式" class="rp-header-anchor rp-link" aria-hidden="true">#</a>主题与样式</h3>
 <ul>
 <li><a href="https://github.com/rakib86/react-progressive-blur" target="_blank" rel="noopener noreferrer" class="rp-link">react-progressive-blur</a> 渐进式模糊效果</li>
 <li><a href="https://github.com/rdev/liquid-glass-react" target="_blank" rel="noopener noreferrer" class="rp-link">liquid-glass-react</a> 适配 React 的苹果液态玻璃效果</li>
@@ -214,8 +227,31 @@
 <li><a href="https://github.com/pacocoursey/next-themes" target="_blank" rel="noopener noreferrer" class="rp-link">next-themes</a> 两行代码实现完美的 Next.js 暗黑模式。支持系统偏好和任何其他主题，无闪烁</li>
 <li><a href="https://github.com/vercel/styled-jsx" target="_blank" rel="noopener noreferrer" class="rp-link">styled-jsx</a> 完整兼容 JSX 的 CSS 写法</li>
 </ul>
-<h2 class="rp-toc-include" id="布局与导航"><a href="#布局与导航" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局与导航</h2>
-<h3 class="rp-toc-include" id="布局与尺寸"><a href="#布局与尺寸" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局与尺寸</h3>
+<h3 class="rp-toc-include" id="图标"><a href="#图标" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图标</h3>
+<ul>
+<li>图标<!-- -->
+<ul>
+<li><a href="https://github.com/Remix-Design/RemixIcon" target="_blank" rel="noopener noreferrer" class="rp-link">@remixicon/react</a></li>
+<li><a href="https://github.com/icons-pack/react-simple-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@icons-pack/react-simple-icons</a></li>
+<li><a href="https://github.com/tabler/tabler-icons/tree/main/packages/icons-react" target="_blank" rel="noopener noreferrer" class="rp-link">@tabler/icons-react</a></li>
+<li><a href="https://github.com/react-icons/react-icons" target="_blank" rel="noopener noreferrer" class="rp-link">react-icons</a></li>
+<li><a href="https://github.com/iconify/iconify/tree/HEAD/components/react" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify/react</a>
+<ul>
+<li><a href="https://github.com/iconify/icon-sets/blob/master/json/vscode-icons.json" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify-json/vscode-icons</a> VS Code 图标集</li>
+</ul>
+</li>
+<li><a href="https://github.com/ant-design/ant-design-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@ant-design/icons</a></li>
+<li><a href="https://lucide.dev/guide/packages/lucide-react" target="_blank" rel="noopener noreferrer" class="rp-link">lucide-react</a></li>
+<li><a href="https://github.com/hugeicons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@hugeicons/react</a></li>
+<li><a href="https://github.com/phosphor-icons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@phosphor-icons/react</a></li>
+<li><a href="https://github.com/glincker/thesvg/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@thesvg/react</a></li>
+<li><a href="https://github.com/bytedance/IconPark" target="_blank" rel="noopener noreferrer" class="rp-link">@icon-park/react</a> 字节跳动 IconPark 图标库的 React 组件</li>
+</ul>
+</li>
+</ul>
+<h2 class="rp-toc-include" id="布局与交互"><a href="#布局与交互" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局与交互</h2>
+<h3 class="rp-toc-include" id="布局与导航"><a href="#布局与导航" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局与导航</h3>
+<h4 class="rp-toc-include" id="布局与尺寸"><a href="#布局与尺寸" class="rp-header-anchor rp-link" aria-hidden="true">#</a>布局与尺寸</h4>
 <ul>
 <li><a href="https://github.com/ZeeCoder/use-resize-observer" target="_blank" rel="noopener noreferrer" class="rp-link">use-resize-observer</a> 用于测量元素尺寸、基于 ResizeObserver 的 React Hook</li>
 <li><a href="https://github.com/pmndrs/react-use-measure" target="_blank" rel="noopener noreferrer" class="rp-link">react-use-measure</a> 用于测量视图边界的工具</li>
@@ -235,22 +271,80 @@
 <li><a href="https://github.com/react-component/footer" target="_blank" rel="noopener noreferrer" class="rp-link">rc-footer</a> 应用于 ant.design 的精美页脚 React 组件</li>
 <li><a href="https://github.com/nomcopter/react-mosaic" target="_blank" rel="noopener noreferrer" class="rp-link">react-mosaic-component</a> 基于 React 实现的平铺式窗口管理器</li>
 <li><a href="https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react" target="_blank" rel="noopener noreferrer" class="rp-link">overlayscrollbars-react</a> 美化滚动条</li>
-<li><a href="https://github.com/v-plugin/vfit/tree/main/vfit-react" target="_blank" rel="noopener noreferrer" class="rp-link">vfit-react</a> 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位</li>
+<li><a href="https://www.npmjs.com/package/vfit-react" target="_blank" rel="noopener noreferrer" class="rp-link">vfit-react</a> 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位</li>
 <li><a href="https://github.com/react-grid-layout/react-resizable" target="_blank" rel="noopener noreferrer" class="rp-link">react-resizable</a> 一个带拖拽手柄、可调节尺寸的简易 React 组件</li>
 <li><a href="https://github.com/ryanseddon/react-frame-component" target="_blank" rel="noopener noreferrer" class="rp-link">react-frame-component</a> 将你的 React 应用渲染到 iframe 中</li>
 <li><a href="https://github.com/yocontra/react-responsive" target="_blank" rel="noopener noreferrer" class="rp-link">react-responsive</a> React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景</li>
 <li><a href="https://github.com/pmndrs/tunnel-rat" target="_blank" rel="noopener noreferrer" class="rp-link">tunnel-rat</a> 为 React 元素挖出通道，让它们能够出现在其他地方</li>
 </ul>
-<h3 class="rp-toc-include" id="菜单与分页"><a href="#菜单与分页" class="rp-header-anchor rp-link" aria-hidden="true">#</a>菜单与分页</h3>
+<h4 class="rp-toc-include" id="菜单与分页"><a href="#菜单与分页" class="rp-header-anchor rp-link" aria-hidden="true">#</a>菜单与分页</h4>
 <ul>
 <li><a href="https://github.com/szhsin/react-menu" target="_blank" rel="noopener noreferrer" class="rp-link">@szhsin/react-menu</a> 无障碍菜单、下拉菜单、子菜单、右键菜单</li>
 <li><a href="https://github.com/jonelantha/react-responsive-pagination" target="_blank" rel="noopener noreferrer" class="rp-link">react-responsive-pagination</a> 分页</li>
 <li><a href="https://github.com/fkhadra/react-contexify" target="_blank" rel="noopener noreferrer" class="rp-link">react-contexify</a> 右键菜单</li>
 </ul>
-<h3 class="rp-toc-include" id="命令菜单"><a href="#命令菜单" class="rp-header-anchor rp-link" aria-hidden="true">#</a>命令菜单</h3>
+<h4 class="rp-toc-include" id="命令菜单"><a href="#命令菜单" class="rp-header-anchor rp-link" aria-hidden="true">#</a>命令菜单</h4>
 <ul>
 <li><a href="https://github.com/timc1/kbar" target="_blank" rel="noopener noreferrer" class="rp-link">kbar</a> 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站</li>
 <li><a href="https://github.com/dip/cmdk" target="_blank" rel="noopener noreferrer" class="rp-link">cmdk</a> 高性能、无预设样式的 React 命令菜单组件</li>
+</ul>
+<h3 class="rp-toc-include" id="交互与无障碍"><a href="#交互与无障碍" class="rp-header-anchor rp-link" aria-hidden="true">#</a>交互与无障碍</h3>
+<h4 class="rp-toc-include" id="快捷键与剪贴板"><a href="#快捷键与剪贴板" class="rp-header-anchor rp-link" aria-hidden="true">#</a>快捷键与剪贴板</h4>
+<ul>
+<li><a href="https://github.com/JohannesKlauss/react-hotkeys-hook" target="_blank" rel="noopener noreferrer" class="rp-link">react-hotkeys-hook</a> 键盘快捷键</li>
+<li><a href="https://github.com/jaywcjlove/react-hotkeys" target="_blank" rel="noopener noreferrer" class="rp-link">react-hotkeys</a> 派发键盘快捷键</li>
+<li><a href="https://github.com/nkbt/react-copy-to-clipboard" target="_blank" rel="noopener noreferrer" class="rp-link">react-copy-to-clipboard</a> 拷贝</li>
+<li><a href="https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-hotkeys</a> 快捷键</li>
+</ul>
+<h4 class="rp-toc-include" id="拖拽与手势"><a href="#拖拽与手势" class="rp-header-anchor rp-link" aria-hidden="true">#</a>拖拽与手势</h4>
+<ul>
+<li><a href="https://github.com/minwork/react/tree/main/packages/use-long-press" target="_blank" rel="noopener noreferrer" class="rp-link">use-long-press</a> 长按</li>
+<li><a href="https://github.com/valerybugakov/react-selectable-fast" target="_blank" rel="noopener noreferrer" class="rp-link">react-selectable-fast</a> 支持通过鼠标或触摸操作选中 React 组件</li>
+<li><a href="https://github.com/BetterTyped/react-zoom-pan-pinch" target="_blank" rel="noopener noreferrer" class="rp-link">react-zoom-pan-pinch</a> 支持对 <code>&lt;img&gt;</code>、<code>&lt;div&gt;</code> 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作</li>
+<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/react</a> 新一代 dnd-kit 的 React 适配包</li>
+<li><a href="https://dndkit.com/legacy/introduction/installation/" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/core</a> dnd-kit Legacy 的高性能、无障碍拖拽核心<!-- -->
+<ul>
+<li><a href="https://dndkit.com/legacy/presets/sortable/overview/" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/sortable</a> 可排序列表功能</li>
+<li><a href="https://dndkit.com/legacy/introduction/getting-started/" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/utilities</a> dnd-kit 通用工具函数</li>
+</ul>
+</li>
+<li><a href="https://github.com/react-dnd/react-dnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd</a>
+<ul>
+<li><a href="https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd-html5-backend</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/react-grid-layout/react-draggable" target="_blank" rel="noopener noreferrer" class="rp-link">react-draggable</a></li>
+<li><a href="https://github.com/atlassian/react-beautiful-dnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-beautiful-dnd</a> 已于 2025 年 8 月归档的 React 列表拖拽库，保留供旧项目参考</li>
+<li><a href="https://github.com/hello-pangea/dnd" target="_blank" rel="noopener noreferrer" class="rp-link">@hello-pangea/dnd</a> 基于 React 打造的美观且无障碍的列表拖拽组件</li>
+<li><a href="https://github.com/daybrush/moveable/tree/master/packages/react-moveable" target="_blank" rel="noopener noreferrer" class="rp-link">react-moveable</a> 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！</li>
+<li><a href="https://github.com/daybrush/selecto" target="_blank" rel="noopener noreferrer" class="rp-link">react-selecto</a> 通过鼠标或触屏在拖拽区域内框选元素</li>
+<li><a href="https://github.com/AirLabsTeam/react-drag-to-select" target="_blank" rel="noopener noreferrer" class="rp-link">react-drag-to-select</a> 一款为你的应用程序添加框选（拖选）功能的 React 库</li>
+<li><a href="https://github.com/pmndrs/use-gesture" target="_blank" rel="noopener noreferrer" class="rp-link">@use-gesture/react</a> 手势库</li>
+</ul>
+<h4 class="rp-toc-include" id="焦点与滚动"><a href="#焦点与滚动" class="rp-header-anchor rp-link" aria-hidden="true">#</a>焦点与滚动</h4>
+<ul>
+<li><a href="https://github.com/theKashey/react-remove-scroll" target="_blank" rel="noopener noreferrer" class="rp-link">react-remove-scroll</a> 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal</li>
+<li><a href="https://github.com/theKashey/react-focus-lock" target="_blank" rel="noopener noreferrer" class="rp-link">react-focus-lock</a> 焦点锁定器</li>
+<li><a href="https://github.com/thebuilder/react-intersection-observer" target="_blank" rel="noopener noreferrer" class="rp-link">react-intersection-observer</a> 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口</li>
+<li><a href="https://github.com/focus-trap/focus-trap-react" target="_blank" rel="noopener noreferrer" class="rp-link">focus-trap-react</a> 一个用于捕获焦点的 React 组件</li>
+</ul>
+<h3 class="rp-toc-include" id="反馈与引导"><a href="#反馈与引导" class="rp-header-anchor rp-link" aria-hidden="true">#</a>反馈与引导</h3>
+<ul>
+<li><a href="https://github.com/r2hu1/shadcn-cookie-consent" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-cookie-consent</a> 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件</li>
+<li><a href="https://github.com/gilbarbara/react-joyride" target="_blank" rel="noopener noreferrer" class="rp-link">react-joyride</a> 漫游式引导</li>
+<li><a href="https://github.com/elrumordelaluz/reactour" target="_blank" rel="noopener noreferrer" class="rp-link">reactour</a> 漫游式引导</li>
+<li><a href="https://github.com/0xGF/boneyard" target="_blank" rel="noopener noreferrer" class="rp-link">boneyard</a> 自动生成式骨架屏加载框架</li>
+<li><a href="https://github.com/dvtng/react-loading-skeleton" target="_blank" rel="noopener noreferrer" class="rp-link">react-loading-skeleton</a> 骨架屏</li>
+<li><a href="https://github.com/davidhu2000/react-spinners" target="_blank" rel="noopener noreferrer" class="rp-link">react-spinners</a> 适用于 React 的加载动画旋转组件合集</li>
+<li><a href="https://github.com/tanem/react-nprogress" target="_blank" rel="noopener noreferrer" class="rp-link">react-nprogress</a> 顶部进度条</li>
+<li><a href="https://github.com/fkhadra/react-toastify" target="_blank" rel="noopener noreferrer" class="rp-link">react-toastify</a> 消息通知</li>
+<li><a href="https://github.com/ReactTooltip/react-tooltip" target="_blank" rel="noopener noreferrer" class="rp-link">react-tooltip</a> 提示框组件</li>
+<li><a href="https://github.com/timolins/react-hot-toast" target="_blank" rel="noopener noreferrer" class="rp-link">react-hot-toast</a> 超赞的 React 通知组件 🔥</li>
+<li><a href="https://github.com/emilkowalski/sonner" target="_blank" rel="noopener noreferrer" class="rp-link">sonner</a> 一个具有独特风格的 React 提示组件</li>
+<li><a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreferrer" class="rp-link">react-burger-menu</a> 抽屉</li>
+<li><a href="https://github.com/emilkowalski/vaul" target="_blank" rel="noopener noreferrer" class="rp-link">vaul</a> 抽屉</li>
+<li><a href="https://github.com/kevinsqi/react-circular-progressbar" target="_blank" rel="noopener noreferrer" class="rp-link">react-circular-progressbar</a> 环形进度条</li>
+<li><a href="https://github.com/floating-ui/floating-ui/tree/master/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@floating-ui/react</a> 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库</li>
 </ul>
 <h2 class="rp-toc-include" id="表单与输入"><a href="#表单与输入" class="rp-header-anchor rp-link" aria-hidden="true">#</a>表单与输入</h2>
 <h3 class="rp-toc-include" id="文本与数字"><a href="#文本与数字" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文本与数字</h3>
@@ -378,64 +472,8 @@
 <li><a href="https://github.com/rcaferati/react-awesome-slider" target="_blank" rel="noopener noreferrer" class="rp-link">react-awesome-slider</a> 一款高性能、轻量型的 React 轮播 / 滑动组件，适用于媒体与内容切换，拥有60 帧流畅动画、模块化样式、可选高阶组件以及全屏导航工具</li>
 <li><a href="https://github.com/naver/egjs-flicking" target="_blank" rel="noopener noreferrer" class="rp-link">@egjs/react-flicking</a> 轮播组件</li>
 </ul>
-<h2 class="rp-toc-include" id="反馈与引导"><a href="#反馈与引导" class="rp-header-anchor rp-link" aria-hidden="true">#</a>反馈与引导</h2>
-<ul>
-<li><a href="https://github.com/gilbarbara/react-joyride" target="_blank" rel="noopener noreferrer" class="rp-link">react-joyride</a> 漫游式引导</li>
-<li><a href="https://github.com/elrumordelaluz/reactour" target="_blank" rel="noopener noreferrer" class="rp-link">reactour</a> 漫游式引导</li>
-<li><a href="https://github.com/0xGF/boneyard" target="_blank" rel="noopener noreferrer" class="rp-link">boneyard</a> 自动生成式骨架屏加载框架</li>
-<li><a href="https://github.com/dvtng/react-loading-skeleton" target="_blank" rel="noopener noreferrer" class="rp-link">react-loading-skeleton</a> 骨架屏</li>
-<li><a href="https://github.com/davidhu2000/react-spinners" target="_blank" rel="noopener noreferrer" class="rp-link">react-spinners</a> 适用于 React 的加载动画旋转组件合集</li>
-<li><a href="https://github.com/tanem/react-nprogress" target="_blank" rel="noopener noreferrer" class="rp-link">react-nprogress</a> 顶部进度条</li>
-<li><a href="https://github.com/fkhadra/react-toastify" target="_blank" rel="noopener noreferrer" class="rp-link">react-toastify</a> 消息通知</li>
-<li><a href="https://github.com/ReactTooltip/react-tooltip" target="_blank" rel="noopener noreferrer" class="rp-link">react-tooltip</a> 提示框组件</li>
-<li><a href="https://github.com/timolins/react-hot-toast" target="_blank" rel="noopener noreferrer" class="rp-link">react-hot-toast</a> 超赞的 React 通知组件 🔥</li>
-<li><a href="https://github.com/emilkowalski/sonner" target="_blank" rel="noopener noreferrer" class="rp-link">sonner</a> 一个具有独特风格的 React 提示组件</li>
-<li><a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreferrer" class="rp-link">react-burger-menu</a> 抽屉</li>
-<li><a href="https://github.com/emilkowalski/vaul" target="_blank" rel="noopener noreferrer" class="rp-link">vaul</a> 抽屉</li>
-<li><a href="https://github.com/kevinsqi/react-circular-progressbar" target="_blank" rel="noopener noreferrer" class="rp-link">react-circular-progressbar</a> 环形进度条</li>
-<li><a href="https://github.com/floating-ui/floating-ui/tree/master/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@floating-ui/react</a> 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库</li>
-</ul>
-<h2 class="rp-toc-include" id="交互与无障碍"><a href="#交互与无障碍" class="rp-header-anchor rp-link" aria-hidden="true">#</a>交互与无障碍</h2>
-<h3 class="rp-toc-include" id="快捷键与剪贴板"><a href="#快捷键与剪贴板" class="rp-header-anchor rp-link" aria-hidden="true">#</a>快捷键与剪贴板</h3>
-<ul>
-<li><a href="https://github.com/JohannesKlauss/react-hotkeys-hook" target="_blank" rel="noopener noreferrer" class="rp-link">react-hotkeys-hook</a> 键盘快捷键</li>
-<li><a href="https://github.com/jaywcjlove/react-hotkeys" target="_blank" rel="noopener noreferrer" class="rp-link">react-hotkeys</a> 派发键盘快捷键</li>
-<li><a href="https://github.com/nkbt/react-copy-to-clipboard" target="_blank" rel="noopener noreferrer" class="rp-link">react-copy-to-clipboard</a> 拷贝</li>
-<li><a href="https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys" target="_blank" rel="noopener noreferrer" class="rp-link">@tanstack/react-hotkeys</a> 快捷键</li>
-</ul>
-<h3 class="rp-toc-include" id="拖拽与手势"><a href="#拖拽与手势" class="rp-header-anchor rp-link" aria-hidden="true">#</a>拖拽与手势</h3>
-<ul>
-<li><a href="https://github.com/minwork/react/tree/main/packages/use-long-press" target="_blank" rel="noopener noreferrer" class="rp-link">use-long-press</a> 长按</li>
-<li><a href="https://github.com/valerybugakov/react-selectable-fast" target="_blank" rel="noopener noreferrer" class="rp-link">react-selectable-fast</a> 支持通过鼠标或触摸操作选中 React 组件</li>
-<li><a href="https://github.com/BetterTyped/react-zoom-pan-pinch" target="_blank" rel="noopener noreferrer" class="rp-link">react-zoom-pan-pinch</a> 支持对 <code>&lt;img&gt;</code>、<code>&lt;div&gt;</code> 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作</li>
-<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/react</a>
-<ul>
-<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/core" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/core</a> 高性能、可访问的拖拽工具包核心</li>
-<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/sortable" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/sortable</a> 可排序列表功能</li>
-<li><a href="https://github.com/clauderic/dnd-kit/tree/main/packages/utilities" target="_blank" rel="noopener noreferrer" class="rp-link">@dnd-kit/utilities</a> dnd-kit 通用工具函数</li>
-</ul>
-</li>
-<li><a href="https://github.com/react-dnd/react-dnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd</a>
-<ul>
-<li><a href="https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5" target="_blank" rel="noopener noreferrer" class="rp-link">react-dnd-html5-backend</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/react-grid-layout/react-draggable" target="_blank" rel="noopener noreferrer" class="rp-link">react-draggable</a></li>
-<li><a href="https://github.com/atlassian/react-beautiful-dnd" target="_blank" rel="noopener noreferrer" class="rp-link">react-beautiful-dnd</a></li>
-<li><a href="https://github.com/hello-pangea/dnd" target="_blank" rel="noopener noreferrer" class="rp-link">@hello-pangea/dnd</a> 基于 React 打造的美观且无障碍的列表拖拽组件</li>
-<li><a href="https://github.com/daybrush/moveable/tree/master/packages/react-moveable" target="_blank" rel="noopener noreferrer" class="rp-link">react-moveable</a> 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！</li>
-<li><a href="https://github.com/daybrush/selecto" target="_blank" rel="noopener noreferrer" class="rp-link">react-selecto</a> 通过鼠标或触屏在拖拽区域内框选元素</li>
-<li><a href="https://github.com/AirLabsTeam/react-drag-to-select" target="_blank" rel="noopener noreferrer" class="rp-link">react-drag-to-select</a> 一款为你的应用程序添加框选（拖选）功能的 React 库</li>
-<li><a href="https://github.com/pmndrs/use-gesture" target="_blank" rel="noopener noreferrer" class="rp-link">@use-gesture/react</a> 手势库</li>
-</ul>
-<h3 class="rp-toc-include" id="焦点与滚动"><a href="#焦点与滚动" class="rp-header-anchor rp-link" aria-hidden="true">#</a>焦点与滚动</h3>
-<ul>
-<li><a href="https://github.com/theKashey/react-remove-scroll" target="_blank" rel="noopener noreferrer" class="rp-link">react-remove-scroll</a> 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal</li>
-<li><a href="https://github.com/theKashey/react-focus-lock" target="_blank" rel="noopener noreferrer" class="rp-link">react-focus-lock</a> 焦点锁定器</li>
-<li><a href="https://github.com/thebuilder/react-intersection-observer" target="_blank" rel="noopener noreferrer" class="rp-link">react-intersection-observer</a> 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口</li>
-<li><a href="https://github.com/focus-trap/focus-trap-react" target="_blank" rel="noopener noreferrer" class="rp-link">focus-trap-react</a> 一个用于捕获焦点的 React 组件</li>
-</ul>
-<h2 class="rp-toc-include" id="动画"><a href="#动画" class="rp-header-anchor rp-link" aria-hidden="true">#</a>动画</h2>
+<h2 class="rp-toc-include" id="图形动画与音视频"><a href="#图形动画与音视频" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图形、动画与音视频</h2>
+<h3 class="rp-toc-include" id="动画"><a href="#动画" class="rp-header-anchor rp-link" aria-hidden="true">#</a>动画</h3>
 <ul>
 <li><a href="https://github.com/imskyleen/animate-ui" target="_blank" rel="noopener noreferrer" class="rp-link">Animate UI</a> 基于 React、Tailwind CSS 与 Motion 的开源动画组件分发库，支持通过 shadcn CLI 安装</li>
 <li><a href="https://github.com/Subhan-code/Amicro--Micro-transitions-" target="_blank" rel="noopener noreferrer" class="rp-link">Amicro</a> 基于 Motion 的 React 微交互、过渡组件与卡片布局集合，支持 CLI 和 shadcn/ui Registry 安装</li>
@@ -456,7 +494,6 @@
 <li><a href="https://github.com/tsparticles/tsparticles" target="_blank" rel="noopener noreferrer" class="rp-link">@tsparticles/react</a> 粒子特效、彩带爆破与烟花动画</li>
 <li><a href="https://github.com/geosigno/simpleParallax.js" target="_blank" rel="noopener noreferrer" class="rp-link">simpleParallax.js</a> 适用于 React 和 JavaScript 的简易视差效果</li>
 <li><a href="https://github.com/jscottsmith/react-scroll-parallax" target="_blank" rel="noopener noreferrer" class="rp-link">react-scroll-parallax</a> 用于为横幅、图片或任意其他 DOM 元素创建视差滚动效果的 React Hooks 与组件。</li>
-<li><a href="https://github.com/LottieFiles/dotlottie-web" target="_blank" rel="noopener noreferrer" class="rp-link">@lottiefiles/dotlottie-react</a> 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器</li>
 <li><a href="https://github.com/barvian/number-flow/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@number-flow/react</a> 动画数字组件</li>
 <li><a href="https://github.com/justin-chu/react-fast-marquee" target="_blank" rel="noopener noreferrer" class="rp-link">react-fast-marquee</a> 跑马灯</li>
 <li><a href="https://github.com/thedevelobear/react-rewards" target="_blank" rel="noopener noreferrer" class="rp-link">react-rewards</a> 一个包含若干微交互的工具包</li>
@@ -465,8 +502,8 @@
 <li><a href="https://github.com/reactjs/react-transition-group" target="_blank" rel="noopener noreferrer" class="rp-link">react-transition-group</a> 在 React 组件进入或离开 DOM 时执行动画的简便方案</li>
 <li><a href="https://github.com/LottieFiles/dotlottie-web/tree/HEAD/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@lottiefiles/dotlottie-react</a> 基于 dotlottie-web 库封装的 React 组件</li>
 </ul>
-<h2 class="rp-toc-include" id="数据可视化"><a href="#数据可视化" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据可视化</h2>
-<h3 class="rp-toc-include" id="图表"><a href="#图表" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图表</h3>
+<h3 class="rp-toc-include" id="数据可视化"><a href="#数据可视化" class="rp-header-anchor rp-link" aria-hidden="true">#</a>数据可视化</h3>
+<h4 class="rp-toc-include" id="图表"><a href="#图表" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图表</h4>
 <ul>
 <li><a href="https://github.com/nteract/semiotic" target="_blank" rel="noopener noreferrer" class="rp-link">semiotic</a> 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库</li>
 <li><a href="https://github.com/hustcc/echarts-for-react" target="_blank" rel="noopener noreferrer" class="rp-link">echarts-for-react</a> 一个简单的 Apache echarts 的 React 封装</li>
@@ -478,7 +515,7 @@
 <li><a href="https://github.com/grubersjoe/react-activity-calendar" target="_blank" rel="noopener noreferrer" class="rp-link">react-activity-calendar</a> 用于在日历中展示活跃度数据（热力图样式）的 React 组件</li>
 <li><a href="https://github.com/airbnb/visx" target="_blank" rel="noopener noreferrer" class="rp-link">visx</a> 可视化组件库</li>
 </ul>
-<h3 class="rp-toc-include" id="流程图与关系图"><a href="#流程图与关系图" class="rp-header-anchor rp-link" aria-hidden="true">#</a>流程图与关系图</h3>
+<h4 class="rp-toc-include" id="流程图与关系图"><a href="#流程图与关系图" class="rp-header-anchor rp-link" aria-hidden="true">#</a>流程图与关系图</h4>
 <ul>
 <li><a href="https://github.com/bytedance/flowgram.ai" target="_blank" rel="noopener noreferrer" class="rp-link">flowgram.ai</a> 一款可扩展的工作流开发框架，内置画布、表单、变量及物料能力</li>
 <li><a href="https://github.com/sim51/react-sigma" target="_blank" rel="noopener noreferrer" class="rp-link">react-sigma</a> Sigma React 组件<!-- -->
@@ -490,7 +527,7 @@
 <li><a href="https://github.com/vasturiano/react-force-graph" target="_blank" rel="noopener noreferrer" class="rp-link">react-force-graph</a> 适用于 2D、3D、VR 及 AR 力导向图的 React 组件</li>
 <li><a href="https://github.com/pierpo/react-archer" target="_blank" rel="noopener noreferrer" class="rp-link">react-archer</a> 在 React 元素之间绘制箭头</li>
 </ul>
-<h3 class="rp-toc-include" id="3d"><a href="#3d" class="rp-header-anchor rp-link" aria-hidden="true">#</a>3D</h3>
+<h4 class="rp-toc-include" id="3d"><a href="#3d" class="rp-header-anchor rp-link" aria-hidden="true">#</a>3D</h4>
 <ul>
 <li><a href="https://github.com/pascalorg/editor" target="_blank" rel="noopener noreferrer" class="rp-link">@pascal-app/viewer</a> 一款基于 React Three Fiber 与 WebGPU 构建的3D 建筑编辑器</li>
 <li><a href="https://github.com/pmndrs/react-three-fiber" target="_blank" rel="noopener noreferrer" class="rp-link">@react-three/fiber</a> 一款基于 Three.js 的 React 渲染器<!-- -->
@@ -500,34 +537,12 @@
 </ul>
 </li>
 </ul>
-<h3 class="rp-toc-include" id="地图"><a href="#地图" class="rp-header-anchor rp-link" aria-hidden="true">#</a>地图</h3>
+<h4 class="rp-toc-include" id="地图"><a href="#地图" class="rp-header-anchor rp-link" aria-hidden="true">#</a>地图</h4>
 <ul>
 <li><a href="https://github.com/AnmolSaini16/mapcn" target="_blank" rel="noopener noreferrer" class="rp-link">mapcn</a> 精美地图组件。100% 免费，零配置，一条命令即可完成设置</li>
 </ul>
-<h2 class="rp-toc-include" id="图标"><a href="#图标" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图标</h2>
-<ul>
-<li>图标<!-- -->
-<ul>
-<li><a href="https://github.com/Remix-Design/RemixIcon" target="_blank" rel="noopener noreferrer" class="rp-link">@remixicon/react</a></li>
-<li><a href="https://github.com/icons-pack/react-simple-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@icons-pack/react-simple-icons</a></li>
-<li><a href="https://github.com/tabler/tabler-icons/tree/main/packages/icons-react" target="_blank" rel="noopener noreferrer" class="rp-link">@tabler/icons-react</a></li>
-<li><a href="https://github.com/react-icons/react-icons" target="_blank" rel="noopener noreferrer" class="rp-link">react-icons</a></li>
-<li><a href="https://github.com/iconify/iconify/tree/HEAD/components/react" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify/react</a>
-<ul>
-<li><a href="https://github.com/iconify/icon-sets/tree/master/json/vscode-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@iconify-json/vscode-icons</a> VS Code 图标集</li>
-</ul>
-</li>
-<li><a href="https://github.com/ant-design/ant-design-icons" target="_blank" rel="noopener noreferrer" class="rp-link">@ant-design/icons</a></li>
-<li><a href="https://lucide.dev/guide/packages/lucide-react" target="_blank" rel="noopener noreferrer" class="rp-link">lucide-react</a></li>
-<li><a href="https://github.com/hugeicons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@hugeicons/react</a></li>
-<li><a href="https://github.com/phosphor-icons/react" target="_blank" rel="noopener noreferrer" class="rp-link">@phosphor-icons/react</a></li>
-<li><a href="https://github.com/glincker/thesvg/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@thesvg/react</a></li>
-<li><a href="https://github.com/bytedance/IconPark" target="_blank" rel="noopener noreferrer" class="rp-link">@icon-park/react</a> 字节跳动 IconPark 图标库的 React 组件</li>
-</ul>
-</li>
-</ul>
-<h2 class="rp-toc-include" id="图片与画布"><a href="#图片与画布" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图片与画布</h2>
-<h3 class="rp-toc-include" id="画布与-svg"><a href="#画布与-svg" class="rp-header-anchor rp-link" aria-hidden="true">#</a>画布与 SVG</h3>
+<h3 class="rp-toc-include" id="图片与画布"><a href="#图片与画布" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图片与画布</h3>
+<h4 class="rp-toc-include" id="画布与-svg"><a href="#画布与-svg" class="rp-header-anchor rp-link" aria-hidden="true">#</a>画布与 SVG</h4>
 <ul>
 <li><a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer" class="rp-link">tldraw</a> 非常优秀的白板无限画布 SDK</li>
 <li><a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreferrer" class="rp-link">excalidraw</a> 一款可手绘风格草图、类白板效果的虚拟白板工具</li>
@@ -536,7 +551,7 @@
 <li><a href="https://github.com/tanem/react-svg" target="_blank" rel="noopener noreferrer" class="rp-link">react-svg</a> 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件</li>
 <li><a href="https://github.com/konvajs/react-konva" target="_blank" rel="noopener noreferrer" class="rp-link">react-konva</a> 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库</li>
 </ul>
-<h3 class="rp-toc-include" id="图片展示"><a href="#图片展示" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图片展示</h3>
+<h4 class="rp-toc-include" id="图片展示"><a href="#图片展示" class="rp-header-anchor rp-link" aria-hidden="true">#</a>图片展示</h4>
 <ul>
 <li><a href="https://github.com/igordanchenko/react-photo-album" target="_blank" rel="noopener noreferrer" class="rp-link">react-photo-album</a> 适用于 React 的响应式图片画廊组件</li>
 <li><a href="https://github.com/Aljullu/react-lazy-load-image-component" target="_blank" rel="noopener noreferrer" class="rp-link">react-lazy-load-image-component</a> 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载</li>
@@ -552,7 +567,7 @@
 <li><a href="https://github.com/mbrevda/react-image" target="_blank" rel="noopener noreferrer" class="rp-link">react-image</a> 支持多种备用图与加载器的 React.js <code>&lt;img&gt;</code> 标签渲染组件</li>
 <li><a href="https://github.com/willnguyen1312/zoom-image/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@zoom-image/react</a> 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放</li>
 </ul>
-<h3 class="rp-toc-include" id="裁剪与标注"><a href="#裁剪与标注" class="rp-header-anchor rp-link" aria-hidden="true">#</a>裁剪与标注</h3>
+<h4 class="rp-toc-include" id="裁剪与标注"><a href="#裁剪与标注" class="rp-header-anchor rp-link" aria-hidden="true">#</a>裁剪与标注</h4>
 <ul>
 <li><a href="https://pqina.nl/pintura" target="_blank" rel="noopener noreferrer" class="rp-link">@pqina/react-pintura</a> 图像编辑器</li>
 <li><a href="https://github.com/annotorious/annotorious" target="_blank" rel="noopener noreferrer" class="rp-link">@annotorious/react</a> 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能</li>
@@ -561,11 +576,31 @@
 <li><a href="https://github.com/DominicTobias/react-image-crop" target="_blank" rel="noopener noreferrer" class="rp-link">react-image-crop</a> 图片裁剪</li>
 <li><a href="https://github.com/nanxiaobei/antd-img-crop" target="_blank" rel="noopener noreferrer" class="rp-link">antd-img-crop</a> 图片裁剪</li>
 </ul>
-<h2 class="rp-toc-include" id="文件与文档"><a href="#文件与文档" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文件与文档</h2>
-<h3 class="rp-toc-include" id="演示文稿"><a href="#演示文稿" class="rp-header-anchor rp-link" aria-hidden="true">#</a>演示文稿</h3>
+<h3 class="rp-toc-include" id="音视频"><a href="#音视频" class="rp-header-anchor rp-link" aria-hidden="true">#</a>音视频</h3>
 <ul>
-<li><a href="https://github.com/1weiho/open-slide" target="_blank" rel="noopener noreferrer" class="rp-link">open-slide</a> 一款<strong>为智能体量身打造</strong>的幻灯片框架</li>
+<li><a href="https://github.com/software-mansion/smelter" target="_blank" rel="noopener noreferrer" class="rp-link">smelter</a> 通过 React 组件编排实时、低延迟的音视频混流与合成</li>
+<li><a href="https://github.com/DeltaCircuit/react-media-recorder" target="_blank" rel="noopener noreferrer" class="rp-link">react-media-recorder</a> 借助 MediaRecorder API 录制音频 / 视频数据流</li>
+<li><a href="https://github.com/JamesBrill/react-speech-recognition" target="_blank" rel="noopener noreferrer" class="rp-link">react-speech-recognition</a> 为你的 React 应用提供语音识别功能</li>
+<li><a href="https://github.com/samhirtarif/react-audio-visualize" target="_blank" rel="noopener noreferrer" class="rp-link">react-audio-visualize</a> 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果</li>
+<li><a href="https://github.com/raphaelsalaja/audio" target="_blank" rel="noopener noreferrer" class="rp-link">@web-kits/audio</a> 面向网页的<strong>声明式音频合成</strong></li>
+<li><a href="https://github.com/remotion-dev/remotion" target="_blank" rel="noopener noreferrer" class="rp-link">remotion</a> 借助 React 以编程方式制作视频<!-- -->
+<ul>
+<li><a href="https://github.com/kapishdima/remocn" target="_blank" rel="noopener noreferrer" class="rp-link">remocn</a> 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件</li>
+<li><a href="https://github.com/remotion-dev/remotion/tree/main/packages/player" target="_blank" rel="noopener noreferrer" class="rp-link">@remotion/player</a> 用于将 Remotion 预览嵌入到应用中的 React 组件</li>
+<li><a href="https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs" target="_blank" rel="noopener noreferrer" class="rp-link">@remotion/webcodecs</a> 浏览器端媒体转换</li>
 </ul>
+</li>
+<li><a href="https://github.com/CookPete/react-player" target="_blank" rel="noopener noreferrer" class="rp-link">react-player</a></li>
+<li><a href="https://github.com/YZarytskyi/react-voice-visualizer" target="_blank" rel="noopener noreferrer" class="rp-link">react-voice-visualizer</a> 基于 Web Audio API 实现音频录制与可视化的 React 库</li>
+<li><a href="https://github.com/muxinc/elements/tree/main/packages/mux-player-react" target="_blank" rel="noopener noreferrer" class="rp-link">@mux/mux-player-react</a> 一款适配 Mux 平台风格的 React 视频组件</li>
+<li><a href="https://github.com/chintan9/plyr-react" target="_blank" rel="noopener noreferrer" class="rp-link">plyr-react</a> 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放</li>
+<li><a href="https://github.com/mpv-easy/mpv-easy" target="_blank" rel="noopener noreferrer" class="rp-link">mpv-easy</a> 适用于 mpv 脚本的 TypeScript + React 开发工具集</li>
+<li><a href="https://github.com/amll-dev/applemusic-like-lyrics" target="_blank" rel="noopener noreferrer" class="rp-link">@applemusic-like-lyrics/react</a> 类 Apple Music 歌词显示组件</li>
+<li><a href="https://github.com/ibrahimcesar/react-lite-youtube-embed" target="_blank" rel="noopener noreferrer" class="rp-link">react-lite-youtube-embed</a> 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件</li>
+<li><a href="https://github.com/SahilAggarwal2004/react-text-to-speech" target="_blank" rel="noopener noreferrer" class="rp-link">react-text-to-speech</a> 依托网页语音 API 实现文字转语音功能</li>
+</ul>
+<span id="文件与文档"></span>
+<h2 class="rp-toc-include" id="编辑器与文档"><a href="#编辑器与文档" class="rp-header-anchor rp-link" aria-hidden="true">#</a>编辑器与文档</h2>
 <h3 class="rp-toc-include" id="markdown"><a href="#markdown" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Markdown</h3>
 <ul>
 <li><a href="https://github.com/comarkdown/comark" target="_blank" rel="noopener noreferrer" class="rp-link">@comark/react</a> 一款高性能的 Markdown 解析与渲染器，支持 Vue 和 React 组件</li>
@@ -584,6 +619,19 @@
 <li><a href="https://github.com/mdx-js/mdx/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@mdx-js/react</a> MDX 专用 React 上下文</li>
 <li><a href="https://github.com/sibiraj-s/marked-react" target="_blank" rel="noopener noreferrer" class="rp-link">marked-react</a> 将 Markdown 渲染为 React 组件</li>
 <li><a href="https://github.com/quantizor/markdown-to-jsx" target="_blank" rel="noopener noreferrer" class="rp-link">markdown-to-jsx</a> 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式</li>
+</ul>
+<h3 class="rp-toc-include" id="富文本"><a href="#富文本" class="rp-header-anchor rp-link" aria-hidden="true">#</a>富文本</h3>
+<ul>
+<li><a href="https://github.com/ueberdosis/tiptap/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@tiptap/react</a> 面向网页开发者的无界面富文本编辑器框架</li>
+<li><a href="https://github.com/remirror/remirror" target="_blank" rel="noopener noreferrer" class="rp-link">remirror</a> 一款用于构建跨平台文本编辑器的 React 工具包</li>
+<li><a href="https://github.com/TypeCellOS/BlockNote/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@blocknote/react</a></li>
+<li><a href="https://platejs.org" target="_blank" rel="noopener noreferrer" class="rp-link">platejs</a> 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器</li>
+<li><a href="https://github.com/facebook/lexical" target="_blank" rel="noopener noreferrer" class="rp-link">@lexical/react</a> 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现</li>
+<li><a href="https://github.com/htmujahid/shadcn-editor" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-editor</a> 基于 Lexical 与 shadcn/ui 的 React 富文本编辑器，支持通过 shadcn CLI 安装，提供表格、图片、代码块与 Markdown 快捷输入等功能</li>
+<li><a href="https://github.com/hunghg255/reactjs-tiptap-editor" target="_blank" rel="noopener noreferrer" class="rp-link">reactjs-tiptap-editor</a> 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器</li>
+<li><a href="https://github.com/VaguelySerious/react-quill" target="_blank" rel="noopener noreferrer" class="rp-link">react-quill</a> 一款适用于 React 的 Quill 组件</li>
+<li><a href="https://github.com/prosekit/prosekit/tree/master/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@prosekit/react</a></li>
+<li><a href="https://github.com/tinymce/tinymce-react" target="_blank" rel="noopener noreferrer" class="rp-link">@tinymce/tinymce-react</a> TinyMCE 官方 React 组件</li>
 </ul>
 <h3 class="rp-toc-include" id="代码编辑与差异"><a href="#代码编辑与差异" class="rp-header-anchor rp-link" aria-hidden="true">#</a>代码编辑与差异</h3>
 <ul>
@@ -612,36 +660,27 @@
 <li><a href="https://github.com/eigenpal/docx-editor" target="_blank" rel="noopener noreferrer" class="rp-link">@eigenpal/docx-editor-react</a> 开源所见即所得 .docx 编辑器库</li>
 <li><a href="https://github.com/extend-hq/react-docx" target="_blank" rel="noopener noreferrer" class="rp-link">react-docx</a> React 优先的 DOCX 查看与编辑器，支持分页、修订、表单字段和缩略图</li>
 <li><a href="https://github.com/extend-hq/react-xlsx" target="_blank" rel="noopener noreferrer" class="rp-link">react-xlsx</a> React XLSX 工作簿查看与编辑组件，支持图表、嵌入图片、选择状态、缩放与导出</li>
-<li><a href="https://github.com/wojtekmaj/react-pdf" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf</a> 在 React 应用中展示 PDF 文件，就像展示图片一样简单<!-- -->
+<li><a href="https://github.com/wojtekmaj/react-pdf" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf</a> 在 React 应用中展示 PDF 文件，就像展示图片一样简单</li>
+<li><a href="https://github.com/agentcooper/react-pdf-highlighter" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf-highlighter</a> 用于 PDF 标注的 React 组件库</li>
+<li><a href="https://github.com/diegomura/react-pdf" target="_blank" rel="noopener noreferrer" class="rp-link">@react-pdf/renderer</a> 使用 React 组件生成 PDF<!-- -->
 <ul>
-<li><a href="https://github.com/danomatic/react-pdf-html" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf-html</a> 在 react-pdf 中渲染 HTML 内容</li>
+<li><a href="https://github.com/danomatic/react-pdf-html" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf-html</a> 在 @react-pdf/renderer 中将 HTML 渲染为 PDF 内容</li>
 </ul>
 </li>
-<li><a href="https://github.com/agentcooper/react-pdf-highlighter" target="_blank" rel="noopener noreferrer" class="rp-link">react-pdf-highlighter</a> 用于 PDF 标注的 React 组件库</li>
-<li><a href="https://github.com/diegomura/react-pdf" target="_blank" rel="noopener noreferrer" class="rp-link">@react-pdf/renderer</a> PDF</li>
 <li><a href="https://github.com/shadcn-labs/pdfcn" target="_blank" rel="noopener noreferrer" class="rp-link">pdfcn</a> 基于 Takumi 和 Forme 的可定制 React PDF 组件库，兼容 shadcn/ui 工作流，提供表格、图表、发票和报告等组件与模板</li>
 <li><a href="https://github.com/cyntler/react-doc-viewer" target="_blank" rel="noopener noreferrer" class="rp-link">@cyntler/react-doc-viewer</a> React 文件预览组件</li>
 <li><a href="https://github.com/pdfme/pdfme" target="_blank" rel="noopener noreferrer" class="rp-link">pdfme</a> PDF 生成库</li>
 <li><a href="https://github.com/Bunlong/react-papaparse" target="_blank" rel="noopener noreferrer" class="rp-link">react-papaparse</a> CSV（或分隔符文本）解析库</li>
-</ul>
-<h3 class="rp-toc-include" id="富文本"><a href="#富文本" class="rp-header-anchor rp-link" aria-hidden="true">#</a>富文本</h3>
-<ul>
-<li><a href="https://github.com/ueberdosis/tiptap/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@tiptap/react</a> 面向网页开发者的无界面富文本编辑器框架</li>
-<li><a href="https://github.com/remirror/remirror" target="_blank" rel="noopener noreferrer" class="rp-link">remirror</a> 一款用于构建跨平台文本编辑器的 React 工具包</li>
-<li><a href="https://github.com/TypeCellOS/BlockNote/tree/main/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@blocknote/react</a></li>
-<li><a href="https://platejs.org" target="_blank" rel="noopener noreferrer" class="rp-link">platejs</a> 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器</li>
-<li><a href="https://github.com/facebook/lexical" target="_blank" rel="noopener noreferrer" class="rp-link">@lexical/react</a> 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现</li>
-<li><a href="https://github.com/htmujahid/shadcn-editor" target="_blank" rel="noopener noreferrer" class="rp-link">shadcn-editor</a> 基于 Lexical 与 shadcn/ui 的 React 富文本编辑器，支持通过 shadcn CLI 安装，提供表格、图片、代码块与 Markdown 快捷输入等功能</li>
-<li><a href="https://github.com/hunghg255/reactjs-tiptap-editor" target="_blank" rel="noopener noreferrer" class="rp-link">reactjs-tiptap-editor</a> 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器</li>
-<li><a href="https://github.com/VaguelySerious/react-quill" target="_blank" rel="noopener noreferrer" class="rp-link">react-quill</a> 一款适用于 React 的 Quill 组件</li>
-<li><a href="https://github.com/prosekit/prosekit/tree/master/packages/react" target="_blank" rel="noopener noreferrer" class="rp-link">@prosekit/react</a></li>
-<li><a href="https://github.com/tinymce/tinymce-react" target="_blank" rel="noopener noreferrer" class="rp-link">@tinymce/tinymce-react</a> TinyMCE 官方 React 组件</li>
 </ul>
 <h3 class="rp-toc-include" id="解析与渲染"><a href="#解析与渲染" class="rp-header-anchor rp-link" aria-hidden="true">#</a>解析与渲染</h3>
 <ul>
 <li><a href="https://github.com/TroyAlford/react-jsx-parser" target="_blank" rel="noopener noreferrer" class="rp-link">react-jsx-parser</a> 将 JSX 字符串解析并渲染为 React 组件，支持受控组件与绑定注入</li>
 <li><a href="https://github.com/milesj/interweave" target="_blank" rel="noopener noreferrer" class="rp-link">interweave</a> 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能</li>
 <li><a href="https://github.com/remarkablemark/html-react-parser" target="_blank" rel="noopener noreferrer" class="rp-link">html-react-parser</a> 📝 HTML 转 React 解析器</li>
+</ul>
+<h3 class="rp-toc-include" id="演示文稿"><a href="#演示文稿" class="rp-header-anchor rp-link" aria-hidden="true">#</a>演示文稿</h3>
+<ul>
+<li><a href="https://github.com/1weiho/open-slide" target="_blank" rel="noopener noreferrer" class="rp-link">open-slide</a> 一款<strong>为智能体量身打造</strong>的幻灯片框架</li>
 </ul>
 <h3 class="rp-toc-include" id="邮件"><a href="#邮件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>邮件</h3>
 <ul>
@@ -652,30 +691,18 @@
 </ul>
 </li>
 </ul>
-<h2 class="rp-toc-include" id="音视频"><a href="#音视频" class="rp-header-anchor rp-link" aria-hidden="true">#</a>音视频</h2>
-<ul>
-<li><a href="https://github.com/software-mansion/smelter" target="_blank" rel="noopener noreferrer" class="rp-link">smelter</a> 通过 React 组件编排实时、低延迟的音视频混流与合成</li>
-<li><a href="https://github.com/DeltaCircuit/react-media-recorder" target="_blank" rel="noopener noreferrer" class="rp-link">react-media-recorder</a> 借助 MediaRecorder API 录制音频 / 视频数据流</li>
-<li><a href="https://github.com/JamesBrill/react-speech-recognition" target="_blank" rel="noopener noreferrer" class="rp-link">react-speech-recognition</a> 为你的 React 应用提供语音识别功能</li>
-<li><a href="https://github.com/samhirtarif/react-audio-visualize" target="_blank" rel="noopener noreferrer" class="rp-link">react-audio-visualize</a> 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果</li>
-<li><a href="https://github.com/raphaelsalaja/audio" target="_blank" rel="noopener noreferrer" class="rp-link">@web-kits/audio</a> 面向网页的<strong>声明式音频合成</strong></li>
-<li><a href="https://github.com/remotion-dev/remotion" target="_blank" rel="noopener noreferrer" class="rp-link">remotion</a> 借助 React 以编程方式制作视频<!-- -->
-<ul>
-<li><a href="https://github.com/kapishdima/remocn" target="_blank" rel="noopener noreferrer" class="rp-link">remocn</a> 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件</li>
-<li><a href="https://github.com/remotion-dev/remotion/tree/main/packages/player" target="_blank" rel="noopener noreferrer" class="rp-link">@remotion/player</a> 用于将 Remotion 预览嵌入到应用中的 React 组件</li>
-<li><a href="https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs" target="_blank" rel="noopener noreferrer" class="rp-link">@remotion/webcodecs</a> 浏览器端媒体转换</li>
-</ul>
-</li>
-<li><a href="https://github.com/CookPete/react-player" target="_blank" rel="noopener noreferrer" class="rp-link">react-player</a></li>
-<li><a href="https://github.com/YZarytskyi/react-voice-visualizer" target="_blank" rel="noopener noreferrer" class="rp-link">react-voice-visualizer</a> 基于 Web Audio API 实现音频录制与可视化的 React 库</li>
-<li><a href="https://github.com/muxinc/elements/tree/main/packages/mux-video-react" target="_blank" rel="noopener noreferrer" class="rp-link">@mux/mux-player-react</a> 一款适配 Mux 平台风格的 React 视频组件</li>
-<li><a href="https://github.com/chintan9/plyr-react" target="_blank" rel="noopener noreferrer" class="rp-link">plyr-react</a> 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放</li>
-<li><a href="https://github.com/mpv-easy/mpv-easy" target="_blank" rel="noopener noreferrer" class="rp-link">mpv-easy</a> 适用于 mpv 脚本的 TypeScript + React 开发工具集</li>
-<li><a href="https://github.com/amll-dev/applemusic-like-lyrics" target="_blank" rel="noopener noreferrer" class="rp-link">@applemusic-like-lyrics/react</a> 类 Apple Music 歌词显示组件</li>
-<li><a href="https://github.com/ibrahimcesar/react-lite-youtube-embed" target="_blank" rel="noopener noreferrer" class="rp-link">react-lite-youtube-embed</a> 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件</li>
-<li><a href="https://github.com/SahilAggarwal2004/react-text-to-speech" target="_blank" rel="noopener noreferrer" class="rp-link">react-text-to-speech</a> 依托网页语音 API 实现文字转语音功能</li>
-</ul>
 <h2 class="rp-toc-include" id="组件开发与调试"><a href="#组件开发与调试" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件开发与调试</h2>
+<h3 class="rp-toc-include" id="hooks-工具集"><a href="#hooks-工具集" class="rp-header-anchor rp-link" aria-hidden="true">#</a>Hooks 工具集</h3>
+<ul>
+<li><a href="https://github.com/streamich/react-use" target="_blank" rel="noopener noreferrer" class="rp-link">react-use</a> React Hooks — 👍</li>
+<li><a href="https://ahooks.js.org/zh-CN/" target="_blank" rel="noopener noreferrer" class="rp-link">ahooks</a> 一套高质量可靠的 React Hooks 库</li>
+<li><a href="https://github.com/react-hookz/web" target="_blank" rel="noopener noreferrer" class="rp-link">@react-hookz/web</a> 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。</li>
+<li><a href="https://mantine.dev/hooks/package" target="_blank" rel="noopener noreferrer" class="rp-link">@mantine/hooks</a></li>
+<li><a href="https://github.com/juliencrn/usehooks-ts" target="_blank" rel="noopener noreferrer" class="rp-link">usehooks-ts</a></li>
+<li><a href="https://github.com/djkepa/custom-react-hooks" target="_blank" rel="noopener noreferrer" class="rp-link">custom-react-hooks</a></li>
+<li><a href="https://github.com/uidotdev/usehooks" target="_blank" rel="noopener noreferrer" class="rp-link">@uidotdev/usehooks</a> 一套现代化、服务端安全的 React 钩子函数</li>
+<li><a href="https://github.com/SukkaW/foxact" target="_blank" rel="noopener noreferrer" class="rp-link">foxact</a> React Hooks/工具库</li>
+</ul>
 <h3 class="rp-toc-include" id="性能与生命周期"><a href="#性能与生命周期" class="rp-header-anchor rp-link" aria-hidden="true">#</a>性能与生命周期</h3>
 <ul>
 <li><a href="https://github.com/alewin/useWorker" target="_blank" rel="noopener noreferrer" class="rp-link">useWorker</a> 用于无阻塞后台任务的 React 钩子</li>
@@ -701,6 +728,7 @@
 </ul>
 <h3 class="rp-toc-include" id="组合与互操作"><a href="#组合与互操作" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组合与互操作</h3>
 <ul>
+<li><a href="https://github.com/sindresorhus/react-extras" target="_blank" rel="noopener noreferrer" class="rp-link">react-extras</a> React 常用组件与工具函数集</li>
 <li><a href="https://github.com/desko27/react-call" target="_blank" rel="noopener noreferrer" class="rp-link">react-call</a> 调用并异步等待 React 组件</li>
 <li><a href="https://github.com/wojtekmaj/merge-refs" target="_blank" rel="noopener noreferrer" class="rp-link">merge-refs</a> 将多个 React 引用（ref）合并为一个的工具函数</li>
 <li><a href="https://github.com/gregberge/react-merge-refs" target="_blank" rel="noopener noreferrer" class="rp-link">react-merge-refs</a> 用于合并引用（refs）的 React 工具函数</li>
@@ -715,20 +743,7 @@
 <li><a href="https://github.com/aidenybai/react-grab" target="_blank" rel="noopener noreferrer" class="rp-link">react-grab</a> 直接从你的网站中为编码智能体选择上下文</li>
 <li><a href="https://github.com/millionco/react-doctor" target="_blank" rel="noopener noreferrer" class="rp-link">react-doctor</a> AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别</li>
 <li><a href="https://github.com/puckeditor/puck" target="_blank" rel="noopener noreferrer" class="rp-link">puck</a> 打造属于你自己的 AI 页面生成器</li>
-</ul>
-<h2 class="rp-toc-include" id="模板与示例"><a href="#模板与示例" class="rp-header-anchor rp-link" aria-hidden="true">#</a>模板与示例</h2>
-<ul>
-<li><a href="https://github.com/ixartz/Next-js-Boilerplate" target="_blank" rel="noopener noreferrer" class="rp-link">Next-js-Boilerplate</a> Next.js 样板工程与启动模板</li>
-<li><a href="https://github.com/arhamkhnz/next-shadcn-admin-dashboard" target="_blank" rel="noopener noreferrer" class="rp-link">next-shadcn-admin-dashboard</a> 基于 Next.js 16、TypeScript、Tailwind CSS v4 与 shadcn/ui 的现代管理后台模板</li>
-<li><a href="https://github.com/mugnavo/tanstarter" target="_blank" rel="noopener noreferrer" class="rp-link">TanStarter</a> 基于 TanStack Start、Vite+、Drizzle ORM、Better Auth 与 shadcn/ui 的极简 React 全栈模板</li>
-<li><a href="https://github.com/d3george/slash-admin" target="_blank" rel="noopener noreferrer" class="rp-link">slash-admin</a> 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！</li>
-<li><a href="https://github.com/sankeyangshu/lemon-mobile-react" target="_blank" rel="noopener noreferrer" class="rp-link">lemon-mobile-react</a> 一个基于 React 生态系统的移动 web 应用模板</li>
-<li><a href="https://github.com/condorheroblog/react-antd-admin" target="_blank" rel="noopener noreferrer" class="rp-link">react-antd-admin</a></li>
-<li><a href="https://github.com/southliu/south-admin-react" target="_blank" rel="noopener noreferrer" class="rp-link">south-admin-react</a></li>
-<li><a href="https://github.com/kriasoft/react-starter-kit" target="_blank" rel="noopener noreferrer" class="rp-link">react-starter-kit</a></li>
-<li><a href="https://github.com/langchain-ai/langchain-nextjs-template" target="_blank" rel="noopener noreferrer" class="rp-link">langchain-nextjs-template</a> LangChain + Next.js 入门模板</li>
-<li><a href="https://github.com/huangkaoya/redalert2" target="_blank" rel="noopener noreferrer" class="rp-link">redalert2</a> 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目</li>
-</ul><!--/$--></div><footer class="rp-doc-footer"><div class="rp-doc-footer__edit"><a href="https://github.com/wangxingkang/xingkang.wang/tree/main/docs/awesome/react.mdx" target="_blank" rel="noopener noreferrer" class="rp-edit-link rp-link">编辑此页面</a></div><div class="rp-doc-footer__divider"></div><div class="rp-prev-next-page"><a href="/awesome/css" class="rp-prev-next-page__item rp-prev-next-page__prev rp-link"><span class="rp-prev-next-page__item__desc">上一页</span><span class="rp-prev-next-page__item__title"><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-prev-next-page__icon rp-prev-next-page__rotate_180"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg><span>CSS</span></span></a><a href="/awesome/vue" class="rp-prev-next-page__item rp-prev-next-page__next rp-link"><span class="rp-prev-next-page__item__desc">下一页</span><span class="rp-prev-next-page__item__title"><span>Vue</span><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-prev-next-page__icon"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg></span></a></div></footer></main></div><aside class="rp-doc-layout__outline rp-scrollbar"><div class="rp-outline"><div class="rp-outline__title">目录<svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg></div><nav class="rp-outline__toc rp-scrollbar"><a href="#官方资源" class="rp-toc-item rp-link" title="官方资源" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">官方资源</span></a><a href="#框架" class="rp-toc-item rp-link" title="框架" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">框架</span></a><a href="#应用框架" class="rp-toc-item rp-link" title="应用框架" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">应用框架</span></a><a href="#nextjs" class="rp-toc-item rp-link" title="Next.js" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">Next.js</span></a><a href="#路由" class="rp-toc-item rp-link" title="路由" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">路由</span></a><a href="#ai" class="rp-toc-item rp-link" title="AI" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">AI</span></a><a href="#sdk-与集成" class="rp-toc-item rp-link" title="SDK 与集成" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">SDK 与集成</span></a><a href="#hooks" class="rp-toc-item rp-link" title="Hooks" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">Hooks</span></a><a href="#组件" class="rp-toc-item rp-link" title="组件" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">组件</span></a><a href="#数据获取与状态" class="rp-toc-item rp-link" title="数据获取与状态" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据获取与状态</span></a><a href="#状态管理" class="rp-toc-item rp-link" title="状态管理" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">状态管理</span></a><a href="#服务端数据" class="rp-toc-item rp-link" title="服务端数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">服务端数据</span></a><a href="#url-状态" class="rp-toc-item rp-link" title="URL 状态" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">URL 状态</span></a><a href="#本地存储" class="rp-toc-item rp-link" title="本地存储" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">本地存储</span></a><a href="#hooks-工具集" class="rp-toc-item rp-link" title="Hooks 工具集" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">Hooks 工具集</span></a><a href="#多语言" class="rp-toc-item rp-link" title="多语言" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">多语言</span></a><a href="#认证与第三方服务" class="rp-toc-item rp-link" title="认证与第三方服务" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">认证与第三方服务</span></a><a href="#组件库" class="rp-toc-item rp-link" title="组件库" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件库</span></a><a href="#主题与样式" class="rp-toc-item rp-link" title="主题与样式" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">主题与样式</span></a><a href="#布局与导航" class="rp-toc-item rp-link" title="布局与导航" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">布局与导航</span></a><a href="#布局与尺寸" class="rp-toc-item rp-link" title="布局与尺寸" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">布局与尺寸</span></a><a href="#菜单与分页" class="rp-toc-item rp-link" title="菜单与分页" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">菜单与分页</span></a><a href="#命令菜单" class="rp-toc-item rp-link" title="命令菜单" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">命令菜单</span></a><a href="#表单与输入" class="rp-toc-item rp-link" title="表单与输入" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">表单与输入</span></a><a href="#文本与数字" class="rp-toc-item rp-link" title="文本与数字" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文本与数字</span></a><a href="#表单框架" class="rp-toc-item rp-link" title="表单框架" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">表单框架</span></a><a href="#颜色与表情" class="rp-toc-item rp-link" title="颜色与表情" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">颜色与表情</span></a><a href="#文件上传" class="rp-toc-item rp-link" title="文件上传" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文件上传</span></a><a href="#日期与时间" class="rp-toc-item rp-link" title="日期与时间" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">日期与时间</span></a><a href="#选择与参数面板" class="rp-toc-item rp-link" title="选择与参数面板" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">选择与参数面板</span></a><a href="#数据展示" class="rp-toc-item rp-link" title="数据展示" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据展示</span></a><a href="#虚拟列表与无限滚动" class="rp-toc-item rp-link" title="虚拟列表与无限滚动" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">虚拟列表与无限滚动</span></a><a href="#表格与电子表格" class="rp-toc-item rp-link" title="表格与电子表格" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">表格与电子表格</span></a><a href="#文本与结构化数据" class="rp-toc-item rp-link" title="文本与结构化数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文本与结构化数据</span></a><a href="#日历与时间轴" class="rp-toc-item rp-link" title="日历与时间轴" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">日历与时间轴</span></a><a href="#树形结构" class="rp-toc-item rp-link" title="树形结构" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">树形结构</span></a><a href="#轮播" class="rp-toc-item rp-link" title="轮播" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">轮播</span></a><a href="#反馈与引导" class="rp-toc-item rp-link" title="反馈与引导" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">反馈与引导</span></a><a href="#交互与无障碍" class="rp-toc-item rp-link" title="交互与无障碍" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">交互与无障碍</span></a><a href="#快捷键与剪贴板" class="rp-toc-item rp-link" title="快捷键与剪贴板" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">快捷键与剪贴板</span></a><a href="#拖拽与手势" class="rp-toc-item rp-link" title="拖拽与手势" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">拖拽与手势</span></a><a href="#焦点与滚动" class="rp-toc-item rp-link" title="焦点与滚动" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">焦点与滚动</span></a><a href="#动画" class="rp-toc-item rp-link" title="动画" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">动画</span></a><a href="#数据可视化" class="rp-toc-item rp-link" title="数据可视化" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据可视化</span></a><a href="#图表" class="rp-toc-item rp-link" title="图表" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">图表</span></a><a href="#流程图与关系图" class="rp-toc-item rp-link" title="流程图与关系图" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">流程图与关系图</span></a><a href="#3d" class="rp-toc-item rp-link" title="3D" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">3D</span></a><a href="#地图" class="rp-toc-item rp-link" title="地图" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">地图</span></a><a href="#图标" class="rp-toc-item rp-link" title="图标" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">图标</span></a><a href="#图片与画布" class="rp-toc-item rp-link" title="图片与画布" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">图片与画布</span></a><a href="#画布与-svg" class="rp-toc-item rp-link" title="画布与 SVG" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">画布与 SVG</span></a><a href="#图片展示" class="rp-toc-item rp-link" title="图片展示" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">图片展示</span></a><a href="#裁剪与标注" class="rp-toc-item rp-link" title="裁剪与标注" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">裁剪与标注</span></a><a href="#文件与文档" class="rp-toc-item rp-link" title="文件与文档" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">文件与文档</span></a><a href="#演示文稿" class="rp-toc-item rp-link" title="演示文稿" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">演示文稿</span></a><a href="#markdown" class="rp-toc-item rp-link" title="Markdown" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">Markdown</span></a><a href="#代码编辑与差异" class="rp-toc-item rp-link" title="代码编辑与差异" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">代码编辑与差异</span></a><a href="#pdf-与办公文档" class="rp-toc-item rp-link" title="PDF 与办公文档" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">PDF 与办公文档</span></a><a href="#富文本" class="rp-toc-item rp-link" title="富文本" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">富文本</span></a><a href="#解析与渲染" class="rp-toc-item rp-link" title="解析与渲染" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">解析与渲染</span></a><a href="#邮件" class="rp-toc-item rp-link" title="邮件" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">邮件</span></a><a href="#音视频" class="rp-toc-item rp-link" title="音视频" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">音视频</span></a><a href="#组件开发与调试" class="rp-toc-item rp-link" title="组件开发与调试" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件开发与调试</span></a><a href="#性能与生命周期" class="rp-toc-item rp-link" title="性能与生命周期" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">性能与生命周期</span></a><a href="#页面元数据" class="rp-toc-item rp-link" title="页面元数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">页面元数据</span></a><a href="#环境适配" class="rp-toc-item rp-link" title="环境适配" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">环境适配</span></a><a href="#组合与互操作" class="rp-toc-item rp-link" title="组合与互操作" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">组合与互操作</span></a><a href="#可视化开发" class="rp-toc-item rp-link" title="可视化开发" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">可视化开发</span></a><a href="#模板与示例" class="rp-toc-item rp-link" title="模板与示例" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">模板与示例</span></a></nav><div class="rp-outline__divider"></div><div class="rp-outline__bottom"><a href="https://github.com/wangxingkang/xingkang.wang/tree/main/docs/awesome/react.mdx" target="_blank" rel="noopener noreferrer" class="rp-outline__action-row rp-edit-link rp-link"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5z"></path></svg><span>编辑此页面</span></a></div></div></aside></div></div>
+</ul><!--/$--></div><footer class="rp-doc-footer"><div class="rp-doc-footer__edit"><a href="https://github.com/wangxingkang/xingkang.wang/tree/main/docs/awesome/react.mdx" target="_blank" rel="noopener noreferrer" class="rp-edit-link rp-link">编辑此页面</a></div><div class="rp-doc-footer__divider"></div><div class="rp-prev-next-page"><a href="/awesome/css" class="rp-prev-next-page__item rp-prev-next-page__prev rp-link"><span class="rp-prev-next-page__item__desc">上一页</span><span class="rp-prev-next-page__item__title"><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-prev-next-page__icon rp-prev-next-page__rotate_180"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg><span>CSS</span></span></a><a href="/awesome/vue" class="rp-prev-next-page__item rp-prev-next-page__next rp-link"><span class="rp-prev-next-page__item__desc">下一页</span><span class="rp-prev-next-page__item__title"><span>Vue</span><svg width="1em" height="1em" viewBox="0 0 32 32" class="rp-prev-next-page__icon"><path fill="currentColor" d="M22 16 12 26l-1.4-1.4 8.6-8.6-8.6-8.6L12 6z"></path></svg></span></a></div></footer></main></div><aside class="rp-doc-layout__outline rp-scrollbar"><div class="rp-outline"><div class="rp-outline__title">目录<svg width="14" height="14" class="rp-progress-circle"><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-divider-light)" stroke-width="2"></circle><circle cx="7" cy="7" r="6" stroke-linecap="round" fill="none" stroke="var(--rp-c-brand)" stroke-width="2" stroke-dasharray="37.69911184307752" stroke-dashoffset="37.69911184307752" transform="rotate(-90 7 7)" style="transition:stroke-dashoffset 0.3s"></circle></svg></div><nav class="rp-outline__toc rp-scrollbar"><a href="#入门框架与路由" class="rp-toc-item rp-link" title="入门、框架与路由" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">入门、框架与路由</span></a><a href="#官方资源" class="rp-toc-item rp-link" title="官方资源" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">官方资源</span></a><a href="#框架" class="rp-toc-item rp-link" title="框架" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">框架</span></a><a href="#应用框架" class="rp-toc-item rp-link" title="应用框架" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">应用框架</span></a><a href="#nextjs" class="rp-toc-item rp-link" title="Next.js" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">Next.js</span></a><a href="#路由" class="rp-toc-item rp-link" title="路由" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">路由</span></a><a href="#模板与示例" class="rp-toc-item rp-link" title="模板与示例" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">模板与示例</span></a><a href="#ai-与服务集成" class="rp-toc-item rp-link" title="AI 与服务集成" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">AI 与服务集成</span></a><a href="#ai" class="rp-toc-item rp-link" title="AI" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">AI</span></a><a href="#sdk-与集成" class="rp-toc-item rp-link" title="SDK 与集成" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">SDK 与集成</span></a><a href="#hooks" class="rp-toc-item rp-link" title="Hooks" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">Hooks</span></a><a href="#组件" class="rp-toc-item rp-link" title="组件" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">组件</span></a><a href="#认证与第三方服务" class="rp-toc-item rp-link" title="认证与第三方服务" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">认证与第三方服务</span></a><a href="#多语言" class="rp-toc-item rp-link" title="多语言" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">多语言</span></a><a href="#数据获取与状态" class="rp-toc-item rp-link" title="数据获取与状态" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据获取与状态</span></a><a href="#状态管理" class="rp-toc-item rp-link" title="状态管理" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">状态管理</span></a><a href="#服务端数据" class="rp-toc-item rp-link" title="服务端数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">服务端数据</span></a><a href="#url-状态" class="rp-toc-item rp-link" title="URL 状态" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">URL 状态</span></a><a href="#本地存储" class="rp-toc-item rp-link" title="本地存储" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">本地存储</span></a><a href="#组件体系与样式" class="rp-toc-item rp-link" title="组件体系与样式" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件体系与样式</span></a><a href="#组件库" class="rp-toc-item rp-link" title="组件库" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">组件库</span></a><a href="#无样式原语" class="rp-toc-item rp-link" title="无样式原语" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">无样式原语</span></a><a href="#完整组件库与设计体系" class="rp-toc-item rp-link" title="完整组件库与设计体系" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">完整组件库与设计体系</span></a><a href="#源码分发与组件合集" class="rp-toc-item rp-link" title="源码分发与组件合集" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">源码分发与组件合集</span></a><a href="#主题与样式" class="rp-toc-item rp-link" title="主题与样式" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">主题与样式</span></a><a href="#图标" class="rp-toc-item rp-link" title="图标" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">图标</span></a><a href="#布局与交互" class="rp-toc-item rp-link" title="布局与交互" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">布局与交互</span></a><a href="#布局与导航" class="rp-toc-item rp-link" title="布局与导航" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">布局与导航</span></a><a href="#布局与尺寸" class="rp-toc-item rp-link" title="布局与尺寸" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">布局与尺寸</span></a><a href="#菜单与分页" class="rp-toc-item rp-link" title="菜单与分页" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">菜单与分页</span></a><a href="#命令菜单" class="rp-toc-item rp-link" title="命令菜单" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">命令菜单</span></a><a href="#交互与无障碍" class="rp-toc-item rp-link" title="交互与无障碍" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">交互与无障碍</span></a><a href="#快捷键与剪贴板" class="rp-toc-item rp-link" title="快捷键与剪贴板" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">快捷键与剪贴板</span></a><a href="#拖拽与手势" class="rp-toc-item rp-link" title="拖拽与手势" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">拖拽与手势</span></a><a href="#焦点与滚动" class="rp-toc-item rp-link" title="焦点与滚动" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">焦点与滚动</span></a><a href="#反馈与引导" class="rp-toc-item rp-link" title="反馈与引导" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">反馈与引导</span></a><a href="#表单与输入" class="rp-toc-item rp-link" title="表单与输入" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">表单与输入</span></a><a href="#文本与数字" class="rp-toc-item rp-link" title="文本与数字" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文本与数字</span></a><a href="#表单框架" class="rp-toc-item rp-link" title="表单框架" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">表单框架</span></a><a href="#颜色与表情" class="rp-toc-item rp-link" title="颜色与表情" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">颜色与表情</span></a><a href="#文件上传" class="rp-toc-item rp-link" title="文件上传" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文件上传</span></a><a href="#日期与时间" class="rp-toc-item rp-link" title="日期与时间" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">日期与时间</span></a><a href="#选择与参数面板" class="rp-toc-item rp-link" title="选择与参数面板" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">选择与参数面板</span></a><a href="#数据展示" class="rp-toc-item rp-link" title="数据展示" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">数据展示</span></a><a href="#虚拟列表与无限滚动" class="rp-toc-item rp-link" title="虚拟列表与无限滚动" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">虚拟列表与无限滚动</span></a><a href="#表格与电子表格" class="rp-toc-item rp-link" title="表格与电子表格" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">表格与电子表格</span></a><a href="#文本与结构化数据" class="rp-toc-item rp-link" title="文本与结构化数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">文本与结构化数据</span></a><a href="#日历与时间轴" class="rp-toc-item rp-link" title="日历与时间轴" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">日历与时间轴</span></a><a href="#树形结构" class="rp-toc-item rp-link" title="树形结构" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">树形结构</span></a><a href="#轮播" class="rp-toc-item rp-link" title="轮播" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">轮播</span></a><a href="#图形动画与音视频" class="rp-toc-item rp-link" title="图形、动画与音视频" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">图形、动画与音视频</span></a><a href="#动画" class="rp-toc-item rp-link" title="动画" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">动画</span></a><a href="#数据可视化" class="rp-toc-item rp-link" title="数据可视化" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">数据可视化</span></a><a href="#图表" class="rp-toc-item rp-link" title="图表" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">图表</span></a><a href="#流程图与关系图" class="rp-toc-item rp-link" title="流程图与关系图" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">流程图与关系图</span></a><a href="#3d" class="rp-toc-item rp-link" title="3D" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">3D</span></a><a href="#地图" class="rp-toc-item rp-link" title="地图" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">地图</span></a><a href="#图片与画布" class="rp-toc-item rp-link" title="图片与画布" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">图片与画布</span></a><a href="#画布与-svg" class="rp-toc-item rp-link" title="画布与 SVG" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">画布与 SVG</span></a><a href="#图片展示" class="rp-toc-item rp-link" title="图片展示" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">图片展示</span></a><a href="#裁剪与标注" class="rp-toc-item rp-link" title="裁剪与标注" style="padding-left:24px" data-depth="2"><span class="rp-toc-item__text rp-doc">裁剪与标注</span></a><a href="#音视频" class="rp-toc-item rp-link" title="音视频" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">音视频</span></a><a href="#编辑器与文档" class="rp-toc-item rp-link" title="编辑器与文档" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">编辑器与文档</span></a><a href="#markdown" class="rp-toc-item rp-link" title="Markdown" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">Markdown</span></a><a href="#富文本" class="rp-toc-item rp-link" title="富文本" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">富文本</span></a><a href="#代码编辑与差异" class="rp-toc-item rp-link" title="代码编辑与差异" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">代码编辑与差异</span></a><a href="#pdf-与办公文档" class="rp-toc-item rp-link" title="PDF 与办公文档" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">PDF 与办公文档</span></a><a href="#解析与渲染" class="rp-toc-item rp-link" title="解析与渲染" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">解析与渲染</span></a><a href="#演示文稿" class="rp-toc-item rp-link" title="演示文稿" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">演示文稿</span></a><a href="#邮件" class="rp-toc-item rp-link" title="邮件" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">邮件</span></a><a href="#组件开发与调试" class="rp-toc-item rp-link" title="组件开发与调试" style="padding-left:0" data-depth="0"><span class="rp-toc-item__text rp-doc">组件开发与调试</span></a><a href="#hooks-工具集" class="rp-toc-item rp-link" title="Hooks 工具集" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">Hooks 工具集</span></a><a href="#性能与生命周期" class="rp-toc-item rp-link" title="性能与生命周期" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">性能与生命周期</span></a><a href="#页面元数据" class="rp-toc-item rp-link" title="页面元数据" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">页面元数据</span></a><a href="#环境适配" class="rp-toc-item rp-link" title="环境适配" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">环境适配</span></a><a href="#组合与互操作" class="rp-toc-item rp-link" title="组合与互操作" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">组合与互操作</span></a><a href="#可视化开发" class="rp-toc-item rp-link" title="可视化开发" style="padding-left:12px" data-depth="1"><span class="rp-toc-item__text rp-doc">可视化开发</span></a></nav><div class="rp-outline__divider"></div><div class="rp-outline__bottom"><a href="https://github.com/wangxingkang/xingkang.wang/tree/main/docs/awesome/react.mdx" target="_blank" rel="noopener noreferrer" class="rp-outline__action-row rp-edit-link rp-link"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5z"></path></svg><span>编辑此页面</span></a></div></div></aside></div></div>
     <div id="__rspress_modal_container"></div>
   </body>
 </html>

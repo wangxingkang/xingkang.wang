@@ -2,6 +2,23 @@
 
 按模型、智能体平台、基础设施、工具集成与应用用途收录 AI 资源。编程工具及其开发工作流见 [AI 编程与工作流](/awesome/vibe-coding.md)，语言 SDK 见 [Node.js](/awesome/node.md#ai-开发)、[Python](/awesome/python.md#ai-开发)、[Go](/awesome/go.md#ai-开发)、[Rust](/awesome/rust.md#ai-开发)和 [Java](/awesome/java.md#ai-开发)。
 
+**按需查找**
+
+| 想找什么             | 直接前往                                                  |
+| ---------------- | ----------------------------------------------------- |
+| 选模型、在本机运行推理      | [模型与推理](#模型与推理)                                       |
+| 接入模型 API、部署网关与沙箱 | [基础设施](#基础设施)                                         |
+| 构建 Agent、编排业务工作流 | [智能体平台与工作流](#智能体平台与工作流)                               |
+| 操作电脑、手机、浏览器与外部工具 | [工具与集成](#工具与集成)                                       |
+| 安装技能、生成文稿与专业成果   | [Skill](#skill)                                       |
+| 聊天、管理知识库与搜索资料    | [通用对话](#通用对话) · [知识库与搜索](#知识库与搜索)                     |
+| 生成图片、制作设计与三维内容   | [图片生成与增强](#图片生成与增强) · [原型与设计](#原型与设计) · [三维内容](#三维内容) |
+| 制作视频、处理语音、字幕与会议  | [音视频](#音视频)                                           |
+| 办公、求职、追踪资讯与个人事务  | [办公与个人助理](#办公与个人助理)                                   |
+| 使用智能体助手、工作区和生态扩展 | [智能体](#智能体)                                           |
+| 开发智能设备和机器人       | [硬件与机器人](#硬件与机器人)                                     |
+| 学习 AI、开展研究与部署实践  | [研究与学习](#研究与学习)                                       |
+
 ## 资源导航
 
 - [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) 汇集官方开发团队与社区维护的智能体技能，覆盖开发、设计、办公与服务集成，兼容 Claude Code、Codex、Gemini CLI、Cursor 等工具
@@ -35,11 +52,10 @@
 
 ### 感知与推荐
 
-- [RuView](https://github.com/ruvnet/RuView) 将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
+- [RuView](https://github.com/ruvnet/RuView) 原 wifi-densepose，将普通 WiFi 信号转化为实时空间感知、生命体征监测和存在检测
 - [x-algorithm](https://github.com/xai-org/x-algorithm) 驱动 X 平台"为你推荐"信息流的算法
 - [mediapipe](https://github.com/google-ai-edge/mediapipe) 跨平台、可定制的机器学习和流媒体解决方案
 - [facex](https://github.com/facex-engine/facex) 可在浏览器内完整运行的全脸技术栈。包含人脸检测、576 点 3D 网格建模、人脸识别、活体防欺骗、微笑识别
-- [wifi-densepose](https://github.com/ruvnet/wifi-densepose) 一款革命性的基于 WiFi 的密集人体姿态估计系统，利用商品网格路由器实现墙壁内的实时全身追踪
 
 ### 本地运行与部署
 
@@ -67,25 +83,6 @@
 - [TurboOCR](https://github.com/aiptimizer/TurboOCR) 基于 C++、CUDA、TensorRT 与 PP-OCRv6 的高速 GPU 文档解析服务，支持 OCR、版面、表格、公式到 Markdown
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) OCR
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) GLM-OCR：精准・快速・全面
-
-## 智能体平台与工作流
-
-- [Sim](https://github.com/simstudioai/sim) 可自托管的 AI 智能体与工作流协作平台，支持可视化、对话和代码构建，集成多模型、外部服务、文件与知识库，并提供运行日志、定时调度和监控
-- [LangBot](https://github.com/langbot-app/LangBot) 可自托管的多平台 AI 聊天机器人构建平台，支持微信、QQ、飞书、Discord、Telegram 等，集成多模型、知识库、插件与 MCP，并提供 Web 管理界面
-- [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
-- [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
-- [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
-- [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
-- [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
-- [genkit](https://github.com/genkit-ai/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
-- [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude Code 与 Codex 的智能体编排框架，支持多智能体集群、自适应记忆、自学习、联邦通信、向量 RAG 与 MCP
-- [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
-- [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
-- [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
-- [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
-- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
-- [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
-- [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
 
 ## 基础设施
 
@@ -147,6 +144,39 @@
 
 - [any-auto-register](https://github.com/lxf746/any-auto-register) ChatGPT / Cursor / Kiro / Grok / Windsurf / Trae 等 13+ AI 平台账号自动注册与管理
 - [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 基于 Tauri 的 Antigravity 账号管理与一键切换工具
+
+## 智能体平台与工作流
+
+### 可视化构建与业务自动化
+
+- [Sim](https://github.com/simstudioai/sim) 可自托管的 AI 智能体与工作流协作平台，支持可视化、对话和代码构建，集成多模型、外部服务、文件与知识库，并提供运行日志、定时调度和监控
+- [LangBot](https://github.com/langbot-app/LangBot) 可自托管的多平台 AI 聊天机器人构建平台，支持微信、QQ、飞书、Discord、Telegram 等，集成多模型、知识库、插件与 MCP，并提供 Web 管理界面
+- [FastGPT](https://github.com/labring/FastGPT) AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景
+- [ToolJet](https://github.com/ToolJet/ToolJet) ToolJet 是 ToolJet AI 的开源底层框架，这是一款面向企业的应用生成平台，可用于搭建内部工具、数据看板、业务系统、工作流以及 AI 智能体
+- [activepieces](https://github.com/activepieces/activepieces) AI 智能体 & MCP（模型上下文协议）& AI 工作流自动化
+- [n8n](https://github.com/n8n-io/n8n) 具备原生 AI 能力的公平代码工作流自动化平台
+- [dify](https://github.com/langgenius/dify) 面向智能体工作流开发的生产级平台
+- [Flowise](https://github.com/FlowiseAI/Flowise) 可视化构建 AI 智能体
+- [langflow](https://github.com/langflow-ai/langflow) Langflow 是一款用于构建和部署人工智能驱动型智能体与工作流的强大工具
+
+### 开发框架、定义标准与运行编排
+
+- [gitagent](https://github.com/open-gitagent/gitagent) 一套**与框架无关、原生支持 Git**的 AI 智能体定义标准
+- [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
+- [genkit](https://github.com/genkit-ai/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
+- [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude Code 与 Codex 的智能体编排框架，支持多智能体集群、自适应记忆、自学习、联邦通信、向量 RAG 与 MCP
+- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
+- [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
+- [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
+
+### 运行框架与智能体编排
+
+- [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
+- [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架
+- [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
+- [Aden Hive](https://github.com/aden-hive/hive) 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督
+- [edict](https://github.com/cft0808/edict) 三省六部制・OpenClaw 多智能体协同编排系统
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) 快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
 
 ## 工具与集成
 
@@ -260,11 +290,10 @@
 
 ### 研究与专业工作
 
-- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 将任何 AI 代理转变为 AI 科学家
+- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 原 claude-scientific-skills，面向研究、科学、工程、分析、金融与写作的智能体技能集
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) 一款 AI 智能体技能，可检索 Reddit、X、YouTube、黑客新闻、预测市场平台及全网任意主题信息，并整合输出有理有据的综合摘要
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 适用于 Claude Code 的学术研究技能流程：调研 → 撰写 → 审阅 → 修改 → 定稿
 - [chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill) 用于生成中国软件著作权申请材料的完整工具包
-- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) 一套可直接使用的智能体技能集，适用于研究、科学、工程、分析、金融及写作领域
 - [pm-skills](https://github.com/phuryn/pm-skills) 产品经理技能市场：100+ 智能体技能、指令与插件
 - [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) 自动上传 PDF、Youtube 链接到 NotebookLM，很适合 NotebookLM 内容的自动化处理
 - [financial-services](https://github.com/anthropics/financial-services) 提供金融服务主流工作流的参考智能体、技能工具与数据连接器，涵盖投资银行、股票研究、私募股权以及财富管理领域
@@ -285,7 +314,8 @@
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) 适用于 Obsidian 的智能代理技能插件
 - [Obsidian Copilot](https://github.com/logancyang/obsidian-copilot) 将 OpenCode、Claude Code 与 Codex 接入 Obsidian 知识库的智能体插件
 
-## 产品
+
+## 对话、知识与视觉创作
 
 ### 通用对话
 
@@ -305,7 +335,24 @@
 - [AQBot](https://github.com/AQBot-Desktop/AQBot) 轻量级高性能跨平台AI对话 + AI网关桌面客户端
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) 拥有智能聊天、自主 Agent 和 300+ 助手的 AI 生产力工作室
 
-### 图片
+### 知识库与搜索
+
+- [@tobilu/qmd](https://www.npmjs.com/package/@tobilu/qmd) 本地文档搜索引擎，结合 BM25、向量检索与本地 LLM 重排，提供 CLI、MCP 和 Node/Bun API
+- [cocoindex](https://github.com/cocoindex-io/cocoindex) 面向长周期智能体的增量数据索引引擎，将代码、会议记录、邮件、Slack、PDF、视频等持续同步为新鲜上下文，支持声明式 Python 数据流与仅增量处理
+- [WeKnora](https://github.com/Tencent/WeKnora) 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库
+- [RAGFlow](https://github.com/infiniflow/ragflow) 可自托管的开源 RAG 引擎，融合深度文档解析、混合检索与智能体能力，支持知识库问答和可追溯引用
+- [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
+- [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
+- [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
+- [morphic](https://github.com/miurla/morphic) 一款搭载生成式界面的人工智能搜索引擎。
+- [blinko](https://github.com/blinkospace/blinko) 一款开源、可自行托管的个人 AI 笔记工具
+- [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
+- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
+- [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
+
+
+### 图片生成与增强
 
 - [ArtCraft](https://github.com/storytold/artcraft) 面向艺术家、设计师和电影人的开源 AI 创作工作台，支持 2D 画布、3D 场景搭建、图像和视频生成及多模型选择
 - [sprite-gen](https://github.com/aldegad/sprite-gen) 放进一张画，出来的是游戏可直接使用的精灵
@@ -327,150 +374,6 @@
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) 支持图像、视频与音频模型的模块化本地 Web UI，提供生成工具和 ComfyUI 工作流
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) Krita 的本地生成式图像插件，支持局部重绘、扩图、实时绘制与 ComfyUI 后端
 - [RunningHub](https://www.runninghub.cn) 云端 ComfyUI 创作平台，提供工作流、无限画布、AI 应用与模型 API
-
-### 音视频
-
-- [BaoCut](https://github.com/JimLiu/baocut) 面向 macOS 与 Windows 的 AI 视频智能体与可编辑时间线工作台，支持语音转写、字幕翻译、配音、剪辑及代码动效，让用户与智能体在同一编辑器中持续修改，提供本地模型与在线服务接入
-- [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
-- [BeefTV](https://github.com/glanderness/BeefTV) 开源本地优先的 AI 视频创作工作台，在自由画布中组织创意、模型与素材，支持文字、图像、视频和音频生成流程
-- [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体
-- [UNICUT](https://github.com/mtsee/unicut) AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出
-- [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案
-- [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
-- [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
-- [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
-- [velorn](https://github.com/VelornLabs/velorn) 开源 AI 视频工作站，围绕真实时间线编辑、生成式工作流、本地 ComfyUI 与 MCP 智能体控制构建
-- [sentrysearch](https://github.com/ssrajadh/sentrysearch) 使用 Gemini Embedding 2 或 Qwen3-VL 对视频进行语义检索
-- [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
-- [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
-- [VoiceStudio](https://github.com/debpalash/VoiceStudio) 本地运行的开源 AI 语音工作站，支持语音克隆、音色设计、视频配音、语音转写与有声书制作
-- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
-- [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
-- [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
-- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
-- [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
-- [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
-- [小云雀](https://xyq.jianying.com)
-- [liblib](https://www.liblib.tv)
-- [updream](https://www.updream.cn) AI 视频创作助手，提供创作画布、3D 预演、剧本策划、角色设计、分镜故事板与视频提示词生成等功能，支持通过技能组织创作流程
-- [tapnow](https://app.tapnow.ai)
-- [flova.ai](https://www.flova.ai/zh-CN/)
-- [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
-- [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
-- [pixmax](https://www.pixmax.cn)
-- [ViMax](https://github.com/HKUDS/ViMax) 代理式视频生成（导演、编剧、制片人和视频生成器，四位一体）
-- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
-- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
-- [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
-- [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
-- [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
-- [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
-- [autoclip](https://github.com/zhouxiaoka/autoclip) 一款智能高光提取与剪辑的二创工具
-- [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
-- [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
-- [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
-
-### 知识库与搜索
-
-- [@tobilu/qmd](https://www.npmjs.com/package/@tobilu/qmd) 本地文档搜索引擎，结合 BM25、向量检索与本地 LLM 重排，提供 CLI、MCP 和 Node/Bun API
-- [cocoindex](https://github.com/cocoindex-io/cocoindex) 面向长周期智能体的增量数据索引引擎，将代码、会议记录、邮件、Slack、PDF、视频等持续同步为新鲜上下文，支持声明式 Python 数据流与仅增量处理
-- [WeKnora](https://github.com/Tencent/WeKnora) 腾讯开源的大模型知识平台，支持文档理解、RAG 问答、智能体推理与自动维护的 Wiki 知识库
-- [RAGFlow](https://github.com/infiniflow/ragflow) 可自托管的开源 RAG 引擎，融合深度文档解析、混合检索与智能体能力，支持知识库问答和可追溯引用
-- [VidBee](https://github.com/nexmoe/VidBee) VidBee 旨在将零散的音视频媒体转化为井井有条、可搜索的知识库
-- [open-notebook](https://github.com/lfnovo/open-notebook) 一款开源版 Notebook LM 实现，拥有更高灵活性与更多功能
-- [llm\_wiki](https://github.com/nashsu/llm_wiki) 将各类文档整理为结构化、相互关联的知识库
-- [morphic](https://github.com/miurla/morphic) 一款搭载生成式界面的人工智能搜索引擎。
-- [blinko](https://github.com/blinkospace/blinko) 一款开源、可自行托管的个人 AI 笔记工具
-- [karakeep](https://github.com/karakeep-app/karakeep) 一款可自建部署的全能收藏应用（支持链接、笔记与图片），具备AI 自动标签与全文检索功能
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) 一站式的 AI 桌面应用
-- [open-knowledge](https://github.com/inkeep/open-knowledge) 美观、原生适配 AI 的 Markdown 编辑器与大模型知识库
-- [Vane](https://github.com/ItzCrazyKns/Vane) 人工智能驱动的问答引擎
-
-### 办公与个人助理
-
-- [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
-- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
-- [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
-- [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
-- [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
-- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
-- [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
-- [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用
-- [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
-- [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
-- [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
-- [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
-- [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
-- [AIHOT](https://github.com/KKKKhazix/AIHOT) 可自托管的行业热点站框架，抓取多类信源，经模型筛选、聚类与排序后生成日报
-- [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
-- [writehuman](https://writehuman.ai) 去除 AI 味
-- [chatexcel](https://www.chatexcel.com)
-- [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
-- [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
-- [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
-- [WPS 灵犀](https://lingxi.wps.cn) AI 办公
-- [蚂蚁阿福](https://chat.antafu.com)
-- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
-- [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
-- [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
-
-### 智能体
-
-- [Easel](https://github.com/ZJU-REAL/Easel) 基于 OpenClaw 的开源 AI 社媒内容工作台，整合热点发现、选题策划、图文与音视频创作、多平台发布和表现复盘，支持账号画像、内容日历及小红书、抖音、知乎、B 站等平台
-- [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
-- [OpenMuse](https://github.com/CopilotKit/openmuse) 基于 CopilotKit 与 AG-UI 的可自托管个人智能体应用，提供持久浏览器、隔离终端、文件处理、任务恢复与人工审批
-- [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
-- [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
-- [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) DeepSeek 开源的 Agent Harness，采用插件化架构并提供 Web UI
-- [MOVO](https://github.com/himovo/movo) 基于 DeepSeek Harness 的可自托管企业智能体平台，集成知识检索、深度研究、文件生成、Skills 与 MCP，并提供权限管理、定时任务和审计能力
-- [Maka](https://github.com/apache/maka) 本地优先的 AI Agent 工作空间，提供桌面端、TUI/CLI、工具沙箱与可恢复的执行记录
-- [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) DeepSeek Harness 桌面端封装，自动管理本地服务并集成窗口、托盘和桌面插件能力
-- [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
-- [CowAgent](https://github.com/zhayujie/CowAgent) 开源超级 AI 助手与智能体调度框架
-- [opensquilla](https://github.com/opensquilla/opensquilla) 高效令牌 AI 智能体，同等算力成本下拥有更高智能密度
-- [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
-- [OpenBot](https://github.com/CopilotKit/OpenBot) 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录
-- [metabot](https://github.com/xvirobotics/metabot) 构建受监督的、自我进化的 Agent\*\* 组织的基础设施\*\*
-- [Aden Hive](https://github.com/aden-hive/hive) 生产级多智能体运行时，提供状态管理、故障恢复、可观测性与人工监督
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
-  - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
-  - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
-  - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
-- [Rakazo](https://github.com/elie222/rakazo) 可自托管的开源 AI 智能体协作平台，支持持久记忆、定时任务与浏览器和桌面操作，可自选模型及沙箱，提供网页、桌面和移动客户端
-- [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
-- [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
-- [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
-- [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
-- [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
-- [openhanako](https://github.com/liliMozi/openhanako) 开源 AI 助手应用，聚焦高质量人机协作体验
-- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
-- [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
-- [edict](https://github.com/cft0808/edict) 三省六部制・OpenClaw 多智能体协同编排系统
-- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) 快速、轻量、完全自治的 AI 助手基础设施 —— 随处部署，任意替换
-- [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
-- [moltis](https://github.com/moltis-org/moltis) 一款值得信赖的 Rust 原生核心工具,内置语音、记忆体、MCP 工具及多通道访问能力
-- [扣子空间](https://www.coze.cn)
-- [Manus](https://manus.im)
-- [天工](https://www.tiangong.cn)
-- [nanobot](https://github.com/HKUDS/nanobot) 轻量级、开源 AI 代理，适用于你的工具、聊天和工作流
-- [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
-- [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
-- [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
-- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
-- [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
-- [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
-
-### 智能体扩展
-
-- [ds-bot](https://github.com/Fei2411/DeepSeek-Bot) DeepSeek Harness 的社区机器人插件，支持创建具备持久记忆的独立 Bot、群聊协作、模型切换与 Token 用量统计，数据保存在本地
-- [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件
-- [dsh-market](https://github.com/dsh-market/dsh-market) DeepSeek Harness 插件市场项目，用于集中发现和分发 DSH 生态插件
-- [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
-- [NemoClaw](https://github.com/NVIDIA/NemoClaw) 用于安全安装 OpenClaw 的 NVIDIA 插件
-- [nexu](https://github.com/nexu-io/nexu) 让你的 OpenClaw 🦞 Agent 直接运行在微信、飞书、Slack、Discord 等 IM 中
-- [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 
 ### 原型与设计
 
@@ -497,12 +400,160 @@
 - [3dlogolab](https://www.3dlogolab.io) 将 2D Logo 转换为 3D 动画
 - [modly](https://github.com/lightningpixel/modly) 一款借助本地 AI、通过图片生成 3D 模型
 
-## 研究与学习工具
+## 音视频
 
-- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
-- [PRAXIST](https://github.com/sapientinc/PRAXIST) 面向可量化研究问题的自治研究系统，编排并行智能体、评测与持续证据迭代
-- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) 从创意到论文，全程自主研究
-- [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
+### 视频创作、剪辑与影视工作流
+
+- [BaoCut](https://github.com/JimLiu/baocut) 面向 macOS 与 Windows 的 AI 视频智能体与可编辑时间线工作台，支持语音转写、字幕翻译、配音、剪辑及代码动效，让用户与智能体在同一编辑器中持续修改，提供本地模型与在线服务接入
+- [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) 开源 AI 短剧、漫剧和短视频创作平台，将剧本、资产、图像/视频生成与智能分镜组织在无限画布中，支持本地部署、MCP 与插件扩展
+- [BeefTV](https://github.com/glanderness/BeefTV) 开源本地优先的 AI 视频创作工作台，在自由画布中组织创意、模型与素材，支持文字、图像、视频和音频生成流程
+- [OpenCreator](https://github.com/krillinai/OpenCreator) 以 Codex CLI 为执行引擎的开源本地 AI 创作工作区，集成视频翻译与编辑、图像和视频生成、配音、字幕及创作智能体
+- [UNICUT](https://github.com/mtsee/unicut) AI 驱动的开源 Web 视频编辑器，支持多轨时间轴、自然语言剪辑、字幕与浏览器本地导出
+- [Hypit](https://github.com/hypit-ai/hypit) 面向编码智能体的视频创作工作流，支持从参考视频或提示词生成可编辑、可复用的合成方案
+- [ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
+- [velorn](https://github.com/VelornLabs/velorn) 开源 AI 视频工作站，围绕真实时间线编辑、生成式工作流、本地 ComfyUI 与 MCP 智能体控制构建
+- [waoowaoo](https://github.com/waoowaooAI/waoowaoo) 首家工业级全流程 AI 影视生产平台
+- [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) 将视频瞬间转化为手绘故事
+- [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) AI 全自动短视频引擎
+- [fogsight](https://github.com/fogsightai/fogsight) 一款由大语言模型驱动的人工智能代理及动画引擎
+- [updream](https://www.updream.cn) AI 视频创作助手，提供创作画布、3D 预演、剧本策划、角色设计、分镜故事板与视频提示词生成等功能，支持通过技能组织创作流程
+- [topview](https://www.topview.ai) 只需告知你的智能体，即可生成任意视频
+- [anishort.ai](https://anishort.ai) 一站式 AI 短剧智能协作平台
+- [ViMax](https://github.com/HKUDS/ViMax) 代理式视频生成（导演、编剧、制片人和视频生成器，四位一体）
+- [OpenMontage](https://github.com/calesthio/OpenMontage) 智能自主式视频制作系统
+- [NarratoAI](https://github.com/linyqh/NarratoAI) 利用AI大模型，一键解说并剪辑视频
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 利用AI大模型，一键生成高清短视频
+- [autoclip](https://github.com/zhouxiaoka/autoclip) 一款智能高光提取与剪辑的二创工具
+- [hyperframes](https://github.com/heygen-com/hyperframes) 编写 HTML，渲染视频，专为智能体构建
+- [dramaclaw](https://github.com/dramaclaw/dramaclaw) 通用 AIGC 视频引擎
+
+### 语音、配音与字幕处理
+
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) 本地运行的开源 AI 语音工作站，支持语音克隆、音色设计、视频配音、语音转写与有声书制作
+- [auto-subs](https://github.com/tmoroney/auto-subs) 在本地设备上一键生成 AI 字幕。支持独立运行，也可联动达芬奇剪辑软件（DaVinci Resolve）使用
+- [QwenVoice](https://github.com/PowerBeef/QwenVoice) 适用于苹果芯片（Apple Silicon）的原生 macOS 应用，支持通义千问3语音合成（Qwen3‑TTS），提供自定义音色、音色设计与音色克隆功能，**100% 离线运行**。
+- [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) 基于 LLM 的智能字幕助手
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) 一款强大的开源视频翻译 / 语音转录 / AI配音 / 字幕翻译工具
+- [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) 视频硬字幕提取，生成srt文件
+- [video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件
+- [voicebox](https://github.com/jamiepine/voicebox) 开源语音合成工作室
+
+### 会议、视频检索与内容评估
+
+- [SceneFlow](https://github.com/taruma/SceneFlow) 将剧本与视频同步的 AI 影视评估工具，用于分析生成视频对提示词、镜头和叙事的还原度
+- [meetily](https://github.com/Zackriya-Solutions/meetily) 隐私优先型 AI 会议助手
+- [sentrysearch](https://github.com/ssrajadh/sentrysearch) 使用 Gemini Embedding 2 或 Qwen3-VL 对视频进行语义检索
+- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) 音视频内容 AI 一键总结
+
+### 其他音视频工具
+
+- [voice-input-dist](https://github.com/yetone/voice-input-dist) 新的开源方式(Prompt)
+- [小云雀](https://xyq.jianying.com)
+- [liblib](https://www.liblib.tv)
+- [tapnow](https://app.tapnow.ai)
+- [flova.ai](https://www.flova.ai/zh-CN/)
+- [pixmax](https://www.pixmax.cn)
+
+## 办公与个人助理
+
+### 演示文稿、文档与表格
+
+- [presenton](https://github.com/presenton/presenton) 开源 AI 演示文稿生成器
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 专为 AI 智能体量身打造的办公套件，可实现对 Word、Excel、PowerPoint 文件的读取、编辑与自动化操作
+- [banana-slides](https://github.com/Anionex/banana-slides) 一个基于nano banana pro🍌的原生AI PPT生成应用
+- [LandPPT](https://github.com/sligter/LandPPT) 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿
+- [writehuman](https://writehuman.ai) 去除 AI 味
+- [text-well](https://www.text-well.com/zh/app) 免费在线 AI 工具，用于修改润色文章
+- [belindoc](https://belindoc.com/zh) 一键完成高质量文档翻译
+- [WPS 灵犀](https://lingxi.wps.cn) AI 办公
+- [ppt-master](https://github.com/hugohe3/ppt-master) 人工智能可从任意文档原生生成可编辑的 PPTX 文件—— 采用真实 PowerPoint 图形与原生动画，而非图片形式
+
+### 求职与职业发展
+
+- [career-ops](https://github.com/santifer/career-ops) 基于 Claude Code 构建的 AI 求职系统。提供14种技能模式、任务面板、PDF 生成及批量处理功能。
+- [careercompass](https://github.com/arsh342/careercompass) 新一代人工智能驱动的职业平台，重塑企业与求职者的连接方式。
+- [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 基于 Claude Code 搭建的 AI 求职申请框架
+
+### 资讯监控、交易与金融
+
+- [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
+- [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
+- [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
+- [AIHOT](https://github.com/KKKKhazix/AIHOT) 可自托管的行业热点站框架，抓取多类信源，经模型筛选、聚类与排序后生成日报
+- [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
+- [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) 智能交易助手
+
+### 其他办公与个人助理
+
+- [wardrobe](https://github.com/tandpfun/wardrobe) 你的衣物，由 gpt-image 提取并整理归档
+- [LobsterAI](https://github.com/netease-youdao/LobsterAI) 全场景办公助手 Agent
+- [screenpipe](https://github.com/screenpipe/screenpipe) 能记住你所见、所言、所听的人工智能
+- [WeClone](https://github.com/xming521/WeClone) 一站式从聊天记录打造AI 分身的解决方案
+- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) 自动化网上赚钱的流程
+- [chatexcel](https://www.chatexcel.com)
+- [moxt](https://moxt.ai) 为 Agent 原生而造的工作空间——AI 同事全天候运转，边做边学，与你协同
+- [蚂蚁阿福](https://chat.antafu.com)
+
+## 智能体
+
+### 工作区、团队协作与任务平台
+
+- [Easel](https://github.com/ZJU-REAL/Easel) 基于 OpenClaw 的开源 AI 社媒内容工作台，整合热点发现、选题策划、图文与音视频创作、多平台发布和表现复盘，支持账号画像、内容日历及小红书、抖音、知乎、B 站等平台
+- [OpenDots](https://github.com/CopilotKit/OpenDots) 可自托管的持久化 AI 智能体工作区模板，支持独立智能体、隔离浏览器与工作区、人工审批及 Slack、语音集成
+- [OpenMuse](https://github.com/CopilotKit/openmuse) 基于 CopilotKit 与 AG-UI 的可自托管个人智能体应用，提供持久浏览器、隔离终端、文件处理、任务恢复与人工审批
+- [odysseus](https://github.com/odysseus-dev/odysseus) 自托管 AI 工作空间
+- [centaur](https://github.com/paradigmxyz/centaur) 面向团队共享的自托管安全智能体平台，可通过 Slack 或 API 在沙箱中运行真实任务
+- [MOVO](https://github.com/himovo/movo) 基于 DeepSeek Harness 的可自托管企业智能体平台，集成知识检索、深度研究、文件生成、Skills 与 MCP，并提供权限管理、定时任务和审计能力
+- [Maka](https://github.com/apache/maka) 本地优先的 AI Agent 工作空间，提供桌面端、TUI/CLI、工具沙箱与可恢复的执行记录
+- [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) DeepSeek Harness 桌面端封装，自动管理本地服务并集成窗口、托盘和桌面插件能力
+- [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
+- [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
+- [OpenBot](https://github.com/CopilotKit/OpenBot) 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录
+- [Rakazo](https://github.com/elie222/rakazo) 可自托管的开源 AI 智能体协作平台，支持持久记忆、定时任务与浏览器和桌面操作，可自选模型及沙箱，提供网页、桌面和移动客户端
+- [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
+- [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
+
+### 个人助手、客户端与多平台接入
+
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
+  - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
+  - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手
+  - [hermes-webui](https://github.com/nesquena/hermes-webui) 在网页或手机上使用 Hermes 智能体的最佳方式
+- [ClawX](https://github.com/ValueCell-ai/ClawX) OpenClaw AI 智能体的桌面客户端
+- [nanoclaw](https://github.com/qwibitai/nanoclaw) 一款轻量级的 OpenClaw 替代方案，以容器运行保障安全
+- [piclaw](https://github.com/rcarmo/piclaw) 打造属于自己的 OpenClaw
+- [openclaw](https://github.com/openclaw/openclaw) 个人 AI 助手
+- [openhanako](https://github.com/liliMozi/openhanako) 开源 AI 助手应用，聚焦高质量人机协作体验
+- [openfang](https://github.com/RightNow-AI/openfang) 个人 AI 助手
+- [picoclaw](https://github.com/sipeed/picoclaw) 个人 AI 助手
+- [nanobot](https://github.com/HKUDS/nanobot) 轻量级、开源 AI 代理，适用于你的工具、聊天和工作流
+- [magentic-ui](https://github.com/microsoft/magentic-ui) 一款实验性智能体，可同时在浏览器与本地文件系统中运行
+- [wechat-bot](https://github.com/wangrongding/wechat-bot) 多平台 IM AI 代理，支持 Telegram、WhatsApp、飞书和微信
+
+### 机器学习与自主研究助手
+
+- [ml-intern](https://github.com/huggingface/ml-intern) 一款开源机器学习助手，可阅读论文、训练模型并交付上线机器学习模型
+- [autoresearch](https://github.com/karpathy/autoresearch) AI 智能体在单张 GPU 上自动运行 NanoChat 模型训练与研究
+
+### 其他智能体
+
+- [opensquilla](https://github.com/opensquilla/opensquilla) 高效令牌 AI 智能体，同等算力成本下拥有更高智能密度
+- [openhuman](https://github.com/tinyhumansai/openhuman) 你的专属超级人工智能
+- [moltis](https://github.com/moltis-org/moltis) 一款值得信赖的 Rust 原生核心工具,内置语音、记忆体、MCP 工具及多通道访问能力
+- [扣子空间](https://www.coze.cn)
+- [Manus](https://manus.im)
+- [天工](https://www.tiangong.cn)
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) 开源多模态 AI 智能体技术栈：打通前沿 AI 模型与智能体基础设施
+
+### 智能体扩展
+
+- [ds-bot](https://github.com/Fei2411/DeepSeek-Bot) DeepSeek Harness 的社区机器人插件，支持创建具备持久记忆的独立 Bot、群聊协作、模型切换与 Token 用量统计，数据保存在本地
+- [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) DeepSeek Harness 插件精选列表，收录可通过 dsh plugin add 安装的社区插件
+- [dsh-market](https://github.com/dsh-market/dsh-market) DeepSeek Harness 插件市场项目，用于集中发现和分发 DSH 生态插件
+- [gbrain](https://github.com/garrytan/gbrain) 加里的专属 OpenClaw/Hermes 智能体核心（大脑）
+- [NemoClaw](https://github.com/NVIDIA/NemoClaw) 用于安全安装 OpenClaw 的 NVIDIA 插件
+- [nexu](https://github.com/nexu-io/nexu) 让你的 OpenClaw 🦞 Agent 直接运行在微信、飞书、Slack、Discord 等 IM 中
+- [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) 无损爪 — 适用于 OpenClaw 的 LCM（无损上下文管理）插件
 
 ## 硬件与机器人
 
@@ -512,7 +563,17 @@
 - [microduck](https://github.com/pollen-robotics/microduck) 微型双足鸭子机器人的控制系统，使用强化学习策略驱动 15 个舵机
 - [openpilot](https://github.com/commaai/openpilot) 一套机器人操作系统。目前，它可为三百多款适配车辆升级驾驶辅助系统
 
-## 学习资源
+## 研究与学习
+
+### 研究与学习工具
+
+- [MiroFish](https://github.com/666ghj/MiroFish) 多智能体预测与模拟应用，可根据上传材料生成模拟世界与预测报告
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 开放式多智能体互动课堂 —— 一键即可获得沉浸式多智能体学习体验
+- [PRAXIST](https://github.com/sapientinc/PRAXIST) 面向可量化研究问题的自治研究系统，编排并行智能体、评测与持续证据迭代
+- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) 从创意到论文，全程自主研究
+- [DeepTutor](https://github.com/HKUDS/DeepTutor) 个人学习助手
+
+### 学习资源
 
 - [ms-cookbook](https://github.com/modelscope/ms-cookbook) 魔搭紫皮书，面向开发者的开源模型应用实战指南，涵盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，提供可运行示例与在线阅读
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) WorkBuddy 实战蓝皮书，围绕真实办公任务讲解上手流程、Skills、连接器、自动化与多智能体协作

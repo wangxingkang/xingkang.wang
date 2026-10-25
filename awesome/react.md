@@ -1,11 +1,28 @@
 # React
 
-## 官方资源
+**按需查找**
+
+| 想找什么                        | 直接前往                   |
+| --------------------------- | ---------------------- |
+| 官方文档、应用框架、Next.js、路由、项目模板   | [入门、框架与路由](#入门框架与路由)   |
+| AI 聊天、生成式 UI、认证、支付、多语言      | [AI 与服务集成](#ai-与服务集成)  |
+| 状态管理、请求缓存、URL 状态、本地存储       | [数据获取与状态](#数据获取与状态)    |
+| 无样式原语、完整组件库、源码分发、主题、图标      | [组件体系与样式](#组件体系与样式)    |
+| 面板布局、菜单、拖拽、手势、无障碍、反馈        | [布局与交互](#布局与交互)        |
+| 表单校验、上传、日期、颜色、参数面板          | [表单与输入](#表单与输入)        |
+| 虚拟列表、表格、JSON、树、日历、轮播        | [数据展示](#数据展示)          |
+| 图表、地图、3D、画布、图片、动画、媒体        | [图形、动画与音视频](#图形动画与音视频) |
+| Markdown、富文本、代码、PDF、办公文档、邮件 | [编辑器与文档](#编辑器与文档)      |
+| Hooks、生命周期、性能、互操作、可视化开发     | [组件开发与调试](#组件开发与调试)    |
+
+## 入门、框架与路由
+
+### 官方资源
 
 - [官网](https://zh-hans.react.dev)
 - [react](https://github.com/facebook/react) react 仓库
 
-## 框架
+### 框架
 
 - [GPUIX](https://github.com/remorses/gpuix) Zed GPUI 的 React 绑定，用 React 与 TypeScript 构建无需 Electron 的原生 GPU 加速桌面应用
 - [nextjs](https://nextjs.org) 面向 Web 的 React 框架
@@ -14,48 +31,84 @@
 - [umi](https://umijs.org) 企业级前端开发框架 - 蚂蚁金服出品
 - [modernjs](https://modernjs.dev/zh/index.html) 一款基于 React 和 Rsbuild 的渐进式 Web 框架 - 字节出品
 
-### 应用框架
+#### 应用框架
 
 - [waku](https://github.com/wakujs/waku) 极简 React 框架
 - [fumadocs](https://github.com/fuma-nama/fumadocs) 优雅且灵活的 React.js 文档框架
 
-### Next.js
+#### Next.js
 
+- [geist](https://github.com/vercel/geist-font/tree/HEAD/packages/next) Geist 字体的 Next.js 集成包
 - [cookies-next](https://github.com/andreizanik/cookies-next) 使用 Next.js 在客户端和服务端获取、设置及删除 Cookie
 - [next-video](https://github.com/muxinc/next-video) Next.js 视频组件与处理工具，支持自动优化、远程存储、海报和预览缩略图
 
-## 路由
+### 路由
 
 - [@tanstack/react-router](https://tanstack.com/router/latest) 🤖 客户端优先、支持服务端的完全类型安全路由
 - [react-router](https://github.com/remix-run/react-router) React 声明式路由
 - [wouter](https://github.com/molefrog/wouter)
 
-## AI
+### 模板与示例
 
-### SDK 与集成
+- [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) Next.js 样板工程与启动模板
+- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) 基于 Next.js 16、TypeScript、Tailwind CSS v4 与 shadcn/ui 的现代管理后台模板
+- [TanStarter](https://github.com/mugnavo/tanstarter) 基于 TanStack Start、Vite+、Drizzle ORM、Better Auth 与 shadcn/ui 的极简 React 全栈模板
+- [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
+- [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
+- [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
+- [south-admin-react](https://github.com/southliu/south-admin-react)
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
+- [redalert2](https://github.com/huangkaoya/redalert2) 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目
+
+## AI 与服务集成
+
+### AI
+
+#### SDK 与集成
 
 - [@tanstack/ai-react](https://tanstack.com/ai/latest) 一款可为应用程序赋予 AI 能力的智能 SDK
 - [@json-render/react](https://github.com/vercel-labs/json-render) AI → JSON → UI
 - [tambo](https://github.com/tambo-ai/tambo) React 生成式 UI SDK
-- [@a2ui/react](https://github.com/google/A2UI/tree/main/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
+- [@a2ui/react](https://github.com/a2ui-project/a2ui/tree/main/typescript/renderers/react) 适用于 A2UI（智能体到用户界面）的 React 渲染器
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) 面向智能体与生成式界面的前端技术栈
   - [@copilotkit/react-ui](https://github.com/CopilotKit/CopilotKit/tree/main/packages/react-ui)
 - [@ai-sdk/react](https://github.com/vercel/ai/tree/main/packages/react)
 - [flowise-embed-react](https://github.com/FlowiseAI/FlowiseEmbedReact) 用于在网站上展示 Flowise 聊天机器人的 React 库
 
-### Hooks
+#### Hooks
 
 - [use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) 一个轻量级的 React Hook，主要面向 AI 聊天类应用场景，用于实现消息列表平滑贴合底部的效果
 
-### 组件
+#### 组件
 
-- [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件
-- [react-extras](https://github.com/sindresorhus/react-extras) React 常用组件与工具函数集
+- [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
 - [agentic-ui](https://github.com/antdigital-ai/agentic-ui) 面向智能体的 UI 组件库，提供多步推理可视化、工具调用展示、任务执行协同等 Agentic UI 能力
 - [@ant-design/x](https://x.ant.design/index-cn) AI 界面解决方案
 - [ai-elements](https://github.com/vercel/ai-elements) 一个基于 shadcn/ui 构建的组件库与自定义组件注册中心，旨在帮助你更快速地开发原生 AI 应用
+
+### 认证与第三方服务
+
+- [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
+- [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
+- [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
+- [react-turnstile](https://github.com/Le0developer/react-turnstile) Cloudflare Turnstile 人机验证服务
+- [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
+- [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
+- [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
+- [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
+- [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
+- [@react-oauth/google](https://github.com/MomenSherif/react-oauth) 谷歌登录
+- [@react-oauth/github](https://github.com/MomenSherif/react-oauth) GitHub 登录
+- [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库
+
+### 多语言
+
+- [react-i18next](https://github.com/i18next/react-i18next)
+- [@lingui/react](https://github.com/lingui/js-lingui)
+- [react-intl](https://github.com/formatjs/formatjs)
 
 ## 数据获取与状态
 
@@ -95,81 +148,58 @@
 - [react-cookie](https://github.com/ItsBenCodes/cookies) 在你的 Web 应用中加载并保存 Cookie
 - [@electric-sql/pglite-react](https://github.com/electric-sql/pglite/tree/main/packages/pglite-react) 此包基于 PGLite 的实时查询插件实现了 React hooks
 
-## Hooks 工具集
+## 组件体系与样式
 
-- [react-use](https://github.com/streamich/react-use) React Hooks — 👍
-- [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
-- [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
-- [@mantine/hooks](https://mantine.dev/hooks/package)
-- [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
-- [custom-react-hooks](https://github.com/djkepa/custom-react-hooks)
-- [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
-- [foxact](https://github.com/SukkaW/foxact) React Hooks/工具库
+### 组件库
 
-## 多语言
+#### 无样式原语
 
-- [react-i18next](https://github.com/i18next/react-i18next)
-- [@lingui/react](https://github.com/lingui/js-lingui)
-- [react-intl](https://github.com/formatjs/formatjs)
+- [@headlessui/react](https://github.com/tailwindlabs/headlessui)
+- [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
+- [ark](https://github.com/chakra-ui/ark)
+- [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
 
-## 认证与第三方服务
+#### 完整组件库与设计体系
 
-- [react-use-intercom](https://github.com/devrnt/react-use-intercom) 借助 Hooks 实现无繁琐配置的 React 对接 Intercom 集成方案
-- [rc-slider-captcha](https://github.com/caijf/rc-slider-captcha) React 滑块验证码组件
-- [@c15t/react](https://github.com/c15t/c15t) 面向开发者打造的 Cookie 授权弹窗组件
-- [react-turnstile](https://github.com/Le0developer/react-turnstile) Cloudflare Turnstile 人机验证服务
-- [react-stripe-js](https://github.com/stripe/react-stripe-js) 适配 Stripe.js 与 Stripe Elements 的 React 组件库
-- [react-tweet](https://github.com/vercel/react-tweet) 在你的 React 应用中嵌入推特推文
-- [@novu/react](https://github.com/novuhq/novu/tree/next/packages/react) 开源消息通知基础设施，内置应用收件箱组件，支持邮件、短信、推送及 Slack 对接
-- [react-ga4](https://github.com/codler/react-ga4) 谷歌分析
-- [react-share](https://github.com/nygardk/react-share) 适用于 React 的社交媒体分享按钮及分享计数组件
-- [@react-oauth/google](https://github.com/MomenSherif/react-oauth) 谷歌登录
-- [@react-oauth/github](https://github.com/MomenSherif/react-oauth) GitHub 登录
-- [@azure/msal-react](https://github.com/AzureAD/microsoft-authentication-library-for-js) 微软身份验证库
+- [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
+- [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
+- [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
+- [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
+- [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
+- [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
+- [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
+- [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
+- [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
+- [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
+- [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
+- [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
+- [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
+- [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
+- [blueprint](https://github.com/palantir/blueprint)
 
-## 组件库
+#### 源码分发与组件合集
 
 - [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
 - [originkit](https://www.originkit.dev) 免费动画组件库
 - [rare-ui](https://github.com/swamimalode07/rare-ui) 基于 React、Tailwind CSS 和 Motion 的 shadcn 动效组件注册源，可按需复制组件源码
 - [ThreeUI](https://github.com/MengTo/threeui) 开源 React 三维交互组件库，提供可实时预览的社区组件与源代码
-- [@headlessui/react](https://github.com/tailwindlabs/headlessui)
-- [@base-ui/react](https://github.com/mui/base-ui) 无样式 UI 组件，用于打造具备无障碍特性的网页应用与设计系统
-- [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
-- [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
 - [shaders](https://www.npmjs.com/package/shaders) 面向 React、Vue、Svelte、Solid 与原生 JavaScript 的 WebGPU 创意特效组件库
-- [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
 - [chanhdai](https://chanhdai.com/components)
 - [spell-ui](https://github.com/xxtomm/spell-ui) 一套高质量的 React 组件合集，你可以直接复制粘贴到任意项目中使用
 - [21st.dev](https://21st.dev) 基于 react 和 Tailwind CSS 的开源组件平台
 - [react-bits](https://github.com/DavidHDev/react-bits) 开源 React 动画与交互组件合集，提供可定制的文字动画、背景和 UI 组件
-- [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
-- [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
-- [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
-- [semi](https://semi.design/zh-CN/) 字节出品(包含 AI 组件)
 - [shadcn-ui](https://github.com/shadcn-ui/ui) 设计精美、无障碍的组件体系与代码分发平台，兼容主流框架，开源开放
   - [cult-ui](https://github.com/nolly-studio/cult-ui)
 - [Dice UI](https://github.com/sadmann7/diceui) 基于 React、TypeScript 与 Tailwind CSS 的无障碍 shadcn/ui 组件，可直接复制使用
-- [material-ui](https://mui.com/material-ui/getting-started/) 套全面落地谷歌 Material Design 设计规范的 React 组件库
-- [mantine](https://github.com/mantinedev/mantine) 功能完备的 React 组件库
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) 基于 React 构建的 Bootstrap 组件库
-- [semantic-ui](https://github.com/semantic-org/semantic-ui) 基于自然语言实用原理构建的 UI 组件框架
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) 一套可快速构建 SaaS 产品的组件体系
-- [ark](https://github.com/chakra-ui/ark)
-- [react-aria-components](https://github.com/adobe/react-spectrum/tree/main/packages/react-aria-components)
-- [@react-spectrum/s2](https://github.com/adobe/react-spectrum/tree/main/packages/%40react-spectrum/s2)
-- [baseweb](https://github.com/uber/baseweb) 一个实现了 Base 设计语言的 React 组件库
-- [rsuite](https://github.com/rsuite/rsuite) 一套 React 组件库。
 - [animata](https://github.com/codse/animata) 借助简易易用的动画与交互代码，为你的网站注入灵动活力
-- [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) Animal 风格的 React 组件库
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
-- [gluestack-ui](https://github.com/gluestack/gluestack-ui) React 与 React Native 组件及设计范式（基于 Tailwind CSS、NativeWind 打造，可直接复制使用）
 - [Lightswind-UI-Library](https://github.com/codewithMUHILAN/Lightswind-UI-Library)
-- [blueprint](https://github.com/palantir/blueprint)
 - [opensourceui](https://github.com/bidyut10/opensourceui)
 
-## 主题与样式
+### 主题与样式
 
 - [react-progressive-blur](https://github.com/rakib86/react-progressive-blur) 渐进式模糊效果
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react) 适配 React 的苹果液态玻璃效果
@@ -177,9 +207,27 @@
 - [next-themes](https://github.com/pacocoursey/next-themes) 两行代码实现完美的 Next.js 暗黑模式。支持系统偏好和任何其他主题，无闪烁
 - [styled-jsx](https://github.com/vercel/styled-jsx) 完整兼容 JSX 的 CSS 写法
 
-## 布局与导航
+### 图标
 
-### 布局与尺寸
+- 图标
+  - [@remixicon/react](https://github.com/Remix-Design/RemixIcon)
+  - [@icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons)
+  - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
+  - [react-icons](https://github.com/react-icons/react-icons)
+  - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react)
+    - [@iconify-json/vscode-icons](https://github.com/iconify/icon-sets/blob/master/json/vscode-icons.json) VS Code 图标集
+  - [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
+  - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
+  - [@hugeicons/react](https://github.com/hugeicons/react)
+  - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
+  - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
+  - [@icon-park/react](https://github.com/bytedance/IconPark) 字节跳动 IconPark 图标库的 React 组件
+
+## 布局与交互
+
+### 布局与导航
+
+#### 布局与尺寸
 
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) 用于测量元素尺寸、基于 ResizeObserver 的 React Hook
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) 用于测量视图边界的工具
@@ -199,22 +247,75 @@
 - [rc-footer](https://github.com/react-component/footer) 应用于 ant.design 的精美页脚 React 组件
 - [react-mosaic-component](https://github.com/nomcopter/react-mosaic) 基于 React 实现的平铺式窗口管理器
 - [overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react) 美化滚动条
-- [vfit-react](https://github.com/v-plugin/vfit/tree/main/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
+- [vfit-react](https://www.npmjs.com/package/vfit-react) 可视化大屏适配方案 专为大屏数据可视化设计，一键实现全屏自适应与精准定位
 - [react-resizable](https://github.com/react-grid-layout/react-resizable) 一个带拖拽手柄、可调节尺寸的简易 React 组件
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) 将你的 React 应用渲染到 iframe 中
 - [react-responsive](https://github.com/yocontra/react-responsive) React 中的 CSS 媒体查询 —— 用于响应式设计及更多场景
 - [tunnel-rat](https://github.com/pmndrs/tunnel-rat) 为 React 元素挖出通道，让它们能够出现在其他地方
 
-### 菜单与分页
+#### 菜单与分页
 
 - [@szhsin/react-menu](https://github.com/szhsin/react-menu) 无障碍菜单、下拉菜单、子菜单、右键菜单
 - [react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination) 分页
 - [react-contexify](https://github.com/fkhadra/react-contexify) 右键菜单
 
-### 命令菜单
+#### 命令菜单
 
 - [kbar](https://github.com/timc1/kbar) 快速、可移植、可扩展的 Cmd+K 界面，适用于您的网站
 - [cmdk](https://github.com/dip/cmdk) 高性能、无预设样式的 React 命令菜单组件
+
+### 交互与无障碍
+
+#### 快捷键与剪贴板
+
+- [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
+- [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
+- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
+- [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
+
+#### 拖拽与手势
+
+- [use-long-press](https://github.com/minwork/react/tree/main/packages/use-long-press) 长按
+- [react-selectable-fast](https://github.com/valerybugakov/react-selectable-fast) 支持通过鼠标或触摸操作选中 React 组件
+- [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
+- [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react) 新一代 dnd-kit 的 React 适配包
+- [@dnd-kit/core](https://dndkit.com/legacy/introduction/installation/) dnd-kit Legacy 的高性能、无障碍拖拽核心
+  - [@dnd-kit/sortable](https://dndkit.com/legacy/presets/sortable/overview/) 可排序列表功能
+  - [@dnd-kit/utilities](https://dndkit.com/legacy/introduction/getting-started/) dnd-kit 通用工具函数
+- [react-dnd](https://github.com/react-dnd/react-dnd)
+  - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
+- [react-draggable](https://github.com/react-grid-layout/react-draggable)
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) 已于 2025 年 8 月归档的 React 列表拖拽库，保留供旧项目参考
+- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
+- [react-moveable](https://github.com/daybrush/moveable/tree/master/packages/react-moveable) 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！
+- [react-selecto](https://github.com/daybrush/selecto) 通过鼠标或触屏在拖拽区域内框选元素
+- [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
+- [@use-gesture/react](https://github.com/pmndrs/use-gesture) 手势库
+
+#### 焦点与滚动
+
+- [react-remove-scroll](https://github.com/theKashey/react-remove-scroll) 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal
+- [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
+- [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
+
+### 反馈与引导
+
+- [shadcn-cookie-consent](https://github.com/r2hu1/shadcn-cookie-consent) 基于 shadcn/ui 与 Tailwind CSS 的可定制 Cookie 同意组件
+- [react-joyride](https://github.com/gilbarbara/react-joyride) 漫游式引导
+- [reactour](https://github.com/elrumordelaluz/reactour) 漫游式引导
+- [boneyard](https://github.com/0xGF/boneyard) 自动生成式骨架屏加载框架
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
+- [react-spinners](https://github.com/davidhu2000/react-spinners) 适用于 React 的加载动画旋转组件合集
+- [react-nprogress](https://github.com/tanem/react-nprogress) 顶部进度条
+- [react-toastify](https://github.com/fkhadra/react-toastify) 消息通知
+- [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
+- [sonner](https://github.com/emilkowalski/sonner) 一个具有独特风格的 React 提示组件
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) 抽屉
+- [vaul](https://github.com/emilkowalski/vaul) 抽屉
+- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) 环形进度条
+- [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
 
 ## 表单与输入
 
@@ -338,59 +439,9 @@
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) 一款高性能、轻量型的 React 轮播 / 滑动组件，适用于媒体与内容切换，拥有60 帧流畅动画、模块化样式、可选高阶组件以及全屏导航工具
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking) 轮播组件
 
-## 反馈与引导
+## 图形、动画与音视频
 
-- [react-joyride](https://github.com/gilbarbara/react-joyride) 漫游式引导
-- [reactour](https://github.com/elrumordelaluz/reactour) 漫游式引导
-- [boneyard](https://github.com/0xGF/boneyard) 自动生成式骨架屏加载框架
-- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) 骨架屏
-- [react-spinners](https://github.com/davidhu2000/react-spinners) 适用于 React 的加载动画旋转组件合集
-- [react-nprogress](https://github.com/tanem/react-nprogress) 顶部进度条
-- [react-toastify](https://github.com/fkhadra/react-toastify) 消息通知
-- [react-tooltip](https://github.com/ReactTooltip/react-tooltip) 提示框组件
-- [react-hot-toast](https://github.com/timolins/react-hot-toast) 超赞的 React 通知组件 🔥
-- [sonner](https://github.com/emilkowalski/sonner) 一个具有独特风格的 React 提示组件
-- [react-burger-menu](https://github.com/negomi/react-burger-menu) 抽屉
-- [vaul](https://github.com/emilkowalski/vaul) 抽屉
-- [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) 环形进度条
-- [@floating-ui/react](https://github.com/floating-ui/floating-ui/tree/master/packages/react) 一个用于定位悬浮元素并为其创建交互行为的 JavaScript 库
-
-## 交互与无障碍
-
-### 快捷键与剪贴板
-
-- [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) 键盘快捷键
-- [react-hotkeys](https://github.com/jaywcjlove/react-hotkeys) 派发键盘快捷键
-- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) 拷贝
-- [@tanstack/react-hotkeys](https://github.com/TanStack/hotkeys/tree/main/packages/react-hotkeys) 快捷键
-
-### 拖拽与手势
-
-- [use-long-press](https://github.com/minwork/react/tree/main/packages/use-long-press) 长按
-- [react-selectable-fast](https://github.com/valerybugakov/react-selectable-fast) 支持通过鼠标或触摸操作选中 React 组件
-- [react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) 支持对 `<img>`、`<div>` 等各类 HTML DOM 元素轻松实现缩放、平移、双指捏合手势操作
-- [@dnd-kit/react](https://github.com/clauderic/dnd-kit/tree/main/packages/react)
-  - [@dnd-kit/core](https://github.com/clauderic/dnd-kit/tree/main/packages/core) 高性能、可访问的拖拽工具包核心
-  - [@dnd-kit/sortable](https://github.com/clauderic/dnd-kit/tree/main/packages/sortable) 可排序列表功能
-  - [@dnd-kit/utilities](https://github.com/clauderic/dnd-kit/tree/main/packages/utilities) dnd-kit 通用工具函数
-- [react-dnd](https://github.com/react-dnd/react-dnd)
-  - [react-dnd-html5-backend](https://github.com/react-dnd/react-dnd/tree/main/packages/backend-html5)
-- [react-draggable](https://github.com/react-grid-layout/react-draggable)
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-- [@hello-pangea/dnd](https://github.com/hello-pangea/dnd) 基于 React 打造的美观且无障碍的列表拖拽组件
-- [react-moveable](https://github.com/daybrush/moveable/tree/master/packages/react-moveable) 可移动！可拖拽！可调整尺寸！可缩放！可旋转！可变形扭曲！可双指捏合！可分组！可吸附对齐！
-- [react-selecto](https://github.com/daybrush/selecto) 通过鼠标或触屏在拖拽区域内框选元素
-- [react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) 一款为你的应用程序添加框选（拖选）功能的 React 库
-- [@use-gesture/react](https://github.com/pmndrs/use-gesture) 手势库
-
-### 焦点与滚动
-
-- [react-remove-scroll](https://github.com/theKashey/react-remove-scroll) 以 React 方式隔离滚动，仅允许指定子树滚动，支持嵌套滚动容器与 Portal
-- [react-focus-lock](https://github.com/theKashey/react-focus-lock) 焦点锁定器
-- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) 基于 Intersection Observer API 的 React 实现，用于判断元素何时进入或离开视口
-- [focus-trap-react](https://github.com/focus-trap/focus-trap-react) 一个用于捕获焦点的 React 组件
-
-## 动画
+### 动画
 
 - [Animate UI](https://github.com/imskyleen/animate-ui) 基于 React、Tailwind CSS 与 Motion 的开源动画组件分发库，支持通过 shadcn CLI 安装
 - [Amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) 基于 Motion 的 React 微交互、过渡组件与卡片布局集合，支持 CLI 和 shadcn/ui Registry 安装
@@ -411,7 +462,6 @@
 - [@tsparticles/react](https://github.com/tsparticles/tsparticles) 粒子特效、彩带爆破与烟花动画
 - [simpleParallax.js](https://github.com/geosigno/simpleParallax.js) 适用于 React 和 JavaScript 的简易视差效果
 - [react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) 用于为横幅、图片或任意其他 DOM 元素创建视差滚动效果的 React Hooks 与组件。
-- [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web) 适用于网页端渲染 Lottie 和 dotLottie 动画的 LottieFiles 官方播放器
 - [@number-flow/react](https://github.com/barvian/number-flow/tree/main/packages/react) 动画数字组件
 - [react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) 跑马灯
 - [react-rewards](https://github.com/thedevelobear/react-rewards) 一个包含若干微交互的工具包
@@ -420,9 +470,9 @@
 - [react-transition-group](https://github.com/reactjs/react-transition-group) 在 React 组件进入或离开 DOM 时执行动画的简便方案
 - [@lottiefiles/dotlottie-react](https://github.com/LottieFiles/dotlottie-web/tree/HEAD/packages/react) 基于 dotlottie-web 库封装的 React 组件
 
-## 数据可视化
+### 数据可视化
 
-### 图表
+#### 图表
 
 - [semiotic](https://github.com/nteract/semiotic) 面向流式数据、网络拓扑与AI辅助开发的React数据可视化库
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) 一个简单的 Apache echarts 的 React 封装
@@ -434,7 +484,7 @@
 - [react-activity-calendar](https://github.com/grubersjoe/react-activity-calendar) 用于在日历中展示活跃度数据（热力图样式）的 React 组件
 - [visx](https://github.com/airbnb/visx) 可视化组件库
 
-### 流程图与关系图
+#### 流程图与关系图
 
 - [flowgram.ai](https://github.com/bytedance/flowgram.ai) 一款可扩展的工作流开发框架，内置画布、表单、变量及物料能力
 - [react-sigma](https://github.com/sim51/react-sigma) Sigma React 组件
@@ -443,36 +493,20 @@
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) 适用于 2D、3D、VR 及 AR 力导向图的 React 组件
 - [react-archer](https://github.com/pierpo/react-archer) 在 React 元素之间绘制箭头
 
-### 3D
+#### 3D
 
 - [@pascal-app/viewer](https://github.com/pascalorg/editor) 一款基于 React Three Fiber 与 WebGPU 构建的3D 建筑编辑器
 - [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) 一款基于 Three.js 的 React 渲染器
   - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) react‑three‑fiber 的后期处理工具
   - [@react-three/drei](https://github.com/pmndrs/drei) 适用于 react-three-fiber 的实用辅助工具
 
-### 地图
+#### 地图
 
 - [mapcn](https://github.com/AnmolSaini16/mapcn) 精美地图组件。100% 免费，零配置，一条命令即可完成设置
 
-## 图标
+### 图片与画布
 
-- 图标
-  - [@remixicon/react](https://github.com/Remix-Design/RemixIcon)
-  - [@icons-pack/react-simple-icons](https://github.com/icons-pack/react-simple-icons)
-  - [@tabler/icons-react](https://github.com/tabler/tabler-icons/tree/main/packages/icons-react)
-  - [react-icons](https://github.com/react-icons/react-icons)
-  - [@iconify/react](https://github.com/iconify/iconify/tree/HEAD/components/react)
-    - [@iconify-json/vscode-icons](https://github.com/iconify/icon-sets/tree/master/json/vscode-icons) VS Code 图标集
-  - [@ant-design/icons](https://github.com/ant-design/ant-design-icons)
-  - [lucide-react](https://lucide.dev/guide/packages/lucide-react)
-  - [@hugeicons/react](https://github.com/hugeicons/react)
-  - [@phosphor-icons/react](https://github.com/phosphor-icons/react)
-  - [@thesvg/react](https://github.com/glincker/thesvg/tree/main/packages/react)
-  - [@icon-park/react](https://github.com/bytedance/IconPark) 字节跳动 IconPark 图标库的 React 组件
-
-## 图片与画布
-
-### 画布与 SVG
+#### 画布与 SVG
 
 - [tldraw](https://github.com/tldraw/tldraw) 非常优秀的白板无限画布 SDK
 - [excalidraw](https://github.com/excalidraw/excalidraw) 一款可手绘风格草图、类白板效果的虚拟白板工具
@@ -481,7 +515,7 @@
 - [react-svg](https://github.com/tanem/react-svg) 一个用于将 SVG 注入文档对象模型（DOM）的 React 组件
 - [react-konva](https://github.com/konvajs/react-konva) 一款借助 React 绘制复杂 Canvas 图形的 JavaScript 库
 
-### 图片展示
+#### 图片展示
 
 - [react-photo-album](https://github.com/igordanchenko/react-photo-album) 适用于 React 的响应式图片画廊组件
 - [react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) 一款 React 组件，通过高阶组件（HOC）监听窗口滚动位置，实现图片与组件的懒加载
@@ -497,7 +531,7 @@
 - [react-image](https://github.com/mbrevda/react-image) 支持多种备用图与加载器的 React.js `<img>` 标签渲染组件
 - [@zoom-image/react](https://github.com/willnguyen1312/zoom-image/tree/main/packages/react) 一款轻量但强大、不依赖任何框架的无 UI 组件库，用于在网页中实现图片缩放
 
-### 裁剪与标注
+#### 裁剪与标注
 
 - [@pqina/react-pintura](https://pqina.nl/pintura) 图像编辑器
 - [@annotorious/react](https://github.com/annotorious/annotorious) 只需几行 JavaScript 代码，即可为任意网页添加图片标注功能
@@ -506,11 +540,28 @@
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) 图片裁剪
 - [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop) 图片裁剪
 
-## 文件与文档
+### 音视频
 
-### 演示文稿
+- [smelter](https://github.com/software-mansion/smelter) 通过 React 组件编排实时、低延迟的音视频混流与合成
+- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
+- [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
+- [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
+- [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
+- [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
+  - [remocn](https://github.com/kapishdima/remocn) 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件
+  - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
+  - [@remotion/webcodecs](https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs) 浏览器端媒体转换
+- [react-player](https://github.com/CookPete/react-player)
+- [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
+- [@mux/mux-player-react](https://github.com/muxinc/elements/tree/main/packages/mux-player-react) 一款适配 Mux 平台风格的 React 视频组件
+- [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
+- [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
+- [@applemusic-like-lyrics/react](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
+- [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件
+- [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
 
-- [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
+
+## 编辑器与文档
 
 ### Markdown
 
@@ -527,6 +578,19 @@
 - [@mdx-js/react](https://github.com/mdx-js/mdx/tree/main/packages/react) MDX 专用 React 上下文
 - [marked-react](https://github.com/sibiraj-s/marked-react) 将 Markdown 渲染为 React 组件
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) 一款极速且功能全面的 Markdown 工具链，可输出抽象语法树、React、React Native、SolidJS、Vue、HTML 等多种格式
+
+### 富文本
+
+- [@tiptap/react](https://github.com/ueberdosis/tiptap/tree/main/packages/react) 面向网页开发者的无界面富文本编辑器框架
+- [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
+- [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
+- [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
+- [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
+- [shadcn-editor](https://github.com/htmujahid/shadcn-editor) 基于 Lexical 与 shadcn/ui 的 React 富文本编辑器，支持通过 shadcn CLI 安装，提供表格、图片、代码块与 Markdown 快捷输入等功能
+- [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
+- [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
+- [@prosekit/react](https://github.com/prosekit/prosekit/tree/master/packages/react)
+- [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 
 ### 代码编辑与差异
 
@@ -553,26 +617,13 @@
 - [react-docx](https://github.com/extend-hq/react-docx) React 优先的 DOCX 查看与编辑器，支持分页、修订、表单字段和缩略图
 - [react-xlsx](https://github.com/extend-hq/react-xlsx) React XLSX 工作簿查看与编辑组件，支持图表、嵌入图片、选择状态、缩放与导出
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) 在 React 应用中展示 PDF 文件，就像展示图片一样简单
-  - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 react-pdf 中渲染 HTML 内容
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) 用于 PDF 标注的 React 组件库
-- [@react-pdf/renderer](https://github.com/diegomura/react-pdf) PDF
+- [@react-pdf/renderer](https://github.com/diegomura/react-pdf) 使用 React 组件生成 PDF
+  - [react-pdf-html](https://github.com/danomatic/react-pdf-html) 在 @react-pdf/renderer 中将 HTML 渲染为 PDF 内容
 - [pdfcn](https://github.com/shadcn-labs/pdfcn) 基于 Takumi 和 Forme 的可定制 React PDF 组件库，兼容 shadcn/ui 工作流，提供表格、图表、发票和报告等组件与模板
 - [@cyntler/react-doc-viewer](https://github.com/cyntler/react-doc-viewer) React 文件预览组件
 - [pdfme](https://github.com/pdfme/pdfme) PDF 生成库
 - [react-papaparse](https://github.com/Bunlong/react-papaparse) CSV（或分隔符文本）解析库
-
-### 富文本
-
-- [@tiptap/react](https://github.com/ueberdosis/tiptap/tree/main/packages/react) 面向网页开发者的无界面富文本编辑器框架
-- [remirror](https://github.com/remirror/remirror) 一款用于构建跨平台文本编辑器的 React 工具包
-- [@blocknote/react](https://github.com/TypeCellOS/BlockNote/tree/main/packages/react)
-- [platejs](https://platejs.org) 集成 AI、MCP 功能的 shadcn/ui 富文本编辑器
-- [@lexical/react](https://github.com/facebook/lexical) 一款可扩展的文本编辑器框架，具备出色的可靠性、易用性与性能表现
-- [shadcn-editor](https://github.com/htmujahid/shadcn-editor) 基于 Lexical 与 shadcn/ui 的 React 富文本编辑器，支持通过 shadcn CLI 安装，提供表格、图片、代码块与 Markdown 快捷输入等功能
-- [reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor) 一款基于 Tiptap 与 shadcn/ui、适用于 React 的现代化所见即所得富文本编辑器
-- [react-quill](https://github.com/VaguelySerious/react-quill) 一款适用于 React 的 Quill 组件
-- [@prosekit/react](https://github.com/prosekit/prosekit/tree/master/packages/react)
-- [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) TinyMCE 官方 React 组件
 
 ### 解析与渲染
 
@@ -580,33 +631,28 @@
 - [interweave](https://github.com/milesj/interweave) 安全渲染 HTML、过滤标签属性、通过匹配器自动包裹文本、渲染 Emoji 表情字符，以及实现更多丰富功能
 - [html-react-parser](https://github.com/remarkablemark/html-react-parser) 📝 HTML 转 React 解析器
 
+### 演示文稿
+
+- [open-slide](https://github.com/1weiho/open-slide) 一款**为智能体量身打造**的幻灯片框架
+
 ### 邮件
 
 - [react-email](https://github.com/resend/react-email) 使用 React 构建并发送邮件
   - [@react-email/render](https://github.com/resend/react-email/tree/canary/packages/render)
   - [@react-email/ui](https://github.com/resend/react-email/tree/canary/packages/ui)
 
-## 音视频
-
-- [smelter](https://github.com/software-mansion/smelter) 通过 React 组件编排实时、低延迟的音视频混流与合成
-- [react-media-recorder](https://github.com/DeltaCircuit/react-media-recorder) 借助 MediaRecorder API 录制音频 / 视频数据流
-- [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) 为你的 React 应用提供语音识别功能
-- [react-audio-visualize](https://github.com/samhirtarif/react-audio-visualize) 一款 React 音频可视化组件库，提供独立组件，可分别实现实时音频与音频文件的可视化效果
-- [@web-kits/audio](https://github.com/raphaelsalaja/audio) 面向网页的**声明式音频合成**
-- [remotion](https://github.com/remotion-dev/remotion) 借助 React 以编程方式制作视频
-  - [remocn](https://github.com/kapishdima/remocn) 适用于 Remotion、可直接投入生产环境使用的动画、过渡效果、背景素材与场景组件
-  - [@remotion/player](https://github.com/remotion-dev/remotion/tree/main/packages/player) 用于将 Remotion 预览嵌入到应用中的 React 组件
-  - [@remotion/webcodecs](https://github.com/remotion-dev/remotion/tree/main/packages/webcodecs) 浏览器端媒体转换
-- [react-player](https://github.com/CookPete/react-player)
-- [react-voice-visualizer](https://github.com/YZarytskyi/react-voice-visualizer) 基于 Web Audio API 实现音频录制与可视化的 React 库
-- [@mux/mux-player-react](https://github.com/muxinc/elements/tree/main/packages/mux-video-react) 一款适配 Mux 平台风格的 React 视频组件
-- [plyr-react](https://github.com/chintan9/plyr-react) 一款简洁、无障碍、可自定义的 React 媒体播放器，支持视频、音频、YouTube 与 Vimeo 播放
-- [mpv-easy](https://github.com/mpv-easy/mpv-easy) 适用于 mpv 脚本的 TypeScript + React 开发工具集
-- [@applemusic-like-lyrics/react](https://github.com/amll-dev/applemusic-like-lyrics) 类 Apple Music 歌词显示组件
-- [react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) 一款默认隐私优先、更轻快简洁的 React 专用 YouTube 嵌入组件
-- [react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) 依托网页语音 API 实现文字转语音功能
-
 ## 组件开发与调试
+
+### Hooks 工具集
+
+- [react-use](https://github.com/streamich/react-use) React Hooks — 👍
+- [ahooks](https://ahooks.js.org/zh-CN/) 一套高质量可靠的 React Hooks 库
+- [@react-hookz/web](https://github.com/react-hookz/web) 专为浏览器与服务端渲染（SSR）优化的 React Hooks 优雅实现。
+- [@mantine/hooks](https://mantine.dev/hooks/package)
+- [usehooks-ts](https://github.com/juliencrn/usehooks-ts)
+- [custom-react-hooks](https://github.com/djkepa/custom-react-hooks)
+- [@uidotdev/usehooks](https://github.com/uidotdev/usehooks) 一套现代化、服务端安全的 React 钩子函数
+- [foxact](https://github.com/SukkaW/foxact) React Hooks/工具库
 
 ### 性能与生命周期
 
@@ -633,6 +679,7 @@
 
 ### 组合与互操作
 
+- [react-extras](https://github.com/sindresorhus/react-extras) React 常用组件与工具函数集
 - [react-call](https://github.com/desko27/react-call) 调用并异步等待 React 组件
 - [merge-refs](https://github.com/wojtekmaj/merge-refs) 将多个 React 引用（ref）合并为一个的工具函数
 - [react-merge-refs](https://github.com/gregberge/react-merge-refs) 用于合并引用（refs）的 React 工具函数
@@ -647,16 +694,3 @@
 - [react-grab](https://github.com/aidenybai/react-grab) 直接从你的网站中为编码智能体选择上下文
 - [react-doctor](https://github.com/millionco/react-doctor) AI 智能体写出不规范的 React 代码？这款工具可以自动检测识别
 - [puck](https://github.com/puckeditor/puck) 打造属于你自己的 AI 页面生成器
-
-## 模板与示例
-
-- [Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) Next.js 样板工程与启动模板
-- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) 基于 Next.js 16、TypeScript、Tailwind CSS v4 与 shadcn/ui 的现代管理后台模板
-- [TanStarter](https://github.com/mugnavo/tanstarter) 基于 TanStack Start、Vite+、Drizzle ORM、Better Auth 与 shadcn/ui 的极简 React 全栈模板
-- [slash-admin](https://github.com/d3george/slash-admin) 一款现代化的 React 管理后台模板。基于 React 19、Vite 与 TypeScript 构建，性能高效！
-- [lemon-mobile-react](https://github.com/sankeyangshu/lemon-mobile-react) 一个基于 React 生态系统的移动 web 应用模板
-- [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
-- [south-admin-react](https://github.com/southliu/south-admin-react)
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
-- [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
-- [redalert2](https://github.com/huangkaoya/redalert2) 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目

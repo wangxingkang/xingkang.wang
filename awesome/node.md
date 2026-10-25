@@ -4,11 +4,25 @@
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
-## 官方资源
+**按需查找**
+
+| 想找什么                   | 直接前往                        |
+| ---------------------- | --------------------------- |
+| 运行环境、模块解析与基础工具         | [运行时与开发基础](#运行时与开发基础)       |
+| 智能体、模型 SDK 与 MCP       | [AI 开发](#ai-开发)             |
+| Web 框架、认证、HTTP 与实时通信   | [Web 服务与网络通信](#web-服务与网络通信) |
+| 数据库驱动、ORM 与存储客户端       | [数据库与存储](#数据库与存储)           |
+| 文件监听、文档、图像与音视频处理       | [文件、文档与媒体](#文件文档与媒体)        |
+| 终端界面、命令参数、进程与自动化       | [命令行与系统集成](#命令行与系统集成)       |
+| 云平台、支付、机器人与 GitHub SDK | [云服务与第三方 SDK](#云服务与第三方-sdk) |
+| 日志、指标与链路追踪             | [日志与可观测性](#日志与可观测性)         |
+
+## 运行时与开发基础
+
+### 官方资源
 
 - [官网](https://nodejs.org/zh-cn)
 
-## 运行时与模块
 
 ### 编译与执行
 
@@ -43,10 +57,27 @@
 - [is-stream](https://github.com/sindresorhus/is-stream) 检测对象是否为 Node.js 流
 - [through2](https://github.com/rvagg/through2) 基于 Node streams2 Transform 封装的轻量工具，省去繁琐的显式子类继承代码
 
-## 包管理
+### 包管理
 
 - [ni](https://github.com/antfu-collective/ni) 使用统一命令调用 pnpm/yarn/npm 的轻量依赖安装 CLI
 - [aube](https://github.com/endevco/aube) 一款高性能 Node.js 包管理器
+
+
+### 通用工具与数据摘要
+
+- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
+- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
+- [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
+- [maxmind](https://github.com/runk/node-maxmind) Maxmind 地理位置查询
+- [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
+- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
+- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
+- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
+- [node-accept-language](https://github.com/tinganho/node-accept-language)
+
+### 模板与示例
+
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template) Hono 后端模板
 
 ## AI 开发
 
@@ -93,7 +124,8 @@
 - [@ai-hero/sandcastle](https://github.com/mattpocock/sandcastle) 借助 `sandcastle.run()`，在 TypeScript 中编排沙箱化代码智能体
 - [fastmcp](https://github.com/punkpeye/fastmcp) 一款用于构建 MCP 服务器的 TypeScript 框架
 
-## Web 服务
+## Web 服务与网络通信
+
 
 ### 框架与依赖注入
 
@@ -118,14 +150,11 @@
 - [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
 - [scrypt-kdf](https://github.com/chrisveness/scrypt-kdf) Scrypt 密钥派生函数
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) 适用于 Node.js 的 JsonWebToken 实现
-- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
 - [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) 面向 Express 的基础 IP 限流中间件
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
-- [tiny-csrf](https://github.com/le0nkl/tiny-csrf) 极简、零依赖的 CSRF 防护中间件
 - [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
-- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
 
 ### 请求与会话
 
@@ -163,7 +192,6 @@
 - [zod-openapi](https://github.com/samchungy/zod-openapi) 借助 Zod 模式生成 OpenAPI v3.x 接口文档
 - [smithy-typescript](https://github.com/smithy-lang/smithy-typescript) Smithy IDL 的 TypeScript 代码生成器与运行时生态
 
-## 网络与协议
 
 ### 实时通信
 
@@ -227,7 +255,7 @@
 ### ORM 与查询构建
 
 - [sequelize](https://github.com/sequelize/sequelize) 功能丰富的 ORM
-- [prisma](https://github.com/prisma/prisma/tree/HEAD/packages/cli) 下一代 ORM
+- [prisma](https://github.com/prisma/orm) 下一代 ORM
 - [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
 - [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
@@ -242,7 +270,8 @@
 
 - [@electric-sql/pglite](https://github.com/electric-sql/pglite) 基于 WebAssembly 的嵌入式 PostgreSQL，可在浏览器、Node.js、Bun 与 Deno 中运行，支持内存、文件系统或 IndexedDB 存储及实时响应式查询
 
-## 文件系统
+## 文件、文档与媒体
+
 
 ### 查找与监听
 
@@ -274,7 +303,6 @@
 - [mkdirp](https://github.com/isaacs/node-mkdirp) 递归创建目录
 - [pathe](http://github.com/unjs/pathe) 🛣️ 可直接替换 Node.js path 模块的替代品，确保路径始终被规范化处理
 
-## 文件与媒体
 
 ### 文档与数据格式
 
@@ -336,7 +364,8 @@
 - [iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) 基础 IPTV 播放列表解析器
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) 适用于 Mac OSX、Linux 和 Windows 系统的 **FFmpeg 静态二进制文件**
 
-## 命令行开发
+## 命令行与系统集成
+
 
 ### 交互界面
 
@@ -373,7 +402,6 @@
 - [citty](https://github.com/unjs/citty) 优雅型命令行构建工具
 - [commander](https://github.com/tj/commander.js) 让 Node.js 命令行界面的开发变得简单
 
-## 系统集成
 
 ### 环境与配置
 
@@ -423,31 +451,36 @@
 
 - [clipboardy](https://github.com/sindresorhus/clipboardy) 访问系统剪贴板（复制 / 粘贴）
 
-## 任务调度与同步
+
+### 工作流与任务调度
 
 - [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
 - [@dbos-inc/dbos-sdk](https://github.com/dbos-inc/dbos-transact-ts) 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理
+- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
+- [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
+
+### 异步钩子与脚本编排
+
 - [hookable](https://github.com/unjs/hookable) 异步钩子
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) 一款可并行或串行执行多条 npm 脚本的命令行工具
 - [wait-on](https://github.com/jeffbski/wait-on) 等待文件、端口、套接字和 HTTP (S) 资源变为可用状态
-- [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
 - [concurrently](https://github.com/open-cli-tools/concurrently) 并行运行命令
-- [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
 
-## 浏览器自动化
+### 浏览器自动化
 
 - [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
 
-## 基础设施 SDK
+## 云服务与第三方 SDK
+
+
+### 基础设施 SDK
 
 - [dockerode](https://github.com/apocas/dockerode) 基于 Node.js 封装的 Docker 远程接口模块
 
-## 第三方服务 SDK
-
 ### 通信与机器人
 
-- [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
+- [@wecom/aibot-node-sdk](https://github.com/WecomTeam/aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
 - [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
@@ -477,9 +510,9 @@
 
 - [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
-  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
-  - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
-  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/core.js)
+  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/plugin-paginate-graphql.js)
+  - [@octokit/plugin-paginate-rest](https://github.com/octokit/plugin-paginate-rest.js)
+  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/plugin-rest-endpoint-methods.js)
 - [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端
 
 ## 日志与可观测性
@@ -499,19 +532,5 @@
 - [roarr](https://github.com/gajus/roarr) 适用于 Node.js 与浏览器的 JSON 日志库，支持结构化上下文、环境变量配置和外部传输
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
-  - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+  - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js/blob/main/doc/3.x/migration-guide.md) 已弃用，支持于 2024 年 3 月结束，3.x 已移除；保留供旧项目参考，新项目使用 OTLP exporter
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
-
-## 工具库
-
-- [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
-- [maxmind](https://github.com/runk/node-maxmind) Maxmind 地理位置查询
-- [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
-- [nub](https://github.com/nubjs/nub) 高速全能 Node.js 工具集
-- [semver](https://github.com/npm/node-semver) Node.js 语义化版本解析库
-- [hosted-git-info](https://github.com/npm/hosted-git-info) 解析 npm 托管仓库 URL，统一提取仓库、版本、分支、提交等元数据以兼容多种协议
-- [node-accept-language](https://github.com/tinganho/node-accept-language)
-
-## 模板与示例
-
-- [clhoria-template](https://github.com/zhe-qi/clhoria-template) Hono 后端模板
