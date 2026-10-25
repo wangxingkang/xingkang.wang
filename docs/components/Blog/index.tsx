@@ -7,16 +7,16 @@ import * as React from 'react';
 import { BlogAvatar } from './avatar';
 import { useBlogPages } from './hooks/use-blog-pages';
 
-export function BlogList() {
-  const { h2: H2, p: P, a: A, hr: Hr } = getCustomMDXComponent();
+const { h2: H2, p: P, a: A, hr: Hr } = getCustomMDXComponent();
 
+export function BlogList() {
   const blogPages = useBlogPages();
   const lang = useLang();
 
   return (
     <>
       {blogPages.map(({ date, description, link, title, authors }, index) => (
-        <React.Fragment key={link || index}>
+        <React.Fragment key={link}>
           {title && (
             <H2 id={link}>
               <A href={link}>{title}</A>

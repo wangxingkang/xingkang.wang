@@ -118,14 +118,11 @@
 - [helmet](https://github.com/helmetjs/helmet) 使用各种 HTTP 头保护 Express 应用的安全
 - [scrypt-kdf](https://github.com/chrisveness/scrypt-kdf) Scrypt 密钥派生函数
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) 适用于 Node.js 的 JsonWebToken 实现
-- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
 - [node-forge](https://github.com/digitalbazaar/forge) 基于 JavaScript 的原生 TLS 实现，以及用于开发加密密集型、网络高负载网页应用的工具
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) 原子 / 非原子计数器与限流工具，可在任意规模下限制资源访问
 - [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) 面向 Express 的基础 IP 限流中间件
 - [google-auth-library](https://github.com/googleapis/google-cloud-node-core/tree/HEAD/packages/google-auth-library-nodejs)
-- [tiny-csrf](https://github.com/le0nkl/tiny-csrf) 极简、零依赖的 CSRF 防护中间件
 - [xlt-token](https://github.com/xiaoLangtou/xlt-token) xlt-token 是一个为 NestJS 设计的轻量级 token 认证库
-- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
 
 ### 请求与会话
 
@@ -227,7 +224,7 @@
 ### ORM 与查询构建
 
 - [sequelize](https://github.com/sequelize/sequelize) 功能丰富的 ORM
-- [prisma](https://github.com/prisma/prisma/tree/HEAD/packages/cli) 下一代 ORM
+- [prisma](https://github.com/prisma/orm) 下一代 ORM
 - [mikro-orm](https://github.com/mikro-orm/mikro-orm) 基于数据映射、工作单元与身份映射模式打造的 Node.js TypeScript 对象关系映射框架，支持 MongoDB、MySQL、MariaDB、微软 SQL Server、PostgreSQL 以及 SQLite/libSQL 数据库
 - [typeorm](https://github.com/typeorm/typeorm) 适用于 Node.js 的 TypeScript 与 JavaScript 对象关系映射（ORM）框架，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server、Oracle 等多种数据库
 - [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) ORM
@@ -447,7 +444,7 @@
 
 ### 通信与机器人
 
-- [@wecom/aibot-node-sdk](https://github.com/WecomGroup/wecom-aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
+- [@wecom/aibot-node-sdk](https://github.com/WecomTeam/aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
 - [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) 适用于 NodeJS 的 Telegram 机器人接口
@@ -477,9 +474,9 @@
 
 - [octokit](https://github.com/octokit/octokit.js) 面向浏览器、Node.js 与 Deno 的 GitHub 全功能 SDK，覆盖 REST、GraphQL、GitHub App、Webhooks 与 OAuth
 - [@octokit/core](https://github.com/octokit/core.js) 适配 GitHub REST 和 GraphQL 接口、支持扩展的客户端
-  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/core.js)
-  - [@octokit/plugin-paginate-rest](https://github.com/octokit/core.js)
-  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/core.js)
+  - [@octokit/plugin-paginate-graphql](https://github.com/octokit/plugin-paginate-graphql.js)
+  - [@octokit/plugin-paginate-rest](https://github.com/octokit/plugin-paginate-rest.js)
+  - [@octokit/plugin-rest-endpoint-methods](https://github.com/octokit/plugin-rest-endpoint-methods.js)
 - [@octokit/rest](https://github.com/octokit/rest.js) 适用于 JavaScript 的 GitHub REST API 客户端
 
 ## 日志与可观测性
@@ -499,11 +496,13 @@
 - [roarr](https://github.com/gajus/roarr) 适用于 Node.js 与浏览器的 JSON 日志库，支持结构化上下文、环境变量配置和外部传输
 - [evlog](https://github.com/HugoRCD/evlog) 好用易懂的日志系统。支持宽事件、结构化错误，告别混乱无序
 - [opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
-  - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js) OpenTelemetry JavaScript 客户端
+  - [@opentelemetry/exporter-jaeger](https://github.com/open-telemetry/opentelemetry-js/blob/main/doc/3.x/migration-guide.md) 已弃用，支持于 2024 年 3 月结束，3.x 已移除；保留供旧项目参考，新项目使用 OTLP exporter
 - [universal-analytics](https://github.com/peaksandpies/universal-analytics) 一款用于对接谷歌通用分析服务与测量协议的 Node 模块
 
 ## 工具库
 
+- [xxhash-addon](https://github.com/ktrongnhan/xxhash-addon) 又一款适用于 Node.js 的 xxhash 扩展模块，速度可达加密模块 MD5 算法的 50 倍
+- [md5-file](https://github.com/kodie/md5-file) 返回指定文件的 MD5 哈希值
 - [i18n](https://github.com/mashpie/i18n-node) 轻量级简单的 Node.js / Express.js 翻译模块
 - [maxmind](https://github.com/runk/node-maxmind) Maxmind 地理位置查询
 - [utf-8-validate](https://github.com/websockets/utf-8-validate) 检查缓冲区是否包含有效的 UTF-8 编码
