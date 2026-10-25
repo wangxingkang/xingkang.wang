@@ -38,7 +38,7 @@
 - [cursor](https://cursor.com/cn)
 - [trae](https://www.trae.ai) 字节出品(国际版)
 - [trae cn](https://www.trae.cn) 字节出品(国内版)
-- [codebuddy](https://www.codebuddy.ai) 腾讯出品
+- [codebuddy](https://www.codebuddy.ai) 腾讯出品（[官方文档](https://www.codebuddy.ai/docs/zh/ide/Introduction)）
 - [neovate-code](https://github.com/neovateai/neovate-code) 蚂蚁金服出品
 - [grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) 面向 macOS 的非官方 Grok Bot 0.18 重构与扩展，支持推理路由、MCP 工具和本地 Docker 沙箱
 - [coderio](https://github.com/MigoXLab/coderio) 高保真还原设计稿的前端工程生成智能体
