@@ -1216,6 +1216,7 @@ url: /awesome/vibe-coding.md
 - [cmux](https://github.com/manaflow-ai/cmux) 基于 Ghostty 的 macOS 终端，带有垂直标签页和为 AI 编程代理设计的通知系统
 - [cc-switch](https://github.com/farion1231/cc-switch) Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw 和 Hermes Agent 的全方位管理工具
 - [warp](https://github.com/warpdotdev/warp) 源自终端的智能体开发环境
+- [Harp](https://github.com/dominikmartn/harp) 基于 Warp 的非官方 macOS 终端分支，面向并行运行的 Claude Code 与 Codex 智能体，提供侧栏会话分组、运行与待处理状态、用量窗口显示及可选的 tmux 同步
 - [cc-connect](https://github.com/chenhg5/cc-connect) 打通本地 AI 编程智能体（Claude Code、Cursor、Gemini 命令行工具、Codex）与各类消息平台（飞书、钉钉、Slack、电报、Discord、LINE、企业微信）
 - [orca](https://github.com/stablyai/orca) Orca 是面向多并行智能体集群的开发环境。你可使用自有订阅运行任意代码智能体，支持桌面端与移动端使用。
 - [Superset](https://github.com/superset-sh/superset) 在隔离 Git 工作树中并行编排 100+ 命令行编程智能体的桌面 IDE
@@ -2433,6 +2434,7 @@ url: /awesome/react.md
 - [south-admin-react](https://github.com/southliu/south-admin-react)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 - [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
+- [Open Intelligent UI](https://github.com/thesysdev/open-intelligent-ui) 基于 Next.js 与 OpenUI 的生成式 UI 参考实现，复现 ChatGPT Intelligent UI 风格的交互式回答，支持流式渲染地图、图表、表单与交互工具，可接入 OpenAI 兼容 API 或本地模型；非 OpenAI 官方项目
 - [redalert2](https://github.com/huangkaoya/redalert2) 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目
 
 ## AI 与服务集成
@@ -4215,6 +4217,7 @@ url: /awesome/rust.md
 
 ## 文件与文档
 
+- [Typst](https://github.com/typst/typst) 基于 Rust 的标记式文档排版系统，内置脚本、数学公式与参考文献管理，支持增量编译，提供本地编译器和 CLI 将文档生成为 PDF
 - [xberg](https://github.com/xberg-io/xberg) 基于 Rust 的多格式文档解析引擎，由 Kreuzberg 演进而来，支持文本、表格、图像与元数据提取、OCR 和结构化输出，提供多语言绑定、CLI、REST API 与 MCP 服务
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库
@@ -4728,6 +4731,7 @@ url: /awesome/desktop.md
 
 ### 系统管理
 
+- [Aerial](https://github.com/pengchujin/aerial-tv) 面向 Android 电视、盒子与投影仪的开源 tvOS 风格启动器，提供无广告应用桌面、应用与信号源管理、手机扫码整理及航拍屏保，支持免 Root 安装与恢复原桌面
 - [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 面向 Android TV 与 Google TV 的精简与桌面定制方案，借助 AI 编程助手通过 Wi-Fi ADB 备份配置、禁用预装广告与遥测服务，并安装 Apple TV 风格启动器，提供恢复脚本，无需 Root
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
@@ -4740,6 +4744,7 @@ url: /awesome/desktop.md
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 基于 Rust 的本地优先 Logitech Options+ 替代品，支持 macOS、Linux 与 Windows，提供按键映射、DPI 与 SmartShift 调节、应用配置切换及摄像头控制
+- [gpu-unlock](https://github.com/Zagitta/gpu-unlock) 面向部分 NVIDIA Ampere GeForce RTX 30 系显卡的 Linux 内核模块，在 NVIDIA 驱动加载前解除 FP16/BF16 矩阵运算指令发射速率限制，无需修改 NVIDIA 驱动，具体收益取决于显卡型号与负载
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结
@@ -5812,6 +5817,7 @@ url: /awesome/security.md
 
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) NSA 开源的软件逆向工程框架，支持多种处理器指令集与可执行格式，提供反汇编、反编译、图形分析及 Java/Python 脚本扩展，可在 Windows、macOS 和 Linux 上交互或自动化运行
 - [morluto/rea](https://github.com/morluto/rea) 通过 MCP 与智能体协同分析原生二进制、JavaScript/Electron 应用、.NET 程序和运行时行为，并保留分析证据与局限
+  - [REA-Prompts](https://github.com/JoasASantos/REA-Prompts) 面向 REA 的社区逆向分析提示词与智能体技能集，覆盖功能追踪、二进制、固件、Android 与 Electron 分析，强调证据引用及事实与推测的区分
 - [vphone-cli](https://github.com/Lakr233/vphone-cli) 基于 Apple Virtualization.framework 创建虚拟 iPhone 的 macOS CLI，支持固件修补和研究型虚拟机环境
 - [binsider](https://github.com/orhun/binsider) 分析 ELF 二进制文件
 - [ImHex](https://github.com/WerWolv/ImHex) 一款十六进制编辑器，专为逆向工程师、程序员打造
