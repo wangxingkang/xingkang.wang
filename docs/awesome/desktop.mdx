@@ -153,6 +153,7 @@
 
 ### 系统管理
 
+- [Aerial](https://github.com/pengchujin/aerial-tv) 面向 Android 电视、盒子与投影仪的开源 tvOS 风格启动器，提供无广告应用桌面、应用与信号源管理、手机扫码整理及航拍屏保，支持免 Root 安装与恢复原桌面
 - [cleanyourtv](https://github.com/Gathin23/cleanyourtv) 面向 Android TV 与 Google TV 的精简与桌面定制方案，借助 AI 编程助手通过 Wi-Fi ADB 备份配置、禁用预装广告与遥测服务，并安装 Apple TV 风格启动器，提供恢复脚本，无需 Root
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
@@ -165,6 +166,7 @@
 - [WailBrew](https://github.com/wickenico/WailBrew) 基于 Go、Wails 和 React 开发的极简风格 Homebrew 图形界面工具。
 - [Thaw](https://github.com/stonerl/Thaw) MacOS 26 菜单栏管理器
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) 基于 Rust 的本地优先 Logitech Options+ 替代品，支持 macOS、Linux 与 Windows，提供按键映射、DPI 与 SmartShift 调节、应用配置切换及摄像头控制
+- [gpu-unlock](https://github.com/Zagitta/gpu-unlock) 面向部分 NVIDIA Ampere GeForce RTX 30 系显卡的 Linux 内核模块，在 NVIDIA 驱动加载前解除 FP16/BF16 矩阵运算指令发射速率限制，无需修改 NVIDIA 驱动，具体收益取决于显卡型号与负载
 - [apkeep](https://github.com/EFForg/apkeep) 一款用于从多种来源下载 APK 文件的命令行工具
 - [omarchy](https://github.com/basecamp/omarchy) 美观、现代、理念鲜明的 Linux 系统
 - [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) 微信 4.x 数据解密与分析桌面工具，支持聊天记录、朋友圈等内容的查询、导出与年度总结

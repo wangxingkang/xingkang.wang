@@ -79,6 +79,7 @@
 
 ## 文件与文档
 
+- [Typst](https://github.com/typst/typst) 基于 Rust 的标记式文档排版系统，内置脚本、数学公式与参考文献管理，支持增量编译，提供本地编译器和 CLI 将文档生成为 PDF
 - [xberg](https://github.com/xberg-io/xberg) 基于 Rust 的多格式文档解析引擎，由 Kreuzberg 演进而来，支持文本、表格、图像与元数据提取、OCR 和结构化输出，提供多语言绑定、CLI、REST API 与 MCP 服务
 - [fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) 面向 AI 智能体、Neovim、Rust、C 及 NodeJS 的**速度最快、精度最高**的文件检索工具包
 - [calamine](https://github.com/tafia/calamine) 电子表格读取库

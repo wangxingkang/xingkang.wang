@@ -59,6 +59,7 @@
 - [south-admin-react](https://github.com/southliu/south-admin-react)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 - [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) LangChain + Next.js 入门模板
+- [Open Intelligent UI](https://github.com/thesysdev/open-intelligent-ui) 基于 Next.js 与 OpenUI 的生成式 UI 参考实现，复现 ChatGPT Intelligent UI 风格的交互式回答，支持流式渲染地图、图表、表单与交互工具，可接入 OpenAI 兼容 API 或本地模型；非 OpenAI 官方项目
 - [redalert2](https://github.com/huangkaoya/redalert2) 基于 React、TypeScript 与 Three.js 的红警风格网页游戏重构项目
 
 ## AI 与服务集成
