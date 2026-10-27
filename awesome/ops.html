@@ -5,12 +5,12 @@
 <title>运维 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-2f4fa8418142.746456523a.js" as="script">
+<link rel="preload" href="/static/js/async/route-2f4fa8418142.69f9b91d1e.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.61a07ee29b.js"></script>
+<script defer src="/static/js/index.cfc23d9d82.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -276,6 +276,7 @@
 </ul>
 <h3 class="rp-toc-include" id="文件与数据处理"><a href="#文件与数据处理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>文件与数据处理</h3>
 <ul>
+<li><a href="https://github.com/Byron/dua-cli" target="_blank" rel="noopener noreferrer" class="rp-link">dua-cli</a> 基于 Rust 的跨平台磁盘占用分析与清理 CLI，默认并行扫描，提供交互式目录浏览与标记删除，支持缓存和构建产物清理、树形占用报告及 SVG 火焰图</li>
 <li><a href="https://github.com/facebook/zstd" target="_blank" rel="noopener noreferrer" class="rp-link">Zstandard</a> 面向实时场景的快速无损压缩算法，提供 C 语言参考库与 zstd 命令行工具，支持可调压缩级别及字典压缩，兼顾压缩率与解压速度</li>
 <li><a href="https://github.com/iczelia/bzip3" target="_blank" rel="noopener noreferrer" class="rp-link">bzip3</a> BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压</li>
 <li><a href="https://github.com/sxyazi/yazi" target="_blank" rel="noopener noreferrer" class="rp-link">yazi</a> 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器</li>

@@ -266,6 +266,7 @@
 
 ### 文件与数据处理
 
+- [dua-cli](https://github.com/Byron/dua-cli) 基于 Rust 的跨平台磁盘占用分析与清理 CLI，默认并行扫描，提供交互式目录浏览与标记删除，支持缓存和构建产物清理、树形占用报告及 SVG 火焰图
 - [Zstandard](https://github.com/facebook/zstd) 面向实时场景的快速无损压缩算法，提供 C 语言参考库与 zstd 命令行工具，支持可调压缩级别及字典压缩，兼顾压缩率与解压速度
 - [bzip3](https://github.com/iczelia/bzip3) BZip2 的后继压缩工具，针对文本与代码提供高压缩率，支持并行压缩与解压
 - [yazi](https://github.com/sxyazi/yazi) 采用 Rust 编写、基于异步 IO、速度极快的终端文件管理器
