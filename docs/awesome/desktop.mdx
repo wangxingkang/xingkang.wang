@@ -158,6 +158,7 @@
 - [Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) Windows 批量卸载工具，支持清理残留、识别孤立应用，并兼容 Microsoft Store、Steam 与多种卸载器
 - [disktree](https://github.com/tobi/disktree) 通过矩形式树图定位磁盘占用，支持审阅后移至回收站或永久删除的跨平台桌面工具
 - [MangoDisk](https://github.com/harry0703/MangoDisk) 面向 macOS、Windows 与 Linux 的开源磁盘清理与空间分析工具，支持缓存、大文件与重复文件清理、应用卸载、启动项管理及系统维护
+- [Czkawka / Krokiet](https://github.com/qarmin/czkawka) 基于 Rust 的跨平台文件去重与清理工具，支持重复文件、相似图片与视频、空目录、大文件、无效符号链接和损坏文件检测，提供 CLI；图形界面推荐 Krokiet，旧 Czkawka GTK 前端止于 12.0 版
 - [Homebrew](https://github.com/Homebrew/brew) MacOS 包管理器
 - [BrewUI](https://github.com/Homebrew/brewui) Homebrew 官方 macOS 图形界面，用于发现、安装、更新和管理软件包
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) 防止你的 Mac 进入休眠状态
