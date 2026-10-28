@@ -128,6 +128,7 @@
 
 ### 可观测性与评测
 
+- [promptfoo](https://github.com/promptfoo/promptfoo) 面向大语言模型应用的评测与红队测试工具，支持提示词、智能体和 RAG 测试、多模型效果对比、漏洞扫描与可视化结果，提供 CLI、代码库及 CI/CD 集成
 - [Harness²](https://github.com/google-research/harness2) Google Research 开源的智能体运行框架递归优化研究工具，在固定模型权重下迭代提示词、工具、记忆与技能，积累跨任务改进经验，支持 Codex、OpenCode 执行器与多类基准评测
 - [@latitude-data/telemetry](https://www.npmjs.com/package/@latitude-data/telemetry) AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证
 
