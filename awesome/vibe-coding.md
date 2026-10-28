@@ -303,6 +303,7 @@
 
 ### 会话与工作区
 
+- [Happier](https://github.com/happier-dev/happier) 可自托管的跨设备编程智能体客户端与编排工作区，通过桌面、Web 和移动端管理 Claude Code、Codex、OpenCode、Pi 等会话，支持并行任务、远程审批、代码审查与会话内容端到端加密
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [Omnigent](https://github.com/omnigent-ai/omnigent) 跨智能体运行框架的统一编排工作区，可组合 Claude Code、Codex、Cursor、Pi 与自定义智能体，支持跨设备会话同步、实时协作、云沙箱及工具权限与审批策略

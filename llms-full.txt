@@ -438,6 +438,7 @@ url: /awesome/ai.md
 
 ### 可观测性与评测
 
+- [promptfoo](https://github.com/promptfoo/promptfoo) 面向大语言模型应用的评测与红队测试工具，支持提示词、智能体和 RAG 测试、多模型效果对比、漏洞扫描与可视化结果，提供 CLI、代码库及 CI/CD 集成
 - [Harness²](https://github.com/google-research/harness2) Google Research 开源的智能体运行框架递归优化研究工具，在固定模型权重下迭代提示词、工具、记忆与技能，积累跨任务改进经验，支持 Codex、OpenCode 执行器与多类基准评测
 - [@latitude-data/telemetry](https://www.npmjs.com/package/@latitude-data/telemetry) AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证
 
@@ -1208,6 +1209,7 @@ url: /awesome/vibe-coding.md
 
 ### 会话与工作区
 
+- [Happier](https://github.com/happier-dev/happier) 可自托管的跨设备编程智能体客户端与编排工作区，通过桌面、Web 和移动端管理 Claude Code、Codex、OpenCode、Pi 等会话，支持并行任务、远程审批、代码审查与会话内容端到端加密
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器
 - [Omnigent](https://github.com/omnigent-ai/omnigent) 跨智能体运行框架的统一编排工作区，可组合 Claude Code、Codex、Cursor、Pi 与自定义智能体，支持跨设备会话同步、实时协作、云沙箱及工具权限与审批策略
@@ -4155,10 +4157,12 @@ url: /awesome/rust.md
 ## 官方资源
 
 - [官网](https://rust-lang.org/zh-CN/)
+- [rust](https://github.com/rust-lang/rust) Rust 语言官方主仓库，包含编译器、标准库与文档
 - [cargo](https://github.com/rust-lang/cargo) 包管理器
 
 ## 学习
 
+- [Rust 程序设计语言（简体中文版）](https://github.com/KaiserY/trpl-zh-cn) Rust 官方教程 The Rust Programming Language 的社区简体中文译本，面向 Rust 2024 Edition，支持[在线阅读](https://kaisery.github.io/trpl-zh-cn/)、PDF 下载与 EPUB 构建
 - [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料
 
 ## AI 开发
@@ -4247,6 +4251,7 @@ url: /awesome/rust.md
 
 通用的版本管理、Git 与发布工具见[工程化](/awesome/engineering.md)。
 
+- [blaze](https://github.com/indexable-inc/blaze) 自带 Rust 工具链的早期增量构建工具，提供类似 Cargo 的构建、运行与测试命令，支持按函数增量编译与可选的运行中热更新，主要支持 Apple Silicon macOS 与 Linux
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
@@ -5916,6 +5921,7 @@ url: /awesome/self-hosted.md
 
 ## 媒体与相册
 
+- [Peach](https://github.com/peach-mitao/peach) 本地优先的影片刮削与媒体管理工具，统一浏览本地、SMB 和网盘媒体库，支持元数据补全、网页及外部播放器、续播与重复文件管理，提供桌面应用与 Docker / NAS 部署
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
 - [melody](https://github.com/foamzou/melody) 个人音乐云盘
@@ -6206,6 +6212,7 @@ url: /awesome/github.md
 
 ## 数据集
 
+- [OpenAI Math](https://github.com/openai/math) OpenAI 发布的内部模型数学研究手稿与证明材料集合，提供按研究问题组织的手稿、源码及部分 Lean 形式化证明；各结果验证程度不同，未形式化结果仍可能存在问题
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 按主题分类的中文表情包与梗图集合，提供在线关键词搜图、分类合集下载及图片索引和标注数据，可用于表情检索工具与相关应用开发
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 以 JSON 格式分发的中华古诗词与古典文集数据库，收录唐诗、宋诗、宋词、诗经、论语、楚辞等内容，便于构建诗词检索、阅读与数据分析应用
 - [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) 包含 433 项健身动作的完整数据集。每条数据包含动作名称、分类、目标肌群、所需器械、动作教程、缩略图以及演示动画视频

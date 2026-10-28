@@ -5,12 +5,12 @@
 <title>AI - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-74129ab92962.ff31a234b9.js" as="script">
+<link rel="preload" href="/static/js/async/route-74129ab92962.c32fec94a9.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.cfc23d9d82.js"></script>
+<script defer src="/static/js/index.c961d2002c.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -130,6 +130,7 @@
 </ul>
 <h3 class="rp-toc-include" id="可观测性与评测"><a href="#可观测性与评测" class="rp-header-anchor rp-link" aria-hidden="true">#</a>可观测性与评测</h3>
 <ul>
+<li><a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener noreferrer" class="rp-link">promptfoo</a> 面向大语言模型应用的评测与红队测试工具，支持提示词、智能体和 RAG 测试、多模型效果对比、漏洞扫描与可视化结果，提供 CLI、代码库及 CI/CD 集成</li>
 <li><a href="https://github.com/google-research/harness2" target="_blank" rel="noopener noreferrer" class="rp-link">Harness²</a> Google Research 开源的智能体运行框架递归优化研究工具，在固定模型权重下迭代提示词、工具、记忆与技能，积累跨任务改进经验，支持 Codex、OpenCode 执行器与多类基准评测</li>
 <li><a href="https://www.npmjs.com/package/@latitude-data/telemetry" target="_blank" rel="noopener noreferrer" class="rp-link">@latitude-data/telemetry</a> AI 智能体可观测性 SDK，记录多轮会话、工具调用与执行链路，支持失败分析、修复分发和真实轨迹回归验证</li>
 </ul>

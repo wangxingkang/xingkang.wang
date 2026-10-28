@@ -17,10 +17,12 @@
 ## 官方资源
 
 - [官网](https://rust-lang.org/zh-CN/)
+- [rust](https://github.com/rust-lang/rust) Rust 语言官方主仓库，包含编译器、标准库与文档
 - [cargo](https://github.com/rust-lang/cargo) 包管理器
 
 ## 学习
 
+- [Rust 程序设计语言（简体中文版）](https://github.com/KaiserY/trpl-zh-cn) Rust 官方教程 The Rust Programming Language 的社区简体中文译本，面向 Rust 2024 Edition，支持[在线阅读](https://kaisery.github.io/trpl-zh-cn/)、PDF 下载与 EPUB 构建
 - [RustTraining](https://github.com/microsoft/RustTraining) 面向**初级、进阶、专家**三个等级的 Rust 培训资料
 
 ## AI 开发
@@ -109,6 +111,7 @@
 
 通用的版本管理、Git 与发布工具见[工程化](/awesome/engineering.md)。
 
+- [blaze](https://github.com/indexable-inc/blaze) 自带 Rust 工具链的早期增量构建工具，提供类似 Cargo 的构建、运行与测试命令，支持按函数增量编译与可选的运行中热更新，主要支持 Apple Silicon macOS 与 Linux
 - [wasm-pack](https://github.com/wasm-bindgen/wasm-pack) rust -> wasm
 - [cross](https://github.com/cross-rs/cross) **无需配置**即可实现 Rust 库的**交叉编译**与**交叉测试**。
 - [afl.rs](https://github.com/rust-fuzz/afl.rs) 使用 American Fuzzy Lop 对 Rust 代码进行模糊测试
