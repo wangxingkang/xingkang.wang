@@ -2,6 +2,7 @@
 
 ## 编辑器
 
+- [terminal-code](https://github.com/zenbu-labs/terminal-code) 将 terminal-browser 与 code-server 结合，在终端中运行 VS Code，支持扩展、分屏与 SSH 远程开发，官方支持 macOS 和 Linux，需兼容 Kitty 图形协议的终端
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zed](https://github.com/zed-industries/zed) IDE
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
