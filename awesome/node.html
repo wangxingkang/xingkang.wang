@@ -5,12 +5,12 @@
 <title>Node.js - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-261c332bf294.ff5f7a3682.js" as="script">
+<link rel="preload" href="/static/js/async/route-261c332bf294.02e6468353.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.c961d2002c.js"></script>
+<script defer src="/static/js/index.f4bc56451b.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -44,6 +44,7 @@
 <li><a href="https://github.com/patriksimek/vm2" target="_blank" rel="noopener noreferrer" class="rp-link">vm2</a> 虚拟机 / 沙箱</li>
 <li><a href="https://github.com/unjs/jiti" target="_blank" rel="noopener noreferrer" class="rp-link">jiti</a> 为 Node.js 提供运行时 TypeScript 与 ESM 支持</li>
 <li><a href="https://github.com/CanadaHonk/porffor" target="_blank" rel="noopener noreferrer" class="rp-link">Porffor</a> 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时</li>
+<li><a href="https://github.com/vercel-labs/scriptc" target="_blank" rel="noopener noreferrer" class="rp-link">scriptc</a> Vercel Labs 的实验性 TypeScript 与 JavaScript 原生编译器，利用类型信息生成可执行文件及 WebAssembly，可将支持的 npm 依赖一并编译，原生输出无需安装 Node.js，仅支持部分语言特性与 Node API</li>
 </ul>
 <h3 class="rp-toc-include" id="运行环境"><a href="#运行环境" class="rp-header-anchor rp-link" aria-hidden="true">#</a>运行环境</h3>
 <p>安装与切换 Node.js 版本的工具见<a href="/awesome/engineering#运行时版本管理" class="rp-link">工程化 / 运行时版本管理</a>。</p>
@@ -469,8 +470,10 @@
 <span id="任务调度与同步"></span>
 <h3 class="rp-toc-include" id="工作流与任务调度"><a href="#工作流与任务调度" class="rp-header-anchor rp-link" aria-hidden="true">#</a>工作流与任务调度</h3>
 <ul>
-<li><a href="https://www.npmjs.com/package/inngest" target="_blank" rel="noopener noreferrer" class="rp-link">inngest</a> 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性</li>
+<li><a href="https://www.npmjs.com/package/inngest" target="_blank" rel="noopener noreferrer" class="rp-link">inngest</a> Inngest 官方 TypeScript / JavaScript SDK，用于定义事件触发与定时执行的持久化工作流，支持步骤级重试与并发控制，配合 Inngest 云服务或自托管服务端使用</li>
 <li><a href="https://github.com/dbos-inc/dbos-transact-ts" target="_blank" rel="noopener noreferrer" class="rp-link">@dbos-inc/dbos-sdk</a> 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理</li>
+<li><a href="https://github.com/timgit/pg-boss" target="_blank" rel="noopener noreferrer" class="rp-link">pg-boss</a> 基于 PostgreSQL 的 Node.js 后台任务队列，支持事务内创建任务、并发处理、定时与延迟调度、自动重试及死信队列，无需额外部署消息代理</li>
+<li><a href="https://github.com/taskforcesh/bullmq" target="_blank" rel="noopener noreferrer" class="rp-link">BullMQ</a> 基于 Redis 的分布式后台任务队列，提供 Node.js / TypeScript API，支持任务优先级、延迟与重复调度、并发控制、限流、去重及父子任务依赖，并提供 Python、Rust 等语言实现</li>
 <li><a href="https://github.com/node-schedule/node-schedule" target="_blank" rel="noopener noreferrer" class="rp-link">node-schedule</a> 任务调度器</li>
 <li><a href="https://github.com/harrisiirak/cron-parser" target="_blank" rel="noopener noreferrer" class="rp-link">cron-parser</a> 用于解析 crontab 指令的 Node.js 库</li>
 </ul>
@@ -494,6 +497,7 @@
 </ul>
 <h3 class="rp-toc-include" id="通信与机器人"><a href="#通信与机器人" class="rp-header-anchor rp-link" aria-hidden="true">#</a>通信与机器人</h3>
 <ul>
+<li><a href="https://github.com/satorijs/satori" target="_blank" rel="noopener noreferrer" class="rp-link">Satori</a> 通用即时通信协议与 TypeScript 开发套件，通过适配器统一接入 Discord、Telegram、飞书、钉钉等平台，支持消息事件与多账号管理</li>
 <li><a href="https://github.com/WecomTeam/aibot-node-sdk" target="_blank" rel="noopener noreferrer" class="rp-link">@wecom/aibot-node-sdk</a> 企业微信 AI 机器人官方 Node.js SDK</li>
 <li><a href="https://github.com/koishijs/koishi" target="_blank" rel="noopener noreferrer" class="rp-link">koishi</a> 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场</li>
 <li><a href="https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs" target="_blank" rel="noopener noreferrer" class="rp-link">dingtalk-stream</a> 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式</li>

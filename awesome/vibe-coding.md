@@ -120,6 +120,7 @@
 - [pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) 在可观测的覆盖层中自主控制交互式 CLI
 - [pi-agent-browser-native](https://github.com/fitchmultz/pi-agent-browser-native) 将 agent-browser 作为原生工具开放，用于浏览器自动化
 - [pi-tasks](https://github.com/tintinweb/pi-tasks) 为 Pi 带来 Claude Code 风格的任务跟踪与协调能力
+- [@osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) Pi 编程智能体的工作流扩展，以 TypeScript 图编排同一会话中的多步任务，支持结构化输出、人工检查点、暂停恢复、持久状态与终端实时查看
 - [pi-studio](https://github.com/omaclaren/pi-studio) 打开本地双栏（two-pane）浏览器工作区，用于处理提示词、回复、Markdown/LaTeX/HTML 文档、代码文件及其他常见文件类型
 - [pi-permission-system](https://github.com/MasuRii/pi-permission-system) Pi 编码代理的权限执行扩展
 - [tmustier pi-extensions](https://github.com//tmustier/pi-extensions) 一套为 Pi 打造的精致扩展
@@ -263,6 +264,7 @@
 - [godogen](https://github.com/htdt/godogen) 面向 Claude Code 与 Codex 的自主游戏开发工作流，支持 Godot、Bevy 和 Babylon.js，从自然语言描述生成游戏与素材，并运行引擎、通过实时画面或录像验证结果
 - [Atlas](https://github.com/pacifio/atlas) 面向编码智能体的本地优先源代码控制工作台，可关联会话、提示词与提交记录
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
+- [Elephant-Goldfish Model (EGM)](https://github.com/google/elephant-goldfish-model) Google 开源的软件设计与审查技能插件，由保留项目上下文的主智能体编写规范，再由独立上下文的子智能体审查假设、架构与实施计划，支持 Claude Code、Codex 和 Antigravity
 - [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
 - [aidlc-workflows](https://github.com/awslabs/aidlc-workflows) 人工智能驱动的生命周期（AI-DLC）自适应工作流程引导规则，适用于人工智能编码代理
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。

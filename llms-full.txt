@@ -476,7 +476,7 @@ url: /awesome/ai.md
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [genkit](https://github.com/genkit-ai/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude Code 与 Codex 的智能体编排框架，支持多智能体集群、自适应记忆、自学习、联邦通信、向量 RAG 与 MCP
-- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
+- [Hatchet](https://github.com/hatchet-dev/hatchet) 开源的后台任务、AI 智能体与持久化工作流编排平台，以 PostgreSQL 保存执行状态，支持 Python、TypeScript、Go 和 Ruby，提供自动重试、故障恢复、定时调度与实时监控，可自托管或使用云服务
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
 
@@ -493,6 +493,7 @@ url: /awesome/ai.md
 
 ### 计算机与移动设备
 
+- [agent-desktop](https://github.com/vercel-labs/agent-desktop) 面向 AI 智能体的桌面自动化 CLI 与 C 库，通过操作系统无障碍树读取和操作应用，支持 JSON 快照、元素引用及 macOS、Windows 与 Linux
 - [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) 通过 AirPlay 获取屏幕、ESP32-S3 USB HID 模拟鼠标与键盘的 iPhone 自动化智能体，接入 OpenAI 兼容视觉模型，支持点击、滑动、输入与绘制，无需越狱或开发者账号
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
@@ -504,6 +505,7 @@ url: /awesome/ai.md
 
 ### 浏览器与网页
 
+- [dsh-browser](https://github.com/omdsh-dev/dsh-browser) DeepSeek Harness 的浏览器桥接插件与 Chrome / Firefox 扩展，通过结构化文本操作现有标签页并沿用登录态，提供侧边栏对话界面
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [webclaw](https://github.com/0xMassi/webclaw) 面向大语言模型、高性能优先本地运行的网页内容提取工具
@@ -788,6 +790,7 @@ url: /awesome/ai.md
 
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
+- [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) 面向 A 股的中文多智能体研究助手，支持辩论式分析、自然语言选股、数据获取技能与纸面模拟交易，采用核心开源、应用层专有的混合授权
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
 - [AIHOT](https://github.com/KKKKhazix/AIHOT) 可自托管的行业热点站框架，抓取多类信源，经模型筛选、聚类与排序后生成日报
 - [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
@@ -819,6 +822,8 @@ url: /awesome/ai.md
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [OpenBot](https://github.com/CopilotKit/OpenBot) 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录
+- [OpenBot (Nightly Labs)](https://github.com/nightly-labs/openbot) 本地优先的持久化 AI 团队桌面工作区，支持 Codex、Claude Code 等运行时，提供独立会话、工作目录、消息队列、文件传输、嵌入浏览器与智能体通信，当前为开发预览，采用非商业许可
+- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) 本地优先的开源多智能体桌面工作区，原名 OpenGrokBot，以聊天方式管理基于 Claude、Codex 与 Grok CLI 的智能体，支持独立会话、云桌面或本地虚拟机、操作审批及 Composio 应用集成
 - [Rakazo](https://github.com/elie222/rakazo) 可自托管的开源 AI 智能体协作平台，支持持久记忆、定时任务与浏览器和桌面操作，可自选模型及沙箱，提供网页、桌面和移动客户端
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台
@@ -1026,6 +1031,7 @@ url: /awesome/vibe-coding.md
 - [pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) 在可观测的覆盖层中自主控制交互式 CLI
 - [pi-agent-browser-native](https://github.com/fitchmultz/pi-agent-browser-native) 将 agent-browser 作为原生工具开放，用于浏览器自动化
 - [pi-tasks](https://github.com/tintinweb/pi-tasks) 为 Pi 带来 Claude Code 风格的任务跟踪与协调能力
+- [@osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows) Pi 编程智能体的工作流扩展，以 TypeScript 图编排同一会话中的多步任务，支持结构化输出、人工检查点、暂停恢复、持久状态与终端实时查看
 - [pi-studio](https://github.com/omaclaren/pi-studio) 打开本地双栏（two-pane）浏览器工作区，用于处理提示词、回复、Markdown/LaTeX/HTML 文档、代码文件及其他常见文件类型
 - [pi-permission-system](https://github.com/MasuRii/pi-permission-system) Pi 编码代理的权限执行扩展
 - [tmustier pi-extensions](https://github.com//tmustier/pi-extensions) 一套为 Pi 打造的精致扩展
@@ -1169,6 +1175,7 @@ url: /awesome/vibe-coding.md
 - [godogen](https://github.com/htdt/godogen) 面向 Claude Code 与 Codex 的自主游戏开发工作流，支持 Godot、Bevy 和 Babylon.js，从自然语言描述生成游戏与素材，并运行引擎、通过实时画面或录像验证结果
 - [Atlas](https://github.com/pacifio/atlas) 面向编码智能体的本地优先源代码控制工作台，可关联会话、提示词与提交记录
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
+- [Elephant-Goldfish Model (EGM)](https://github.com/google/elephant-goldfish-model) Google 开源的软件设计与审查技能插件，由保留项目上下文的主智能体编写规范，再由独立上下文的子智能体审查假设、架构与实施计划，支持 Claude Code、Codex 和 Antigravity
 - [Spec Kit](https://github.com/github/spec-kit) 用于快速上手规约驱动开发的工具套件
 - [aidlc-workflows](https://github.com/awslabs/aidlc-workflows) 人工智能驱动的生命周期（AI-DLC）自适应工作流程引导规则，适用于人工智能编码代理
 - [gstack](https://github.com/garrytan/gstack) 采用 Garry Tan 原版 Claude Code 配置：6 款定制化工具，分别扮演 CEO、工程经理、发布经理和 QA 工程师角色。
@@ -2559,6 +2566,7 @@ url: /awesome/react.md
 
 #### 源码分发与组件合集
 
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) 复刻 Material Design 1 风格的 React 组件集，3.0 预览版基于 React 19、TypeScript 与 Tailwind CSS 4 重构，通过 shadcn CLI 按需分发可编辑源码，支持 CSS 变量主题定制
 - [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
 - [originkit](https://www.originkit.dev) 免费动画组件库
@@ -3420,6 +3428,7 @@ url: /awesome/node.md
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时
+- [scriptc](https://github.com/vercel-labs/scriptc) Vercel Labs 的实验性 TypeScript 与 JavaScript 原生编译器，利用类型信息生成可执行文件及 WebAssembly，可将支持的 npm 依赖一并编译，原生输出无需安装 Node.js，仅支持部分语言特性与 Node API
 
 ### 运行环境
 
@@ -3839,8 +3848,10 @@ url: /awesome/node.md
 
 ### 工作流与任务调度
 
-- [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
+- [inngest](https://www.npmjs.com/package/inngest) Inngest 官方 TypeScript / JavaScript SDK，用于定义事件触发与定时执行的持久化工作流，支持步骤级重试与并发控制，配合 Inngest 云服务或自托管服务端使用
 - [@dbos-inc/dbos-sdk](https://github.com/dbos-inc/dbos-transact-ts) 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理
+- [pg-boss](https://github.com/timgit/pg-boss) 基于 PostgreSQL 的 Node.js 后台任务队列，支持事务内创建任务、并发处理、定时与延迟调度、自动重试及死信队列，无需额外部署消息代理
+- [BullMQ](https://github.com/taskforcesh/bullmq) 基于 Redis 的分布式后台任务队列，提供 Node.js / TypeScript API，支持任务优先级、延迟与重复调度、并发控制、限流、去重及父子任务依赖，并提供 Python、Rust 等语言实现
 - [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
 - [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
 
@@ -3865,6 +3876,7 @@ url: /awesome/node.md
 
 ### 通信与机器人
 
+- [Satori](https://github.com/satorijs/satori) 通用即时通信协议与 TypeScript 开发套件，通过适配器统一接入 Discord、Telegram、飞书、钉钉等平台，支持消息事件与多账号管理
 - [@wecom/aibot-node-sdk](https://github.com/WecomTeam/aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
 - [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式
@@ -4091,6 +4103,10 @@ url: /awesome/go.md
 - [go-zero](https://github.com/zeromicro/go-zero) 一款配备 CLI 工具、用于提升开发效率的云原生 Go 微服务框架
 - [ws](https://github.com/gobwas/ws) 适用于 Go 语言的轻量级 WebSocket 库
 
+## 后台任务与调度
+
+- [River](https://github.com/riverqueue/river) 基于 PostgreSQL 的 Go 后台任务队列，支持将任务与业务数据在同一事务中提交，提供并发处理、定时与延迟调度、任务去重及独立 Web 管理界面
+
 ## 数据与搜索
 
 - [bleve](https://github.com/blevesearch/bleve) 现代 Go 索引与搜索库，支持文本、数值、地理空间和向量检索
@@ -4149,6 +4165,7 @@ url: /awesome/rust.md
 | 入门与语言生态      | [官方资源](#官方资源) · [学习](#学习)                                         |
 | AI 接入与智能体开发  | [AI 开发](#ai-开发)                                                   |
 | Web、网络与权限    | [Web 与网络](#web-与网络) · [身份认证与权限](#身份认证与权限)                         |
+| 后台任务、队列与定时调度 | [后台任务与调度](#后台任务与调度)                                               |
 | 界面、终端、图形与游戏  | [GUI 与终端界面](#gui-与终端界面) · [图形与游戏](#图形与游戏)                         |
 | 数据库、文本、文件与文档 | [数据库与数据访问](#数据库与数据访问) · [数据结构与文本处理](#数据结构与文本处理) · [文件与文档](#文件与文档) |
 | 系统、嵌入式与语言互操作 | [系统与嵌入式](#系统与嵌入式) · [语言运行时与互操作](#语言运行时与互操作)                       |
@@ -4186,6 +4203,10 @@ url: /awesome/rust.md
 - [Zola](https://github.com/getzola/zola) 单二进制、内置常用能力的 Rust 静态站点生成器，支持 Markdown、主题、Sass 与多语言站点
 - [pingora](https://github.com/cloudflare/pingora) 一款用于构建高性能、稳定可靠且易于迭代扩展的网络服务的开发库
 - [tailscale-rs](https://github.com/tailscale/tailscale-rs) Tailscale 的实验性 Rust 实现，提供 Rust API 及多语言绑定
+
+## 后台任务与调度
+
+- [apalis](https://github.com/apalis-dev/apalis) 类型安全、可扩展的 Rust 后台任务处理库，支持并发执行、自动重试、限流、定时调度与 Tower 中间件，可选 Redis、PostgreSQL、SQLite 等存储后端，并提供工作流扩展与 Web 管理界面
 
 ## GUI 与终端界面
 
@@ -4935,6 +4956,7 @@ url: /awesome/ide.md
 
 ## 编辑器
 
+- [terminal-code](https://github.com/zenbu-labs/terminal-code) 将 terminal-browser 与 code-server 结合，在终端中运行 VS Code，支持扩展、分屏与 SSH 远程开发，官方支持 macOS 和 Linux，需兼容 Kitty 图形协议的终端
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zed](https://github.com/zed-industries/zed) IDE
 - [sidex](https://github.com/Sidenai/sidex) 基于 Tauri 重构的 VS Code。架构保持一致，体积缩减 96%。目前为早期版本
@@ -5257,6 +5279,7 @@ url: /awesome/engineering.md
 
 ### 多语言与内容本地化
 
+- [x18n](https://github.com/x18n-dev/x18n) 框架无关的国际化资源检查与管理工具，支持缺失、未使用及无效翻译键检查、占位符校验、过期翻译检测与硬编码文本提取，提供 CLI、浏览器 UI、VS Code 和 LSP 集成
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [lingo](https://github.com/lingodotdev/lingo.dev) 开源、基于人工智能的国际化开发工具包，借助大语言模型实现即时本地化
@@ -5472,11 +5495,15 @@ url: /awesome/ops.md
 
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 - [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
+- [Inngest](https://github.com/inngest/inngest) 事件驱动的持久化工作流与后台任务编排平台，支持多语言 SDK、步骤级重试、定时调度、并发控制及执行监控，可使用云服务或自托管，服务端与 CLI 采用 SSPL 并延迟转为 Apache 2.0 授权
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) 开源的后台任务与 AI 工作流构建部署平台，通过 TypeScript / JavaScript SDK 定义长时间运行的任务，支持自动重试、队列与并发控制、定时调度、检查点恢复及实时追踪，可使用云服务或通过 Docker、Kubernetes 自托管
+- [Temporal](https://github.com/temporalio/temporal) 开源的持久化执行与工作流编排平台，通过多语言 SDK 定义工作流、任务与 Worker，支持故障恢复和自动重试，配套 CLI 与 Web 管理界面，本仓库提供可自托管的服务端
 
 ## 虚拟化与容器
 
 ### 虚拟机与沙箱
 
+- [Quickemu](https://github.com/quickemu-project/quickemu) 面向 Linux 与 macOS 宿主机的 QEMU 虚拟机命令行工具，通过 quickget 自动下载系统镜像并生成配置，快速创建和运行 Windows、macOS、Linux 等虚拟机，支持剪贴板与文件共享、USB 直通及端口转发
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [muvm](https://github.com/AsahiLinux/muvm) 基于 libkrun 在 microVM 中运行本机程序，支持图形应用、GPU 加速和跨架构运行
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
@@ -5484,6 +5511,7 @@ url: /awesome/ops.md
 
 ### 容器与编排
 
+- [container (Apple)](https://github.com/apple/container) Apple 使用 Swift 开发的 Linux 容器工具，在 Apple silicon Mac 上以轻量虚拟机运行容器，支持 OCI 镜像的构建、运行及仓库推拉，当前要求 macOS 26
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
 - [Docker Compose](https://github.com/docker/compose) 通过 Compose 文件定义并一键运行多容器 Docker 应用
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
@@ -5502,6 +5530,7 @@ url: /awesome/ops.md
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [DuckDB](https://github.com/duckdb/duckdb) 高性能嵌入式分析型 SQL 数据库
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
+- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) 面向指标、日志与链路追踪的开源列式数据库，基于对象存储统一保存可观测数据，支持 SQL 与 PromQL 查询、OpenTelemetry 与 Prometheus 数据接入，以及单机或分布式部署
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 
@@ -6059,6 +6088,7 @@ url: /awesome/website.md
 
 ### 办公与文档
 
+- [Everything (Puter)](https://github.com/HeyPuter/everything) Puter 发起的开源应用合集与单体仓库，涵盖文档、表格、演示、团队聊天、图像与音视频编辑及 CAD 等应用，旨在提供常见商业软件的开源替代，可按子项目本地运行
 - [135editor](https://www.135editor.com) 公众号编辑器
 - [convertio](https://convertio.co/zh/) 文件转换器
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件

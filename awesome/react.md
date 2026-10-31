@@ -182,6 +182,7 @@
 
 #### 源码分发与组件合集
 
+- [React Toolbox](https://github.com/react-toolbox/react-toolbox) 复刻 Material Design 1 风格的 React 组件集，3.0 预览版基于 React 19、TypeScript 与 Tailwind CSS 4 重构，通过 shadcn CLI 按需分发可编辑源码，支持 CSS 变量主题定制
 - [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
 - [originkit](https://www.originkit.dev) 免费动画组件库

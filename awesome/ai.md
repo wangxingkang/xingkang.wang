@@ -166,7 +166,7 @@
 - [deer-flow](https://github.com/bytedance/deer-flow) 一款开源的超级智能代理框架，具备调研、编码与创作能力。借助沙箱、记忆体、工具集、技能库与子代理，它可处理耗时从数分钟到数小时不等的不同层级任务
 - [genkit](https://github.com/genkit-ai/genkit) 开源框架，用于使用 JavaScript、Go 和 Python 构建人工智能驱动的应用，由谷歌开发并在生产环境中使用
 - [ruflo](https://github.com/ruvnet/ruflo) 面向 Claude Code 与 Codex 的智能体编排框架，支持多智能体集群、自适应记忆、自学习、联邦通信、向量 RAG 与 MCP
-- [hatchet](https://github.com/hatchet-dev/hatchet) 一款用于后台任务、AI 智能体与持久化工作流的编排引擎
+- [Hatchet](https://github.com/hatchet-dev/hatchet) 开源的后台任务、AI 智能体与持久化工作流编排平台，以 PostgreSQL 保存执行状态，支持 Python、TypeScript、Go 和 Ruby，提供自动重试、故障恢复、定时调度与实时监控，可自托管或使用云服务
 - [ax](https://github.com/google/ax) 谷歌开源分布式智能体运行时
 - [Pipecat](https://github.com/pipecat-ai/pipecat) 用于构建实时语音和多模态对话智能体的开源 Python 框架
 
@@ -183,6 +183,7 @@
 
 ### 计算机与移动设备
 
+- [agent-desktop](https://github.com/vercel-labs/agent-desktop) 面向 AI 智能体的桌面自动化 CLI 与 C 库，通过操作系统无障碍树读取和操作应用，支持 JSON 快照、元素引用及 macOS、Windows 与 Linux
 - [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) 通过 AirPlay 获取屏幕、ESP32-S3 USB HID 模拟鼠标与键盘的 iPhone 自动化智能体，接入 OpenAI 兼容视觉模型，支持点击、滑动、输入与绘制，无需越狱或开发者账号
 - [phone-harness](https://github.com/ShawnPana/phone-harness) 让 AI Agent 通过 macOS iPhone Mirroring 控制真实 iPhone 的轻量 Harness 与 Skill
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力
@@ -194,6 +195,7 @@
 
 ### 浏览器与网页
 
+- [dsh-browser](https://github.com/omdsh-dev/dsh-browser) DeepSeek Harness 的浏览器桥接插件与 Chrome / Firefox 扩展，通过结构化文本操作现有标签页并沿用登录态，提供侧边栏对话界面
 - [AutoCLI](https://github.com/nashsu/AutoCLI) 极速、安全的命令行工具 —— 一行命令快速获取任意网站信息
 - [obscura](https://github.com/h4ckf0r0day/obscura) 面向AI智能体与网页爬虫的**无头浏览器**
 - [webclaw](https://github.com/0xMassi/webclaw) 面向大语言模型、高性能优先本地运行的网页内容提取工具
@@ -478,6 +480,7 @@
 
 - [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品
 - [valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell 是一个由社区驱动、面向金融应用的多智能体平台
+- [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) 面向 A 股的中文多智能体研究助手，支持辩论式分析、自然语言选股、数据获取技能与纸面模拟交易，采用核心开源、应用层专有的混合授权
 - [TrendRadar](https://github.com/sansan0/TrendRadar) AI 舆情监控助手与热点筛选工具
 - [AIHOT](https://github.com/KKKKhazix/AIHOT) 可自托管的行业热点站框架，抓取多类信源，经模型筛选、聚类与排序后生成日报
 - [Crucix](https://github.com/calesthio/Crucix) 你的个人智能代理。通过多种数据源观察世界，并在信息发生变化时及时通知你。
@@ -509,6 +512,8 @@
 - [mindshub](https://github.com/mindsdb/mindshub) 一站式统一工作平台，各类开源智能代理在此为你处理各项工作
 - [lobehub](https://github.com/lobehub/lobehub) LobeHub 是你的智能体总调度平台，通过招募、排班管理以及全 AI 团队数据报表，全天候统筹管理所有智能体，实现 7×24 小时不间断运转
 - [OpenBot](https://github.com/CopilotKit/OpenBot) 可自托管的 AI 助手与智能体工作区模板，通过 AG-UI 接入不同智能体，为其提供独立浏览器、文件与授权工具，支持人工接管、操作审批及执行记录
+- [OpenBot (Nightly Labs)](https://github.com/nightly-labs/openbot) 本地优先的持久化 AI 团队桌面工作区，支持 Codex、Claude Code 等运行时，提供独立会话、工作目录、消息队列、文件传输、嵌入浏览器与智能体通信，当前为开发预览，采用非商业许可
+- [OpenMausBot](https://github.com/milind-soni/OpenMausBot) 本地优先的开源多智能体桌面工作区，原名 OpenGrokBot，以聊天方式管理基于 Claude、Codex 与 Grok CLI 的智能体，支持独立会话、云桌面或本地虚拟机、操作审批及 Composio 应用集成
 - [Rakazo](https://github.com/elie222/rakazo) 可自托管的开源 AI 智能体协作平台，支持持久记忆、定时任务与浏览器和桌面操作，可自选模型及沙箱，提供网页、桌面和移动客户端
 - [paperclip](https://github.com/paperclipai/paperclip) 面向无人化企业的开源编排方案
 - [AionUi](https://github.com/iOfficeAI/AionUi) Cowork 平台

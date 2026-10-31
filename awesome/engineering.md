@@ -297,6 +297,7 @@
 
 ### 多语言与内容本地化
 
+- [x18n](https://github.com/x18n-dev/x18n) 框架无关的国际化资源检查与管理工具，支持缺失、未使用及无效翻译键检查、占位符校验、过期翻译检测与硬编码文本提取，提供 CLI、浏览器 UI、VS Code 和 LSP 集成
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) 扫描代码，提取翻译键与对应内容，并将其合并至国际化（i18n）资源文件中
 - [locize-cli](https://github.com/locize/locize-cli) Locize 命令行工具，用于导入 / 导出语言区域、添加 / 编辑 / 删除、同步翻译片段
 - [lingo](https://github.com/lingodotdev/lingo.dev) 开源、基于人工智能的国际化开发工具包，借助大语言模型实现即时本地化

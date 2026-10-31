@@ -35,6 +35,7 @@
 - [vm2](https://github.com/patriksimek/vm2) 虚拟机 / 沙箱
 - [jiti](https://github.com/unjs/jiti) 为 Node.js 提供运行时 TypeScript 与 ESM 支持
 - [Porffor](https://github.com/CanadaHonk/porffor) 将 JavaScript 预先编译为原生可执行文件的 AOT 编译器与运行时
+- [scriptc](https://github.com/vercel-labs/scriptc) Vercel Labs 的实验性 TypeScript 与 JavaScript 原生编译器，利用类型信息生成可执行文件及 WebAssembly，可将支持的 npm 依赖一并编译，原生输出无需安装 Node.js，仅支持部分语言特性与 Node API
 
 ### 运行环境
 
@@ -454,8 +455,10 @@
 
 ### 工作流与任务调度
 
-- [inngest](https://www.npmjs.com/package/inngest) 零基础设施的可靠工作流 SDK，支持事件触发、定时任务、队列、重试与执行可观测性
+- [inngest](https://www.npmjs.com/package/inngest) Inngest 官方 TypeScript / JavaScript SDK，用于定义事件触发与定时执行的持久化工作流，支持步骤级重试与并发控制，配合 Inngest 云服务或自托管服务端使用
 - [@dbos-inc/dbos-sdk](https://github.com/dbos-inc/dbos-transact-ts) 基于 PostgreSQL 的 TypeScript 持久化工作流 SDK，自动记录步骤并在故障后恢复，提供任务队列、定时调度与事件处理
+- [pg-boss](https://github.com/timgit/pg-boss) 基于 PostgreSQL 的 Node.js 后台任务队列，支持事务内创建任务、并发处理、定时与延迟调度、自动重试及死信队列，无需额外部署消息代理
+- [BullMQ](https://github.com/taskforcesh/bullmq) 基于 Redis 的分布式后台任务队列，提供 Node.js / TypeScript API，支持任务优先级、延迟与重复调度、并发控制、限流、去重及父子任务依赖，并提供 Python、Rust 等语言实现
 - [node-schedule](https://github.com/node-schedule/node-schedule) 任务调度器
 - [cron-parser](https://github.com/harrisiirak/cron-parser) 用于解析 crontab 指令的 Node.js 库
 
@@ -480,6 +483,7 @@
 
 ### 通信与机器人
 
+- [Satori](https://github.com/satorijs/satori) 通用即时通信协议与 TypeScript 开发套件，通过适配器统一接入 Discord、Telegram、飞书、钉钉等平台，支持消息事件与多账号管理
 - [@wecom/aibot-node-sdk](https://github.com/WecomTeam/aibot-node-sdk) 企业微信 AI 机器人官方 Node.js SDK
 - [koishi](https://github.com/koishijs/koishi) 跨平台、可扩展的 TypeScript 聊天机器人框架，支持 QQ、Telegram、Discord、飞书等平台和插件市场
 - [dingtalk-stream](https://github.com/open-dingtalk/dingtalk-stream-sdk-nodejs) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式

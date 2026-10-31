@@ -27,11 +27,15 @@
 
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 - [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
+- [Inngest](https://github.com/inngest/inngest) 事件驱动的持久化工作流与后台任务编排平台，支持多语言 SDK、步骤级重试、定时调度、并发控制及执行监控，可使用云服务或自托管，服务端与 CLI 采用 SSPL 并延迟转为 Apache 2.0 授权
+- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) 开源的后台任务与 AI 工作流构建部署平台，通过 TypeScript / JavaScript SDK 定义长时间运行的任务，支持自动重试、队列与并发控制、定时调度、检查点恢复及实时追踪，可使用云服务或通过 Docker、Kubernetes 自托管
+- [Temporal](https://github.com/temporalio/temporal) 开源的持久化执行与工作流编排平台，通过多语言 SDK 定义工作流、任务与 Worker，支持故障恢复和自动重试，配套 CLI 与 Web 管理界面，本仓库提供可自托管的服务端
 
 ## 虚拟化与容器
 
 ### 虚拟机与沙箱
 
+- [Quickemu](https://github.com/quickemu-project/quickemu) 面向 Linux 与 macOS 宿主机的 QEMU 虚拟机命令行工具，通过 quickget 自动下载系统镜像并生成配置，快速创建和运行 Windows、macOS、Linux 等虚拟机，支持剪贴板与文件共享、USB 直通及端口转发
 - [firecracker](https://github.com/firecracker-microvm/firecracker) 面向无服务器计算的安全高速微虚拟机
 - [muvm](https://github.com/AsahiLinux/muvm) 基于 libkrun 在 microVM 中运行本机程序，支持图形应用、GPU 加速和跨架构运行
 - [mxc](https://github.com/microsoft/mxc) 沙箱执行容器
@@ -39,6 +43,7 @@
 
 ### 容器与编排
 
+- [container (Apple)](https://github.com/apple/container) Apple 使用 Swift 开发的 Linux 容器工具，在 Apple silicon Mac 上以轻量虚拟机运行容器，支持 OCI 镜像的构建、运行及仓库推拉，当前要求 macOS 26
 - [colima](https://github.com/abiosoft/colima) 可在 macOS（以及 Linux）系统上极简部署使用的容器运行时
 - [Docker Compose](https://github.com/docker/compose) 通过 Compose 文件定义并一键运行多容器 Docker 应用
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) 基于用户命名空间的 Linux 原生伪根工具
@@ -57,6 +62,7 @@
 - [turso](https://github.com/tursodatabase/turso) Turso 是一款进程内 SQL 数据库，兼容 SQLite
 - [DuckDB](https://github.com/duckdb/duckdb) 高性能嵌入式分析型 SQL 数据库
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) 实时分析数据库管理系统
+- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) 面向指标、日志与链路追踪的开源列式数据库，基于对象存储统一保存可观测数据，支持 SQL 与 PromQL 查询、OpenTelemetry 与 Prometheus 数据接入，以及单机或分布式部署
 - [rqlite](https://github.com/rqlite/rqlite) 基于 SQLite 打造的轻量容错型数据库
 - [dolt](https://github.com/dolthub/dolt) Dolt 是一款 SQL 数据库，你可以像操作 Git 仓库一样对它执行复刻、克隆、创建分支、合并、推送与拉取操作
 

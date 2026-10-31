@@ -56,6 +56,7 @@
 
 ### 办公与文档
 
+- [Everything (Puter)](https://github.com/HeyPuter/everything) Puter 发起的开源应用合集与单体仓库，涵盖文档、表格、演示、团队聊天、图像与音视频编辑及 CAD 等应用，旨在提供常见商业软件的开源替代，可按子项目本地运行
 - [135editor](https://www.135editor.com) 公众号编辑器
 - [convertio](https://convertio.co/zh/) 文件转换器
 - [bento](https://github.com/nyblnet/bento) 装进一个文件里的办公套件
