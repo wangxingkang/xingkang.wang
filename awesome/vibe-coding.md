@@ -21,6 +21,7 @@
 
 ## 编程智能体
 
+- [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) 面向单个 GitHub 仓库的 DeepSeek Harness 主动编程智能体研究原型，可接收 GitHub 与可选飞书请求，在独立会话和目录中处理工作并回复结果，提供人工处理面板；非 DeepSeek 正式产品，尚非生产就绪
 - [claw-code](https://github.com/ultraworkers/claw-code)
 - [ZCode](https://github.com/zai-org/ZCode) Z.ai 的开源 AI 编程工作台，提供 Electron 桌面端、Web 界面和终端 Agent
 - [Qwen Code](https://github.com/QwenLM/qwen-code) 通义千问开源 AI 编程智能体，支持终端、编辑器、桌面、Web 与聊天平台
@@ -305,6 +306,7 @@
 
 ### 会话与工作区
 
+- [Zeron](https://github.com/zeronsh/zeron) 本地优先的编程智能体管理客户端，统一控制 Claude Code、Codex、Cursor、Pi 等工具，提供 macOS、Windows 与 Linux 桌面端及 Linux 无头服务，可选登录以跨设备跟进和操作会话
 - [Happier](https://github.com/happier-dev/happier) 可自托管的跨设备编程智能体客户端与编排工作区，通过桌面、Web 和移动端管理 Claude Code、Codex、OpenCode、Pi 等会话，支持并行任务、远程审批、代码审查与会话内容端到端加密
 - [worktrunk](https://github.com/max-sixty/worktrunk) 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造
 - [herdr](https://github.com/ogulcancelik/herdr) 运行在终端中的智能体多路复用器

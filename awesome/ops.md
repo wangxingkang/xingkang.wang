@@ -25,6 +25,7 @@
 
 ## 后端平台
 
+- [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) 集成应用服务端的关系数据库，可在数据库内运行 Rust、C#、TypeScript 或 C++ 业务模块，并向客户端实时同步状态，适用于协作应用与多人游戏，采用 BSL 1.1 授权
 - [InsForge](https://github.com/InsForge/InsForge) 面向编码智能体的开源后端平台，整合数据库、认证、存储、边缘函数、部署与 AI 模型网关，并支持自托管 MCP
 - [Supabase](https://github.com/supabase/supabase) 基于 PostgreSQL 的开源后端开发平台，整合认证、自动生成 API、实时订阅、文件存储、边缘函数与向量检索，支持云托管、自托管及本地开发
 - [Inngest](https://github.com/inngest/inngest) 事件驱动的持久化工作流与后台任务编排平台，支持多语言 SDK、步骤级重试、定时调度、并发控制及执行监控，可使用云服务或自托管，服务端与 CLI 采用 SSPL 并延迟转为 Apache 2.0 授权

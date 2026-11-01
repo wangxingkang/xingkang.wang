@@ -5,12 +5,12 @@
 <title>AI 编程与工作流 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-2a158ec316fd.b1e265c27c.js" as="script">
+<link rel="preload" href="/static/js/async/route-2a158ec316fd.901b39d2cb.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.f4bc56451b.js"></script>
+<script defer src="/static/js/index.f61e9f40a7.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -26,6 +26,7 @@
 <div class="rp-table-scroll-container rp-scrollbar"><table><thead><tr><th>想找什么</th><th>直接前往</th></tr></thead><tbody><tr><td>选择 AI 编程工具</td><td><a href="#%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" class="rp-link">编程智能体</a></td></tr><tr><td>查找 Codex、Claude Code 的资源与扩展</td><td><a href="#codex" class="rp-link">Codex</a> · <a href="#claude-code" class="rp-link">Claude Code</a></td></tr><tr><td>查找其他宿主生态与社区客户端</td><td><a href="#opencode" class="rp-link">OpenCode</a> · <a href="#pi" class="rp-link">Pi</a> · <a href="#cursor" class="rp-link">Cursor</a> · <a href="#codewhale" class="rp-link">CodeWhale</a></td></tr><tr><td>安装、管理和评测开发技能</td><td><a href="#%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD%E4%B8%8E%E7%AE%A1%E7%90%86" class="rp-link">开发技能与管理</a></td></tr><tr><td>设置规则、查代码、建立图谱与长期记忆</td><td><a href="#%E4%BB%A3%E7%A0%81%E7%90%86%E8%A7%A3%E4%B8%8E%E4%B8%8A%E4%B8%8B%E6%96%87" class="rp-link">代码理解与上下文</a></td></tr><tr><td>从设计和原型生成界面</td><td><a href="#%E5%8E%9F%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1" class="rp-link">原型与设计</a></td></tr><tr><td>规划开发任务、规范与多智能体工作流</td><td><a href="#%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E6%B5%81" class="rp-link">开发工作流</a></td></tr><tr><td>审查代码、测试与验证交付</td><td><a href="#%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5%E4%B8%8E%E6%B5%8B%E8%AF%95" class="rp-link">代码审查与测试</a></td></tr><tr><td>生成架构图与技术文档</td><td><a href="#%E5%9B%BE%E7%A4%BA%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3" class="rp-link">图示与技术文档</a></td></tr><tr><td>管理并行会话、工作树与远程工作区</td><td><a href="#%E4%BC%9A%E8%AF%9D%E4%B8%8E%E5%B7%A5%E4%BD%9C%E5%8C%BA" class="rp-link">会话与工作区</a></td></tr><tr><td>监控会话、Token 用量与成本</td><td><a href="#%E4%BC%9A%E8%AF%9D%E4%B8%8E%E7%94%A8%E9%87%8F" class="rp-link">会话与用量</a></td></tr><tr><td>学习 Agent 和 Harness 工程</td><td><a href="#%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%96%B9%E6%B3%95" class="rp-link">学习与方法</a></td></tr></tbody></table></div>
 <h2 class="rp-toc-include" id="编程智能体"><a href="#编程智能体" class="rp-header-anchor rp-link" aria-hidden="true">#</a>编程智能体</h2>
 <ul>
+<li><a href="https://github.com/deepseek-ai/dsh-superagent-prototype" target="_blank" rel="noopener noreferrer" class="rp-link">dsh-superagent</a> 面向单个 GitHub 仓库的 DeepSeek Harness 主动编程智能体研究原型，可接收 GitHub 与可选飞书请求，在独立会话和目录中处理工作并回复结果，提供人工处理面板；非 DeepSeek 正式产品，尚非生产就绪</li>
 <li><a href="https://github.com/ultraworkers/claw-code" target="_blank" rel="noopener noreferrer" class="rp-link">claw-code</a></li>
 <li><a href="https://github.com/zai-org/ZCode" target="_blank" rel="noopener noreferrer" class="rp-link">ZCode</a> Z.ai 的开源 AI 编程工作台，提供 Electron 桌面端、Web 界面和终端 Agent</li>
 <li><a href="https://github.com/QwenLM/qwen-code" target="_blank" rel="noopener noreferrer" class="rp-link">Qwen Code</a> 通义千问开源 AI 编程智能体，支持终端、编辑器、桌面、Web 与聊天平台</li>
@@ -310,6 +311,7 @@
 <h2 class="rp-toc-include" id="会话管理与成本"><a href="#会话管理与成本" class="rp-header-anchor rp-link" aria-hidden="true">#</a>会话管理与成本</h2>
 <h3 class="rp-toc-include" id="会话与工作区"><a href="#会话与工作区" class="rp-header-anchor rp-link" aria-hidden="true">#</a>会话与工作区</h3>
 <ul>
+<li><a href="https://github.com/zeronsh/zeron" target="_blank" rel="noopener noreferrer" class="rp-link">Zeron</a> 本地优先的编程智能体管理客户端，统一控制 Claude Code、Codex、Cursor、Pi 等工具，提供 macOS、Windows 与 Linux 桌面端及 Linux 无头服务，可选登录以跨设备跟进和操作会话</li>
 <li><a href="https://github.com/happier-dev/happier" target="_blank" rel="noopener noreferrer" class="rp-link">Happier</a> 可自托管的跨设备编程智能体客户端与编排工作区，通过桌面、Web 和移动端管理 Claude Code、Codex、OpenCode、Pi 等会话，支持并行任务、远程审批、代码审查与会话内容端到端加密</li>
 <li><a href="https://github.com/max-sixty/worktrunk" target="_blank" rel="noopener noreferrer" class="rp-link">worktrunk</a> 一款用于管理 Git 工作树的命令行工具，专为并行 AI 智能体工作流打造</li>
 <li><a href="https://github.com/ogulcancelik/herdr" target="_blank" rel="noopener noreferrer" class="rp-link">herdr</a> 运行在终端中的智能体多路复用器</li>
