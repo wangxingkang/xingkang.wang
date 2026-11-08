@@ -122,6 +122,7 @@
 
 ## 生活管理
 
+- [TeslaMate](https://github.com/teslamate-org/teslamate) 可自托管的 Tesla 车辆数据记录与分析工具，记录行程、充电和能耗等信息，使用 PostgreSQL 存储、Grafana 展示，并通过 MQTT 集成 Home Assistant 等系统
 - [Actual Budget](https://github.com/actualbudget/actual) 本地优先的开源个人财务与预算管理应用，采用信封预算法，支持跨设备同步、Docker 自托管及 Windows、macOS、Linux 本地应用
 - [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
 

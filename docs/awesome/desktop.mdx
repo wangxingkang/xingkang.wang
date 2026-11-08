@@ -212,6 +212,7 @@
 
 ### 媒体播放
 
+- [HGhub](https://github.com/Minireel/HGhub) 基于 Rust 与 Tauri 2 的黄果短剧第三方客户端，支持 Windows、macOS 和 Android，提供竖屏播放、搜索与本地收藏，采用 PolyForm Noncommercial 非商业许可
 - [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
@@ -226,6 +227,7 @@
 
 ### 游戏
 
+- [Mindustry](https://github.com/Anuken/Mindustry) Java 编写的自动化塔防与即时战略游戏，结合资源生产、物流运输与基地防御，支持 Windows、macOS、Linux 和 Android，并提供独立服务端
 - [PlayCover](https://github.com/PlayCover/PlayCover) 在 Apple Silicon Mac 上运行 iOS 应用与游戏的开源工具，支持鼠标、键盘、手柄及自定义触控按键映射
 - [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点

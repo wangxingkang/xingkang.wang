@@ -83,6 +83,7 @@
 
 #### 组件
 
+- [BoardUI](https://github.com/BoardUI/boardui) 面向智能体界面与仪表盘的 React 设计体系，基于 React Aria 与 Tailwind CSS 4，提供聊天、思考状态、智能体日志及表单组件，通过 CLI 复制源码并支持 MCP，仓库包含免费层内容
 - [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
@@ -164,7 +165,7 @@
 
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
-- [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
+- [HeroUI](https://github.com/heroui-inc/heroui) React 组件库（前身为 NextUI），v3 基于 React Aria 与 Tailwind CSS 4，支持组合式组件 API、React 19、主题定制及 MCP 开发工具
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
 - [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
@@ -182,6 +183,10 @@
 
 #### 源码分发与组件合集
 
+- [Bencho](https://github.com/cabralorenzo/bencho) 可复制源码的 React 交互区块与界面音效合集，提供参数化动效、浅深色主题及基于 Web Audio API 的合成音效，公开区块与音效采用 MIT 许可
+- [Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) React 视觉动效组件合集，涵盖边框光束、思考球体、机器人头像、液态融合、语音光晕与图像加载效果，提供独立 npm 包和交互预览，Pro 定制内容另行授权
+- [Watermelon Platform](https://github.com/WatermelonCorp/watermelon-platform) Watermelon UI 的组件浏览与预览平台源码，整合 React 动画组件、区块、仪表盘与模板，通过 shadcn registry 分发可编辑组件源码，并提供 MCP 发现入口
+- [beUI Pro](https://pro.beui.dev/zh) 付费 React 与 Next.js 动效组件、页面区块和模板资源，基于 Tailwind CSS 与 Motion，通过私有 shadcn registry 或源码下载交付，移动端内容需相应授权
 - [React Toolbox](https://github.com/react-toolbox/react-toolbox) 复刻 Material Design 1 风格的 React 组件集，3.0 预览版基于 React 19、TypeScript 与 Tailwind CSS 4 重构，通过 shadcn CLI 按需分发可编辑源码，支持 CSS 变量主题定制
 - [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
