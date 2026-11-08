@@ -727,6 +727,7 @@
 
 ### 游戏与物理引擎
 
+- [Cocos Engine](https://github.com/cocos/cocos-engine) Cocos Creator 的开源 2D / 3D 游戏运行时引擎，结合 TypeScript API 与 C++ 原生实现，支持 Web、桌面、移动及小游戏平台，提供渲染、动画、物理与 UI 系统，主要配合 Cocos Creator 编辑器使用
 - [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
@@ -928,6 +929,7 @@
 
 ### 音视频处理
 
+- [m3u8-parser](https://github.com/videojs/m3u8-parser) Video.js 生态的 JavaScript HLS 播放列表解析器，将 M3U8 文本转换为包含播放列表、媒体分组与分片信息的对象，支持自定义标签解析及浏览器集成
 - [music-metadata](https://github.com/Borewit/music-metadata) 音视频媒体文件元数据解析器
 - [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频

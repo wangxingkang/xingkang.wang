@@ -565,6 +565,7 @@ url: /awesome/ai.md
 
 ### 设计与内容创作
 
+- [Lieflat Less AI Tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) 面向中文成稿检测与改写的写作 Skill，结合统计指标、对照研究和原文例句生成检测报告，经用户确认后进行最小改写与复测，侧重减少模板化表达并保留原文信息
 - [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) 拾景纸刊，面向 Codex 的照片创作技能，提供保留原照的纸感拼贴海报与提炼场景语义的极简编辑插画两种路径，仅限个人非商业使用
 - [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 面向 Claude Code 与 Codex 的产品宣传视频制作技能，基于真实页面截图、文案和 Remotion 镜头模板完成分镜、动画与音效，支持 MP4 输出、浏览器编辑及剪映草稿导出
 - [anatomy](https://github.com/wheresryan22/anatomy) 用于生成交互式等距插图的智能体技能，以机械装置与复杂系统解释技术概念，支持 SVG、WebGL 特效与三维交互，适用于 Claude Code、OpenCode 和 Codex
@@ -1997,6 +1998,7 @@ url: /awesome/javascript.md
 
 ### 游戏与物理引擎
 
+- [Cocos Engine](https://github.com/cocos/cocos-engine) Cocos Creator 的开源 2D / 3D 游戏运行时引擎，结合 TypeScript API 与 C++ 原生实现，支持 Web、桌面、移动及小游戏平台，提供渲染、动画、物理与 UI 系统，主要配合 Cocos Creator 编辑器使用
 - [planck](https://github.com/piqnt/planck.js) 二维 JavaScript 物理引擎
 - [rapier.js](https://github.com/dimforge/rapier.js) Rapier 物理引擎官方 JavaScript 绑定库
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) 一款小巧高效的 HTML5 游戏引擎，功能丰富且无任何外部依赖
@@ -2198,6 +2200,7 @@ url: /awesome/javascript.md
 
 ### 音视频处理
 
+- [m3u8-parser](https://github.com/videojs/m3u8-parser) Video.js 生态的 JavaScript HLS 播放列表解析器，将 M3U8 文本转换为包含播放列表、媒体分组与分片信息的对象，支持自定义标签解析及浏览器集成
 - [music-metadata](https://github.com/Borewit/music-metadata) 音视频媒体文件元数据解析器
 - [mp4-muxer](https://github.com/Vanilagy/mp4-muxer) 纯 TypeScript 实现的 MP4 多路复用器，支持 WebCodecs API、视频与音频流
 - [webm-muxer](https://github.com/Vanilagy/webm-muxer) 纯 TypeScript 编写的 WebM 多路复用器，支持 WebCodecs API、视频与音频
@@ -2469,6 +2472,7 @@ url: /awesome/react.md
 
 #### 组件
 
+- [BoardUI](https://github.com/BoardUI/boardui) 面向智能体界面与仪表盘的 React 设计体系，基于 React Aria 与 Tailwind CSS 4，提供聊天、思考状态、智能体日志及表单组件，通过 CLI 复制源码并支持 MCP，仓库包含免费层内容
 - [elevenlabs-ui](https://github.com/elevenlabs/ui) 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体
 - [tool-ui](https://github.com/assistant-ui/tool-ui) 用于 AI 界面的 UI 组件
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui) 基于 TypeScript/React 的 AI 聊天专用库
@@ -2550,7 +2554,7 @@ url: /awesome/react.md
 
 - [@coss/ui](https://github.com/cosscom/coss) Cal.com 官方设计系统
 - [astryx](https://github.com/facebook/astryx) Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具
-- [heroui](https://github.com/heroui-inc/heroui) 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）
+- [HeroUI](https://github.com/heroui-inc/heroui) React 组件库（前身为 NextUI），v3 基于 React Aria 与 Tailwind CSS 4，支持组合式组件 API、React 19、主题定制及 MCP 开发工具
 - [antd](https://ant.design/index-cn) 一套企业级 UI 设计语言和 React 组件库
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) ant design 的移动端 Web 组件库
 - [@arco-design/web-react](https://github.com/arco-design/arco-design) Arco Design 的 React 组件库，字节跳动出品
@@ -2568,6 +2572,10 @@ url: /awesome/react.md
 
 #### 源码分发与组件合集
 
+- [Bencho](https://github.com/cabralorenzo/bencho) 可复制源码的 React 交互区块与界面音效合集，提供参数化动效、浅深色主题及基于 Web Audio API 的合成音效，公开区块与音效采用 MIT 许可
+- [Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) React 视觉动效组件合集，涵盖边框光束、思考球体、机器人头像、液态融合、语音光晕与图像加载效果，提供独立 npm 包和交互预览，Pro 定制内容另行授权
+- [Watermelon Platform](https://github.com/WatermelonCorp/watermelon-platform) Watermelon UI 的组件浏览与预览平台源码，整合 React 动画组件、区块、仪表盘与模板，通过 shadcn registry 分发可编辑组件源码，并提供 MCP 发现入口
+- [beUI Pro](https://pro.beui.dev/zh) 付费 React 与 Next.js 动效组件、页面区块和模板资源，基于 Tailwind CSS 与 Motion，通过私有 shadcn registry 或源码下载交付，移动端内容需相应授权
 - [React Toolbox](https://github.com/react-toolbox/react-toolbox) 复刻 Material Design 1 风格的 React 组件集，3.0 预览版基于 React 19、TypeScript 与 Tailwind CSS 4 重构，通过 shadcn CLI 按需分发可编辑源码，支持 CSS 变量主题定制
 - [ProUI](https://pro-ui.dev) 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板
 - [ui-components](https://github.com/starc007/ui-components) React 动画组件
@@ -4212,6 +4220,7 @@ url: /awesome/rust.md
 
 ## GUI 与终端界面
 
+- [Rune (Anomaly)](https://github.com/anomalyco/rune) 原生 GPU 渲染的 Rust UI 框架，支持 macOS、Windows、Linux 与 Web，内置文本、布局和弹簧动画，可无头渲染 PNG、导出元素树并执行脚本化输入，当前为预发布版本
 - [gpui-fast](https://github.com/longbridge/gpui-fast) 从 Zed GPUI 拆分的实验性性能优化分支，通过增量渲染复用未变化的视图、布局与文本测量，支持滚动缓存及 macOS、Linux、Windows 原生窗口内容合成
 - [gpui-kit](https://github.com/longbridge/gpui-kit) Rust GUI 组件，用于构建出色的跨平台桌面应用程序，采用 GPUI 技术实现
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库
@@ -4478,6 +4487,7 @@ url: /awesome/react-native.md
 
 ### 图形与图标
 
+- [react-native-shader-orbs](https://github.com/msobkyy/react-native-shader-orbs) 面向 React Native 与 Expo 的 WebGPU 动态球体组件，支持状态切换、音量驱动、触摸交互与自适应画质；当前为 Alpha，仅在 Android 测试，需开发构建且不支持 Expo Go，着色器限署名非商业使用
 - [lucide-react-native](https://github.com/lucide-icons/lucide/tree/HEAD/packages/lucide-react-native) 图标库
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及原生 React 网页项目的 SVG 图形库
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 适用于 React Native 的可自定义图标库，支持图片资源引入与完整样式设置
@@ -4818,6 +4828,7 @@ url: /awesome/desktop.md
 
 ### 媒体播放
 
+- [HGhub](https://github.com/Minireel/HGhub) 基于 Rust 与 Tauri 2 的黄果短剧第三方客户端，支持 Windows、macOS 和 Android，提供竖屏播放、搜索与本地收藏，采用 PolyForm Noncommercial 非商业许可
 - [iina](https://github.com/iina/iina) 适用于 macOS 的现代视频播放器
 - [mpv](https://github.com/mpv-player/mpv) 命令行媒体播放器
 - [zyfun](https://github.com/Hiram-Wong/zyfun) 跨平台桌面端视频资源播放器,免费高颜值
@@ -4832,6 +4843,7 @@ url: /awesome/desktop.md
 
 ### 游戏
 
+- [Mindustry](https://github.com/Anuken/Mindustry) Java 编写的自动化塔防与即时战略游戏，结合资源生产、物流运输与基地防御，支持 Windows、macOS、Linux 和 Android，并提供独立服务端
 - [PlayCover](https://github.com/PlayCover/PlayCover) 在 Apple Silicon Mac 上运行 iOS 应用与游戏的开源工具，支持鼠标、键盘、手柄及自定义触控按键映射
 - [AnyPS5](https://github.com/boykopovar/AnyPS5) 实验性的 PS5 可执行文件移植工具，通过重链接转换为 Linux 或 Windows 原生格式，并提供系统 PRX 库实现与 SPIR-V 着色器重编译，游戏兼容性仍在完善
 - [arnis](https://github.com/louis-e/arnis) 在《我的世界》中高度精细地生成现实世界中的任意地点
@@ -5548,6 +5560,7 @@ url: /awesome/ops.md
 
 ### 接口与同步
 
+- [Airbyte](https://github.com/airbytehq/airbyte) 数据集成与 ELT 同步平台，通过连接器将 API、数据库和文件数据同步至数仓、数据湖等目标，支持自建连接器、同步编排及 MCP 管理，可自托管或使用云服务，各组件采用 MIT、ELv2 等不同许可
 - [Electric](https://github.com/electric-sql/electric) PostgreSQL 读路径实时同步引擎，通过 Shapes 实现部分复制，并以 HTTP API 将数据同步到客户端，支持 CDN 分发与多种框架集成
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 
@@ -5562,6 +5575,7 @@ url: /awesome/ops.md
 
 ### 搜索引擎
 
+- [XERJ](https://github.com/xerj-org/xerj) 面向 AI 应用的 Rust 搜索引擎，以单二进制提供 BM25、向量与混合检索及 MCP 接口，可选 Query-1 模型将问题转为针对已存事实执行的程序，当前为候选发布版本
 - [Quickwit](https://github.com/quickwit-oss/quickwit) 基于 Tantivy 的云原生分布式搜索引擎，面向日志与链路追踪，采用计算存储分离架构，支持对象存储上的全文搜索与聚合、Elasticsearch 兼容 API 及 OpenTelemetry、Jaeger、Grafana 集成
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力
@@ -6014,6 +6028,7 @@ url: /awesome/self-hosted.md
 
 ## 生活管理
 
+- [TeslaMate](https://github.com/teslamate-org/teslamate) 可自托管的 Tesla 车辆数据记录与分析工具，记录行程、充电和能耗等信息，使用 PostgreSQL 存储、Grafana 展示，并通过 MQTT 集成 Home Assistant 等系统
 - [Actual Budget](https://github.com/actualbudget/actual) 本地优先的开源个人财务与预算管理应用，采用信封预算法，支持跨设备同步、Docker 自托管及 Windows、macOS、Linux 本地应用
 - [openGym](https://github.com/arvids-unavailable/openGym) 自托管的健身与体重追踪应用，支持周计划、训练记录、PWA 与 Docker 部署
 

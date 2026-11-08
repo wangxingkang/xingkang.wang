@@ -54,6 +54,7 @@
 
 ## GUI 与终端界面
 
+- [Rune (Anomaly)](https://github.com/anomalyco/rune) 原生 GPU 渲染的 Rust UI 框架，支持 macOS、Windows、Linux 与 Web，内置文本、布局和弹簧动画，可无头渲染 PNG、导出元素树并执行脚本化输入，当前为预发布版本
 - [gpui-fast](https://github.com/longbridge/gpui-fast) 从 Zed GPUI 拆分的实验性性能优化分支，通过增量渲染复用未变化的视图、布局与文本测量，支持滚动缓存及 macOS、Linux、Windows 原生窗口内容合成
 - [gpui-kit](https://github.com/longbridge/gpui-kit) Rust GUI 组件，用于构建出色的跨平台桌面应用程序，采用 GPUI 技术实现
 - [floem](https://github.com/lapce/floem) 一款基于 Rust 原生开发、具备细粒度响应式特性的 UI 库

@@ -5,12 +5,12 @@
 <title>运维 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-2f4fa8418142.f1ced8700f.js" as="script">
+<link rel="preload" href="/static/js/async/route-2f4fa8418142.6b211cd236.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.f61e9f40a7.js"></script>
+<script defer src="/static/js/index.df2ab3d58d.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -85,6 +85,7 @@
 </ul>
 <h3 class="rp-toc-include" id="接口与同步"><a href="#接口与同步" class="rp-header-anchor rp-link" aria-hidden="true">#</a>接口与同步</h3>
 <ul>
+<li><a href="https://github.com/airbytehq/airbyte" target="_blank" rel="noopener noreferrer" class="rp-link">Airbyte</a> 数据集成与 ELT 同步平台，通过连接器将 API、数据库和文件数据同步至数仓、数据湖等目标，支持自建连接器、同步编排及 MCP 管理，可自托管或使用云服务，各组件采用 MIT、ELv2 等不同许可</li>
 <li><a href="https://github.com/electric-sql/electric" target="_blank" rel="noopener noreferrer" class="rp-link">Electric</a> PostgreSQL 读路径实时同步引擎，通过 Shapes 实现部分复制，并以 HTTP API 将数据同步到客户端，支持 CDN 分发与多种框架集成</li>
 <li><a href="https://github.com/PostgREST/postgrest" target="_blank" rel="noopener noreferrer" class="rp-link">postgrest</a> 适用于所有 Postgres 数据库的 REST 接口</li>
 </ul>
@@ -99,6 +100,7 @@
 </ul>
 <h3 class="rp-toc-include" id="搜索引擎"><a href="#搜索引擎" class="rp-header-anchor rp-link" aria-hidden="true">#</a>搜索引擎</h3>
 <ul>
+<li><a href="https://github.com/xerj-org/xerj" target="_blank" rel="noopener noreferrer" class="rp-link">XERJ</a> 面向 AI 应用的 Rust 搜索引擎，以单二进制提供 BM25、向量与混合检索及 MCP 接口，可选 Query-1 模型将问题转为针对已存事实执行的程序，当前为候选发布版本</li>
 <li><a href="https://github.com/quickwit-oss/quickwit" target="_blank" rel="noopener noreferrer" class="rp-link">Quickwit</a> 基于 Tantivy 的云原生分布式搜索引擎，面向日志与链路追踪，采用计算存储分离架构，支持对象存储上的全文搜索与聚合、Elasticsearch 兼容 API 及 OpenTelemetry、Jaeger、Grafana 集成</li>
 <li><a href="https://github.com/oramasearch/oramacore" target="_blank" rel="noopener noreferrer" class="rp-link">OramaCore</a> 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎</li>
 <li><a href="https://github.com/meilisearch/meilisearch" target="_blank" rel="noopener noreferrer" class="rp-link">meilisearch</a> 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力</li>

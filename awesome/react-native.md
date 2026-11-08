@@ -122,6 +122,7 @@
 
 ### 图形与图标
 
+- [react-native-shader-orbs](https://github.com/msobkyy/react-native-shader-orbs) 面向 React Native 与 Expo 的 WebGPU 动态球体组件，支持状态切换、音量驱动、触摸交互与自适应画质；当前为 Alpha，仅在 Android 测试，需开发构建且不支持 Expo Go，着色器限署名非商业使用
 - [lucide-react-native](https://github.com/lucide-icons/lucide/tree/HEAD/packages/lucide-react-native) 图标库
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) 适用于 React Native、React Native Web 以及原生 React 网页项目的 SVG 图形库
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 适用于 React Native 的可自定义图标库，支持图片资源引入与完整样式设置

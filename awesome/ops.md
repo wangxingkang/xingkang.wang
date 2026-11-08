@@ -78,6 +78,7 @@
 
 ### 接口与同步
 
+- [Airbyte](https://github.com/airbytehq/airbyte) 数据集成与 ELT 同步平台，通过连接器将 API、数据库和文件数据同步至数仓、数据湖等目标，支持自建连接器、同步编排及 MCP 管理，可自托管或使用云服务，各组件采用 MIT、ELv2 等不同许可
 - [Electric](https://github.com/electric-sql/electric) PostgreSQL 读路径实时同步引擎，通过 Shapes 实现部分复制，并以 HTTP API 将数据同步到客户端，支持 CDN 分发与多种框架集成
 - [postgrest](https://github.com/PostgREST/postgrest) 适用于所有 Postgres 数据库的 REST 接口
 
@@ -92,6 +93,7 @@
 
 ### 搜索引擎
 
+- [XERJ](https://github.com/xerj-org/xerj) 面向 AI 应用的 Rust 搜索引擎，以单二进制提供 BM25、向量与混合检索及 MCP 接口，可选 Query-1 模型将问题转为针对已存事实执行的程序，当前为候选发布版本
 - [Quickwit](https://github.com/quickwit-oss/quickwit) 基于 Tantivy 的云原生分布式搜索引擎，面向日志与链路追踪，采用计算存储分离架构，支持对象存储上的全文搜索与聚合、Elasticsearch 兼容 API 及 OpenTelemetry、Jaeger、Grafana 集成
 - [OramaCore](https://github.com/oramasearch/oramacore) 集成全文搜索、向量数据库、LLM 接口与智能体运行时的 AI 搜索引擎
 - [meilisearch](https://github.com/meilisearch/meilisearch) 一款极速搜索引擎 API，为你的网站和应用带来基于人工智能的混合搜索能力

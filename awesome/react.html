@@ -5,12 +5,12 @@
 <title>React - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.b9623f85d5.js" as="script">
+<link rel="preload" href="/static/js/async/route-7f44b5e2a8df.23aa5acece.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.f61e9f40a7.js"></script>
+<script defer src="/static/js/index.df2ab3d58d.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -91,6 +91,7 @@
 </ul>
 <h4 class="rp-toc-include" id="组件"><a href="#组件" class="rp-header-anchor rp-link" aria-hidden="true">#</a>组件</h4>
 <ul>
+<li><a href="https://github.com/BoardUI/boardui" target="_blank" rel="noopener noreferrer" class="rp-link">BoardUI</a> 面向智能体界面与仪表盘的 React 设计体系，基于 React Aria 与 Tailwind CSS 4，提供聊天、思考状态、智能体日志及表单组件，通过 CLI 复制源码并支持 MCP，仓库包含免费层内容</li>
 <li><a href="https://github.com/elevenlabs/ui" target="_blank" rel="noopener noreferrer" class="rp-link">elevenlabs-ui</a> 基于 shadcn/ui 构建的组件库与自定义注册中心，可助力你更高效地开发多模态智能体</li>
 <li><a href="https://github.com/assistant-ui/tool-ui" target="_blank" rel="noopener noreferrer" class="rp-link">tool-ui</a> 用于 AI 界面的 UI 组件</li>
 <li><a href="https://github.com/assistant-ui/assistant-ui" target="_blank" rel="noopener noreferrer" class="rp-link">assistant-ui</a> 基于 TypeScript/React 的 AI 聊天专用库</li>
@@ -181,7 +182,7 @@
 <ul>
 <li><a href="https://github.com/cosscom/coss" target="_blank" rel="noopener noreferrer" class="rp-link">@coss/ui</a> Cal.com 官方设计系统</li>
 <li><a href="https://github.com/facebook/astryx" target="_blank" rel="noopener noreferrer" class="rp-link">astryx</a> Meta 开源的 React 设计系统，提供可定制主题、组件和面向智能体的 CLI 工具</li>
-<li><a href="https://github.com/heroui-inc/heroui" target="_blank" rel="noopener noreferrer" class="rp-link">heroui</a> 美观、轻快且现代化的 React UI 组件库（前身为 NextUI）</li>
+<li><a href="https://github.com/heroui-inc/heroui" target="_blank" rel="noopener noreferrer" class="rp-link">HeroUI</a> React 组件库（前身为 NextUI），v3 基于 React Aria 与 Tailwind CSS 4，支持组合式组件 API、React 19、主题定制及 MCP 开发工具</li>
 <li><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer" class="rp-link">antd</a> 一套企业级 UI 设计语言和 React 组件库</li>
 <li><a href="https://github.com/ant-design/ant-design-mobile" target="_blank" rel="noopener noreferrer" class="rp-link">antd-mobile</a> ant design 的移动端 Web 组件库</li>
 <li><a href="https://github.com/arco-design/arco-design" target="_blank" rel="noopener noreferrer" class="rp-link">@arco-design/web-react</a> Arco Design 的 React 组件库，字节跳动出品</li>
@@ -199,6 +200,10 @@
 </ul>
 <h4 class="rp-toc-include" id="源码分发与组件合集"><a href="#源码分发与组件合集" class="rp-header-anchor rp-link" aria-hidden="true">#</a>源码分发与组件合集</h4>
 <ul>
+<li><a href="https://github.com/cabralorenzo/bencho" target="_blank" rel="noopener noreferrer" class="rp-link">Bencho</a> 可复制源码的 React 交互区块与界面音效合集，提供参数化动效、浅深色主题及基于 Web Audio API 的合成音效，公开区块与音效采用 MIT 许可</li>
+<li><a href="https://github.com/Jakubantalik/Libraries.dev" target="_blank" rel="noopener noreferrer" class="rp-link">Libraries.dev</a> React 视觉动效组件合集，涵盖边框光束、思考球体、机器人头像、液态融合、语音光晕与图像加载效果，提供独立 npm 包和交互预览，Pro 定制内容另行授权</li>
+<li><a href="https://github.com/WatermelonCorp/watermelon-platform" target="_blank" rel="noopener noreferrer" class="rp-link">Watermelon Platform</a> Watermelon UI 的组件浏览与预览平台源码，整合 React 动画组件、区块、仪表盘与模板，通过 shadcn registry 分发可编辑组件源码，并提供 MCP 发现入口</li>
+<li><a href="https://pro.beui.dev/zh" target="_blank" rel="noopener noreferrer" class="rp-link">beUI Pro</a> 付费 React 与 Next.js 动效组件、页面区块和模板资源，基于 Tailwind CSS 与 Motion，通过私有 shadcn registry 或源码下载交付，移动端内容需相应授权</li>
 <li><a href="https://github.com/react-toolbox/react-toolbox" target="_blank" rel="noopener noreferrer" class="rp-link">React Toolbox</a> 复刻 Material Design 1 风格的 React 组件集，3.0 预览版基于 React 19、TypeScript 与 Tailwind CSS 4 重构，通过 shadcn CLI 按需分发可编辑源码，支持 CSS 变量主题定制</li>
 <li><a href="https://pro-ui.dev" target="_blank" rel="noopener noreferrer" class="rp-link">ProUI</a> 面向专业桌面级应用的 React 组件库，基于 Tailwind 与 shadcn registry 分发可编辑源代码，并提供 Electron 应用模板</li>
 <li><a href="https://github.com/starc007/ui-components" target="_blank" rel="noopener noreferrer" class="rp-link">ui-components</a> React 动画组件</li>
