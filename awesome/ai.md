@@ -521,6 +521,7 @@
 
 ### 个人助手、客户端与多平台接入
 
+- [OpenMinis](https://github.com/OpenMinis/OpenMinis) 面向 iOS 与 Android 的开源移动智能体客户端，可接入 Claude、GPT、Gemini 等模型服务，内置设备端 Linux 沙箱、浏览器自动化、可扩展技能与持久记忆，并集成日历、提醒事项等系统工具
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) 与你一同成长的智能体
   - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) Hermes Agent 专属原生网页工作区，集成聊天、终端、记忆库、技能集与调试检查工具
   - [hermes-desktop](https://github.com/fathah/hermes-desktop) Hermes 智能体桌面端配套助手

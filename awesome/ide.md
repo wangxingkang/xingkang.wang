@@ -2,6 +2,7 @@
 
 ## 编辑器
 
+- [OpenIDEA](https://github.com/l0ng-ai/openidea) 采用 Rust 核心、沿用 IntelliJ IDEA 操作习惯的跨平台 IDE，集成代码分析、调试器、Git、终端、数据库与 HTTP 客户端，支持 macOS、Windows 和 Linux，WebAssembly 插件 API 处于预览阶段
 - [terminal-code](https://github.com/zenbu-labs/terminal-code) 将 terminal-browser 与 code-server 结合，在终端中运行 VS Code，支持扩展、分屏与 SSH 远程开发，官方支持 macOS 和 Linux，需兼容 Kitty 图形协议的终端
 - [lapce](https://github.com/lapce/lapce) 代码编辑器
 - [zed](https://github.com/zed-industries/zed) IDE

@@ -20,7 +20,7 @@
 - [coolify](https://github.com/coollabsio/coolify) 一款开源、可自托管的 PaaS 平台，可作为 Vercel、Heroku 和 Netlify 的替代方案，让你轻松在自己的服务器上部署静态站点、数据库、全栈应用以及 280+ 个一键式服务
 - [dokploy](https://github.com/dokploy/dokploy) Vercel、Netlify 和 Heroku 的开源替代方案
 - [1Panel](https://github.com/1Panel-dev/1Panel) VPS 服务器管理面板
-- [sst](https://github.com/anomalyco/sst) 依托自有基础设施搭建全栈应用
+- [SST](https://github.com/anomalyco/sst) 在自有基础设施上构建和部署全栈应用的开发工具，提供 CLI、基础设施组件与资源关联机制，支持 Next.js、Remix、Astro 和 API 项目，并提供 Live 本地开发能力
 - [openship](https://www.npmjs.com/package/openship) 开源自托管部署平台，提供内置 CI/CD、应用构建部署、域名路由与 TLS 管理，并支持桌面端、Web 与 CLI 操作
 
 ## 后端平台

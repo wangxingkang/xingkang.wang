@@ -5,12 +5,12 @@
 <title>桌面开发与应用 - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-6405da275ae5.9e7d20769a.js" as="script">
+<link rel="preload" href="/static/js/async/route-6405da275ae5.82b5f4c1ba.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.f29cee0736.js"></script>
+<script defer src="/static/js/index.f1e1476893.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -137,6 +137,7 @@
 </ul>
 <h3 class="rp-toc-include" id="跨平台框架"><a href="#跨平台框架" class="rp-header-anchor rp-link" aria-hidden="true">#</a>跨平台框架</h3>
 <ul>
+<li><a href="https://github.com/expo/exact" target="_blank" rel="noopener noreferrer" class="rp-link">Exact</a> Expo 的跨平台应用运行时，以声明式 Contract 描述界面、以 TypeScript 或 Rust 编写数据逻辑，支持 Web、macOS、iOS 与 Linux，并提供跨平台自动化交互和测试工具，API 尚未稳定</li>
 <li><a href="https://github.com/vercel-labs/zero-native" target="_blank" rel="noopener noreferrer" class="rp-link">zero-native</a> 使用 Zig 与网页 UI 开发桌面及移动端应用</li>
 <li><a href="https://github.com/wailsapp/wails" target="_blank" rel="noopener noreferrer" class="rp-link">wails</a> 使用 Go 构建精美应用程序</li>
 <li><a href="https://github.com/Snapchat/Valdi" target="_blank" rel="noopener noreferrer" class="rp-link">@snap/valdi</a> 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图</li>
@@ -198,6 +199,7 @@
 </ul>
 <h3 class="rp-toc-include" id="输入与窗口"><a href="#输入与窗口" class="rp-header-anchor rp-link" aria-hidden="true">#</a>输入与窗口</h3>
 <ul>
+<li><a href="https://github.com/anomalyco/hex" target="_blank" rel="noopener noreferrer" class="rp-link">Hex</a> 支持 macOS、Windows 与 Linux 的本地语音听写工具，按住快捷键说话后将转写文本粘贴到当前应用，首次下载语音模型后在设备端完成识别</li>
 <li><a href="https://github.com/Blinue/Magpie" target="_blank" rel="noopener noreferrer" class="rp-link">Magpie</a> Windows 10/11 通用窗口缩放工具，提供 Anime4K、FSR、CRT 等算法与滤镜，支持全屏和窗口模式</li>
 <li><a href="https://github.com/niri-wm/niri" target="_blank" rel="noopener noreferrer" class="rp-link">niri</a> 可滚动平铺窗口的 Wayland 合成器，提供动态工作区与多显示器独立窗口布局</li>
 <li><a href="https://github.com/swaywm/sway" target="_blank" rel="noopener noreferrer" class="rp-link">Sway</a> 与 i3 配置兼容的 Wayland 合成器与平铺窗口管理器</li>
@@ -234,6 +236,7 @@
 </ul>
 <h3 class="rp-toc-include" id="远程控制"><a href="#远程控制" class="rp-header-anchor rp-link" aria-hidden="true">#</a>远程控制</h3>
 <ul>
+<li><a href="https://github.com/tembo/voxl" target="_blank" rel="noopener noreferrer" class="rp-link">voxl</a> Rust 编写的浏览器远程桌面工具，通过 WebSocket 传输 H.264 并用 WebCodecs 解码，支持 Linux X11、macOS 和 Windows 桌面串流，以及远程输入、剪贴板、音频和文件传输</li>
 <li><a href="https://github.com/rustdesk/rustdesk" target="_blank" rel="noopener noreferrer" class="rp-link">rustdesk</a> 一款可自建托管的开源远程桌面应用</li>
 <li><a href="https://github.com/Genymobile/scrcpy" target="_blank" rel="noopener noreferrer" class="rp-link">scrcpy</a> 显示并控制你的安卓设备</li>
 <li><a href="https://github.com/pavlobu/deskreen" target="_blank" rel="noopener noreferrer" class="rp-link">deskreen</a> 将任意带有网页浏览器的设备变成电脑的副屏</li>

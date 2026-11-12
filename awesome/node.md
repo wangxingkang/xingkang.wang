@@ -471,6 +471,7 @@
 
 ### 浏览器自动化
 
+- [chrome-capture](https://github.com/paulirish/chrome-capture) Chrome 标签页录制 CLI 与 JavaScript 库，使用 Chrome 153+ 的原生录制接口输出带可选标签页音频的 AV1 MP4，支持 Playwright、Puppeteer 和 CDP，无需 FFmpeg
 - [puppeteer](https://github.com/puppeteer/puppeteer) 适用于 Chrome 和 Firefox 的 JavaScript API
 - [@sparticuz/chromium](https://github.com/Sparticuz/chromium) 无服务器平台专用 Chromium
 

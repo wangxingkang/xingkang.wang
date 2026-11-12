@@ -126,6 +126,7 @@
 
 ### 跨平台框架
 
+- [Exact](https://github.com/expo/exact) Expo 的跨平台应用运行时，以声明式 Contract 描述界面、以 TypeScript 或 Rust 编写数据逻辑，支持 Web、macOS、iOS 与 Linux，并提供跨平台自动化交互和测试工具，API 尚未稳定
 - [zero-native](https://github.com/vercel-labs/zero-native) 使用 Zig 与网页 UI 开发桌面及移动端应用
 - [wails](https://github.com/wailsapp/wails) 使用 Go 构建精美应用程序
 - [@snap/valdi](https://github.com/Snapchat/Valdi) 用 TypeScript 编写界面并编译为 iOS、Android 与 macOS 原生视图
@@ -188,6 +189,7 @@
 
 ### 输入与窗口
 
+- [Hex](https://github.com/anomalyco/hex) 支持 macOS、Windows 与 Linux 的本地语音听写工具，按住快捷键说话后将转写文本粘贴到当前应用，首次下载语音模型后在设备端完成识别
 - [Magpie](https://github.com/Blinue/Magpie) Windows 10/11 通用窗口缩放工具，提供 Anime4K、FSR、CRT 等算法与滤镜，支持全屏和窗口模式
 - [niri](https://github.com/niri-wm/niri) 可滚动平铺窗口的 Wayland 合成器，提供动态工作区与多显示器独立窗口布局
 - [Sway](https://github.com/swaywm/sway) 与 i3 配置兼容的 Wayland 合成器与平铺窗口管理器
@@ -221,6 +223,7 @@
 
 ### 远程控制
 
+- [voxl](https://github.com/tembo/voxl) Rust 编写的浏览器远程桌面工具，通过 WebSocket 传输 H.264 并用 WebCodecs 解码，支持 Linux X11、macOS 和 Windows 桌面串流，以及远程输入、剪贴板、音频和文件传输
 - [rustdesk](https://github.com/rustdesk/rustdesk) 一款可自建托管的开源远程桌面应用
 - [scrcpy](https://github.com/Genymobile/scrcpy) 显示并控制你的安卓设备
 - [deskreen](https://github.com/pavlobu/deskreen) 将任意带有网页浏览器的设备变成电脑的副屏
