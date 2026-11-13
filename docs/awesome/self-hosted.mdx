@@ -61,6 +61,7 @@
 
 ## 媒体与相册
 
+- [Ente](https://github.com/ente/ente) 开源端到端加密平台，Ente Photos 支持自托管照片备份、语义搜索与协作相册，同一仓库也包含双因素认证工具 Ente Auth、文档与凭据保管工具 Ente Locker 及服务端源码
 - [Peach](https://github.com/peach-mitao/peach) 本地优先的影片刮削与媒体管理工具，统一浏览本地、SMB 和网盘媒体库，支持元数据补全、网页及外部播放器、续播与重复文件管理，提供桌面应用与 Docker / NAS 部署
 - [songloft](https://github.com/songloft-org/songloft) 面向个人用户的自托管音乐服务器
 - [stremio-web](https://github.com/Stremio/stremio-web) Stremio 官方 Web UI，一站式视频娱乐媒体中心，支持插件、同步、投屏和 PWA 安装
