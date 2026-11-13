@@ -598,6 +598,8 @@
 
 ### 交互与无障碍
 
+- [UI SDK](https://github.com/vercel-labs/ui) Vercel Labs 的跨框架 UI 行为库，提供键盘导航、焦点管理、选择、弹层、拖放及 ARIA 支持，适配 React、Vue、Svelte、Solid 和 Web Components，当前处于 Beta 阶段
+
 #### 快捷键
 
 - [@opentui/keymap](https://github.com/anomalyco/opentui/tree/main/packages/keymap) 一款可脱离宿主环境、适用于终端与网页 DOM 应用的按键映射引擎
