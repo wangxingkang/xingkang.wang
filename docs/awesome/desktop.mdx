@@ -250,6 +250,7 @@
 
 ### 媒体处理
 
+- [Natron](https://github.com/NatronGitHub/Natron) 开源节点式视频合成与视觉特效工具，支持 Linux、macOS 和 Windows，提供 32 位浮点线性色彩处理、OpenColorIO 色彩管理、OpenFX 插件及无界面渲染
 - [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
 - [LightCraft](https://github.com/storytold/lightcraft) 纯 Rust 的开源 Lightroom 重实现，提供照片图库、RAW 无损编辑、调色、局部蒙版，并支持 CLI 与 MCP
 - [FilmCraft](https://github.com/storytold/filmcraft) 纯 Rust 的开源 Premiere Pro 重实现，提供多轨剪辑、调色、音频、字幕、导出与格式互操作，支持 macOS、Windows、Linux 和 WebAssembly

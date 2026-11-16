@@ -291,6 +291,7 @@
 
 ### 录制与实用工具
 
+- [Himalaya](https://github.com/pimalaya/himalaya) Rust 编写的邮件管理 CLI，支持 IMAP、SMTP、JMAP、Gmail API 等后端和多账号配置，提供纯文本与 JSON 输出及默认只读的 MCP 服务
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹
