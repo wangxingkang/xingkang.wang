@@ -1086,6 +1086,7 @@ url: /awesome/vibe-coding.md
 
 ### 开发技能
 
+- [pstack](https://github.com/backnotprop/pstack) Poteto 在 Cursor 插件库发布的技能集的独立镜像，适配 Codex、Claude Code、Pi 和 OpenCode 等编程智能体，涵盖测试驱动开发、TypeScript 最佳实践、架构设计与代码验证
 - [sorrycc/skills](https://github.com/sorrycc/skills) 通过 Claude Code 插件市场分发的技能合集，包含生成技能脚手架的 create-skill，以及基于现成主题构建前端页面并用浏览器脚本检查交互和界面状态的 frontend-rails
 - [claude-skills](https://github.com/Jeffallan/claude-skills) 面向 Claude Code 的全栈开发技能集，覆盖编程语言、前后端框架、API、测试、DevOps、安全与数据工程，支持按任务激活、多技能协作及 Jira、Confluence 项目工作流集成
 - [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) 面向 Codex 与 Claude Code 的 Three.js 浏览器游戏开发技能集，覆盖玩法、图形、界面、调试与发布验证，内置项目脚手架和 Playwright 测试模板，并支持可选的 AI 素材生成
@@ -1176,6 +1177,7 @@ url: /awesome/vibe-coding.md
 
 ### 开发工作流
 
+- [Plannotator](https://github.com/backnotprop/plannotator) 面向 Codex、Claude Code、OpenCode 等编程智能体的本地浏览器审阅工具，支持批注计划、规格、Markdown 与 HTML，审查本地代码差异和远程 PR，并将反馈发送给智能体
 - [godogen](https://github.com/htdt/godogen) 面向 Claude Code 与 Codex 的自主游戏开发工作流，支持 Godot、Bevy 和 Babylon.js，从自然语言描述生成游戏与素材，并运行引擎、通过实时画面或录像验证结果
 - [Atlas](https://github.com/pacifio/atlas) 面向编码智能体的本地优先源代码控制工作台，可关联会话、提示词与提交记录
 - [superpowers](https://github.com/obra/superpowers) 一套实用的智能体技能框架与软件开发方法论
@@ -1771,6 +1773,8 @@ url: /awesome/javascript.md
 
 ### 浏览器运行时与 WebAssembly
 
+- [unkernel](https://github.com/pithings/unkernel) 将 Linux 内核编译为 WebAssembly，在浏览器中提供带持久化磁盘和网络的 Linux 环境，通过 JIT 运行未经修改的 RISC-V 64 位用户态程序
+- [js-dos](https://github.com/caiiiycuk/js-dos) 基于 DOSBox 与 DOSBox-X 的模拟器前端，可在浏览器或 Node.js 中运行 DOS 和 Windows 9x 程序，提供 WebAssembly 与纯 JavaScript 版本，支持存档、IPX 联机、WebGL 加速的 3Dfx 渲染及大型磁盘镜像流式加载
 - [emnapi](https://github.com/toyobayashi/emnapi) 适配 Emscripten、wasi-sdk、clang wasm32 与 napi-rs 的 Node-API 实现方案
 - [ghostty-web](https://github.com/coder/ghostty-web) 基于 xterm.js API 兼容实现的网页版 Ghostty 终端
 - [assemblyscript](https://github.com/AssemblyScript/assemblyscript) 一种面向 WebAssembly、类 TypeScript 的编程语言。
@@ -1985,6 +1989,7 @@ url: /awesome/javascript.md
 
 ### 地理
 
+- [Mapterhorn](https://github.com/mapterhorn/mapterhorn) 面向交互式 Web 地图的公共高程瓦片服务，提供 Terrarium 编码的栅格高程数据，可用于地形渲染与山体阴影
 - [leaflet](https://github.com/Leaflet/Leaflet) 适用于移动端的交互式地图 JavaScript 库
 - [cesium](https://github.com/CesiumGS/cesium) 3D 地理空间的 JavaScript 库
 - [GeoLibre](https://github.com/opengeos/GeoLibre) 轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据
@@ -4872,6 +4877,7 @@ url: /awesome/desktop.md
 
 ### 媒体处理
 
+- [Natron](https://github.com/NatronGitHub/Natron) 开源节点式视频合成与视觉特效工具，支持 Linux、macOS 和 Windows，提供 32 位浮点线性色彩处理、OpenColorIO 色彩管理、OpenFX 插件及无界面渲染
 - [PhotoCraft](https://github.com/storytold/photocraft) 纯 Rust 的开源 Photoshop 重实现，支持图层、蒙版、调整层、PSD/PSB 读写和 GPU 合成，并提供 CLI 与 MCP
 - [LightCraft](https://github.com/storytold/lightcraft) 纯 Rust 的开源 Lightroom 重实现，提供照片图库、RAW 无损编辑、调色、局部蒙版，并支持 CLI 与 MCP
 - [FilmCraft](https://github.com/storytold/filmcraft) 纯 Rust 的开源 Premiere Pro 重实现，提供多轨剪辑、调色、音频、字幕、导出与格式互操作，支持 macOS、Windows、Linux 和 WebAssembly
@@ -5783,6 +5789,7 @@ url: /awesome/ops.md
 
 ### 录制与实用工具
 
+- [Himalaya](https://github.com/pimalaya/himalaya) Rust 编写的邮件管理 CLI，支持 IMAP、SMTP、JMAP、Gmail API 等后端和多账号配置，提供纯文本与 JSON 输出及默认只读的 MCP 服务
 - [t-rec-rs](https://github.com/sassman/t-rec-rs) 一款用 Rust 编写、速度极快的终端录制工具，可生成适用于网页的 GIF 动画
 - [weathr](https://github.com/Veirt/weathr) 一款**带ASCII动画**的终端天气应用
 - [asciinema](https://github.com/asciinema/asciinema) 终端会话录制器、推流器与播放器 📹

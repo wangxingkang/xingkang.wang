@@ -5,12 +5,12 @@
 <title>JavaScript - 阿康酱</title>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.7ed07af40d.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-a8b74ca3933c.a8fea8c415.js" as="script">
+<link rel="preload" href="/static/js/async/route-a8b74ca3933c.28ee6d8d0d.js" as="script">
 <script defer src="/static/js/styles.b30b1ffd71.js"></script>
 <script defer src="/static/js/lib-react.3ad4ebfce5.js"></script>
 <script defer src="/static/js/lib-router.699e4dd5bf.js"></script>
 <script defer src="/static/js/4963.df04d5a19c.js"></script>
-<script defer src="/static/js/index.9650233e37.js"></script>
+<script defer src="/static/js/index.e6578bb945.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.18">
 <link rel="icon" href="/rspress-icon.png">
@@ -529,6 +529,8 @@
 </ul>
 <h3 class="rp-toc-include" id="浏览器运行时与-webassembly"><a href="#浏览器运行时与-webassembly" class="rp-header-anchor rp-link" aria-hidden="true">#</a>浏览器运行时与 WebAssembly</h3>
 <ul>
+<li><a href="https://github.com/pithings/unkernel" target="_blank" rel="noopener noreferrer" class="rp-link">unkernel</a> 将 Linux 内核编译为 WebAssembly，在浏览器中提供带持久化磁盘和网络的 Linux 环境，通过 JIT 运行未经修改的 RISC-V 64 位用户态程序</li>
+<li><a href="https://github.com/caiiiycuk/js-dos" target="_blank" rel="noopener noreferrer" class="rp-link">js-dos</a> 基于 DOSBox 与 DOSBox-X 的模拟器前端，可在浏览器或 Node.js 中运行 DOS 和 Windows 9x 程序，提供 WebAssembly 与纯 JavaScript 版本，支持存档、IPX 联机、WebGL 加速的 3Dfx 渲染及大型磁盘镜像流式加载</li>
 <li><a href="https://github.com/toyobayashi/emnapi" target="_blank" rel="noopener noreferrer" class="rp-link">emnapi</a> 适配 Emscripten、wasi-sdk、clang wasm32 与 napi-rs 的 Node-API 实现方案</li>
 <li><a href="https://github.com/coder/ghostty-web" target="_blank" rel="noopener noreferrer" class="rp-link">ghostty-web</a> 基于 xterm.js API 兼容实现的网页版 Ghostty 终端</li>
 <li><a href="https://github.com/AssemblyScript/assemblyscript" target="_blank" rel="noopener noreferrer" class="rp-link">assemblyscript</a> 一种面向 WebAssembly、类 TypeScript 的编程语言。</li>
@@ -756,6 +758,7 @@
 </ul>
 <h3 class="rp-toc-include" id="地理"><a href="#地理" class="rp-header-anchor rp-link" aria-hidden="true">#</a>地理</h3>
 <ul>
+<li><a href="https://github.com/mapterhorn/mapterhorn" target="_blank" rel="noopener noreferrer" class="rp-link">Mapterhorn</a> 面向交互式 Web 地图的公共高程瓦片服务，提供 Terrarium 编码的栅格高程数据，可用于地形渲染与山体阴影</li>
 <li><a href="https://github.com/Leaflet/Leaflet" target="_blank" rel="noopener noreferrer" class="rp-link">leaflet</a> 适用于移动端的交互式地图 JavaScript 库</li>
 <li><a href="https://github.com/CesiumGS/cesium" target="_blank" rel="noopener noreferrer" class="rp-link">cesium</a> 3D 地理空间的 JavaScript 库</li>
 <li><a href="https://github.com/opengeos/GeoLibre" target="_blank" rel="noopener noreferrer" class="rp-link">GeoLibre</a> 轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据</li>
